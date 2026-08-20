@@ -97,6 +97,12 @@ def test_updated_line(html):
     assert "最終更新 " in html and "6 時間ごとに自動更新" in html
 
 
+def test_footer_fixed(html):
+    # フッタは常に画面最下部に固定表示(F-09)。本文側に逃げ余白があること
+    assert "footer{position:fixed" in html
+    assert "padding:20px 24px 96px" in html
+
+
 # ---- T-05 決定性 ----
 
 def test_deterministic(html):
