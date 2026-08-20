@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI研究者・エージェント実装者100名 発信ダッシュボード</title>
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:#2a2f3a; --line2:#343b48;
+  --fg:#e6e8ec; --muted:#9aa3b2; --faint:#6b7280; --accent:#7aa2f7;
+  --blog:#7ee787; --x:#a5b4fc; --lab:#f0b072; --li:#79c0ff; --sub:#f7a8b8;
+  --int:#f0b072; --pod:#c4b5fd; --vid:#f8a3a3; --talk:#67e8f9;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP","Segoe UI",sans-serif;
+  line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+header{padding:32px 24px 18px;max-width:1500px;margin:0 auto}
+h1{font-size:23px;margin:0 0 6px;letter-spacing:.01em}
+.sub{color:var(--muted);font-size:13.5px;margin:0}
+.counts{color:var(--faint);font-size:12.5px;margin-top:10px}
+details.caveat{margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 14px}
+details.caveat summary{cursor:pointer;font-size:13px;color:var(--muted)}
+details.caveat div{font-size:12.5px;color:var(--muted);margin-top:8px}
+details.caveat li{margin:5px 0}
+.controls{position:sticky;top:0;z-index:10;background:rgba(15,17,21,.94);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);padding:12px 24px}
+.controls-in{max-width:1500px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input[type=search]{background:var(--panel2);border:1px solid var(--line);color:var(--fg);
+  border-radius:7px;padding:7px 11px;font-size:13px;min-width:230px;outline:none}
+input[type=search]:focus{border-color:var(--accent)}
+.chip{background:var(--panel2);border:1px solid var(--line);color:var(--muted);border-radius:999px;
+  padding:5px 12px;font-size:12.5px;cursor:pointer;user-select:none;white-space:nowrap}
+.chip:hover{color:var(--fg)}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#0f1115;font-weight:600}
+.spacer{flex:1}
+main{max-width:1500px;margin:0 auto;padding:20px 24px 60px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px;align-items:start}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:15px 17px 13px}
+.chead{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.name{font-size:16px;font-weight:650}
+.cat{font-size:10.5px;color:var(--muted);border:1px solid var(--line2);border-radius:4px;padding:1px 6px}
+.home{font-size:11.5px;color:var(--faint);text-decoration:none;word-break:break-all;display:block;margin-top:2px}
+.home:hover{color:var(--accent)}
+.bio{font-size:12.8px;color:#c9cfd9;margin:9px 0 4px;padding:9px 11px;background:var(--panel2);border-radius:7px;border-left:2px solid var(--line2)}
+.sect{font-size:10.5px;color:var(--faint);letter-spacing:.08em;margin:11px 0 2px;text-transform:uppercase}
+ol{list-style:none;margin:0;padding:0}
+li.item{padding:6px 0;border-top:1px solid var(--line)}
+.meta{display:flex;gap:7px;align-items:center;flex-wrap:wrap;margin-bottom:1px}
+.date{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.date.unk{color:var(--faint)}
+.badge{font-size:10px;padding:0 6px;border-radius:3px;font-weight:600}
+.b-blog,.b-note{background:rgba(126,231,135,.14);color:var(--blog)}
+.b-substack{background:rgba(247,168,184,.14);color:var(--sub)}
+.b-lab{background:rgba(240,176,114,.14);color:var(--lab)}
+.b-x{background:rgba(165,180,252,.14);color:var(--x)}
+.b-linkedin{background:rgba(121,192,255,.14);color:var(--li)}
+.b-interview{background:rgba(240,176,114,.16);color:var(--int)}
+.b-podcast{background:rgba(196,181,253,.16);color:var(--pod)}
+.b-video{background:rgba(248,163,163,.16);color:var(--vid)}
+.b-talk{background:rgba(103,232,249,.14);color:var(--talk)}
+.b-yt{background:rgba(255,80,80,.16);color:#ff8080}
+.outlet{font-size:10.5px;color:var(--faint)}
+.title{font-size:13px;text-decoration:none;display:block}
+.title:hover{color:var(--accent);text-decoration:underline}
+.note{font-size:11.5px;color:var(--faint);margin-top:9px;padding-top:8px;border-top:1px dashed var(--line)}
+.none{font-size:12.5px;color:var(--faint);padding:6px 0 2px}
+.secthead{grid-column:1/-1;margin:20px 0 2px;font-size:12.5px;color:var(--muted);
+  border-bottom:1px solid var(--line);padding-bottom:6px;letter-spacing:.04em}
+footer{max-width:1500px;margin:0 auto;padding:0 24px 50px;color:var(--faint);font-size:12px}
+@media(max-width:640px){.grid{grid-template-columns:1fr}header{padding:24px 16px 14px}main{padding:16px}.controls{padding:10px 16px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>AI研究者・エージェント実装者100名 — 発信ダッシュボード</h1>
+  <p class="sub">各人の紹介と、①本人の発信（ブログ / Substack / 研究所ブログ / X / LinkedIn）②インタビュー・ポッドキャスト・動画・講演 ③YouTubeの対談動画 を最大3件ずつ。__COLLECTED__時点の収集。</p>
+  <p class="counts">__COUNTS__</p>
+  <details class="caveat">
+    <summary>データの制約（重要・クリックで展開）</summary>
+    <div>
+      <ul>
+        <li><b>X / LinkedIn は直接取得できません。</b>検索結果とミラーサイトで本文を確認し、日付は投稿ID（Snowflake）から機械的に復元しています。ページ上の表示日を読んだものではないため、ずれの可能性があります。</li>
+        <li><b>YouTubeは繰り返しアクセス制限（429）に遭い、動画の公開日をほぼ取得できませんでした。</b>そのため動画・講演の多くが「不明」です。日付が入っている動画は、第三者ページで裏取りできたものだけです。</li>
+        <li>「直近1か月」は2026年7月20日以降に日付が確認できた項目のみを対象にします。日付が「不明」の項目（X投稿の一部とYouTube動画の大半）は、実際には新しくてもこの絞り込みには出てきません。</li>
+        <li><b>YouTube対談セクション</b>のタイトルとチャンネル名はすべてYouTubeのoEmbed APIで実在を検証していますが、公開日は同APIが返さないため原則「不明」です。上の2セクションと重複する動画は除いています。</li>
+        <li>見出しの多くは英語原文の要約・和訳です。原文は必ずリンク先で確認してください。</li>
+        <li>「本人の発信」は本人名義の一次ソースのみ。企業ブログはチーム名義だと0件になります（Qwen・Moonshot・Sakana AI・Mistral など）。一方「インタビュー・動画」は本人が話している二次媒体を含みます。</li>
+        <li>この収集で判明した動き: John Jumper が Google DeepMind → Anthropic、Sara Hooker が Cohere を離れ Adaption Labs 創業、Lilian Weng が OpenAI へ復帰との報道、Jerry Tworek が OpenAI 退職と報道。</li>
+      </ul>
+    </div>
+  </details>
+</header>
+
+<div class="controls"><div class="controls-in">
+  <input type="search" id="q" placeholder="名前・見出し・紹介文で検索">
+  <span class="chip on" data-cat="ALL">すべて</span>
+  __CAT_CHIPS__
+  <span class="spacer"></span>
+  <span class="chip" id="fOwn">本人の発信のみ</span>
+  <span class="chip" id="fMed">インタビュー・動画のみ</span>
+  <span class="chip" id="fYt">YouTube対談のみ</span>
+  <span class="chip" id="f2026">2026年の項目がある人</span>
+  <span class="chip" id="f1m">直近1か月の項目がある人</span>
+</div></div>
+
+<main><div class="grid" id="grid"></div></main>
+<footer>収集: Claude（30体のサブエージェントによるWeb検索・ページ取得）。紹介文は公開情報に基づく要約で、分類と選定は暫定です。所属は変動します。</footer>
+
+<script>
+const P = __PEOPLE__, CAT_LABEL = __CAT_LABEL__, SRC = __SRC__, CATS = __CATS__;
+let curCat="ALL", showOwn=true, showMed=true, showYt=true, only2026=false, only1m=false, q="";
+const CUTOFF_1M = "__CUTOFF_1M__";
+const norm = d => (d && d.length===7) ? d+"-01" : d;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+const row = i => `<li class="item">
+  <div class="meta">
+    <span class="date ${i.d==="不明"?"unk":""}">${esc(i.d)}</span>
+    <span class="badge b-${i.s}">${esc(SRC[i.s]||i.s)}</span>
+    ${i.o?`<span class="outlet">${esc(i.o)}</span>`:""}
+  </div>
+  <a class="title" href="${esc(i.u)}" target="_blank" rel="noopener">${esc(i.t)}</a></li>`;
+
+function card(p){
+  let h = `<div class="card"><div class="chead"><span class="name">${esc(p.n)}</span><span class="cat">${esc(CAT_LABEL[p.c]||p.c)}</span></div>`;
+  h += p.h?`<a class="home" href="${esc(p.h)}" target="_blank" rel="noopener">${esc(p.h)}</a>`:`<span class="home">発信元サイト不明</span>`;
+  h += `<div class="bio">${esc(p.bio)}</div>`;
+  if (showOwn){
+    h += `<div class="sect">本人の発信</div>`;
+    h += p.own.length?`<ol>${p.own.map(row).join("")}</ol>`:`<div class="none">確認できず</div>`;
+    if (p.note) h += `<div class="note">${esc(p.note)}</div>`;
+  }
+  if (showMed){
+    h += `<div class="sect">インタビュー・動画・講演</div>`;
+    h += p.med.length?`<ol>${p.med.map(row).join("")}</ol>`:`<div class="none">確認できず</div>`;
+    if (p.mnote) h += `<div class="note">${esc(p.mnote)}</div>`;
+  }
+  if (showYt){
+    h += `<div class="sect">YouTube対談</div>`;
+    h += p.yt.length?`<ol>${p.yt.map(row).join("")}</ol>`:`<div class="none">確認できず</div>`;
+    if (p.ynote) h += `<div class="note">${esc(p.ynote)}</div>`;
+  }
+  return h + `</div>`;
+}
+
+function render(){
+  const ql = q.trim().toLowerCase();
+  const list = P.filter(p => {
+    if (curCat!=="ALL" && p.c!==curCat) return false;
+    const all = p.own.concat(p.med, p.yt);
+    if (only2026 && !all.some(i=>i.d.startsWith("2026"))) return false;
+    if (only1m && !all.some(i=>i.d!=="不明" && norm(i.d) >= CUTOFF_1M)) return false;
+    if (!ql) return true;
+    return (p.n+p.bio).toLowerCase().includes(ql) || all.some(i=>i.t.toLowerCase().includes(ql)||(i.o||"").toLowerCase().includes(ql));
+  });
+  let html="";
+  if (curCat==="ALL"){
+    for (const c of CATS){
+      const g = list.filter(p=>p.c===c);
+      if (!g.length) continue;
+      html += `<div class="secthead">${CAT_LABEL[c]||c}（${g.length}名）</div>` + g.map(card).join("");
+    }
+  } else html = list.map(card).join("");
+  document.getElementById("grid").innerHTML = html || `<div class="none">該当なし</div>`;
+}
+
+document.querySelectorAll(".chip[data-cat]").forEach(el => el.onclick = () => {
+  document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.remove("on"));
+  el.classList.add("on"); curCat = el.dataset.cat; render();
+});
+document.getElementById("q").oninput = e => { q=e.target.value; render(); };
+function only(which){
+  if (which==="all"){ showOwn=showMed=showYt=true;
+    for (const id of ["fOwn","fMed","fYt"]) document.getElementById(id).classList.remove("on");
+    render(); return; }
+  showOwn = which==="own"; showMed = which==="med"; showYt = which==="yt";
+  for (const [id,key] of [["fOwn","own"],["fMed","med"],["fYt","yt"]])
+    document.getElementById(id).classList.toggle("on", which===key);
+  render();
+}
+document.getElementById("fOwn").onclick = () => only(showOwn&&!showMed&&!showYt ? "all" : "own");
+document.getElementById("fMed").onclick = () => only(showMed&&!showOwn&&!showYt ? "all" : "med");
+document.getElementById("fYt").onclick  = () => only(showYt&&!showOwn&&!showMed ? "all" : "yt");
+document.getElementById("f2026").onclick = e => {
+  only2026=!only2026; if (only2026){ only1m=false; document.getElementById("f1m").classList.remove("on"); }
+  e.target.classList.toggle("on",only2026); render();
+};
+document.getElementById("f1m").onclick = e => {
+  only1m=!only1m; if (only1m){ only2026=false; document.getElementById("f2026").classList.remove("on"); }
+  e.target.classList.toggle("on",only1m); render();
+};
+render();
+</script>
+</body></html>
