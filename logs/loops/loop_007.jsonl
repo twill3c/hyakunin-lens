@@ -6,3 +6,6 @@
 {"v": "1.2", "ts": "2026-08-20T22:25:58+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T22:25:58+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T22:25:58+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書化", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:25:59+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "commit", "data": {"kind": "feat", "sha": "e10bb24", "message": "期間フィルタ刷新とボタン系統色"}}
+{"v": "1.2", "ts": "2026-08-20T22:25:59+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:25:59+09:00", "project": "hyakunin-lens", "loop_id": "loop_007", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "期間フィルタを閲覧時点基準の1ヶ月/1週間に刷新、系統色チップ導入。テスト45件緑"}}
