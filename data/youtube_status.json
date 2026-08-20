@@ -1,12 +1,12 @@
 {
  "bucket": 0,
- "ok": 49,
+ "ok": 50,
  "attempted": 50,
  "people": [
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "n": "Yann LeCun",
@@ -26,7 +26,7 @@
   {
    "n": "Demis Hassabis",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "n": "Jeff Dean",
@@ -71,7 +71,7 @@
   {
    "n": "Jason Wei",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "n": "Quoc Le",
@@ -121,7 +121,7 @@
   {
    "n": "Scott Wu",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "n": "Varun Mohan",
@@ -131,7 +131,7 @@
   {
    "n": "Paul Gauthier",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "n": "Amjad Masad",
@@ -250,10 +250,9 @@
   },
   {
    "n": "Junyang Lin 林俊旸",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 8
   }
  ],
- "generated_at": "2026-08-20T12:57:31Z"
+ "generated_at": "2026-08-20T12:52:45Z"
 }
