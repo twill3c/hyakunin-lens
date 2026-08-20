@@ -7,3 +7,6 @@
 {"v": "1.2", "ts": "2026-08-20T21:44:23+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T21:44:23+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T21:44:23+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書化", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T21:44:24+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "commit", "data": {"kind": "feat", "sha": "530ec8f", "message": "YouTube 対談の自動更新"}}
+{"v": "1.2", "ts": "2026-08-20T21:44:24+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T21:44:25+09:00", "project": "hyakunin-lens", "loop_id": "loop_004", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "YouTube 自動更新(API キー待ち・キー未設定でも安全)。テスト41件緑"}}
