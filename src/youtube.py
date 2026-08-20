@@ -48,15 +48,25 @@ def name_variants(name: str) -> list[str]:
 
 def title_matches(title: str, name: str) -> bool:
     t = title.lower()
+    if "#shorts" in t or "#short" in t:
+        return False
     return any(v.lower() in t for v in name_variants(name))
 
 
-def search_person(name: str, key: str, fetch) -> list[dict]:
-    """検索 → 名前一致ゲート通過分を新しい順で返す。API エラーは例外のまま上げる。"""
-    q = urllib.parse.urlencode({
-        "part": "snippet", "type": "video", "maxResults": 25, "order": "date",
+def search_person(name: str, key: str, fetch, published_after: str = "") -> list[dict]:
+    """検索 → 名前一致ゲート通過分を返す。API エラーは例外のまま上げる。
+
+    品質ゲート(loop_005): videoDuration=long(20 分超 — ショート・切り抜き・
+    クリックベイト排除)+ order=relevance + publishedAfter の期間窓。
+    「本人について語る」動画より「本人が長時間話す」対談・講演が上位に来る。"""
+    params = {
+        "part": "snippet", "type": "video", "maxResults": 25,
+        "order": "relevance", "videoDuration": "long",
         "q": f'"{name_variants(name)[0]}"', "key": key,
-    })
+    }
+    if published_after:
+        params["publishedAfter"] = published_after
+    q = urllib.parse.urlencode(params)
     body = json.loads(fetch(f"{API}?{q}"))
     items = []
     for it in body.get("items", []):
@@ -80,7 +90,7 @@ def todays_bucket(now: datetime) -> int:
     return now.toordinal() % 2
 
 
-def run_yt(people, key, fetch, bucket: int):
+def run_yt(people, key, fetch, bucket: int, published_after: str = ""):
     """(people, report) を返す純関数コア。people は書き換えない。
     bucket に該当する人(index % 2 == bucket)だけを更新対象にする。"""
     out, status, ok = [], [], 0
@@ -90,7 +100,7 @@ def run_yt(people, key, fetch, bucket: int):
             continue
         rec = {"n": p["n"], "ok": False, "count": 0}
         try:
-            found = search_person(p["n"], key, fetch)
+            found = search_person(p["n"], key, fetch, published_after)
         except Exception as e:
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
             found = []
@@ -106,7 +116,14 @@ def run_yt(people, key, fetch, bucket: int):
             rec["count"] = len(accepted)
             ok += 1
             q = dict(p)
-            q["yt"] = sort_items(accepted)[:MAX_YT]
+            # 併合: 新着を優先しつつ、枠が余れば精選済みの既存対談を残す
+            combined, seen2 = [], set()
+            for i in accepted + p["yt"]:
+                if i["u"] in seen2:
+                    continue
+                seen2.add(i["u"])
+                combined.append(i)
+            q["yt"] = sort_items(combined)[:MAX_YT]
             out.append(q)
         else:
             out.append(p)  # 劣化継続
@@ -115,6 +132,8 @@ def run_yt(people, key, fetch, bucket: int):
 
 
 def http_get(url: str) -> bytes:
+    import time
+    time.sleep(1.2)  # 連続 50 検索の 429(バースト制限)予防
     req = urllib.request.Request(url, headers={"User-Agent": "hyakunin-lens/1.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
@@ -129,7 +148,9 @@ def main() -> int:
     people = json.loads((ROOT / "data" / "people.json").read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
     bucket = todays_bucket(now)
-    new_people, report = run_yt(people, key, http_get, bucket)
+    from datetime import timedelta
+    published_after = (now - timedelta(days=180)).strftime("%Y-%m-%dT00:00:00Z")
+    new_people, report = run_yt(people, key, http_get, bucket, published_after)
 
     (ROOT / "data" / "people.json").write_text(
         json.dumps(new_people, ensure_ascii=False, indent=1) + "\n",

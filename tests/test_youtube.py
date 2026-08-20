@@ -33,6 +33,18 @@ def test_title_gate():
     assert title_matches("No Priors Ep. 12 | With Noam Shazeer", "Noam Shazeer")
     assert title_matches("AI最前線・李飛飛が語る", "Fei-Fei Li 李飛飛")
     assert not title_matches("Top 10 AI news of the week", "Noam Shazeer")
+    assert not title_matches("Noam Shazeer leaves! #Shorts", "Noam Shazeer")
+
+
+def test_search_params_quality_gate():
+    urls = []
+    def capture(url):
+        urls.append(url)
+        return api_body()
+    search_person("Jane Roe", "k", capture, published_after="2026-02-21T00:00:00Z")
+    assert "videoDuration=long" in urls[0]
+    assert "order=relevance" in urls[0]
+    assert "publishedAfter=2026-02-21T00%3A00%3A00Z" in urls[0]
 
 
 def test_search_person_filters_and_unescapes():
@@ -82,6 +94,15 @@ def test_run_yt_excludes_own_med_urls_and_caps():
     assert dup not in urls
     assert len(urls) == 3
     assert out[0]["yt"][0]["d"] == "2026-08-05"  # 日付降順
+
+
+def test_run_yt_keeps_curated_when_few_new():
+    people = [person("A")]
+    body = api_body(("v1", "Long talk with A", "2026-08-01T00:00:00Z", "Ch"))
+    out, _ = run_yt(people, "k", lambda url: body, bucket=0)
+    urls = [i["u"] for i in out[0]["yt"]]
+    assert urls == ["https://www.youtube.com/watch?v=v1",
+                    "https://www.youtube.com/watch?v=old"]  # 既存の精選分が残る
 
 
 def test_run_yt_does_not_mutate_input():
