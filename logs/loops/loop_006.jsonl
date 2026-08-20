@@ -1,0 +1,8 @@
+{"v": "1.2", "ts": "2026-08-20T22:15:53+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "loop_start", "data": {"goal": "ヘッダー記述の動的化: 三層それぞれの最終実行時刻を meta から埋め込み、固定日付文言を恒久的に正しい表現へ", "spec_refs": ["F-09"], "scaffold_version": "1.8.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:20+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "test_run", "data": {"command": "python -m pytest -q", "result": "pass", "passed": 44, "failed": 0}}
+{"v": "1.2", "ts": "2026-08-20T22:17:20+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:21+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:21+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:21+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:21+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:17:21+09:00", "project": "hyakunin-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書化", "result": "pass"}}

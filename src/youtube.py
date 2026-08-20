@@ -157,6 +157,7 @@ def main() -> int:
         encoding="utf-8", newline="\n")
     meta = json.loads((ROOT / "data" / "meta.json").read_text(encoding="utf-8"))
     meta["updated_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    meta["youtube_updated_at"] = meta["updated_at"]
     (ROOT / "data" / "meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=1) + "\n",
         encoding="utf-8", newline="\n")

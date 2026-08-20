@@ -27,14 +27,24 @@ def collected_jp(iso: str) -> str:
     return f"{y}年{m}月{d}日"
 
 
+def _jst(iso: str, fmt: str) -> str:
+    from datetime import datetime, timedelta, timezone
+    dt = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone(timedelta(hours=9))).strftime(fmt)
+
+
 def updated_jst(meta) -> str:
     """meta.updated_at(UTC ISO)→ 'YYYY-MM-DD HH:MM JST'。未更新なら収集日。"""
     iso = meta.get("updated_at")
     if not iso:
         return f"{meta['collected_on']}(初回収集)"
-    from datetime import datetime, timedelta, timezone
-    dt = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-    return dt.astimezone(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M JST")
+    return _jst(iso, "%Y-%m-%d %H:%M JST")
+
+
+def layer_jst(meta, key: str) -> str:
+    """三層それぞれの最終実行日(JST)。未実行なら『未実行』。"""
+    iso = meta.get(key)
+    return _jst(iso, "%Y-%m-%d") if iso else "未実行"
 
 
 def cat_chips(meta) -> str:
@@ -56,6 +66,9 @@ def build() -> Path:
             .replace("__COUNTS__", counts_line(people))
             .replace("__COLLECTED__", collected_jp(meta["collected_on"]))
             .replace("__UPDATED__", updated_jst(meta))
+            .replace("__FEED_UPDATED__", layer_jst(meta, "feed_updated_at"))
+            .replace("__YT_UPDATED__", layer_jst(meta, "youtube_updated_at"))
+            .replace("__RECOLLECT_UPDATED__", layer_jst(meta, "recollect_updated_at"))
             .replace("__WALKTHROUGH_URL__", meta["links"]["walkthrough"])
             .replace("__BLUEPRINT_URL__", meta["links"]["blueprint"])
             .replace("__CUTOFF_1M__", meta["cutoff_1m"]))

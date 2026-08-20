@@ -107,6 +107,7 @@ def main() -> int:
 
     write_json("people.json", new_people)
     meta["updated_at"] = now
+    meta["feed_updated_at"] = now
     write_json("meta.json", meta)
     write_json("update_status.json", report)
 

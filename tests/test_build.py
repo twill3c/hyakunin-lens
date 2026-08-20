@@ -43,7 +43,8 @@ def test_roundtrip_people(html, data):
 
 PLACEHOLDERS = ["__PEOPLE__", "__CAT_LABEL__", "__SRC__", "__CATS__",
                 "__COUNTS__", "__COLLECTED__", "__CUTOFF_1M__", "__CAT_CHIPS__",
-                "__UPDATED__", "__WALKTHROUGH_URL__", "__BLUEPRINT_URL__"]
+                "__UPDATED__", "__WALKTHROUGH_URL__", "__BLUEPRINT_URL__",
+                "__FEED_UPDATED__", "__YT_UPDATED__", "__RECOLLECT_UPDATED__"]
 
 
 def test_no_placeholders(html):
@@ -94,7 +95,17 @@ def test_footer_structure(html):
 
 
 def test_updated_line(html):
-    assert "最終更新 " in html and "6 時間ごと" in html and "自動更新" in html
+    assert "最終更新 " in html and "6 時間ごと" in html
+
+
+def test_layer_timestamps_dynamic(html, data):
+    # 三層の実行日は meta から動的に埋まる。未実行の層は「未実行」表示(F-09)
+    from build import layer_jst
+    _, meta = data
+    for key in ("feed_updated_at", "youtube_updated_at", "recollect_updated_at"):
+        assert layer_jst(meta, key) in html
+    assert layer_jst({}, "recollect_updated_at") == "未実行"
+    assert "収集のスナップショット" not in html  # 恒久的に誤りになりうる固定文言の禁止
 
 
 def test_footer_fixed(html):

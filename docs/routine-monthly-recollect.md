@@ -34,7 +34,7 @@
 
 作業手順:
 1. AGENTS.md を読む(ループ記録義務がある)。loop_id は routine_YYYYMM 形式(例: routine_202609)で logs/loops/ に記録する
-2. データ更新後、python -m pytest -q を実行して全緑を確認する(件数はビルド時にデータから算出されるので、件数変動によるテスト改修は不要)
+2. データ更新後、data/meta.json の updated_at と recollect_updated_at を現在時刻(UTC、YYYY-MM-DDTHH:MM:SSZ 形式)に更新する(ヘッダーの「X・インタビュー・紹介文(毎月 1 日)」の実行日表示に使われる)。その後 python -m pytest -q を実行して全緑を確認する(件数はビルド時にデータから算出されるので、件数変動によるテスト改修は不要)
 3. python src/build.py で out/index.html を再生成する
 4. python harness/looplog.py validate を合格させる
 5. 変更を「data: monthly agent recollect YYYY-MM」の形でコミットし、main へ push する(push すると本番 https://hyakunin-lens.vercel.app に自動デプロイされる)
