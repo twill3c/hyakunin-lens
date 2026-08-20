@@ -25,9 +25,12 @@ python -m pytest -q                  # スキーマ検証 + 往復一致オラ�
 GitHub Actions(`.github/workflows/collect.yml`)が 6 時間ごとに `python -m src.update` を実行し、
 差分があるときだけ `data/` + `out/` をコミット → Vercel の Git 連携が自動デプロイする。
 
-- 更新対象は「本人の発信」のうち **ブログ / Substack / note / 研究所ブログ**(`data/sources.json` に宣言された RSS・Atom フィード)のみ
-- フィード取得に失敗した人・宣言のない人は既存項目を維持する(劣化継続)
-- X / LinkedIn / YouTube・インタビューは 2026-08-20 収集のスナップショットのまま
+- 「本人の発信」のうち **ブログ / Substack / note / 研究所ブログ**(`data/sources.json` に宣言された RSS・Atom フィード)は 6 時間ごと
+- **YouTube 対談**は `collect-youtube.yml` が毎日 1 回、YouTube Data API v3 の検索で更新(`python -m src.youtube`)。
+  誤帰属ゲート(動画タイトルに氏名の語形を含むもののみ採用)・own/med と重複する URL の除外・日次 50 名ローテーション(2 日で一巡、無料クォータの 50% 以内)。
+  リポジトリ Secret `YOUTUBE_API_KEY` が必要(未設定なら何もせず正常終了)
+- 取得に失敗した人・宣言のない人は既存項目を維持する(劣化継続)
+- X / LinkedIn・インタビューは 2026-08-20 収集のスナップショット(月次のエージェント再収集 routine で補完)
 
 `out/index.html` は自己完結(外部リソース参照なし)。ブラウザで直接開ける。
 

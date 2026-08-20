@@ -94,7 +94,7 @@ def test_footer_structure(html):
 
 
 def test_updated_line(html):
-    assert "最終更新 " in html and "6 時間ごとに自動更新" in html
+    assert "最終更新 " in html and "6 時間ごと" in html and "自動更新" in html
 
 
 def test_footer_fixed(html):

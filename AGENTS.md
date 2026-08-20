@@ -41,5 +41,6 @@ Conventional Commits(feat/fix/test/docs/refactor/chore)。スキャフォール�
 - **ビルド**: `python src/build.py`。件数行はデータから算出するので手書き数字を残さない(F-04)
 - **オラクル**: 往復一致(出力から埋め込み JSON を再抽出して data/ と完全一致)+ 決定性(2 回ビルドでバイト一致)。`python -m pytest -q`
 - **配信**: Vercel が `out/` をそのまま静的配信(buildCommand なし)。`out/index.html` はコミットする
-- **定期更新**: `data/sources.json`(フィード宣言)→ `python -m src.update` が blog/substack/note/lab の項目だけ差し替え(失敗・X/LinkedIn/YouTube は既存維持=劣化継続)→ 再ビルド。GitHub Actions collect.yml が 6 時間ごとに実行し差分コミット。フィードの追加は `tools/discover_feeds.py`(自動発見)か sources.json 手編集
+- **定期更新**: `data/sources.json`(フィード宣言)→ `python -m src.update` が blog/substack/note/lab の項目だけ差し替え(失敗・X/LinkedIn は既存維持=劣化継続)→ 再ビルド。GitHub Actions collect.yml が 6 時間ごとに実行し差分コミット。フィードの追加は `tools/discover_feeds.py`(自動発見)か sources.json 手編集
+- **YouTube 更新**: `python -m src.youtube`(要 env YOUTUBE_API_KEY・未設定はスキップ)が yt セクションを差し替え。氏名タイトル一致ゲート+own/med 重複除外+日次 50 名ローテーション。collect-youtube.yml が毎日実行。クォータ計算(search=100 units/人)を崩す変更をしないこと
 - **データ改訂時**: people.json / sources.json を編集 → `python -m pytest -q` → ビルド → コミット。件数は算出制(F-04)なのでテストの数値更新は不要

@@ -14,7 +14,8 @@
 | T-06 | フィードパーサ煙テスト(RSS2.0 / Atom、koho-lens 移植分)と feed_items の整形 | F-07 | tests/test_update.py |
 | T-07 | マージ規則: 成功種別のみ差し替え・失敗時は既存維持(劣化継続)・日付降順(不明末尾)・URL 重複排除・最大 3 件・入力非破壊・混合成否の run() | F-07 | tests/test_update.py |
 | T-08 | sources.json スキーマ: 実在人物への参照・種別語彙(blog/substack/note/lab)・https フィード | F-06 | tests/test_data.py |
-| T-09 | フッタ構成(koho-lens 準拠)と最終更新行の埋め込み | F-09 | tests/test_build.py |
+| T-09 | フッタ構成(koho-lens 準拠・画面最下部固定)と最終更新行の埋め込み | F-09 | tests/test_build.py |
+| T-10 | YouTube 自動更新: 氏名語形の照合(中間イニシャル・漢字名)、タイトル一致ゲート、own/med 重複除外、最大 3 件・日付降順、日次バケット交替、エラー時劣化継続、入力非破壊 | F-10 | tests/test_youtube.py |
 
 ## 実行
 
