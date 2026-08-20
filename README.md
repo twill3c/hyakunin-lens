@@ -1,5 +1,7 @@
 # hyakunin-lens — 百人レンズ
 
+**本番: https://hyakunin-lens.vercel.app**
+
 AI研究者・エージェント実装者 100 名の「発信ダッシュボード」。各人の紹介文と、
 
 1. **本人の発信** — ブログ / Substack / 研究所ブログ / X / LinkedIn
