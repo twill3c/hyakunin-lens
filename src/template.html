@@ -34,6 +34,16 @@ input[type=search]:focus{border-color:var(--accent)}
   padding:5px 12px;font-size:12.5px;cursor:pointer;user-select:none;white-space:nowrap}
 .chip:hover{color:var(--fg)}
 .chip.on{background:var(--accent);border-color:var(--accent);color:#0f1115;font-weight:600}
+.chip.c-own{color:var(--blog);border-color:rgba(126,231,135,.45)}
+.chip.c-med{color:var(--int);border-color:rgba(240,176,114,.45)}
+.chip.c-yt{color:#ff8080;border-color:rgba(255,128,128,.45)}
+.chip.c-time{color:var(--talk);border-color:rgba(103,232,249,.45)}
+.chip.c-own:hover{color:var(--blog)}.chip.c-med:hover{color:var(--int)}
+.chip.c-yt:hover{color:#ff8080}.chip.c-time:hover{color:var(--talk)}
+.chip.c-own.on{background:var(--blog);border-color:var(--blog);color:#0f1115}
+.chip.c-med.on{background:var(--int);border-color:var(--int);color:#0f1115}
+.chip.c-yt.on{background:#ff8080;border-color:#ff8080;color:#0f1115}
+.chip.c-time.on{background:var(--talk);border-color:var(--talk);color:#0f1115}
 .spacer{flex:1}
 main{max-width:1500px;margin:0 auto;padding:20px 24px 96px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px;align-items:start}
@@ -86,9 +96,9 @@ footer p{max-width:1500px;margin:0 auto}
     <div>
       <ul>
         <li><b>X / LinkedIn は直接取得できません。</b>検索結果とミラーサイトで本文を確認し、日付は投稿ID（Snowflake）から機械的に復元しています。ページ上の表示日を読んだものではないため、ずれの可能性があります。</li>
-        <li><b>YouTubeは繰り返しアクセス制限（429）に遭い、動画の公開日をほぼ取得できませんでした。</b>そのため動画・講演の多くが「不明」です。日付が入っている動画は、第三者ページで裏取りできたものだけです。</li>
-        <li>「直近1か月」は2026年7月20日以降に日付が確認できた項目のみを対象にします。日付が「不明」の項目（X投稿の一部とYouTube動画の大半）は、実際には新しくてもこの絞り込みには出てきません。</li>
-        <li><b>YouTube対談セクション</b>のタイトルとチャンネル名はすべてYouTubeのoEmbed APIで実在を検証していますが、公開日は同APIが返さないため原則「不明」です。上の2セクションと重複する動画は除いています。</li>
+        <li><b>初期収集ではYouTubeが繰り返しアクセス制限（429）に遭い、動画の公開日をほぼ取得できませんでした。</b>そのため初期収集分の動画・講演の多くが「不明」です（自動更新で入った動画には YouTube Data API の公開日が付きます）。</li>
+        <li>「直近1ヶ月」「直近1週間」は、閲覧時点から過去30日 / 7日以内に日付が確認できた項目を対象にします。日付が「不明」の項目（X投稿の一部と初期収集のYouTube動画）は、実際には新しくてもこの絞り込みには出てきません。</li>
+        <li><b>YouTube対談セクション</b>の初期収集分はoEmbed APIで実在を検証しています（公開日は同APIが返さないため「不明」）。自動更新分はYouTube Data APIの検索結果で公開日付きです。いずれも上の2セクションと重複する動画は除いています。</li>
         <li>見出しの多くは英語原文の要約・和訳です。原文は必ずリンク先で確認してください。</li>
         <li>「本人の発信」は本人名義の一次ソースのみ。企業ブログはチーム名義だと0件になります（Qwen・Moonshot・Sakana AI・Mistral など）。一方「インタビュー・動画」は本人が話している二次媒体を含みます。</li>
         <li>この収集で判明した動き: John Jumper が Google DeepMind → Anthropic、Sara Hooker が Cohere を離れ Adaption Labs 創業、Lilian Weng が OpenAI へ復帰との報道、Jerry Tworek が OpenAI 退職と報道。</li>
@@ -103,11 +113,11 @@ footer p{max-width:1500px;margin:0 auto}
   <span class="chip on" data-cat="ALL">すべて</span>
   __CAT_CHIPS__
   <span class="spacer"></span>
-  <span class="chip" id="fOwn">本人の発信のみ</span>
-  <span class="chip" id="fMed">インタビュー・動画のみ</span>
-  <span class="chip" id="fYt">YouTube対談のみ</span>
-  <span class="chip" id="f2026">2026年の項目がある人</span>
-  <span class="chip" id="f1m">直近1か月の項目がある人</span>
+  <span class="chip c-own" id="fOwn">本人の発信のみ</span>
+  <span class="chip c-med" id="fMed">インタビュー・動画のみ</span>
+  <span class="chip c-yt" id="fYt">YouTube対談のみ</span>
+  <span class="chip c-time" id="f1m">直近1ヶ月の項目がある人</span>
+  <span class="chip c-time" id="f1w">直近1週間の項目がある人</span>
 </div></div>
 
 <main><div class="grid" id="grid"></div></main>
@@ -121,8 +131,9 @@ footer p{max-width:1500px;margin:0 auto}
 
 <script>
 const P = __PEOPLE__, CAT_LABEL = __CAT_LABEL__, SRC = __SRC__, CATS = __CATS__;
-let curCat="ALL", showOwn=true, showMed=true, showYt=true, only2026=false, only1m=false, q="";
-const CUTOFF_1M = "__CUTOFF_1M__";
+let curCat="ALL", showOwn=true, showMed=true, showYt=true, only1m=false, only1w=false, q="";
+const cutoff = days => new Date(Date.now() - days*864e5).toISOString().slice(0,10);
+const CUTOFF_1M = cutoff(30), CUTOFF_1W = cutoff(7);  // 閲覧時点基準
 const norm = d => (d && d.length===7) ? d+"-01" : d;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
@@ -161,8 +172,8 @@ function render(){
   const list = P.filter(p => {
     if (curCat!=="ALL" && p.c!==curCat) return false;
     const all = p.own.concat(p.med, p.yt);
-    if (only2026 && !all.some(i=>i.d.startsWith("2026"))) return false;
     if (only1m && !all.some(i=>i.d!=="不明" && norm(i.d) >= CUTOFF_1M)) return false;
+    if (only1w && !all.some(i=>i.d!=="不明" && norm(i.d) >= CUTOFF_1W)) return false;
     if (!ql) return true;
     return (p.n+p.bio).toLowerCase().includes(ql) || all.some(i=>i.t.toLowerCase().includes(ql)||(i.o||"").toLowerCase().includes(ql));
   });
@@ -194,13 +205,13 @@ function only(which){
 document.getElementById("fOwn").onclick = () => only(showOwn&&!showMed&&!showYt ? "all" : "own");
 document.getElementById("fMed").onclick = () => only(showMed&&!showOwn&&!showYt ? "all" : "med");
 document.getElementById("fYt").onclick  = () => only(showYt&&!showOwn&&!showMed ? "all" : "yt");
-document.getElementById("f2026").onclick = e => {
-  only2026=!only2026; if (only2026){ only1m=false; document.getElementById("f1m").classList.remove("on"); }
-  e.target.classList.toggle("on",only2026); render();
-};
 document.getElementById("f1m").onclick = e => {
-  only1m=!only1m; if (only1m){ only2026=false; document.getElementById("f2026").classList.remove("on"); }
+  only1m=!only1m; if (only1m){ only1w=false; document.getElementById("f1w").classList.remove("on"); }
   e.target.classList.toggle("on",only1m); render();
+};
+document.getElementById("f1w").onclick = e => {
+  only1w=!only1w; if (only1w){ only1m=false; document.getElementById("f1m").classList.remove("on"); }
+  e.target.classList.toggle("on",only1w); render();
 };
 render();
 </script>

@@ -67,15 +67,25 @@ def test_cat_chips(html, data):
     assert html.count('data-cat="') == len(meta["cats"]) + 1  # +1 = ALL
 
 
-def test_cutoff_embedded(html, data):
-    _, meta = data
-    assert f'const CUTOFF_1M = "{meta["cutoff_1m"]}"' in html
+def test_cutoff_dynamic(html):
+    # 期間フィルタは閲覧時点基準で JS が計算する(ビルド時固定の日付を持たない)
+    assert "const cutoff = days =>" in html
+    assert "CUTOFF_1M = cutoff(30), CUTOFF_1W = cutoff(7)" in html
 
 
 def test_ui_parts(html):
     for needle in ('id="q"', 'id="fOwn"', 'id="fMed"', 'id="fYt"',
-                   'id="f2026"', 'id="f1m"', "const esc", "function render()"):
+                   'id="f1m"', 'id="f1w"', "const esc", "function render()"):
         assert needle in html, f"UI 部品欠落: {needle}"
+
+
+def test_chip_group_colors(html):
+    # セクション切替と期間フィルタは系統ごとの色クラスを持つ
+    for needle in ('class="chip c-own" id="fOwn"', 'class="chip c-med" id="fMed"',
+                   'class="chip c-yt" id="fYt"', 'class="chip c-time" id="f1m"',
+                   'class="chip c-time" id="f1w"',
+                   ".chip.c-own.on{", ".chip.c-med.on{", ".chip.c-yt.on{", ".chip.c-time.on{"):
+        assert needle in html, f"系統色の欠落: {needle}"
 
 
 def test_self_contained(html):

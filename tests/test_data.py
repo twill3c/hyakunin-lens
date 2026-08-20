@@ -92,7 +92,6 @@ def test_sections_nonempty_overall(people):
 
 def test_meta_shape(meta):
     assert meta["collected_on"] == "2026-08-20"
-    assert DATE_RE.fullmatch(meta["cutoff_1m"])
     assert len(meta["cats"]) == 11
     if "updated_at" in meta:
         assert re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z", meta["updated_at"])

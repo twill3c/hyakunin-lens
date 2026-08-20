@@ -70,8 +70,7 @@ def build() -> Path:
             .replace("__YT_UPDATED__", layer_jst(meta, "youtube_updated_at"))
             .replace("__RECOLLECT_UPDATED__", layer_jst(meta, "recollect_updated_at"))
             .replace("__WALKTHROUGH_URL__", meta["links"]["walkthrough"])
-            .replace("__BLUEPRINT_URL__", meta["links"]["blueprint"])
-            .replace("__CUTOFF_1M__", meta["cutoff_1m"]))
+            .replace("__BLUEPRINT_URL__", meta["links"]["blueprint"]))
     out = ROOT / "out"
     out.mkdir(exist_ok=True)
     dest = out / "index.html"
