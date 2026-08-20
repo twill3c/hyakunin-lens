@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """T-03 / T-04 / T-05: ビルド出力の往復一致オラクルと健全性・決定性。"""
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -41,7 +42,8 @@ def test_roundtrip_people(html, data):
 # ---- T-04 出力健全性 ----
 
 PLACEHOLDERS = ["__PEOPLE__", "__CAT_LABEL__", "__SRC__", "__CATS__",
-                "__COUNTS__", "__COLLECTED__", "__CUTOFF_1M__", "__CAT_CHIPS__"]
+                "__COUNTS__", "__COLLECTED__", "__CUTOFF_1M__", "__CAT_CHIPS__",
+                "__UPDATED__", "__WALKTHROUGH_URL__", "__BLUEPRINT_URL__"]
 
 
 def test_no_placeholders(html):
@@ -52,7 +54,8 @@ def test_no_placeholders(html):
 def test_counts_line_embedded(html, data):
     people, _ = data
     line = counts_line(people)
-    assert "237" in line and "746" in line
+    assert re.fullmatch(r"100名 · 本人の発信 \d+件 · インタビュー/動画 \d+件 · "
+                        r"YouTube対談 \d+件 · 合計 \d+件 · すべて0件の人 \d+名", line)
     assert line in html
 
 
@@ -77,6 +80,21 @@ def test_ui_parts(html):
 def test_self_contained(html):
     for needle in ("<link", "src=\"http", "@import", "fetch("):
         assert needle not in html, f"外部参照の疑い: {needle}"
+
+
+# ---- T-09 フッタ構成(koho-lens 準拠・F-09)----
+
+def test_footer_structure(html):
+    footer = html[html.index("<footer>"):html.index("</footer>")]
+    for needle in ("MIT License", "© 2026 坂田哲朗",
+                   "https://github.com/twill3c/hyakunin-lens",
+                   "hyakunin-lens の歩き方", "hyakunin-lens 設計図",
+                   "https://app-menu-amber.vercel.app", "App Menu"):
+        assert needle in footer, f"フッタ要素欠落: {needle}"
+
+
+def test_updated_line(html):
+    assert "最終更新 " in html and "6 時間ごとに自動更新" in html
 
 
 # ---- T-05 決定性 ----

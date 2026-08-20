@@ -84,16 +84,9 @@ def test_max_3_per_section(people):
             assert len(p[sec]) <= 3, f"{p['n']}/{sec}: {len(p[sec])}件"
 
 
-# ---- T-02 件数固定 ----
+# ---- T-02 件数・不変条件(自動更新で件数は変動するため実数は固定しない)----
 
-def test_counts_frozen(people):
-    own = sum(len(p["own"]) for p in people)
-    med = sum(len(p["med"]) for p in people)
-    yt = sum(len(p["yt"]) for p in people)
-    assert (own, med, yt, own + med + yt) == (237, 263, 246, 746)
-
-
-def test_nobody_empty(people):
+def test_sections_nonempty_overall(people):
     assert all(p["own"] or p["med"] or p["yt"] for p in people)
 
 
@@ -101,3 +94,20 @@ def test_meta_shape(meta):
     assert meta["collected_on"] == "2026-08-20"
     assert DATE_RE.fullmatch(meta["cutoff_1m"])
     assert len(meta["cats"]) == 11
+    if "updated_at" in meta:
+        assert re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z", meta["updated_at"])
+
+
+# ---- T-08 sources.json スキーマ ----
+
+def test_sources_schema(people, meta):
+    path = ROOT / "data" / "sources.json"
+    if not path.exists():
+        pytest.skip("sources.json 未生成")
+    sources = json.loads(path.read_text(encoding="utf-8"))
+    names = {p["n"] for p in people}
+    for s in sources:
+        assert set(s.keys()) >= {"n", "s", "feed"}, s
+        assert s["n"] in names, f"実在しない人物: {s['n']}"
+        assert s["s"] in {"blog", "substack", "note", "lab"}, s
+        assert s["feed"].startswith("https://"), s

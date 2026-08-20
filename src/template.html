@@ -77,6 +77,7 @@ footer{max-width:1500px;margin:0 auto;padding:0 24px 50px;color:var(--faint);fon
   <h1>AI研究者・エージェント実装者100名 — 発信ダッシュボード</h1>
   <p class="sub">各人の紹介と、①本人の発信（ブログ / Substack / 研究所ブログ / X / LinkedIn）②インタビュー・ポッドキャスト・動画・講演 ③YouTubeの対談動画 を最大3件ずつ。__COLLECTED__時点の収集。</p>
   <p class="counts">__COUNTS__</p>
+  <p class="counts">最終更新 __UPDATED__ — ブログ / Substack / note / 研究所ブログは 6 時間ごとに自動更新。X・LinkedIn・YouTube・インタビューは 2026-08-20 収集のスナップショット</p>
   <details class="caveat">
     <summary>データの制約（重要・クリックで展開）</summary>
     <div>
@@ -88,6 +89,7 @@ footer{max-width:1500px;margin:0 auto;padding:0 24px 50px;color:var(--faint);fon
         <li>見出しの多くは英語原文の要約・和訳です。原文は必ずリンク先で確認してください。</li>
         <li>「本人の発信」は本人名義の一次ソースのみ。企業ブログはチーム名義だと0件になります（Qwen・Moonshot・Sakana AI・Mistral など）。一方「インタビュー・動画」は本人が話している二次媒体を含みます。</li>
         <li>この収集で判明した動き: John Jumper が Google DeepMind → Anthropic、Sara Hooker が Cohere を離れ Adaption Labs 創業、Lilian Weng が OpenAI へ復帰との報道、Jerry Tworek が OpenAI 退職と報道。</li>
+        <li><b>自動更新の範囲:</b> 初期データは Claude(30体のサブエージェントによるWeb検索・ページ取得)の2026-08-20収集。以後「本人の発信」のうちブログ / Substack / note / 研究所ブログは RSS・Atom フィードから6時間ごとに自動更新され、新着は原文タイトルのまま載ります。X / LinkedIn / YouTube とインタビュー・動画は収集時点のスナップショットです。紹介文は公開情報に基づく要約で、分類と選定は暫定・所属は変動します。</li>
       </ul>
     </div>
   </details>
@@ -106,7 +108,13 @@ footer{max-width:1500px;margin:0 auto;padding:0 24px 50px;color:var(--faint);fon
 </div></div>
 
 <main><div class="grid" id="grid"></div></main>
-<footer>収集: Claude（30体のサブエージェントによるWeb検索・ページ取得）。紹介文は公開情報に基づく要約で、分類と選定は暫定です。所属は変動します。</footer>
+<footer>
+  <p><a href="https://github.com/twill3c/hyakunin-lens/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗
+  ・ <a href="https://github.com/twill3c/hyakunin-lens" target="_blank" rel="noopener">GitHub</a>
+  ・ <a href="__WALKTHROUGH_URL__" target="_blank" rel="noopener">hyakunin-lens の歩き方</a>
+  ・ <a href="__BLUEPRINT_URL__" target="_blank" rel="noopener">hyakunin-lens 設計図</a>
+  ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p>
+</footer>
 
 <script>
 const P = __PEOPLE__, CAT_LABEL = __CAT_LABEL__, SRC = __SRC__, CATS = __CATS__;

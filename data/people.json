@@ -360,7 +360,14 @@
   "c": "基礎",
   "h": "https://medium.com/@mijordan3",
   "bio": "統計的機械学習という分野そのものを設計した人物で、変分推論やグラフィカルモデルの理論を整備した。Bengio、Blei、Ngなど教え子が各分野の中心にいることから「機械学習界のドン」と呼ばれる。近年は知能を個体ではなく市場・集合として捉える経済学的なAI観を提唱している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2018-04-19",
+    "t": "Artificial Intelligence — The Revolution Hasn’t Happened Yet",
+    "u": "https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7?source=rss-2e99d8165809------2",
+    "s": "blog"
+   }
+  ],
   "med": [
    {
     "d": "2026-05-21",
@@ -1764,21 +1771,21 @@
   "bio": "Chain-of-Thoughtプロンプティングと「創発的能力」という2つの論文で、LLMの推論に関する議論の枠組みを作った。OpenAIで推論モデルの研究に携わる。個人ブログの短いエッセイは研究者コミュニティで広く読まれ、検証の非対称性など実務的な概念を提供している。",
   "own": [
    {
+    "d": "2026-08-20",
+    "t": "Cognitive reward shapes in sports and career",
+    "u": "https://www.jasonwei.net/blog/cognitive-reward-shapes-in-sports-and-career",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-16",
     "t": "What's left for humans?",
     "u": "https://www.jasonwei.net/blog/whats-left-for-humans",
     "s": "blog"
    },
    {
-    "d": "2025-07-15",
+    "d": "2025-07-16",
     "t": "Life lessons from reinforcement learning",
     "u": "https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning",
-    "s": "blog"
-   },
-   {
-    "d": "2025-07-15",
-    "t": "Asymmetry of verification and verifier's rule",
-    "u": "https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law",
     "s": "blog"
    }
   ],
@@ -2156,8 +2163,20 @@
   "own": [
    {
     "d": "2025-04-10",
-    "t": "The Second Half（AI研究の「後半戦」は評価の時代だという議論）",
-    "u": "https://ysymyth.github.io/The-Second-Half/",
+    "t": "The Second Half",
+    "u": "http://ysymyth.github.io/The-Second-Half/",
+    "s": "blog"
+   },
+   {
+    "d": "2021-04-24",
+    "t": "Ungrounded Meaning",
+    "u": "http://ysymyth.github.io/Ungrounded-Meaning/",
+    "s": "blog"
+   },
+   {
+    "d": "2020-09-06",
+    "t": "Law",
+    "u": "http://ysymyth.github.io/Law/",
     "s": "blog"
    }
   ],
@@ -2230,10 +2249,10 @@
     "s": "blog"
    },
    {
-    "d": "不明",
-    "t": "「ベンチマークは現在地ではなく未来への宝の地図。SWE-benchはバグ修正、次はリポジトリ開発全体の自動化」",
-    "u": "https://x.com/OfirPress/status/2052106927908200957",
-    "s": "x"
+    "d": "2023-07-06",
+    "t": "PhD Thesis Acknowledgments and Dedication",
+    "u": "https://ofir.io/PhD-Thesis-Acknowledgments-and-Dedication/",
+    "s": "blog"
    }
   ],
   "med": [
@@ -3255,21 +3274,21 @@
   "bio": "Aiderの作者。Gitと統合されたターミナル型コーディングエージェントを、大手が同種の製品を出すより早く実用化した。モデルごとのベンチマークを自前で継続的に公開してきたことでも知られる。メディア露出をほぼ完全に避けている。",
   "own": [
    {
-    "d": "2026-04-10",
-    "t": "Spontaneous parametric down-conversion",
-    "u": "https://paulg.info/2026/04/10/spdc/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-04-08",
-    "t": "Dockerized libRadtran and SMARTS for radiative transfer",
-    "u": "https://paulg.info/2026/04/08/atmospheric-transmission/",
-    "s": "blog"
-   },
-   {
     "d": "2025-05-08",
-    "t": "Qwen3 benchmark results（aider.chat）",
+    "t": "Qwen3 benchmark results",
     "u": "https://aider.chat/2025/05/08/qwen3.html",
+    "s": "blog"
+   },
+   {
+    "d": "2025-05-07",
+    "t": "Gemini 2.5 Pro Preview 03-25 benchmark cost",
+    "u": "https://aider.chat/2025/05/07/gemini-cost.html",
+    "s": "blog"
+   },
+   {
+    "d": "2025-01-28",
+    "t": "Alternative DeepSeek V3 providers",
+    "u": "https://aider.chat/2025/01/28/deepseek-down.html",
     "s": "blog"
    }
   ],
@@ -3286,21 +3305,21 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
-    "d": "2026-02-24",
-    "t": "Post-mortem: Unauthorized Cline CLI npm publish on February 17, 2026",
-    "u": "https://cline.bot/blog/post-mortem-unauthorized-cline-cli-npm",
+    "d": "2026-08-18",
+    "t": "Open-sourcing evals for open-weight agents",
+    "u": "https://cline.ghost.io/open-sourcing-evals-for-open-weight-agents/",
     "s": "blog"
    },
    {
-    "d": "2026-01-30",
-    "t": "5M installs, $1M Open Source Grant program, and the story of how we got here",
-    "u": "https://cline.bot/blog/5m-installs-1m-open-source-grant-program",
+    "d": "2026-08-11",
+    "t": "NVIDIA Nemotron 3.5 Lightning just landed in Cline",
+    "u": "https://cline.ghost.io/nvidia-nemotron-3-5-lightning-available-in-cline/",
     "s": "blog"
    },
    {
-    "d": "2025-11-20",
-    "t": "Introducing cline-bench: A Real-World, Open Source Benchmark for Agentic Coding",
-    "u": "https://cline.bot/blog/cline-bench-initiative",
+    "d": "2026-08-04",
+    "t": "Top 5 Open Weight Models That Matter to Developers in 2026",
+    "u": "https://cline.ghost.io/best-open-weight-models-that-matter-in-2026/",
     "s": "blog"
    }
   ],
@@ -3828,21 +3847,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-08-12",
-    "t": "Why managed agents are the next big thing in agent building",
-    "u": "https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+    "d": "2026-08-19",
+    "t": "Introducing LangSmith Tuned Evaluators",
+    "u": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
     "s": "blog"
    },
    {
-    "d": "2026-07-25",
-    "t": "What does it mean to \"own your intelligence?\"",
+    "d": "2026-08-18",
+    "t": "AgentCore Payments middleware for LangChain agents",
+    "u": "https://www.langchain.com/blog/langchain-agentcore-payments",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-18",
+    "t": "Own Your Intelligence: The Key to Lasting AI Advantage",
     "u": "https://www.langchain.com/blog/own-your-intelligence",
-    "s": "blog"
-   },
-   {
-    "d": "2025-10-20",
-    "t": "Reflections on Three Years of Building LangChain",
-    "u": "https://www.langchain.com/blog/three-years-langchain",
     "s": "blog"
    }
   ],
@@ -4321,20 +4340,20 @@
   "own": [
    {
     "d": "2026-08-19",
-    "t": "Conceptual integrity and counting lines of code",
-    "u": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-19",
-    "t": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+    "t": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
     "u": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
     "s": "blog"
    },
    {
-    "d": "2026-08-16",
-    "t": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-    "u": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "d": "2026-08-19",
+    "t": "Quoting Jeremy Morrell",
+    "u": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-19",
+    "t": "Conceptual integrity and counting lines of code",
+    "u": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
     "s": "blog"
    }
   ],
@@ -5504,21 +5523,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-05-19",
-    "t": "Making it easier to understand how content was created and edited",
-    "u": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+    "d": "2026-08-19",
+    "t": "5 new ways to level up your learning with Search",
+    "u": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "s": "blog"
    },
    {
-    "d": "2026-05-07",
-    "t": "Find out how AlphaEvolve has gone from research to solving real-life problems",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
+    "d": "2026-08-19",
+    "t": "Start the semester with one year of Gemini, on us",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
     "s": "blog"
    },
    {
-    "d": "2025-10-29",
-    "t": "Google DeepMind and Google.org announce AI for Math Initiative",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-for-math/",
+    "d": "2026-08-19",
+    "t": "Back to School 2026",
+    "u": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
     "s": "blog"
    }
   ],
@@ -5725,21 +5744,21 @@
   "bio": "Stanford CRFM所長として「基盤モデル」という用語と概念を定着させ、HELMで評価の標準を作った。Together AIの共同創業者でもあり、透明性のあるオープンなモデル開発を一貫して主張している。",
   "own": [
    {
-    "d": "2025-06-04",
-    "t": "Reliable and Efficient Amortized Model-Based Evaluation",
-    "u": "https://crfm.stanford.edu/2025/06/04/reliable-and-efficient-evaluation.html",
+    "d": "2026-05-26",
+    "t": "HELM Arabic Enterprise",
+    "u": "https://crfm.stanford.edu//2026/05/26/helm-arabic-enterprise.html",
     "s": "lab"
    },
    {
-    "d": "2025-05-28",
-    "t": "Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)",
-    "u": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
+    "d": "2025-12-18",
+    "t": "HELM Arabic",
+    "u": "https://crfm.stanford.edu//2025/12/18/helm-arabic.html",
     "s": "lab"
    },
    {
-    "d": "2025-05-21",
-    "t": "BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems",
-    "u": "https://crfm.stanford.edu/2025/05/21/bountybench.html",
+    "d": "2025-09-29",
+    "t": "HELM Long Context",
+    "u": "https://crfm.stanford.edu//2025/09/29/helm-long-context.html",
     "s": "lab"
    }
   ],
@@ -5924,15 +5943,15 @@
   "bio": "OpenAIでSuperalignmentチームを共同で率いたが、安全性への資源配分をめぐり2024年に退職しAnthropicへ移籍。スケーラブルな監督（人間より賢いAIをどう監督するか）という問題設定の中心人物で、Substackでの論考が主な発信手段。",
   "own": [
    {
-    "d": "2025-01-24",
-    "t": "Should we control AI instead of aligning it?",
-    "u": "https://aligned.substack.com/p/should-we-control-ai",
+    "d": "2026-01-22",
+    "t": "Alignment is not solved",
+    "u": "https://aligned.substack.com/p/alignment-is-not-solved-but-increasingly-looks-solvable",
     "s": "substack"
    },
    {
-    "d": "2025-01-22",
-    "t": "Alignment is not solved (But it increasingly looks solvable)",
-    "u": "https://aligned.substack.com/p/alignment-is-not-solved-but-increasingly-looks-solvable",
+    "d": "2025-01-24",
+    "t": "Should we control AI instead of aligning it?",
+    "u": "https://aligned.substack.com/p/should-we-control-ai",
     "s": "substack"
    },
    {
@@ -6121,7 +6140,26 @@
   "c": "日本・アジア",
   "h": "https://sakana.ai/blog/",
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-13",
+    "t": "Sakana Chatがアップデート：「Sakana Fugu」と新世代「Sakana Namazu」が利用可能に",
+    "u": "https://sakana.ai/chat-update/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-10",
+    "t": "ベースモデルに依存しないオーケストレーションに向けて：Gemma 4版 Sakana Fuguの検証",
+    "u": "https://sakana.ai/fugu-gemma4/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-05",
+    "t": "Sakana AI、大和証券グループとの共同AIプロジェクトを本格展開フェーズへ移行　ウェルスマネジメント業務支援AIの開発を開始",
+    "u": "https://sakana.ai/daiwa-shoken-full-scale/",
+    "s": "blog"
+   }
+  ],
   "med": [
    {
     "d": "2026-03-04",
@@ -6180,8 +6218,20 @@
   "own": [
    {
     "d": "2022-10-01",
-    "t": "Collective Intelligence for Deep Learning: A Survey of Recent Developments（参考・期間外）",
-    "u": "https://blog.otoro.net/",
+    "t": "Collective Intelligence for Deep Learning: A Survey of Recent Developments",
+    "u": "https://blog.otoro.net/2022/10/01/collectiveintelligence/",
+    "s": "blog"
+   },
+   {
+    "d": "2022-02-10",
+    "t": "EvoJAX: A Hardware-Accelerated Neuroevolution",
+    "u": "https://blog.otoro.net/2022/02/10/evojax/",
+    "s": "blog"
+   },
+   {
+    "d": "2021-11-18",
+    "t": "Permutation-Invariant Neural Networks for Reinforcement Learning",
+    "u": "https://blog.otoro.net/2021/11/18/attentionneuron/",
     "s": "blog"
    }
   ],
@@ -6251,6 +6301,12 @@
     "d": "2024-10-03",
     "t": "久々に論文を書いた学びのメモ",
     "u": "https://iwiwi.hatenadiary.jp/entry/2024/10/03/234740",
+    "s": "blog"
+   },
+   {
+    "d": "2023-06-29",
+    "t": "Pythonで間違えて全体にインストールしちゃったパッケージを消す",
+    "u": "https://iwiwi.hatenadiary.jp/entry/2023/06/29/150011",
     "s": "blog"
    }
   ],

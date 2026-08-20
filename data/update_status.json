@@ -1,0 +1,154 @@
+{
+ "generated_at": "2026-08-20T12:17:16Z",
+ "ok": 21,
+ "fail": 0,
+ "sources": [
+  {
+   "n": "Andrej Karpathy",
+   "s": "blog",
+   "feed": "https://karpathy.bearblog.dev/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "David Ha",
+   "s": "blog",
+   "feed": "https://blog.otoro.net/feed.xml",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "n": "Fei-Fei Li 李飛飛",
+   "s": "substack",
+   "feed": "https://drfeifei.substack.com/feed",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Harrison Chase",
+   "s": "blog",
+   "feed": "https://www.langchain.com/blog/rss.xml",
+   "ok": true,
+   "count": 93
+  },
+  {
+   "n": "Jan Leike",
+   "s": "substack",
+   "feed": "https://aligned.substack.com/feed",
+   "ok": true,
+   "count": 14
+  },
+  {
+   "n": "Jason Wei",
+   "s": "blog",
+   "feed": "https://www.jasonwei.net/blog?format=rss",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "n": "Joseph E. Gonzalez",
+   "s": "blog",
+   "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "Lilian Weng",
+   "s": "blog",
+   "feed": "https://lilianweng.github.io/index.xml",
+   "ok": true,
+   "count": 53
+  },
+  {
+   "n": "Llion Jones",
+   "s": "blog",
+   "feed": "https://sakana.ai/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Michael I. Jordan",
+   "s": "blog",
+   "feed": "https://medium.com/feed/@mijordan3",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "Ofir Press",
+   "s": "blog",
+   "feed": "https://ofir.io/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Paul Gauthier",
+   "s": "blog",
+   "feed": "https://aider.chat/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Percy Liang",
+   "s": "lab",
+   "feed": "https://crfm.stanford.edu/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Pushmeet Kohli",
+   "s": "blog",
+   "feed": "https://blog.google/authors/pushmeet-kohli/rss",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "Saoud Rizwan",
+   "s": "blog",
+   "feed": "https://cline.ghost.io/rss/",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "n": "Sergey Levine",
+   "s": "substack",
+   "feed": "https://sergeylevine.substack.com/feed",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Shunyu Yao 姚順雨",
+   "s": "blog",
+   "feed": "https://ysymyth.github.io/feed.xml",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "Simon Willison",
+   "s": "blog",
+   "feed": "https://simonwillison.net/atom/everything/",
+   "ok": true,
+   "count": 30
+  },
+  {
+   "n": "Yohei Nakajima",
+   "s": "blog",
+   "feed": "https://yoheinakajima.com/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Yoshua Bengio",
+   "s": "blog",
+   "feed": "https://yoshuabengio.org/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "秋葉拓哉",
+   "s": "blog",
+   "feed": "https://iwiwi.hatenadiary.jp/feed",
+   "ok": true,
+   "count": 30
+  }
+ ]
+}

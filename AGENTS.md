@@ -41,4 +41,5 @@ Conventional Commits(feat/fix/test/docs/refactor/chore)。スキャフォール�
 - **ビルド**: `python src/build.py`。件数行はデータから算出するので手書き数字を残さない(F-04)
 - **オラクル**: 往復一致(出力から埋め込み JSON を再抽出して data/ と完全一致)+ 決定性(2 回ビルドでバイト一致)。`python -m pytest -q`
 - **配信**: Vercel が `out/` をそのまま静的配信(buildCommand なし)。`out/index.html` はコミットする
-- **データ改訂時**: people.json を編集 → tests の件数固定値(T-02)を新しい実数に更新 → ビルド → コミット
+- **定期更新**: `data/sources.json`(フィード宣言)→ `python -m src.update` が blog/substack/note/lab の項目だけ差し替え(失敗・X/LinkedIn/YouTube は既存維持=劣化継続)→ 再ビルド。GitHub Actions collect.yml が 6 時間ごとに実行し差分コミット。フィードの追加は `tools/discover_feeds.py`(自動発見)か sources.json 手編集
+- **データ改訂時**: people.json / sources.json を編集 → `python -m pytest -q` → ビルド → コミット。件数は算出制(F-04)なのでテストの数値更新は不要

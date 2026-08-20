@@ -1,0 +1,136 @@
+[
+ {
+  "n": "Amjad Masad",
+  "s": "blog",
+  "feed": "https://amasad.me/rss",
+  "site": "https://amasad.me/",
+  "skip": true,
+  "skip_reason": "item に link/guid がなく URL を特定できない(2026-08-20 確認)"
+ },
+ {
+  "n": "Andrej Karpathy",
+  "s": "blog",
+  "feed": "https://karpathy.bearblog.dev/feed/",
+  "site": "https://karpathy.bearblog.dev/blog/"
+ },
+ {
+  "n": "David Ha",
+  "s": "blog",
+  "feed": "https://blog.otoro.net/feed.xml",
+  "site": "https://blog.otoro.net/"
+ },
+ {
+  "n": "Fei-Fei Li 李飛飛",
+  "s": "substack",
+  "feed": "https://drfeifei.substack.com/feed",
+  "site": "https://drfeifei.substack.com/"
+ },
+ {
+  "n": "Harrison Chase",
+  "s": "blog",
+  "feed": "https://www.langchain.com/blog/rss.xml",
+  "site": "https://www.langchain.com/blog"
+ },
+ {
+  "n": "Jan Leike",
+  "s": "substack",
+  "feed": "https://aligned.substack.com/feed",
+  "site": "https://aligned.substack.com/"
+ },
+ {
+  "n": "Jason Wei",
+  "s": "blog",
+  "feed": "https://www.jasonwei.net/blog?format=rss",
+  "site": "https://www.jasonwei.net/blog"
+ },
+ {
+  "n": "Joseph E. Gonzalez",
+  "s": "blog",
+  "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
+  "site": "https://people.eecs.berkeley.edu/~jegonzal/"
+ },
+ {
+  "n": "Lilian Weng",
+  "s": "blog",
+  "feed": "https://lilianweng.github.io/index.xml",
+  "site": "https://lilianweng.github.io/"
+ },
+ {
+  "n": "Llion Jones",
+  "s": "blog",
+  "feed": "https://sakana.ai/feed.xml",
+  "site": "https://sakana.ai/blog/"
+ },
+ {
+  "n": "Michael I. Jordan",
+  "s": "blog",
+  "feed": "https://medium.com/feed/@mijordan3",
+  "site": "https://medium.com/@mijordan3"
+ },
+ {
+  "n": "Ofir Press",
+  "s": "blog",
+  "feed": "https://ofir.io/feed.xml",
+  "site": "https://ofir.io/"
+ },
+ {
+  "n": "Paul Gauthier",
+  "s": "blog",
+  "feed": "https://aider.chat/feed.xml",
+  "site": "https://aider.chat/blog/"
+ },
+ {
+  "n": "Percy Liang",
+  "s": "lab",
+  "feed": "https://crfm.stanford.edu/feed.xml",
+  "site": "https://crfm.stanford.edu/blog/"
+ },
+ {
+  "n": "Pushmeet Kohli",
+  "s": "blog",
+  "feed": "https://blog.google/authors/pushmeet-kohli/rss",
+  "site": "https://blog.google/authors/pushmeet-kohli/"
+ },
+ {
+  "n": "Saoud Rizwan",
+  "s": "blog",
+  "feed": "https://cline.ghost.io/rss/",
+  "site": "https://cline.bot/blog/author/saoud"
+ },
+ {
+  "n": "Sergey Levine",
+  "s": "substack",
+  "feed": "https://sergeylevine.substack.com/feed",
+  "site": "https://sergeylevine.substack.com/"
+ },
+ {
+  "n": "Shunyu Yao 姚順雨",
+  "s": "blog",
+  "feed": "https://ysymyth.github.io/feed.xml",
+  "site": "https://ysymyth.github.io/blog/"
+ },
+ {
+  "n": "Simon Willison",
+  "s": "blog",
+  "feed": "https://simonwillison.net/atom/everything/",
+  "site": "https://simonwillison.net/"
+ },
+ {
+  "n": "Yohei Nakajima",
+  "s": "blog",
+  "feed": "https://yoheinakajima.com/feed/",
+  "site": "https://yoheinakajima.com/"
+ },
+ {
+  "n": "Yoshua Bengio",
+  "s": "blog",
+  "feed": "https://yoshuabengio.org/feed/",
+  "site": "https://yoshuabengio.org/en/blog"
+ },
+ {
+  "n": "秋葉拓哉",
+  "s": "blog",
+  "feed": "https://iwiwi.hatenadiary.jp/feed",
+  "site": "https://iwiwi.hatenadiary.jp/"
+ }
+]
