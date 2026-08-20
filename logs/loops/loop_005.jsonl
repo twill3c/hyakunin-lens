@@ -7,3 +7,7 @@
 {"v": "1.2", "ts": "2026-08-20T22:01:32+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T22:01:32+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T22:01:33+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書化", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:01:33+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "commit", "data": {"kind": "fix", "sha": "08ded83", "message": "YouTube 収集の品質ゲート強化と精選データ併合"}}
+{"v": "1.2", "ts": "2026-08-20T22:03:44+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "test_run", "data": {"command": "python -m pytest -q (CI 由来データで再確認)", "result": "pass", "passed": 43, "failed": 0}}
+{"v": "1.2", "ts": "2026-08-20T22:03:44+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T22:03:44+09:00", "project": "hyakunin-lens", "loop_id": "loop_005", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "品質事故を revert で復旧し、長尺+関連度+期間窓ゲートで再実行。13/50 名に実在対談の新着、junk 混入なし"}}
