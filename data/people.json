@@ -3861,6 +3861,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-08-20",
+    "t": "Test Agent Changes with LangSmith Preview Builds",
+    "u": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-19",
     "t": "Introducing LangSmith Tuned Evaluators",
     "u": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
@@ -3870,12 +3876,6 @@
     "d": "2026-08-18",
     "t": "AgentCore Payments middleware for LangChain agents",
     "u": "https://www.langchain.com/blog/langchain-agentcore-payments",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-18",
-    "t": "Own Your Intelligence: The Key to Lasting AI Advantage",
-    "u": "https://www.langchain.com/blog/own-your-intelligence",
     "s": "blog"
    }
   ],
@@ -5537,21 +5537,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-08-19",
-    "t": "5 new ways to level up your learning with Search",
-    "u": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "d": "2026-08-20",
+    "t": "Take an interactive journey through America’s national parks",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
     "s": "blog"
    },
    {
-    "d": "2026-08-19",
-    "t": "Start the semester with one year of Gemini, on us",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "d": "2026-08-20",
+    "t": "Personalize the content you see on Search, Discover, and News",
+    "u": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
     "s": "blog"
    },
    {
-    "d": "2026-08-19",
-    "t": "Back to School 2026",
-    "u": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+    "d": "2026-08-20",
+    "t": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
     "s": "blog"
    }
   ],
@@ -6163,6 +6163,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-08-21",
+    "t": "Sakana Translateの翻訳モデルを新しい世代の「Sakana Namazu」へアップデート",
+    "u": "https://sakana.ai/translate-update/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-13",
     "t": "Sakana Chatがアップデート：「Sakana Fugu」と新世代「Sakana Namazu」が利用可能に",
     "u": "https://sakana.ai/chat-update/",
@@ -6172,12 +6178,6 @@
     "d": "2026-08-10",
     "t": "ベースモデルに依存しないオーケストレーションに向けて：Gemma 4版 Sakana Fuguの検証",
     "u": "https://sakana.ai/fugu-gemma4/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-05",
-    "t": "Sakana AI、大和証券グループとの共同AIプロジェクトを本格展開フェーズへ移行　ウェルスマネジメント業務支援AIの開発を開始",
-    "u": "https://sakana.ai/daiwa-shoken-full-scale/",
     "s": "blog"
    }
   ],
