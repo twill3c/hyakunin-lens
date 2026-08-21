@@ -4353,21 +4353,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-08-21",
+    "t": "Stop Making TUIs",
+    "u": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-21",
+    "t": "Quoting Matt Webb",
+    "u": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-20",
     "t": "ChatGPT search now uses the site:operator at scale",
     "u": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-20",
-    "t": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-    "u": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-19",
-    "t": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-    "u": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
     "s": "blog"
    }
   ],
