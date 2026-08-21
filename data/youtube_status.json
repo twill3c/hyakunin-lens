@@ -1,307 +1,258 @@
 {
- "bucket": 0,
- "ok": 1,
+ "bucket": 1,
+ "ok": 37,
  "attempted": 50,
  "people": [
   {
-   "n": "Geoffrey Hinton",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Yoshua Bengio",
+   "ok": true,
+   "count": 20
   },
   {
-   "n": "Yann LeCun",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Jürgen Schmidhuber",
+   "ok": true,
+   "count": 6
   },
   {
-   "n": "Richard Sutton",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Michael I. Jordan",
+   "ok": true,
+   "count": 21
   },
   {
-   "n": "Judea Pearl",
+   "n": "Andrew Ng",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "Koray Kavukcuoglu",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Shane Legg",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Jared Kaplan",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Ilya Sutskever",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "Jakub Pachocki",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Mustafa Suleyman",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "n": "Ashish Vaswani",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Alec Radford",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "John Schulman",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Oriol Vinyals",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "Liang Wenfeng 梁文锋",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "Arthur Mensch",
    "ok": true,
    "count": 11
   },
   {
-   "n": "Demis Hassabis",
+   "n": "Shunyu Yao 姚順雨",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Jeff Dean",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "John Yang",
+   "ok": true,
+   "count": 10
   },
   {
-   "n": "Dario Amodei",
+   "n": "Noah Shinn",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Chris Olah",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Omar Khattab",
+   "ok": true,
+   "count": 1
   },
   {
-   "n": "Mira Murati",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Graham Neubig",
+   "ok": true,
+   "count": 2
   },
   {
-   "n": "Mark Chen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Cat Wu",
+   "ok": true,
+   "count": 4
   },
   {
-   "n": "Noam Shazeer",
+   "n": "Aman Sanger",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Aidan Gomez",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Walden Yan",
+   "ok": true,
+   "count": 1
   },
   {
-   "n": "Andrej Karpathy",
+   "n": "Xingyao Wang",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Jason Wei",
+   "n": "Saoud Rizwan",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Quoc Le",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Eric Simons",
+   "ok": true,
+   "count": 4
   },
   {
-   "n": "Guillaume Lample",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Bret Taylor",
+   "ok": true,
+   "count": 12
   },
   {
-   "n": "Jerry Tworek",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "David Soria Parra",
+   "ok": true,
+   "count": 3
   },
   {
-   "n": "Ofir Press",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Harrison Chase",
+   "ok": true,
+   "count": 14
   },
   {
-   "n": "Karthik Narasimhan",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "João Moura",
+   "ok": true,
+   "count": 2
   },
   {
-   "n": "Lilian Weng",
+   "n": "Toran Bruce Richards",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Matei Zaharia",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Thomas Wolf",
+   "ok": true,
+   "count": 11
   },
   {
-   "n": "Boris Cherny",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Magnus Müller",
+   "ok": true,
+   "count": 1
   },
   {
-   "n": "Michael Truell",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Ion Stoica",
+   "ok": true,
+   "count": 9
   },
   {
-   "n": "Scott Wu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Joseph E. Gonzalez",
+   "ok": true,
+   "count": 4
   },
   {
-   "n": "Varun Mohan",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Fei-Fei Li 李飛飛",
+   "ok": true,
+   "count": 10
   },
   {
-   "n": "Paul Gauthier",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Jitendra Malik",
+   "ok": true,
+   "count": 5
   },
   {
-   "n": "Amjad Masad",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Pieter Abbeel",
+   "ok": true,
+   "count": 2
   },
   {
-   "n": "Guillermo Rauch",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Chelsea Finn",
+   "ok": true,
+   "count": 3
   },
   {
-   "n": "Isa Fulford",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Jim Fan 范麟熙",
+   "ok": true,
+   "count": 4
   },
   {
-   "n": "Justin Spahr-Summers",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "John Jumper",
+   "ok": true,
+   "count": 7
   },
   {
-   "n": "Jerry Liu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Regina Barzilay",
+   "ok": true,
+   "count": 3
   },
   {
-   "n": "Chi Wang",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Stuart Russell",
+   "ok": true,
+   "count": 9
   },
   {
-   "n": "Yohei Nakajima",
+   "n": "Sara Hooker",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Simon Willison",
+   "n": "Jan Leike",
    "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "count": 0
   },
   {
-   "n": "Tri Dao",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "松尾豊",
+   "ok": true,
+   "count": 2
   },
   {
-   "n": "Woosuk Kwon",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "David Ha",
+   "ok": true,
+   "count": 4
   },
   {
-   "n": "Georgi Gerganov",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "岡野原大輔",
+   "ok": true,
+   "count": 2
   },
   {
-   "n": "Kaiming He 何愷明",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Ian Goodfellow",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Sergey Levine",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Karol Hausman",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Anima Anandkumar",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Pushmeet Kohli",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Been Kim",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Percy Liang",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Timnit Gebru",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Beth Barnes",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Llion Jones",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "秋葉拓哉",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
-  },
-  {
-   "n": "Junyang Lin 林俊旸",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "n": "Yang Zhilin 楊植麟",
+   "ok": true,
+   "count": 6
   }
  ],
- "generated_at": "2026-08-20T19:40:41Z"
+ "generated_at": "2026-08-21T19:33:49Z"
 }
