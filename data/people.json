@@ -3932,6 +3932,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-08-21",
+    "t": "Building a 100x Cheaper Trace Judge with Fireworks",
+    "u": "https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-20",
     "t": "Test Agent Changes with LangSmith Preview Builds",
     "u": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
@@ -3941,12 +3947,6 @@
     "d": "2026-08-19",
     "t": "Introducing LangSmith Tuned Evaluators",
     "u": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-18",
-    "t": "AgentCore Payments middleware for LangChain agents",
-    "u": "https://www.langchain.com/blog/langchain-agentcore-payments",
     "s": "blog"
    }
   ],
@@ -4425,20 +4425,20 @@
   "own": [
    {
     "d": "2026-08-21",
-    "t": "Stop Making TUIs",
-    "u": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "t": "llm 0.32.1",
+    "u": "https://simonwillison.net/2026/Aug/21/llm/",
     "s": "blog"
    },
    {
     "d": "2026-08-21",
-    "t": "Quoting Matt Webb",
-    "u": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+    "t": "llm-openrouter 0.7",
+    "u": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
     "s": "blog"
    },
    {
-    "d": "2026-08-20",
-    "t": "ChatGPT search now uses the site:operator at scale",
-    "u": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+    "d": "2026-08-21",
+    "t": "Stop Making TUIs",
+    "u": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
     "s": "blog"
    }
   ],
@@ -5636,21 +5636,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-08-20",
-    "t": "Take an interactive journey through America’s national parks",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
+    "d": "2026-08-21",
+    "t": "Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.",
+    "u": "https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/",
     "s": "blog"
    },
    {
-    "d": "2026-08-20",
-    "t": "Personalize the content you see on Search, Discover, and News",
-    "u": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+    "d": "2026-08-21",
+    "t": "What does “full-stack” AI actually mean?",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
     "s": "blog"
    },
    {
-    "d": "2026-08-20",
-    "t": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+    "d": "2026-08-21",
+    "t": "Here's how to use sign-to-text translation on Pixel 11.",
+    "u": "https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/",
     "s": "blog"
    }
   ],
