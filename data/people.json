@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-14",
+    "t": "Geoffrey Hinton's Biggest AI Warning Yet",
+    "u": "https://www.youtube.com/watch?v=r7fEV4tvvLc",
+    "s": "yt",
+    "o": "StudentAI Hub"
+   },
+   {
     "d": "2026-08-06",
     "t": "AI4 2026 Conference Recap: Geoffrey Hinton, AI Governance & Live Takeaways from Las Vegas",
     "u": "https://www.youtube.com/watch?v=3UnqWZEX9Fc",
@@ -53,13 +60,6 @@
     "d": "2026-08-05",
     "t": "Geoffrey Hinton: Can AI Think, Feel, and Take Over?",
     "u": "https://www.youtube.com/watch?v=3B-5Nba3MbU",
-    "s": "yt",
-    "o": "The Leader’s Inner Compass"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "Geoffrey Hinton: Superintelligence Will Replace Us.",
-    "u": "https://www.youtube.com/watch?v=ipHzr8Mhzo8",
     "s": "yt",
     "o": "The Leader’s Inner Compass"
    }
@@ -193,18 +193,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "「LLMs Are A Dead End」: An Exclusive Interview With The Genius Father of AI",
-    "u": "https://www.youtube.com/watch?v=XnnnAx5lrx8",
+    "d": "2026-08-16",
+    "t": "Yann LeCun vs  the world | Why the \"godfather of AI\" bet $3.5 billion that LLMs are a dead end",
+    "u": "https://www.youtube.com/watch?v=ox63ohs1NMg",
     "s": "yt",
-    "o": "This Is The World"
+    "o": "PodCast OscarAI"
    },
    {
-    "d": "不明",
-    "t": "Yann LeCun on What Comes After LLMs",
-    "u": "https://www.youtube.com/watch?v=ngBraLDqzdI",
+    "d": "2026-08-08",
+    "t": "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
+    "u": "https://www.youtube.com/watch?v=srAK9Jp_0f0",
     "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
+    "o": "Zenvora Productions"
+   },
+   {
+    "d": "2026-07-07",
+    "t": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
+    "u": "https://www.youtube.com/watch?v=m7ywFu3Yqh8",
+    "s": "yt",
+    "o": "A la french  💻"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -486,7 +493,7 @@
     "t": "Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI",
     "u": "https://www.youtube.com/watch?v=yBC5DhzR8zE",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    }
   ],
   "note": "UCLA因果ブログの最新本人記事は2023-03で対象期間外。",
@@ -768,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-20",
+    "t": "逃离巨头内耗，打破算力垄断，与华尔街决裂！Jeff Dean 出走 Google 的震撼内幕",
+    "u": "https://www.youtube.com/watch?v=uiJ9e0cW9iA",
+    "s": "yt",
+    "o": "wow"
+   },
+   {
     "d": "2026-08-18",
     "t": "Jeff Dean | 2026 Frontier & Pioneer Symposium",
     "u": "https://www.youtube.com/watch?v=0kC3xOZChdA",
@@ -780,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=y-XOgW97emo",
     "s": "yt",
     "o": "最佳拍档"
-   },
-   {
-    "d": "2026-08-08",
-    "t": "Google’s Jeff Dean Exits, SpaceX Hits $100B in Rev & OpenAI’s Astra Solves Decade-Old Math Problems",
-    "u": "https://www.youtube.com/watch?v=Jku8b2YKuy0",
-    "s": "yt",
-    "o": "Peter H. Diamandis"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -918,25 +925,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Dario Amodei — 「We are near the end of the exponential」",
-    "u": "https://www.youtube.com/watch?v=n1E9IZfvGMA",
+    "d": "2026-08-21",
+    "t": "Inside the Mind of Anthropic CEO Dario Amodei | AI, Power and the Exponential",
+    "u": "https://www.youtube.com/watch?v=PjE7OaId_qg",
     "s": "yt",
-    "o": "Dwarkesh Patel"
+    "o": "Moconomy"
    },
    {
-    "d": "不明",
-    "t": "Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview",
-    "u": "https://www.youtube.com/watch?v=x2VHFgyawPE",
+    "d": "2026-08-18",
+    "t": "Dario Amodei Breaks His Social Media Silence",
+    "u": "https://www.youtube.com/watch?v=_q3yhihZKSg",
     "s": "yt",
-    "o": "Bloomberg Originals"
+    "o": "The AI Daily Brief: Artificial Intelligence News"
    },
    {
-    "d": "不明",
-    "t": "Anthropic CEO Dario Amodei From World Economic Forum | WSJ",
-    "u": "https://www.youtube.com/watch?v=K7F6ohcBJus",
+    "d": "2026-08-03",
+    "t": "Dario Amodei: We Use Claude to Build Claude (Full Interview Breakdown)",
+    "u": "https://www.youtube.com/watch?v=DDKNHQ53Ou8",
     "s": "yt",
-    "o": "The Wall Street Journal"
+    "o": "StudentAI Hub"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1179,18 +1186,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Thinking Machines CEO Mira Murati on Building Interaction Models with Humans in the Loop",
-    "u": "https://www.youtube.com/watch?v=XLX4dQ7j9lM",
+    "d": "2026-07-29",
+    "t": "China Broke the Servers & Mira Murati's First Model",
+    "u": "https://www.youtube.com/watch?v=AJPAzc-EVu0",
     "s": "yt",
-    "o": "PodiumVC"
+    "o": "Digilize Lab"
    },
    {
-    "d": "不明",
-    "t": "Inside OpenAI, the Architect of ChatGPT | The Circuit with Emily Chang",
-    "u": "https://www.youtube.com/watch?v=p9Q5a1Vn-Hk",
+    "d": "2026-07-17",
+    "t": "Mira Murati's 975B Open Model, Ramin Hasani on Post-Transformer AI, and Demis' AI FINRA | EP #271",
+    "u": "https://www.youtube.com/watch?v=bAoXVyibE6Q",
     "s": "yt",
-    "o": "Bloomberg Originals"
+    "o": "Peter H. Diamandis"
+   },
+   {
+    "d": "2026-07-09",
+    "t": "Mira Murati, the Quiet Superpower in the AI Race",
+    "u": "https://www.youtube.com/watch?v=XgwG_V_b1u0",
+    "s": "yt",
+    "o": "In The Blink of AI"
    }
   ],
   "note": "Thinking Machines Lab公式ブログに本人著者の記事は確認できず。",
@@ -1316,25 +1330,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "How OpenAI Shapes Its Research And What's Next - EP 46",
-    "u": "https://www.youtube.com/watch?v=ZeyHBM2Y5_4",
+    "d": "2026-08-15",
+    "t": "A Revolutionized Joy-Giving Life | Phil 2:12-18 | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=y9K1SX2nfoM",
     "s": "yt",
-    "o": "Core Memory Podcast"
+    "o": "Covenant Grace Church, Penang"
    },
    {
-    "d": "不明",
-    "t": "From Vibe Coding to Vibe Researching: OpenAI's Mark Chen and Jakub Pachocki",
-    "u": "https://www.youtube.com/watch?v=KSgPNVmZ8jQ",
+    "d": "2026-07-28",
+    "t": "Gay Christian? When Biblical Truth and Gospel Hope Clash with Conversion Therapy Laws, by Mark Chen",
+    "u": "https://www.youtube.com/watch?v=ZkT-uep0GWY",
     "s": "yt",
-    "o": "a16z"
+    "o": "ARPA Australia"
    },
    {
-    "d": "不明",
-    "t": "Cooking with OpenAI's Research Chief: AGI, o1, Evals, and Scaling Laws",
-    "u": "https://www.youtube.com/watch?v=fpAthTtha8c",
+    "d": "2026-07-07",
+    "t": "All Intelligence, ahead in time with Huawei Cloud--Mark Chen at Compass 2026",
+    "u": "https://www.youtube.com/watch?v=KCOffiy2d3Y",
     "s": "yt",
-    "o": "Latent Space"
+    "o": "Huawei Cloud LATAM"
    }
   ],
   "note": "",
@@ -1460,25 +1474,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI",
-    "u": "https://www.youtube.com/watch?v=v0gjI__RyCY",
+    "d": "2026-06-28",
+    "t": "Transformer八位作者现状 | Noam Shazeer离职 | Google DeepMind | OpenAI | Anthropic | AI人才外流",
+    "u": "https://www.youtube.com/watch?v=pSTKE6JLl1Q",
     "s": "yt",
-    "o": "Dwarkesh Patel"
+    "o": "Nana Chen Studio"
    },
    {
-    "d": "不明",
-    "t": "Noam Shazeer and Jack Rae: Scaling Test-time Compute, Reactions to Ilya & AGI",
-    "u": "https://www.youtube.com/watch?v=atMRWzgHEGg",
+    "d": "2026-06-23",
+    "t": "AI Is Entering Its Institutional Phase, Google Gemini’s Noam Shazeer Joins OpenAI",
+    "u": "https://www.youtube.com/watch?v=OHCzeimh9R4",
     "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
+    "o": "A Global Tech Podcast"
    },
    {
-    "d": "不明",
-    "t": "No Priors Ep. 12 | With Noam Shazeer",
-    "u": "https://www.youtube.com/watch?v=emCoG-hA7AE",
+    "d": "2026-06-19",
+    "t": "Midjourney Goes Medical, Noam Shazeer & Dean Ball Join OpenAI | Diet TBPN",
+    "u": "https://www.youtube.com/watch?v=8rYW2eYQfvQ",
     "s": "yt",
-    "o": "No Priors"
+    "o": "TBPN"
    }
   ],
   "note": "個人ブログ・Substackは確認できず。",
@@ -1590,25 +1604,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "No Priors Ep. 91 | With Cohere Co-Founder and CEO Aidan Gomez",
-    "u": "https://www.youtube.com/watch?v=2XRpTZpHjfc",
+    "d": "2026-06-26",
+    "t": "Aidan Gomez Unfiltered on AGI, China & AI's Biggest Risk",
+    "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
     "s": "yt",
-    "o": "No Priors"
+    "o": "Newcomer"
    },
    {
-    "d": "不明",
-    "t": "Inside the Paper That Changed AI Forever - Cohere CEO Aidan Gomez on 2025 Agents",
-    "u": "https://www.youtube.com/watch?v=wGmfhn1n6GA",
+    "d": "2026-06-26",
+    "t": "Aidan Gomez (Cohere) at the Cerebral Valley AI Summit in London",
+    "u": "https://www.youtube.com/watch?v=zFsB5VvrTD4",
     "s": "yt",
-    "o": "The MAD Podcast with Matt Turck"
+    "o": "Newcomer AI Summits"
    },
    {
-    "d": "不明",
-    "t": "What No One Understands About Foundation Models | E1191",
-    "u": "https://www.youtube.com/watch?v=FUGosOgiTeI",
+    "d": "2026-06-25",
+    "t": "Aidan Gomez - Founder at Cohere - $7B Enterprise AI Moat",
+    "u": "https://www.youtube.com/watch?v=wbhNKFKl4s0",
     "s": "yt",
-    "o": "20VC with Harry Stebbings"
+    "o": "The Greats"
    }
   ],
   "note": "Cohere公式ブログの本人著者ページ最新は2025-01。",
@@ -1699,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-19",
+    "t": "This 1-Hour Andrej Karpathy Lecture Explains Modern AI Better Than Most Courses",
+    "u": "https://www.youtube.com/watch?v=EsQ_bmXKA4A",
+    "s": "yt",
+    "o": "TechXOps"
+   },
+   {
     "d": "2026-08-14",
     "t": "\"Delete Everything, Keep Graph” -  Andrej Karpathy Stanford Lecture",
     "u": "https://www.youtube.com/watch?v=XdbpCM4yGyE",
@@ -1711,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=EEVm5sOSyR4",
     "s": "yt",
     "o": "viki virgon1"
-   },
-   {
-    "d": "2026-07-03",
-    "t": "#333 – Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI",
-    "u": "https://www.youtube.com/watch?v=bOSAdhQh-VU",
-    "s": "yt",
-    "o": "MindVoice Production"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2055,8 +2069,8 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Mistral: Voxtral TTS, Forge, Leanstral, & Mistral 4",
+    "d": "2026-03-30",
+    "t": "Mistral: Voxtral TTS, Forge, Leanstral, & Mistral 4 — w/ Pavan Kumar Reddy & Guillaume Lample",
     "u": "https://www.youtube.com/watch?v=SUjA25ijcNs",
     "s": "yt",
     "o": "Latent Space"
@@ -2180,25 +2194,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
+    "d": "2026-08-03",
+    "t": "[한글자막] Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
+    "u": "https://www.youtube.com/watch?v=tFyFurOpi_E",
+    "s": "yt",
+    "o": "PunkAI"
+   },
+   {
+    "d": "2026-07-29",
     "t": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
     "u": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
     "s": "yt",
     "o": "Sequoia Capital"
    },
    {
-    "d": "不明",
-    "t": "Ex-OpenAI Researcher On Why He Left, His Honest AGI Timeline, & The Limits of Scaling RL",
-    "u": "https://www.youtube.com/watch?v=XtPZGVpbzOE",
+    "d": "2026-07-29",
+    "t": "OpenAI Jerry Tworek 揭幕全自动 AGI 实验室内幕",
+    "u": "https://www.youtube.com/watch?v=Dwg9cSN09X8",
     "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
-   },
-   {
-    "d": "不明",
-    "t": "Why One of OpenAI's Top Researchers Walked Away - EP 53",
-    "u": "https://www.youtube.com/watch?v=VaCq4u5c78U",
-    "s": "yt",
-    "o": "Core Memory Podcast"
+    "o": "Joy AI"
    }
   ],
   "note": "個人ブログ・OpenAI公式の本人名義記事は確認できず。日付未確認。",
@@ -2572,7 +2586,22 @@
     "o": "虎嗅網（書き起こし転載）"
    }
   ],
-  "yt": [],
+  "yt": [
+   {
+    "d": "2026-07-31",
+    "t": "The Lilian Weng Saga, Mental Health Essay Then OpenAI | Meta's AI Ad, China Cracks DUV",
+    "u": "https://www.youtube.com/watch?v=PBGC6CjfdtM",
+    "s": "yt",
+    "o": "More or Less Podcast"
+   },
+   {
+    "d": "2026-07-09",
+    "t": "AI自我递归改进先要靠Harness工程 | Lilian Weng最新长文 | 反馈循环 | 三个设计模式 | 核心智能 | ACE | MCE | Meta-Harness | STOP",
+    "u": "https://www.youtube.com/watch?v=z_F0z7wF5XU",
+    "s": "yt",
+    "o": "最佳拍档"
+   }
+  ],
   "note": "Lil'Log を直接確認。エージェント設計の解説として最も参照される連載。",
   "mnote": "一次ソース（音声・動画URL）を特定できたものはゼロ。2026年7月にThinking MachinesからOpenAIへ復帰との報道あり。",
   "ynote": "本人が話す対談動画を検証できなかった。検索結果は学会の単独講演か、本人不在の論文解説動画のみ。"
@@ -2702,25 +2731,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "The Agent Cloud: Databricks' Bet on the Future of AI（Reynold Xinと）",
-    "u": "https://www.youtube.com/watch?v=Yp_u1NpbkJg",
+    "d": "2026-08-12",
+    "t": "1st Spark: Big Data Scala, Matei Zaharia, Apache Spark",
+    "u": "https://www.youtube.com/watch?v=ui7_Ot5OuKk",
     "s": "yt",
-    "o": "Latent Space"
+    "o": "FunctionalTV"
    },
    {
-    "d": "不明",
-    "t": "The future of Governance and AI with Databricks CTO Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=OeIc1nCBcAg",
+    "d": "2026-08-11",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
-    "o": "NextGenLakehouse"
+    "o": "FunctionalTV"
    },
    {
-    "d": "不明",
-    "t": "Leveraging AI For Business Outcomes: Interview With Databricks CTO",
-    "u": "https://www.youtube.com/watch?v=OLv-Kk4xoI4",
+    "d": "2026-08-11",
+    "t": "1st Spark: Matei Zaharia answers questions about Spark at the first Apache Spark meetup",
+    "u": "https://www.youtube.com/watch?v=owRgcgImrO8",
     "s": "yt",
-    "o": "Josue Bogran Channel"
+    "o": "FunctionalTV"
    }
   ],
   "note": "Databricks公式ブログの著者ページで確認。",
@@ -3002,25 +3031,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Cursor CEO: Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters",
-    "u": "https://www.youtube.com/watch?v=oOylEw3tPQ8",
+    "d": "2026-06-23",
+    "t": "[한글자막] Cursor 공동창업자 Michael Truell의 Compile 26 오프닝 키노트",
+    "u": "https://www.youtube.com/watch?v=K-QOiihIXQk",
     "s": "yt",
-    "o": "Y Combinator"
+    "o": "Tech Bridge"
    },
    {
-    "d": "不明",
-    "t": "Michael Truell: How Cursor Builds at the Speed of AI",
-    "u": "https://www.youtube.com/watch?v=deMrq2uzRKA",
+    "d": "2026-06-22",
+    "t": "Opening Keynote, Michael Truell | Compile 26",
+    "u": "https://www.youtube.com/watch?v=fWa7uxyhVDE",
     "s": "yt",
-    "o": "a16z"
+    "o": "Cursor"
    },
    {
-    "d": "不明",
-    "t": "First Block: Interview with Michael Truell, Co-Founder and CEO of Cursor",
-    "u": "https://www.youtube.com/watch?v=4n5u_xq_czc",
+    "d": "2026-06-20",
+    "t": "Michael Truell cofounder of Cursor's fireside chat with Ed Catmull, cofounder of Pixar",
+    "u": "https://www.youtube.com/watch?v=i288Aa5TH2Y",
     "s": "yt",
-    "o": "Notion"
+    "o": "Morgan Linton"
    }
   ],
   "note": "cursor.com/blog に本人名義の記事は見当たらず。",
@@ -3288,6 +3317,13 @@
   ],
   "yt": [
    {
+    "d": "2026-03-31",
+    "t": "Google DeepMind’s Vision for Agent-First Development | Kevin Hou and Varun Mohan on Antigravity",
+    "u": "https://www.youtube.com/watch?v=xsVD9_cJNYs",
+    "s": "yt",
+    "o": "Kleiner Perkins"
+   },
+   {
     "d": "不明",
     "t": "The Oral History of Windsurf (ft. Varun Mohan, Scott Wu, Jeff Wang 他)",
     "u": "https://www.youtube.com/watch?v=OzY9ud0RBLY",
@@ -3378,7 +3414,15 @@
    }
   ],
   "med": [],
-  "yt": [],
+  "yt": [
+   {
+    "d": "2026-07-13",
+    "t": "Jean-Paul Gauthier à Tahiti",
+    "u": "https://www.youtube.com/watch?v=amGjXUcbKSI",
+    "s": "yt",
+    "o": "Paris Modes - A la semaine prochaine !"
+   }
+  ],
   "note": "aider.chat/blog は2025-05以降更新なし。paulg.info は本人の個人サイト。",
   "mnote": "インタビュー・ポッドキャスト・講演を1件も確認できず。Aiderという広く使われるツールを作りながら、ほぼメディアに出ない稀有な例。",
   "ynote": "重要: YouTubeでも本人出演の対談・インタビューは0件。検索結果は全て第三者によるAiderの解説・チュートリアル。"
@@ -3501,25 +3545,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Replitはソフトウェアを作れる人の範囲をどう変えているか | StrictlyVC",
-    "u": "https://www.youtube.com/watch?v=SwT4eg0nC3k",
+    "d": "2026-07-28",
+    "t": "CEO Tech Live | S3:E4 | Amjad Masad on the AI Bet That Changed Replit",
+    "u": "https://www.youtube.com/watch?v=4GZoCG2HOh4",
     "s": "yt",
-    "o": "TechCrunch"
+    "o": "Hexaware Technologies"
    },
    {
-    "d": "不明",
-    "t": "Why the SaaS Apocalypse is Justified & Why Coding Models are Plateauing",
-    "u": "https://www.youtube.com/watch?v=pN-CK54ms2c",
+    "d": "2026-07-18",
+    "t": "Amjad Masad on Good Enough AI, AGI, and the End of Coding",
+    "u": "https://www.youtube.com/watch?v=Jrivfqn5GbA",
     "s": "yt",
-    "o": "20VC with Harry Stebbings"
+    "o": "Kaushik Datta"
    },
    {
-    "d": "不明",
-    "t": "Marc Andreessen & Amjad Masad on 「Good Enough」 AI, AGI, and the End of Coding",
-    "u": "https://www.youtube.com/watch?v=g-WeCOUYBrk",
+    "d": "2026-06-10",
+    "t": "Replit Founder and CEO Amjad Masad and PostHog CEO James Hawkins | Granola Firesides",
+    "u": "https://www.youtube.com/watch?v=5qZaNJvHnAU",
     "s": "yt",
-    "o": "a16z"
+    "o": "Granola"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -3645,25 +3689,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Keynote Interview: Vercel's Guillermo Rauch on the Agent Era",
-    "u": "https://www.youtube.com/watch?v=LXys8EPan7U",
+    "d": "2026-08-14",
+    "t": "Vercel CEO Guillermo Rauch：揭秘 AI 代理人革命與企業級 EVE 框架",
+    "u": "https://www.youtube.com/watch?v=cUO5hZi7OtU",
     "s": "yt",
-    "o": "Microsoft Developer"
+    "o": "PP科技筆記 Podcast"
    },
    {
-    "d": "不明",
-    "t": "Building Vercel With Purpose in an AI-First World | 2026 Upfront Summit",
-    "u": "https://www.youtube.com/watch?v=PFrLGLXvfc4",
+    "d": "2026-08-13",
+    "t": "Fireside Chat with Guillermo Rauch | Supabase Select 2025",
+    "u": "https://www.youtube.com/watch?v=qgXwe4sK6R8",
     "s": "yt",
-    "o": "Upfront Ventures"
+    "o": "Supabase"
    },
    {
-    "d": "不明",
-    "t": "Architecting for model step-changes: A fireside with Vercel's Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=bJKdXhnw7NU",
+    "d": "2026-08-06",
+    "t": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=HQXi4snP36I",
     "s": "yt",
-    "o": "Claude"
+    "o": "Riley Brown"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -4050,25 +4094,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "LlamaIndex CEO Jerry Liu, Thursday Nights in AI",
-    "u": "https://www.youtube.com/watch?v=1Nbo7sJXofo",
+    "d": "2026-08-05",
+    "t": "LlamaIndex Document Infrastructure for AI Agents - Jerry Liu, Co Founder and CEO at #AI4",
+    "u": "https://www.youtube.com/watch?v=Bk2J0KV4DPY",
     "s": "yt",
-    "o": "Outset Capital"
+    "o": "Eli the Computer Guy"
    },
    {
-    "d": "不明",
-    "t": "Jerry Liu, CEO & Co-Founder of LlamaIndex, joins NYSE Floor Talk",
-    "u": "https://www.youtube.com/watch?v=QtYL4Cm-pjE",
+    "d": "2026-06-03",
+    "t": "The AI Framework Era Is Over: Why Context Is the Moat | Jerry Liu",
+    "u": "https://www.youtube.com/watch?v=PJ-3hXAUotI",
     "s": "yt",
-    "o": "New York Stock Exchange"
+    "o": "The Chain of Thought Podcast"
    },
    {
-    "d": "不明",
-    "t": "Jerry Liu, LlamaIndex CEO - Interview",
-    "u": "https://www.youtube.com/watch?v=4pfGyLkn_FU",
+    "d": "2026-05-22",
+    "t": "AI Dev 26 x SF | Jerry Liu: My Agent Can't Read a PDF?",
+    "u": "https://www.youtube.com/watch?v=80vV6fGIlWo",
     "s": "yt",
-    "o": "mindshub"
+    "o": "DeepLearningAI"
    }
   ],
   "note": "llamaindex.ai/blog は著者表記が確認できずX投稿のみ採用。",
@@ -4200,18 +4244,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Exploring Multi-Agent AI and AutoGen with Chi Wang",
-    "u": "https://www.youtube.com/watch?v=RLwyXRVvlNk",
+    "d": "2026-08-20",
+    "t": "Multi-Agent Architectures in Production with Chi Wang and Xiao Ma",
+    "u": "https://www.youtube.com/watch?v=oVQi6LIHWtg",
     "s": "yt",
-    "o": "Foundation Capital"
+    "o": "Deep Engineering"
    },
    {
-    "d": "不明",
-    "t": "AI Frontiers: Chi Wang, Creator of AutoGen",
-    "u": "https://www.youtube.com/watch?v=iMvq_z4LT0U",
+    "d": "2026-08-06",
+    "t": "Purpose at Work | Live by Chi Chi Wang ",
+    "u": "https://www.youtube.com/watch?v=hLfGr433XSA",
     "s": "yt",
-    "o": "Valory"
+    "o": "Chi Chi Wang • C.C.Within "
+   },
+   {
+    "d": "2026-07-10",
+    "t": "Australian Pronunciation | Chi Chi Wang",
+    "u": "https://www.youtube.com/watch?v=rzZ_JoPpAjM",
+    "s": "yt",
+    "o": "Chi Chi Wang • C.C.Within "
    }
   ],
   "note": "2025年2月以降の本人発信で本文確認できるものは見つからず。",
@@ -4317,6 +4368,13 @@
   ],
   "yt": [
    {
+    "d": "2026-04-20",
+    "t": "Yohei Nakajima：AI時代的創投革命 | Untapped VC 的頂層投資策略與自動化應用",
+    "u": "https://www.youtube.com/watch?v=2LXclhL3-v8",
+    "s": "yt",
+    "o": "PP科技筆記 Podcast"
+   },
+   {
     "d": "不明",
     "t": "BabyAGI, AI Agents & AI Investing | Around the Prompt #2",
     "u": "https://www.youtube.com/watch?v=9j6WPiJhvd0",
@@ -4329,13 +4387,6 @@
     "u": "https://www.youtube.com/watch?v=6DnnTD9d2bg",
     "s": "yt",
     "o": "Cognitive Revolution"
-   },
-   {
-    "d": "不明",
-    "t": "Yohei Nakajima on the future of AI and Web3",
-    "u": "https://www.youtube.com/watch?v=RSDPgtL3nig",
-    "s": "yt",
-    "o": "Composio"
    }
   ],
   "note": "ブログ最新は2025-12-05。",
@@ -4610,25 +4661,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "The End of Nvidia's Dominance, Why Inference Costs Fell & The Next 10X in Speed",
-    "u": "https://www.youtube.com/watch?v=xlSaoP0b90A",
+    "d": "2026-08-20",
+    "t": "ICML 2026: Fireside chat with Tri Dao & Max Ryabinin",
+    "u": "https://www.youtube.com/watch?v=VKEaBNK0VLU",
     "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
+    "o": "Together AI"
    },
    {
-    "d": "不明",
-    "t": "FlashAttention and sparsity, quantization, and efficient inference",
-    "u": "https://www.youtube.com/watch?v=Yuj6fjWLJYs",
+    "d": "2026-08-16",
+    "t": "Ajahn Tri Dao  is live!",
+    "u": "https://www.youtube.com/watch?v=uoetQ8RDiq4",
     "s": "yt",
-    "o": "Imbue"
+    "o": "Ajahn Tri Dao "
    },
    {
-    "d": "不明",
-    "t": "Tri Dao on Flash Attention",
-    "u": "https://www.youtube.com/watch?v=IZ-Q10lwep0",
+    "d": "2026-08-14",
+    "t": "Ajahn Tri Dao  is live!",
+    "u": "https://www.youtube.com/watch?v=A6wrhdrekkg",
     "s": "yt",
-    "o": "AGI House"
+    "o": "Ajahn Tri Dao "
    }
   ],
   "note": "個人ブログで技術記事を継続的に発信。",
@@ -5112,25 +5163,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Generative Adversarial Networks (GANs) | Lex Fridman Podcast #19",
-    "u": "https://www.youtube.com/watch?v=Z6rxFNMGdn0",
+    "d": "2026-08-04",
+    "t": "Ian Goodfellow: Generative Adversarial Networks (GANs)",
+    "u": "https://www.youtube.com/watch?v=kAmQnpJ_-ek",
     "s": "yt",
-    "o": "Lex Fridman"
+    "o": "Zenvora Productions"
    },
    {
-    "d": "不明",
-    "t": "Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow",
-    "u": "https://www.youtube.com/watch?v=pWAc9B2zJS4",
+    "d": "2026-07-20",
+    "t": "Deep Learning: Ian Goodfellow | Análisis Completo y Profundo en Español",
+    "u": "https://www.youtube.com/watch?v=VZ2T9Jg4-Po",
     "s": "yt",
-    "o": "Preserve Knowledge"
+    "o": "Enciclopedia"
    },
    {
-    "d": "不明",
-    "t": "Interview With Ian Goodfellow, RE•WORK Deep Learning Summit",
-    "u": "https://www.youtube.com/watch?v=MrK95Iv95So",
+    "d": "2026-06-27",
+    "t": "Ian Goodfellow: Generative Adversarial Networks (GANs)",
+    "u": "https://www.youtube.com/watch?v=np4AIKE4s7g",
     "s": "yt",
-    "o": "RE•WORK"
+    "o": "MindVoice Production"
    }
   ],
   "note": "本人名義のブログ・Substackは確認できず。",
@@ -5259,7 +5310,7 @@
     "t": "#108 – Sergey Levine: Robotics and Machine Learning",
     "u": "https://www.youtube.com/watch?v=9yKrxygFvlw",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-07-22",
@@ -5405,6 +5456,13 @@
   ],
   "yt": [
    {
+    "d": "2026-06-24",
+    "t": "Karol Hausman and Physical Intelligence - Building the universal robot brain",
+    "u": "https://www.youtube.com/watch?v=2E-6DjamI8A",
+    "s": "yt",
+    "o": "The Greats"
+   },
+   {
     "d": "不明",
     "t": "The Race to Create General-Purpose Robots | Karol Hausman & Lachy Groom",
     "u": "https://www.youtube.com/watch?v=RdxAYNIYxAc",
@@ -5417,13 +5475,6 @@
     "u": "https://www.youtube.com/watch?v=cpGQa5Q4yII",
     "s": "yt",
     "o": "Unsupervised Learning: With Jacob Effron"
-   },
-   {
-    "d": "不明",
-    "t": "Training General Robots for Any Task（Tobi Springenbergと）",
-    "u": "https://www.youtube.com/watch?v=OJCT-HGxPjk",
-    "s": "yt",
-    "o": "Sequoia Capital"
    }
   ],
   "note": "本人が著者一覧に入るのは大型モデル発表回のみ。個人ブログ・X投稿は確認できず。",
@@ -5548,6 +5599,13 @@
   ],
   "yt": [
    {
+    "d": "2026-07-22",
+    "t": "Anima Anandkumar: How do we build AI to push the frontiers of scientific discovery?",
+    "u": "https://www.youtube.com/watch?v=B4EMfGKpm8s",
+    "s": "yt",
+    "o": "SAIR"
+   },
+   {
     "d": "不明",
     "t": "Prof Anima Anandkumar | Caltech | ADIPEC 2025",
     "u": "https://www.youtube.com/watch?v=xALFfVbd8wA",
@@ -5560,13 +5618,6 @@
     "u": "https://www.youtube.com/watch?v=VZLI5ODM9nw",
     "s": "yt",
     "o": "nasscom"
-   },
-   {
-    "d": "不明",
-    "t": "Founder Stories: Anima Anandkumar, Caltech Professor & former NVIDIA AI Research Director",
-    "u": "https://www.youtube.com/watch?v=e2_w8UZa-TA",
-    "s": "yt",
-    "o": "Axial"
    }
   ],
   "note": "Caltech個人ページに本人執筆ブログの掲載なし。X日付は取得できず。",
@@ -5679,25 +5730,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "No Priors Ep. 120 | With Pushmeet Kohli and Matej Balog",
-    "u": "https://www.youtube.com/watch?v=2Fs6VZpsiMQ",
+    "d": "2026-06-28",
+    "t": "AlphaGo 10년: AI의 전환점 | Thore Graepel & Pushmeet Kohli",
+    "u": "https://www.youtube.com/watch?v=XL4nsAPHH7I",
     "s": "yt",
-    "o": "No Priors"
+    "o": "sudoremove 창고"
    },
    {
-    "d": "不明",
-    "t": "AIが解くべき次の生物学のフロンティアについて",
-    "u": "https://www.youtube.com/watch?v=wMeRg4RkBto",
+    "d": "2026-06-16",
+    "t": "AI x BIO 2026 | Keynote lecture by Pushmeet Kohli, Google DeepMind, UK",
+    "u": "https://www.youtube.com/watch?v=E2CB8V32QWw",
     "s": "yt",
-    "o": "moneycontrol"
+    "o": "Wellcome Connecting Science Learning and Training "
    },
    {
-    "d": "不明",
-    "t": "S2E17: Pushmeet Kohli with Dhruv Batra on Humans of AI",
-    "u": "https://www.youtube.com/watch?v=OPiNY8IYyr8",
+    "d": "2026-03-10",
+    "t": "10 years of AlphaGo: The turning point for AI | Thore Graepel & Pushmeet Kohli",
+    "u": "https://www.youtube.com/watch?v=qoinGjj60Fo",
     "s": "yt",
-    "o": "Devi Parikh"
+    "o": "Google DeepMind"
    }
   ],
   "note": "3件とも記事末尾の署名で本人名を確認。現肩書はGoogle Cloud最高科学責任者兼DeepMind VP。",
@@ -5900,25 +5951,25 @@
   ],
   "yt": [
    {
-    "d": "不明",
-    "t": "Shaping AI Benchmarks with Together AI Co-Founder Percy Liang",
-    "u": "https://www.youtube.com/watch?v=kwkdKirqi6s",
+    "d": "2026-07-22",
+    "t": "CAIS 2026 | Keynote: Percy Liang (Stanford University)",
+    "u": "https://www.youtube.com/watch?v=m5pn6XH9rdM",
     "s": "yt",
-    "o": "Weights & Biases"
+    "o": "Association for Computing Machinery (ACM)"
    },
    {
-    "d": "不明",
-    "t": "Stanford AI Researcher on What's Next in Research, Reaction to o1",
-    "u": "https://www.youtube.com/watch?v=ZEi4OTuFa3I",
+    "d": "2026-03-04",
+    "t": "【斯坦福大学】CS221 人工智能：原理与技术-Percy Liang（全38-第1讲）主讲人：Percy Liang#人工智能公开课",
+    "u": "https://www.youtube.com/watch?v=PPh3jIZv5Vc",
     "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
+    "o": "10AI学习课堂"
    },
    {
-    "d": "不明",
-    "t": "No Priors Ep. 7 | With Stanford Professor Dr. Percy Liang",
-    "u": "https://www.youtube.com/watch?v=DzIPBGRhOMQ",
+    "d": "2026-03-04",
+    "t": "【斯坦福大学】CS221 人工智能：原理与技术-Percy Liang（全38讲-第3讲）主讲人：Percy Liang#人工智能公开课",
+    "u": "https://www.youtube.com/watch?v=AY6p1dhQkfs",
     "s": "yt",
-    "o": "No Priors"
+    "o": "10AI学习课堂"
    }
   ],
   "note": "CRFM公式ブログで著者に本人名がある最新3件。",
@@ -6174,7 +6225,7 @@
   ],
   "yt": [
    {
-    "d": "不明",
+    "d": "2026-05-04",
     "t": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
     "u": "https://www.youtube.com/watch?v=zSAGzfspuDE",
     "s": "yt",
@@ -6305,18 +6356,18 @@
   ],
   "yt": [
    {
+    "d": "2026-05-19",
+    "t": "Transformer vs Post-Transformer | ft. Lukasz Kaiser, Adrian Kosowski, Mathias Lechner, & Llion Jones",
+    "u": "https://www.youtube.com/watch?v=hCjoMLuCuLQ",
+    "s": "yt",
+    "o": "Pathway (pathway.com)"
+   },
+   {
     "d": "不明",
     "t": "He Co-Invented the Transformer. Now: Continuous Thought Machines",
     "u": "https://www.youtube.com/watch?v=DtePicx_kFY",
     "s": "yt",
     "o": "Machine Learning Street Talk"
-   },
-   {
-    "d": "不明",
-    "t": "Transformer vs Post-Transformer | ft. Lukasz Kaiser, Adrian Kosowski 他",
-    "u": "https://www.youtube.com/watch?v=hCjoMLuCuLQ",
-    "s": "yt",
-    "o": "Pathway"
    },
    {
     "d": "不明",
