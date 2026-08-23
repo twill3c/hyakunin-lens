@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-08-22",
+    "t": "Quoting Linus Torvalds",
+    "u": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-22",
     "t": "llm 0.33",
     "u": "https://simonwillison.net/2026/Aug/22/llm/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-08-22",
     "t": "More than just code review",
     "u": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-21",
-    "t": "llm 0.32.1",
-    "u": "https://simonwillison.net/2026/Aug/21/llm/",
     "s": "blog"
    }
   ],
