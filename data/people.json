@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-22",
+    "t": "Agentic AI by Andrew NG",
+    "u": "https://www.youtube.com/watch?v=NBmXrIc9W9w",
+    "s": "yt",
+    "o": "John"
+   },
+   {
     "d": "2026-08-10",
     "t": "Andrew Ng's 2-hour course covering graph engineering. 1 prompt → 100 agents → loops → graphs",
     "u": "https://www.youtube.com/watch?v=58n-n-3oRic",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=26a2jf1AXf8",
     "s": "yt",
     "o": "Berkeley RDI"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "#73 – Andrew Ng: Deep Learning, Education, and Real-World AI",
-    "u": "https://www.youtube.com/watch?v=O_ns2U8RQ_k",
-    "s": "yt",
-    "o": "Family Cartoon"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1118,6 +1118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-22",
+    "t": "A Day in the Polis - s260822e90 - Gemini × Ilya Sutskever",
+    "u": "https://www.youtube.com/watch?v=vSf7G4nwYnQ",
+    "s": "yt",
+    "o": "Shared Context Podcast"
+   },
+   {
     "d": "2026-08-13",
     "t": "What Ilya Sutskever Really Saw",
     "u": "https://www.youtube.com/watch?v=hyp6dTY7iio",
@@ -1129,14 +1136,7 @@
     "t": "#94 – Ilya Sutskever: Deep Learning",
     "u": "https://www.youtube.com/watch?v=v5tqvzmhU7Q",
     "s": "yt",
-    "o": "Family Cartoon"
-   },
-   {
-    "d": "2026-07-05",
-    "t": "Ilya Sutskever: The Man Who Built AI and Now Fears It",
-    "u": "https://www.youtube.com/watch?v=G8ggtIOPB2Y",
-    "s": "yt",
-    "o": "Vision Economy"
+    "o": "Zenvora Productions"
    }
   ],
   "note": "SSI公式サイトに本人名義の新規ブログ記事は確認できず。",
@@ -1914,14 +1914,14 @@
     "t": "#306 – Oriol Vinyals: Deep Learning and Artificial General Intelligence",
     "u": "https://www.youtube.com/watch?v=OYrw8EtQwBo",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-08-04",
     "t": "Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences",
     "u": "https://www.youtube.com/watch?v=C7YqSkfrvhY",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-07-03",
@@ -4169,6 +4169,13 @@
   ],
   "yt": [
    {
+    "d": "2026-05-22",
+    "t": "João Moura, CrewAI CEO on Scaling Multi-Agent AI Systems",
+    "u": "https://www.youtube.com/watch?v=D9NLv69wxlY",
+    "s": "yt",
+    "o": "Grace Gong"
+   },
+   {
     "d": "2026-03-05",
     "t": "João Moura on Multi-Agent Systems, Autonomous Workflows & AI Entrepreneurship | Ep 09",
     "u": "https://www.youtube.com/watch?v=DGGLhUt42LM",
@@ -4181,13 +4188,6 @@
     "u": "https://www.youtube.com/watch?v=RP056-XfEGk",
     "s": "yt",
     "o": "Trofa Saúde"
-   },
-   {
-    "d": "不明",
-    "t": "João Moura Interview: Major CrewAI Updates, Real Use Cases, & Practical Dev Insights",
-    "u": "https://www.youtube.com/watch?v=IWNcqwyOJ50",
-    "s": "yt",
-    "o": "aiwithbrandon"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -5106,7 +5106,7 @@
     "t": "#110 – Jitendra Malik: Computer Vision",
     "u": "https://www.youtube.com/watch?v=8OJwFHS79OY",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-07-01",
@@ -5235,7 +5235,7 @@
     "t": "Pieter Abbeel: Deep Reinforcement Learning",
     "u": "https://www.youtube.com/watch?v=ZDXLafceWnU",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-06-27",
@@ -5790,7 +5790,7 @@
     "t": "Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment",
     "u": "https://www.youtube.com/watch?v=h3LrEqWPsew",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-07-09",
@@ -5894,7 +5894,7 @@
     "t": "Stuart Russell: Long-Term Future of AI",
     "u": "https://www.youtube.com/watch?v=Nam48bmiBDE",
     "s": "yt",
-    "o": "Family Cartoon"
+    "o": "Zenvora Productions"
    },
    {
     "d": "2026-07-14",
