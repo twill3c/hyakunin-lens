@@ -4475,21 +4475,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-08-23",
+    "t": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "u": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-23",
+    "t": "Quoting Drew Breunig",
+    "u": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-22",
     "t": "Quoting Linus Torvalds",
     "u": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-22",
-    "t": "llm 0.33",
-    "u": "https://simonwillison.net/2026/Aug/22/llm/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-22",
-    "t": "More than just code review",
-    "u": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
     "s": "blog"
    }
   ],
@@ -6313,6 +6313,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-08-24",
+    "t": "Sakana AI、防衛省から「総合分析業務に必要なAI機能の調査・実証」を受注",
+    "u": "https://sakana.ai/defense-integrated-analysis/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-21",
     "t": "Sakana Translateをアップデート：翻訳モデルに新世代「Sakana Namazu」を搭載",
     "u": "https://sakana.ai/translate-update/",
@@ -6322,12 +6328,6 @@
     "d": "2026-08-13",
     "t": "Sakana Chatがアップデート：「Sakana Fugu」と新世代「Sakana Namazu」が利用可能に",
     "u": "https://sakana.ai/chat-update/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-10",
-    "t": "ベースモデルに依存しないオーケストレーションに向けて：Gemma 4版 Sakana Fuguの検証",
-    "u": "https://sakana.ai/fugu-gemma4/",
     "s": "blog"
    }
   ],
