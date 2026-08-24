@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T02:11:05Z",
- "ok": 17,
- "fail": 4,
+ "generated_at": "2026-08-24T07:43:21Z",
+ "ok": 16,
+ "fail": 5,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -51,8 +51,9 @@
    "n": "Joseph E. Gonzalez",
    "s": "blog",
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
-   "ok": true,
-   "count": 1
+   "ok": false,
+   "count": 0,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "n": "Lilian Weng",
