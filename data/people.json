@@ -939,11 +939,11 @@
     "o": "The AI Daily Brief: Artificial Intelligence News"
    },
    {
-    "d": "2026-08-03",
-    "t": "Dario Amodei: We Use Claude to Build Claude (Full Interview Breakdown)",
-    "u": "https://www.youtube.com/watch?v=DDKNHQ53Ou8",
+    "d": "2026-08-08",
+    "t": "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
+    "u": "https://www.youtube.com/watch?v=qnIj5gqNaKA",
     "s": "yt",
-    "o": "StudentAI Hub"
+    "o": "Zenvora Productions"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1344,11 +1344,11 @@
     "o": "ARPA Australia"
    },
    {
-    "d": "2026-07-07",
-    "t": "All Intelligence, ahead in time with Huawei Cloud--Mark Chen at Compass 2026",
-    "u": "https://www.youtube.com/watch?v=KCOffiy2d3Y",
+    "d": "2026-07-18",
+    "t": "A Reversal of Fortune through Repentance | Gen 43-45  | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=L5IXWLvNcng",
     "s": "yt",
-    "o": "Huawei Cloud LATAM"
+    "o": "Covenant Grace Church, Penang"
    }
   ],
   "note": "",
@@ -1720,18 +1720,18 @@
     "o": "TechXOps"
    },
    {
+    "d": "2026-08-17",
+    "t": "Andrej Karpathy Spent 8 Years at OpenAI & Tesla - This AI Lecture Is Better Than Most $15K Bootcamps",
+    "u": "https://www.youtube.com/watch?v=3CRtS3bY_D4",
+    "s": "yt",
+    "o": "Batavus"
+   },
+   {
     "d": "2026-08-14",
     "t": "\"Delete Everything, Keep Graph” -  Andrej Karpathy Stanford Lecture",
     "u": "https://www.youtube.com/watch?v=XdbpCM4yGyE",
     "s": "yt",
     "o": "philia"
-   },
-   {
-    "d": "2026-07-09",
-    "t": "Andrej Karpathy: The Future of Software & \"Vibe Coding\" (YC AI Startup School)",
-    "u": "https://www.youtube.com/watch?v=EEVm5sOSyR4",
-    "s": "yt",
-    "o": "viki virgon1"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -3174,6 +3174,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-23",
+    "t": "Cognition CEO Scott Wu：Devin、AI軟體工程師與AGI的未來",
+    "u": "https://www.youtube.com/watch?v=sYSB42VIadY",
+    "s": "yt",
+    "o": "PP科技筆記 Podcast"
+   },
+   {
     "d": "2026-07-27",
     "t": "Inside the Fastest-Growing Category in AI: Scott Wu, CEO of $26B Cognition",
     "u": "https://www.youtube.com/watch?v=y1XxtvYll4s",
@@ -3186,13 +3193,6 @@
     "u": "https://www.youtube.com/watch?v=4lRtysL5Bdw",
     "s": "yt",
     "o": "newsify"
-   },
-   {
-    "d": "2026-07-08",
-    "t": "세계 최초의 AI 소프트웨어 엔지니어를 만들다 | Cognition의 Scott Wu",
-    "u": "https://www.youtube.com/watch?v=I0h4SqVfBvw",
-    "s": "yt",
-    "o": "sudoremove 창고"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
