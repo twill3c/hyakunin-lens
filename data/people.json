@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-19",
+    "t": "Brendan Haywood Describes Being Teammates With Michael Jordan",
+    "u": "https://www.youtube.com/watch?v=QFqm_c_1BzE",
+    "s": "yt",
+    "o": "Straight Game Podcast "
+   },
+   {
     "d": "2026-08-14",
     "t": "*how good michael jordan was actually first watch*",
     "u": "https://www.youtube.com/watch?v=O4On4cl7tLs",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=Rn7ccyfGXVs",
     "s": "yt",
     "o": "DREAMERSPRO"
-   },
-   {
-    "d": "2026-08-12",
-    "t": "His BARN is FULL of RARE MICHAEL JORDAN CARDS!",
-    "u": "https://www.youtube.com/watch?v=_Dd6JJ6dXQs",
-    "s": "yt",
-    "o": "CHASING CARDBOARD"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -1118,25 +1118,25 @@
   ],
   "yt": [
    {
-    "d": "2026-08-22",
-    "t": "A Day in the Polis - s260822e90 - Gemini × Ilya Sutskever",
-    "u": "https://www.youtube.com/watch?v=vSf7G4nwYnQ",
+    "d": "2026-08-24",
+    "t": "Ilya Sutskever’s New AI Superintelligence  Is About to Change A  I Forever",
+    "u": "https://www.youtube.com/watch?v=bYyQ1UhNcag",
     "s": "yt",
-    "o": "Shared Context Podcast"
+    "o": "AIGRID"
    },
    {
-    "d": "2026-08-13",
-    "t": "What Ilya Sutskever Really Saw",
-    "u": "https://www.youtube.com/watch?v=hyp6dTY7iio",
+    "d": "2026-08-24",
+    "t": "Ilya Sutskever: From the Age of Scaling to the Age of Research | Dwarkesh",
+    "u": "https://www.youtube.com/watch?v=vBN8E1Q0-k4",
     "s": "yt",
-    "o": "History Channel Vlog"
+    "o": "Pet circle"
    },
    {
-    "d": "2026-08-04",
-    "t": "#94 – Ilya Sutskever: Deep Learning",
-    "u": "https://www.youtube.com/watch?v=v5tqvzmhU7Q",
+    "d": "2026-08-24",
+    "t": "Ilya Sutskever, 차세대 AI의 사이버 보안 위협",
+    "u": "https://www.youtube.com/watch?v=aikOdN9asWU",
     "s": "yt",
-    "o": "Zenvora Productions"
+    "o": "Audrey Kim"
    }
   ],
   "note": "SSI公式サイトに本人名義の新規ブログ記事は確認できず。",
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-24",
+    "t": "Mustafa Suleyman : Can We Keep Control of AI? | The Coming Wave l",
+    "u": "https://www.youtube.com/watch?v=UTJcBz0ziIM",
+    "s": "yt",
+    "o": "Cosmora HQ "
+   },
+   {
     "d": "2026-08-20",
     "t": "Die größte Bedrohung unserer Zukunft? — The Coming Wave von Mustafa Suleyman",
     "u": "https://www.youtube.com/watch?v=W8jMofEn5l4",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=_aQhxiK5CzU",
     "s": "yt",
     "o": "Book Fala"
-   },
-   {
-    "d": "2026-07-29",
-    "t": "Mustafa Suleyman: Agents, Humanist Superintelligence, and Healthcare",
-    "u": "https://www.youtube.com/watch?v=Ad5bu-FyK9o",
-    "s": "yt",
-    "o": "Future Tools"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -3614,6 +3614,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-25",
+    "t": "Everything About Building Software Is Changing | Eric Simons (Bolt) x Jon Noronha (Gamma)",
+    "u": "https://www.youtube.com/watch?v=9YE163b3kgI",
+    "s": "yt",
+    "o": "The General Podcast"
+   },
+   {
     "d": "2026-08-16",
     "t": "At Every Depth: Our Growing Knowledge of the Changing Oceans Audiobook by Eric Simons",
     "u": "https://www.youtube.com/watch?v=_a1yPq7_3Qg",
@@ -3626,13 +3633,6 @@
     "u": "https://www.youtube.com/watch?v=94vR7Ivg2a0",
     "s": "yt",
     "o": "Get Paid"
-   },
-   {
-    "d": "2026-04-22",
-    "t": "From Failure to $40M ARR in 5 Months: The Bolt.new Story with Eric Simons",
-    "u": "https://www.youtube.com/watch?v=Pys6lcvtDvo",
-    "s": "yt",
-    "o": "Hustle Fund"
    }
   ],
   "note": "3件目に該当するものは確認できず2件。",
@@ -5897,11 +5897,11 @@
     "o": "Zenvora Productions"
    },
    {
-    "d": "2026-07-14",
-    "t": "The $15 Quadrillion Black Hole Sucking Humanity Toward Extinction | AI Pioneer Stuart Russell",
-    "u": "https://www.youtube.com/watch?v=GUWNTkPsJr8",
+    "d": "2026-07-20",
+    "t": "Inteligencia Artificial: Una Perspectiva Moderna de Stuart Russell",
+    "u": "https://www.youtube.com/watch?v=ykB5xWbsh14",
     "s": "yt",
-    "o": "Futurology"
+    "o": "Enciclopedia"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
@@ -6282,7 +6282,7 @@
   "yt": [
    {
     "d": "2026-08-17",
-    "t": "【松尾豊】知らないと取り残される。AIが「恐ろしい速度」で引き起こす社会の地殻変動｜INSIDE OUT #1",
+    "t": "【松尾豊×小島瑠璃子】知らないと取り残される。AIが「恐ろしい速度」で引き起こす社会の地殻変動とは？｜",
     "u": "https://www.youtube.com/watch?v=PRLg0QB_eXw",
     "s": "yt",
     "o": "AI | INSIDEOUT"

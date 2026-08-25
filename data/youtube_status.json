@@ -1,258 +1,258 @@
 {
- "bucket": 0,
- "ok": 39,
+ "bucket": 1,
+ "ok": 37,
  "attempted": 50,
  "people": [
   {
-   "n": "Geoffrey Hinton",
+   "n": "Yoshua Bengio",
    "ok": true,
-   "count": 17
+   "count": 19
   },
   {
-   "n": "Yann LeCun",
+   "n": "Jürgen Schmidhuber",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "Michael I. Jordan",
+   "ok": true,
+   "count": 23
+  },
+  {
+   "n": "Andrew Ng",
    "ok": true,
    "count": 22
   },
   {
-   "n": "Richard Sutton",
-   "ok": true,
-   "count": 22
+   "n": "Koray Kavukcuoglu",
+   "ok": false,
+   "count": 0
   },
   {
-   "n": "Judea Pearl",
+   "n": "Shane Legg",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Jared Kaplan",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Ilya Sutskever",
    "ok": true,
    "count": 11
   },
   {
-   "n": "Demis Hassabis",
-   "ok": true,
-   "count": 16
+   "n": "Jakub Pachocki",
+   "ok": false,
+   "count": 0
   },
   {
-   "n": "Jeff Dean",
+   "n": "Mustafa Suleyman",
    "ok": true,
    "count": 13
   },
   {
-   "n": "Dario Amodei",
-   "ok": true,
-   "count": 13
-  },
-  {
-   "n": "Chris Olah",
+   "n": "Ashish Vaswani",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Mira Murati",
-   "ok": true,
-   "count": 8
-  },
-  {
-   "n": "Mark Chen",
-   "ok": true,
-   "count": 20
-  },
-  {
-   "n": "Noam Shazeer",
-   "ok": true,
-   "count": 3
-  },
-  {
-   "n": "Aidan Gomez",
-   "ok": true,
-   "count": 6
-  },
-  {
-   "n": "Andrej Karpathy",
-   "ok": true,
-   "count": 13
-  },
-  {
-   "n": "Jason Wei",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Quoc Le",
-   "ok": true,
-   "count": 2
-  },
-  {
-   "n": "Guillaume Lample",
+   "n": "Alec Radford",
    "ok": true,
    "count": 1
   },
   {
-   "n": "Jerry Tworek",
-   "ok": true,
-   "count": 6
-  },
-  {
-   "n": "Ofir Press",
+   "n": "John Schulman",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Karthik Narasimhan",
-   "ok": true,
-   "count": 1
-  },
-  {
-   "n": "Lilian Weng",
-   "ok": true,
-   "count": 2
-  },
-  {
-   "n": "Matei Zaharia",
-   "ok": true,
-   "count": 10
-  },
-  {
-   "n": "Boris Cherny",
-   "ok": true,
-   "count": 12
-  },
-  {
-   "n": "Michael Truell",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Scott Wu",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Varun Mohan",
-   "ok": true,
-   "count": 1
-  },
-  {
-   "n": "Paul Gauthier",
-   "ok": true,
-   "count": 1
-  },
-  {
-   "n": "Amjad Masad",
-   "ok": true,
-   "count": 14
-  },
-  {
-   "n": "Guillermo Rauch",
-   "ok": true,
-   "count": 12
-  },
-  {
-   "n": "Isa Fulford",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Justin Spahr-Summers",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Jerry Liu",
+   "n": "Oriol Vinyals",
    "ok": true,
    "count": 4
   },
   {
-   "n": "Chi Wang",
+   "n": "Liang Wenfeng 梁文锋",
    "ok": true,
    "count": 7
   },
   {
-   "n": "Yohei Nakajima",
+   "n": "Arthur Mensch",
    "ok": true,
-   "count": 1
+   "count": 10
   },
   {
-   "n": "Simon Willison",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Tri Dao",
-   "ok": true,
-   "count": 5
-  },
-  {
-   "n": "Woosuk Kwon",
+   "n": "Shunyu Yao 姚順雨",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Georgi Gerganov",
+   "n": "John Yang",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Noah Shinn",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Kaiming He 何愷明",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Ian Goodfellow",
-   "ok": true,
-   "count": 3
-  },
-  {
-   "n": "Sergey Levine",
-   "ok": true,
-   "count": 6
-  },
-  {
-   "n": "Karol Hausman",
+   "n": "Omar Khattab",
    "ok": true,
    "count": 1
   },
   {
-   "n": "Anima Anandkumar",
-   "ok": true,
-   "count": 1
-  },
-  {
-   "n": "Pushmeet Kohli",
-   "ok": true,
-   "count": 3
-  },
-  {
-   "n": "Been Kim",
+   "n": "Graham Neubig",
    "ok": true,
    "count": 2
   },
   {
-   "n": "Percy Liang",
+   "n": "Cat Wu",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "Aman Sanger",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Walden Yan",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "Xingyao Wang",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Saoud Rizwan",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Eric Simons",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "n": "Bret Taylor",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "n": "David Soria Parra",
    "ok": true,
    "count": 3
   },
   {
-   "n": "Timnit Gebru",
+   "n": "Harrison Chase",
+   "ok": true,
+   "count": 14
+  },
+  {
+   "n": "João Moura",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Toran Bruce Richards",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Beth Barnes",
+   "n": "Thomas Wolf",
+   "ok": true,
+   "count": 11
+  },
+  {
+   "n": "Magnus Müller",
    "ok": true,
    "count": 1
   },
   {
-   "n": "Llion Jones",
+   "n": "Ion Stoica",
    "ok": true,
-   "count": 1
+   "count": 9
   },
   {
-   "n": "秋葉拓哉",
+   "n": "Joseph E. Gonzalez",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Fei-Fei Li 李飛飛",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "n": "Jitendra Malik",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "n": "Pieter Abbeel",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Chelsea Finn",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Jim Fan 范麟熙",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "John Jumper",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "Regina Barzilay",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Stuart Russell",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "Sara Hooker",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Junyang Lin 林俊旸",
+   "n": "Jan Leike",
    "ok": false,
    "count": 0
+  },
+  {
+   "n": "松尾豊",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "David Ha",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "岡野原大輔",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Yang Zhilin 楊植麟",
+   "ok": true,
+   "count": 6
   }
  ],
- "generated_at": "2026-08-24T19:39:16Z"
+ "generated_at": "2026-08-25T19:41:59Z"
 }
