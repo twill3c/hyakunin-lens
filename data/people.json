@@ -4475,6 +4475,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-08-26",
+    "t": "Quoting Paul Dix",
+    "u": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-25",
     "t": "EVE Online: The Move to Python 3 Begins!",
     "u": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
@@ -4484,12 +4490,6 @@
     "d": "2026-08-24",
     "t": "llm-anthropic 0.27",
     "u": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "Your executable is a SQLite database",
-    "u": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
     "s": "blog"
    }
   ],
