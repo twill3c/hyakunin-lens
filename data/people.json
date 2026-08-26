@@ -3434,21 +3434,21 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
+    "d": "2026-08-26",
+    "t": "DeepSeek wins IMO Gold on 12 cents",
+    "u": "https://cline.ghost.io/deepseek-wins-imo-gold-on-12-cents/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-26",
+    "t": "Building a code review agent on the Cline loop",
+    "u": "https://cline.ghost.io/building-a-code-review-agent-with-cline-sdk/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-18",
     "t": "Open-sourcing evals for open-weight agents",
     "u": "https://cline.ghost.io/open-sourcing-evals-for-open-weight-agents/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-11",
-    "t": "NVIDIA Nemotron 3.5 Lightning just landed in Cline",
-    "u": "https://cline.ghost.io/nvidia-nemotron-3-5-lightning-available-in-cline/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "Top 5 Open Weight Models That Matter to Developers in 2026",
-    "u": "https://cline.ghost.io/best-open-weight-models-that-matter-in-2026/",
     "s": "blog"
    }
   ],
@@ -3976,21 +3976,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-08-25",
-    "t": "Using LangSmith to Support Fine-tuning",
-    "u": "https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms",
+    "d": "2026-08-26",
+    "t": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
+    "u": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
     "s": "blog"
    },
    {
-    "d": "2026-08-25",
-    "t": "Benchmarking Question/Answering Over CSV Data",
-    "u": "https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data",
+    "d": "2026-08-26",
+    "t": "LangSmith LLM Gateway: Runtime Controls for Agents",
+    "u": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
     "s": "blog"
    },
    {
-    "d": "2026-08-25",
-    "t": "Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications",
-    "u": "https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications",
+    "d": "2026-08-26",
+    "t": "How LangSmith and LangChain OSS Help You Meet EU AI Act Requirements",
+    "u": "https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act",
     "s": "blog"
    }
   ],
@@ -5688,20 +5688,20 @@
   "own": [
    {
     "d": "2026-08-26",
-    "t": "Google at the Global Forum on Intellectual Property",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+    "t": "Turn your voice into action with new productivity features in Gemini Live",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
     "s": "blog"
    },
    {
-    "d": "2026-08-25",
-    "t": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
-    "u": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+    "d": "2026-08-26",
+    "t": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
     "s": "blog"
    },
    {
-    "d": "2026-08-25",
-    "t": "5 ways to upgrade your home decor with Google Search",
-    "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "d": "2026-08-26",
+    "t": "28 startups using AI to transform the energy sector",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
     "s": "blog"
    }
   ],

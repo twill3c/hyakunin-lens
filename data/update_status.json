@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T13:39:26Z",
+ "generated_at": "2026-08-26T21:12:52Z",
  "ok": 16,
  "fail": 5,
  "sources": [
@@ -30,7 +30,7 @@
    "s": "blog",
    "feed": "https://www.langchain.com/blog/rss.xml",
    "ok": true,
-   "count": 92
+   "count": 99
   },
   {
    "n": "Jan Leike",
@@ -53,7 +53,7 @@
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
    "ok": false,
    "count": 0,
-   "error": "ValueError: フィードに item/entry が 1 件もない"
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "n": "Lilian Weng",
