@@ -5687,6 +5687,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-08-26",
+    "t": "Google at the Global Forum on Intellectual Property",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-25",
     "t": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
     "u": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
@@ -5696,12 +5702,6 @@
     "d": "2026-08-25",
     "t": "5 ways to upgrade your home decor with Google Search",
     "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-25",
-    "t": "Here’s how to use intelligent dictation in Gemini for macOS.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
     "s": "blog"
    }
   ],
