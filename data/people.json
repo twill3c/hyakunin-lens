@@ -3977,20 +3977,20 @@
   "own": [
    {
     "d": "2026-08-25",
-    "t": "How Klarna's AI assistant redefined customer support at scale for 85 million active users",
-    "u": "https://www.langchain.com/blog/customers-klarna",
+    "t": "Using LangSmith to Support Fine-tuning",
+    "u": "https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms",
     "s": "blog"
    },
    {
     "d": "2026-08-25",
-    "t": "Workspaces in LangSmith for improved collaboration and organization",
-    "u": "https://www.langchain.com/blog/workspaces-in-langsmith",
+    "t": "Benchmarking Question/Answering Over CSV Data",
+    "u": "https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data",
     "s": "blog"
    },
    {
     "d": "2026-08-25",
-    "t": "LLMs and SQL",
-    "u": "https://www.langchain.com/blog/llms-and-sql",
+    "t": "Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications",
+    "u": "https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications",
     "s": "blog"
    }
   ],
@@ -4475,6 +4475,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-08-25",
+    "t": "EVE Online: The Move to Python 3 Begins!",
+    "u": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-24",
     "t": "llm-anthropic 0.27",
     "u": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
@@ -4484,12 +4490,6 @@
     "d": "2026-08-24",
     "t": "Your executable is a SQLite database",
     "u": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-23",
-    "t": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-    "u": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
     "s": "blog"
    }
   ],
@@ -5688,6 +5688,12 @@
   "own": [
    {
     "d": "2026-08-25",
+    "t": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+    "u": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-25",
     "t": "5 ways to upgrade your home decor with Google Search",
     "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "s": "blog"
@@ -5696,12 +5702,6 @@
     "d": "2026-08-25",
     "t": "Here’s how to use intelligent dictation in Gemini for macOS.",
     "u": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-25",
-    "t": "Ready to play? Experience Google Play’s biggest Gamescom showcase yet.",
-    "u": "https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/",
     "s": "blog"
    }
   ],

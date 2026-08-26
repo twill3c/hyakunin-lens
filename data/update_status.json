@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25T19:16:38Z",
- "ok": 17,
- "fail": 4,
+ "generated_at": "2026-08-26T02:13:11Z",
+ "ok": 16,
+ "fail": 5,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -30,7 +30,7 @@
    "s": "blog",
    "feed": "https://www.langchain.com/blog/rss.xml",
    "ok": true,
-   "count": 93
+   "count": 92
   },
   {
    "n": "Jan Leike",
@@ -51,8 +51,9 @@
    "n": "Joseph E. Gonzalez",
    "s": "blog",
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
-   "ok": true,
-   "count": 1
+   "ok": false,
+   "count": 0,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
   },
   {
    "n": "Lilian Weng",
