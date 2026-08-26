@@ -625,25 +625,25 @@
   ],
   "yt": [
    {
+    "d": "2026-08-25",
+    "t": "Demis Hassabis and the Quest for AGI | Robert Wright & Sebastian Mallaby",
+    "u": "https://www.youtube.com/watch?v=RAMYsW4Ou_E",
+    "s": "yt",
+    "o": "Nonzero"
+   },
+   {
+    "d": "2026-08-20",
+    "t": "Demis Hassabis wanted to solve intelligence. Then came ChatGPT. (Sebastian Mallaby)",
+    "u": "https://www.youtube.com/watch?v=y35V5ACMfS4",
+    "s": "yt",
+    "o": "The Globe and Mail"
+   },
+   {
     "d": "2026-08-06",
     "t": "The Infinity Machine: The Untold Story of Demis Hassabis and DeepMind | Technovation 1104",
     "u": "https://www.youtube.com/watch?v=FU1xTyqvBhU",
     "s": "yt",
     "o": "Metis Strategy"
-   },
-   {
-    "d": "2026-08-01",
-    "t": "The Future of AI : Demis Hassabis",
-    "u": "https://www.youtube.com/watch?v=9XfhwrmKWtM",
-    "s": "yt",
-    "o": "Your Sarathih:"
-   },
-   {
-    "d": "2026-07-18",
-    "t": "Using AI to Accelerate Scientific Discovery - by DeepMind's Demis Hassabis",
-    "u": "https://www.youtube.com/watch?v=pBRme8Mdung",
-    "s": "yt",
-    "o": "The Address"
    }
   ],
   "note": "",
@@ -775,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-23",
+    "t": "Jeff Dean Explains 15 Years of AI: TPUs, Transformers, Gemini 3 & What Comes Next",
+    "u": "https://www.youtube.com/watch?v=rjb4gJ3BA24",
+    "s": "yt",
+    "o": "Pet circle"
+   },
+   {
     "d": "2026-08-20",
     "t": "逃离巨头内耗，打破算力垄断，与华尔街决裂！Jeff Dean 出走 Google 的震撼内幕",
     "u": "https://www.youtube.com/watch?v=uiJ9e0cW9iA",
@@ -787,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=0kC3xOZChdA",
     "s": "yt",
     "o": "Asian American Scholar Forum"
-   },
-   {
-    "d": "2026-08-09",
-    "t": "Jeff Dean最新判断：AI的下一个拐点 | Google | TPU | AI芯片 | 大模型推理 | 上下文工程 | 创业机会 | 知识蒸馏 | 神经网络 | AI硬件 | 科学方法自动化",
-    "u": "https://www.youtube.com/watch?v=y-XOgW97emo",
-    "s": "yt",
-    "o": "最佳拍档"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-25",
+    "t": "Andrej Karpathy on Agents, Loops and Self Improving Systems",
+    "u": "https://www.youtube.com/watch?v=Gm469A_dCZA",
+    "s": "yt",
+    "o": "The Mukuls"
+   },
+   {
     "d": "2026-08-19",
     "t": "This 1-Hour Andrej Karpathy Lecture Explains Modern AI Better Than Most Courses",
     "u": "https://www.youtube.com/watch?v=EsQ_bmXKA4A",
@@ -1725,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=3CRtS3bY_D4",
     "s": "yt",
     "o": "Batavus"
-   },
-   {
-    "d": "2026-08-14",
-    "t": "\"Delete Everything, Keep Graph” -  Andrej Karpathy Stanford Lecture",
-    "u": "https://www.youtube.com/watch?v=XdbpCM4yGyE",
-    "s": "yt",
-    "o": "philia"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2194,6 +2194,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-26",
+    "t": "Most AI Labs are Simply Cooked | Jerry Tworek",
+    "u": "https://www.youtube.com/watch?v=FJfEq9jhpX8",
+    "s": "yt",
+    "o": "MTS "
+   },
+   {
     "d": "2026-08-03",
     "t": "[한글자막] Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
     "u": "https://www.youtube.com/watch?v=tFyFurOpi_E",
@@ -2206,13 +2213,6 @@
     "u": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
     "s": "yt",
     "o": "Sequoia Capital"
-   },
-   {
-    "d": "2026-07-29",
-    "t": "OpenAI Jerry Tworek 揭幕全自动 AGI 实验室内幕",
-    "u": "https://www.youtube.com/watch?v=Dwg9cSN09X8",
-    "s": "yt",
-    "o": "Joy AI"
    }
   ],
   "note": "個人ブログ・OpenAI公式の本人名義記事は確認できず。日付未確認。",
@@ -3559,11 +3559,11 @@
     "o": "Kaushik Datta"
    },
    {
-    "d": "2026-06-10",
-    "t": "Replit Founder and CEO Amjad Masad and PostHog CEO James Hawkins | Granola Firesides",
-    "u": "https://www.youtube.com/watch?v=5qZaNJvHnAU",
+    "d": "2026-06-25",
+    "t": "Amjad Masad's 9 Billion Replit AI Bet",
+    "u": "https://www.youtube.com/watch?v=xtdprdxstz4",
     "s": "yt",
-    "o": "Granola"
+    "o": "The Greats"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -3689,6 +3689,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-25",
+    "t": "Inside Vercel's AI-era playbook: \"Recursive Founder Mode\" | Guillermo Rauch (CEO)",
+    "u": "https://www.youtube.com/watch?v=DdbCtAScTsk",
+    "s": "yt",
+    "o": "Knuckle Up with Nakul"
+   },
+   {
     "d": "2026-08-14",
     "t": "Vercel CEO Guillermo Rauch：揭秘 AI 代理人革命與企業級 EVE 框架",
     "u": "https://www.youtube.com/watch?v=cUO5hZi7OtU",
@@ -3701,13 +3708,6 @@
     "u": "https://www.youtube.com/watch?v=qgXwe4sK6R8",
     "s": "yt",
     "o": "Supabase"
-   },
-   {
-    "d": "2026-08-06",
-    "t": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=HQXi4snP36I",
-    "s": "yt",
-    "o": "Riley Brown"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -4258,11 +4258,11 @@
     "o": "Chi Chi Wang • C.C.Within "
    },
    {
-    "d": "2026-07-10",
-    "t": "Australian Pronunciation | Chi Chi Wang",
-    "u": "https://www.youtube.com/watch?v=rzZ_JoPpAjM",
+    "d": "2026-07-20",
+    "t": "20260719 忌妒的素祭 The Meal Offering of Jealousy by Brother Hwa Chi Wang",
+    "u": "https://www.youtube.com/watch?v=NR6a5kf5Dfc",
     "s": "yt",
-    "o": "Chi Chi Wang • C.C.Within "
+    "o": "Sunday Sermon"
    }
   ],
   "note": "2025年2月以降の本人発信で本文確認できるものは見つからず。",
@@ -5306,6 +5306,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-24",
+    "t": "Sergey Levine: Humanoid Robotics Results, Chinese Labs & Future Timelines",
+    "u": "https://www.youtube.com/watch?v=9OSbaPjv0Rc",
+    "s": "yt",
+    "o": "Ryan Peterman"
+   },
+   {
     "d": "2026-08-04",
     "t": "#108 – Sergey Levine: Robotics and Machine Learning",
     "u": "https://www.youtube.com/watch?v=9yKrxygFvlw",
@@ -5318,13 +5325,6 @@
     "u": "https://www.youtube.com/watch?v=Bn7hLecuHmA",
     "s": "yt",
     "o": "WDFM-EAI"
-   },
-   {
-    "d": "2026-06-27",
-    "t": "#108 – Sergey Levine: Robotics and Machine Learning",
-    "u": "https://www.youtube.com/watch?v=QsyfA3Ly6is",
-    "s": "yt",
-    "o": "MindVoice Production"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
@@ -5599,25 +5599,25 @@
   ],
   "yt": [
    {
+    "d": "2026-08-26",
+    "t": "🔬 The Physical World Is More Forgiving Than You Think — Anima Anandkumar, Caltech",
+    "u": "https://www.youtube.com/watch?v=79mIutht1f4",
+    "s": "yt",
+    "o": "Latent Space"
+   },
+   {
+    "d": "2026-08-25",
+    "t": "Anima Anandkumar declines Bezos-backed Prometheus, launches physics AI startup",
+    "u": "https://www.youtube.com/watch?v=RIoVMeQDXEE",
+    "s": "yt",
+    "o": "AI Signal Live: Tech"
+   },
+   {
     "d": "2026-07-22",
     "t": "Anima Anandkumar: How do we build AI to push the frontiers of scientific discovery?",
     "u": "https://www.youtube.com/watch?v=B4EMfGKpm8s",
     "s": "yt",
     "o": "SAIR"
-   },
-   {
-    "d": "不明",
-    "t": "Prof Anima Anandkumar | Caltech | ADIPEC 2025",
-    "u": "https://www.youtube.com/watch?v=xALFfVbd8wA",
-    "s": "yt",
-    "o": "ADIPEC Official"
-   },
-   {
-    "d": "不明",
-    "t": "AI in Scientific Discovery & Ethics | Nasscom Conversation",
-    "u": "https://www.youtube.com/watch?v=VZLI5ODM9nw",
-    "s": "yt",
-    "o": "nasscom"
    }
   ],
   "note": "Caltech個人ページに本人執筆ブログの掲載なし。X日付は取得できず。",
