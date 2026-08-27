@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-08-26",
+    "t": "Qwen3.8-Flash-Next",
+    "u": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-26",
     "t": "Quoting Paul Dix",
     "u": "https://simonwillison.net/2026/Aug/26/paul-dix/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-08-25",
     "t": "EVE Online: The Move to Python 3 Begins!",
     "u": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "llm-anthropic 0.27",
-    "u": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
     "s": "blog"
    }
   ],
@@ -5688,6 +5688,12 @@
   "own": [
    {
     "d": "2026-08-26",
+    "t": "7 ways to kick-start back to school using Gemini in Workspace",
+    "u": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-26",
     "t": "Turn your voice into action with new productivity features in Gemini Live",
     "u": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
     "s": "blog"
@@ -5696,12 +5702,6 @@
     "d": "2026-08-26",
     "t": "Intelligent transcription with Gemini 3.5 Transcribe",
     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "28 startups using AI to transform the energy sector",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
     "s": "blog"
    }
   ],
