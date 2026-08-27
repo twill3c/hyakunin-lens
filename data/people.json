@@ -3976,7 +3976,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-08-26",
+    "d": "2026-08-27",
     "t": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
     "u": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
     "s": "blog"
@@ -5687,21 +5687,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-08-26",
-    "t": "7 ways to kick-start back to school using Gemini in Workspace",
-    "u": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+    "d": "2026-08-27",
+    "t": "Expert Intelligence: a new way for you to engage with trusted content",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
     "s": "blog"
    },
    {
-    "d": "2026-08-26",
-    "t": "Turn your voice into action with new productivity features in Gemini Live",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+    "d": "2026-08-27",
+    "t": "Celebrating 250 years of America, from its history to its future",
+    "u": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
     "s": "blog"
    },
    {
-    "d": "2026-08-26",
-    "t": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "d": "2026-08-27",
+    "t": "3 new ways to plan and book travel in Search",
+    "u": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "s": "blog"
    }
   ],
