@@ -207,11 +207,11 @@
     "o": "Zenvora Productions"
    },
    {
-    "d": "2026-07-07",
-    "t": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
-    "u": "https://www.youtube.com/watch?v=m7ywFu3Yqh8",
+    "d": "2026-07-28",
+    "t": "Yann LeCun Thinks AI Is Learning the Wrong Way — JEPA Explained",
+    "u": "https://www.youtube.com/watch?v=4qVXLEImiN8",
     "s": "yt",
-    "o": "A la french  💻"
+    "o": "Vector Meridian"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -337,6 +337,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-26",
+    "t": "Can AI Improve Healthcare in Timor-Leste? Turing Award Winner Prof. Richard Sutton Weighs In",
+    "u": "https://www.youtube.com/watch?v=pf_EekihrYc",
+    "s": "yt",
+    "o": "World Health Organization Timor-Leste"
+   },
+   {
     "d": "2026-08-12",
     "t": "Shift Happens with Richard Sutton | Sibusiso \"Sibu\" Sizatu: Courage, Opportunity and Belonging",
     "u": "https://www.youtube.com/watch?v=6XDnHcjEYZQ",
@@ -349,13 +356,6 @@
     "u": "https://www.youtube.com/watch?v=XIqjtQgjEdg",
     "s": "yt",
     "o": "Shift Happens Podcast "
-   },
-   {
-    "d": "2026-07-14",
-    "t": "Training incluyendo fracasos, Mano robótica de 1X, Oak Lab de Richard Sutton",
-    "u": "https://www.youtube.com/watch?v=VPK9jbYKrls",
-    "s": "yt",
-    "o": "Inteligencia Artificial Semanal"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -3703,11 +3703,11 @@
     "o": "PP科技筆記 Podcast"
    },
    {
-    "d": "2026-08-13",
-    "t": "Fireside Chat with Guillermo Rauch | Supabase Select 2025",
-    "u": "https://www.youtube.com/watch?v=qgXwe4sK6R8",
+    "d": "2026-08-14",
+    "t": "每家公司都即將自己蓋的那個 AI 代理｜Vercel 執行長 Guillermo Rauch 專訪完整重點｜繁體中文",
+    "u": "https://www.youtube.com/watch?v=ictixUBW3mE",
     "s": "yt",
-    "o": "Supabase"
+    "o": "Markluce AI"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -5600,7 +5600,7 @@
   "yt": [
    {
     "d": "2026-08-26",
-    "t": "🔬 The Physical World Is More Forgiving Than You Think — Anima Anandkumar, Caltech",
+    "t": "🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
     "u": "https://www.youtube.com/watch?v=79mIutht1f4",
     "s": "yt",
     "o": "Latent Space"

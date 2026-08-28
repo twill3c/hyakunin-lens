@@ -6,12 +6,12 @@
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "n": "Yann LeCun",
    "ok": true,
-   "count": 19
+   "count": 23
   },
   {
    "n": "Richard Sutton",
@@ -31,12 +31,12 @@
   {
    "n": "Jeff Dean",
    "ok": true,
-   "count": 14
+   "count": 12
   },
   {
    "n": "Dario Amodei",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "n": "Chris Olah",
@@ -61,12 +61,12 @@
   {
    "n": "Aidan Gomez",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "n": "Andrej Karpathy",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "n": "Jason Wei",
@@ -76,7 +76,7 @@
   {
    "n": "Quoc Le",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "n": "Guillaume Lample",
@@ -111,7 +111,7 @@
   {
    "n": "Boris Cherny",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "n": "Michael Truell",
@@ -121,7 +121,7 @@
   {
    "n": "Scott Wu",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "n": "Varun Mohan",
@@ -136,12 +136,12 @@
   {
    "n": "Amjad Masad",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "n": "Guillermo Rauch",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "n": "Isa Fulford",
@@ -161,7 +161,7 @@
   {
    "n": "Chi Wang",
    "ok": true,
-   "count": 10
+   "count": 7
   },
   {
    "n": "Yohei Nakajima",
@@ -226,7 +226,7 @@
   {
    "n": "Percy Liang",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "n": "Timnit Gebru",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-08-26T21:47:43Z"
+ "generated_at": "2026-08-28T03:33:11Z"
 }
