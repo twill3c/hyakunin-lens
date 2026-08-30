@@ -4475,6 +4475,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-08-29",
+    "t": "Introducing Hy4 Preview",
+    "u": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-28",
     "t": "Just a rumour of a bug is enough to find a security exploit these days",
     "u": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
@@ -4484,12 +4490,6 @@
     "d": "2026-08-27",
     "t": "Breaking Claude Code Opus 5 Auto Mode",
     "u": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "Qwen3.8-Flash-Next",
-    "u": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "s": "blog"
    }
   ],
@@ -5687,6 +5687,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-08-29",
+    "t": "How GNIS' Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+    "u": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-28",
     "t": "We’re introducing flexible usage limits for Gemini Notebook.",
     "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
@@ -5696,12 +5702,6 @@
     "d": "2026-08-27",
     "t": "Expert Intelligence: a new way for you to engage with trusted content",
     "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-27",
-    "t": "Celebrating 250 years of America, from its history to its future",
-    "u": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
     "s": "blog"
    }
   ],
