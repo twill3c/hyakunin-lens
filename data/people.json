@@ -337,7 +337,7 @@
   ],
   "yt": [
    {
-    "d": "2026-08-30",
+    "d": "2026-08-31",
     "t": "Sunday Morning Worship- Richard Sutton- August 30",
     "u": "https://www.youtube.com/watch?v=ruG8BQtBG_U",
     "s": "yt",
@@ -775,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-30",
+    "t": "Ex-Google Engineer Jeff Dean released 1-hour lecture on full AI engineering:",
+    "u": "https://www.youtube.com/watch?v=WyLWoTmf9dw",
+    "s": "yt",
+    "o": "UninformedInvestors"
+   },
+   {
     "d": "2026-08-28",
     "t": "Chief Scientist Google DeepMind, Jeff Dean:",
     "u": "https://www.youtube.com/watch?v=dZAynvtk6yg",
@@ -787,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=rjb4gJ3BA24",
     "s": "yt",
     "o": "Pet circle"
-   },
-   {
-    "d": "2026-08-20",
-    "t": "逃离巨头内耗，打破算力垄断，与华尔街决裂！Jeff Dean 出走 Google 的震撼内幕",
-    "u": "https://www.youtube.com/watch?v=uiJ9e0cW9iA",
-    "s": "yt",
-    "o": "wow"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -3545,6 +3545,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-01",
+    "t": "Amjad Masad, Founder of Replit | Keynote Session | T4P Bay Area Summit 2026",
+    "u": "https://www.youtube.com/watch?v=8E1TE-vd9hE",
+    "s": "yt",
+    "o": "Tech For Palestine"
+   },
+   {
     "d": "2026-07-28",
     "t": "CEO Tech Live | S3:E4 | Amjad Masad on the AI Bet That Changed Replit",
     "u": "https://www.youtube.com/watch?v=4GZoCG2HOh4",
@@ -3557,13 +3564,6 @@
     "u": "https://www.youtube.com/watch?v=Jrivfqn5GbA",
     "s": "yt",
     "o": "Kaushik Datta"
-   },
-   {
-    "d": "2026-06-25",
-    "t": "Amjad Masad's 9 Billion Replit AI Bet",
-    "u": "https://www.youtube.com/watch?v=xtdprdxstz4",
-    "s": "yt",
-    "o": "The Greats"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -4094,6 +4094,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-31",
+    "t": "He's Building the Document Layer for AI Agents | Jerry Liu, LlamaIndex",
+    "u": "https://www.youtube.com/watch?v=QR_yEI8mNGo",
+    "s": "yt",
+    "o": "Composio"
+   },
+   {
     "d": "2026-08-05",
     "t": "LlamaIndex Document Infrastructure for AI Agents - Jerry Liu, Co Founder and CEO at #AI4",
     "u": "https://www.youtube.com/watch?v=Bk2J0KV4DPY",
@@ -4106,13 +4113,6 @@
     "u": "https://www.youtube.com/watch?v=PJ-3hXAUotI",
     "s": "yt",
     "o": "The Chain of Thought Podcast"
-   },
-   {
-    "d": "2026-05-22",
-    "t": "AI Dev 26 x SF | Jerry Liu: My Agent Can't Read a PDF?",
-    "u": "https://www.youtube.com/watch?v=80vV6fGIlWo",
-    "s": "yt",
-    "o": "DeepLearningAI"
    }
   ],
   "note": "llamaindex.ai/blog は著者表記が確認できずX投稿のみ採用。",
@@ -5841,6 +5841,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-31",
+    "t": "Been Kim - Changing Shapes: Interpretability, AI, and the Future of Human Agency - IPAM at UCLA",
+    "u": "https://www.youtube.com/watch?v=TcJFGNbRTa0",
+    "s": "yt",
+    "o": "Institute for Pure & Applied Mathematics (IPAM)"
+   },
+   {
     "d": "2026-08-17",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=gXKchklb5n4",
@@ -5853,13 +5860,6 @@
     "u": "https://www.youtube.com/watch?v=qjiyaWVC7yQ",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "不明",
-    "t": "Studying Machine Intelligence with Been Kim - #571",
-    "u": "https://www.youtube.com/watch?v=C8SuqeH_Mg0",
-    "s": "yt",
-    "o": "The TWIML AI Podcast"
    }
   ],
   "note": "個人サイトにブログ一覧はなくMediumへのリンクのみ。X投稿は存在を確認したが個別URL・日付が取得できず不採用。",
