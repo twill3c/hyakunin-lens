@@ -4476,20 +4476,20 @@
   "own": [
    {
     "d": "2026-09-01",
+    "t": "Codex bundles LibreOffice",
+    "u": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-01",
+    "t": "Quoting Tarn Adams",
+    "u": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-01",
     "t": "Python 3.15.0 candidate 2 is here!",
     "u": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Introducing wrapture",
-    "u": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Quoting Andrew Digby",
-    "u": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
     "s": "blog"
    }
   ],
@@ -5687,21 +5687,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-08-31",
-    "t": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
+    "d": "2026-09-01",
+    "t": "September Android Drop: Remember where you put things, ease motion sickness, and more",
+    "u": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
     "s": "blog"
    },
    {
-    "d": "2026-08-29",
-    "t": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-    "u": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+    "d": "2026-09-01",
+    "t": "Introducing agentic video understanding with Gemini",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
     "s": "blog"
    },
    {
-    "d": "2026-08-28",
-    "t": "We’re introducing flexible usage limits for Gemini Notebook.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
+    "d": "2026-09-01",
+    "t": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "u": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
     "s": "blog"
    }
   ],
