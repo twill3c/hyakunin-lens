@@ -4475,6 +4475,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-01",
+    "t": "Python 3.15.0 candidate 2 is here!",
+    "u": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-31",
     "t": "Introducing wrapture",
     "u": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
@@ -4484,12 +4490,6 @@
     "d": "2026-08-31",
     "t": "Quoting Andrew Digby",
     "u": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-30",
-    "t": "Understanding ChatGPT Work",
-    "u": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
     "s": "blog"
    }
   ],
