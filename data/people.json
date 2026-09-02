@@ -3434,6 +3434,12 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
+    "d": "2026-09-02",
+    "t": "How We Migrated 11 Million Users to Cline's Biggest Refactor",
+    "u": "https://cline.ghost.io/how-we-migrated-11-million-users-to-clines-biggest-refactor/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-26",
     "t": "DeepSeek wins IMO Gold on 12 cents",
     "u": "https://cline.ghost.io/deepseek-wins-imo-gold-on-12-cents/",
@@ -3443,12 +3449,6 @@
     "d": "2026-08-26",
     "t": "Building a code review agent on the Cline loop",
     "u": "https://cline.ghost.io/building-a-code-review-agent-with-cline-sdk/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-18",
-    "t": "Open-sourcing evals for open-weight agents",
-    "u": "https://cline.ghost.io/open-sourcing-evals-for-open-weight-agents/",
     "s": "blog"
    }
   ],
@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-09-02",
+    "t": "llm-gemini 0.34",
+    "u": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-02",
     "t": "Claude's new system prompt really doesn't want to reproduce song lyrics",
     "u": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-09-02",
     "t": "Quoting Rick Brewster",
     "u": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "Claude Fable 5.1 made me a really nice animated pelican",
-    "u": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
     "s": "blog"
    }
   ],
@@ -5687,21 +5687,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-09-01",
-    "t": "The latest AI news we announced in August 2026",
-    "u": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "d": "2026-09-02",
+    "t": "Build a measurement stack you can rely on to steer your campaigns.",
+    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
     "s": "blog"
    },
    {
-    "d": "2026-09-01",
-    "t": "September Android Drop: Remember where you put things, ease motion sickness, and more",
-    "u": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
+    "d": "2026-09-02",
+    "t": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+    "u": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
     "s": "blog"
    },
    {
-    "d": "2026-09-01",
-    "t": "Introducing agentic video understanding with Gemini",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "d": "2026-09-02",
+    "t": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+    "u": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
     "s": "blog"
    }
   ],
