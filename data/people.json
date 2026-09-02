@@ -132,11 +132,11 @@
     "o": "Mindset of the Masters"
    },
    {
-    "d": "2026-07-31",
-    "t": "AI is moving fast | Yoshua Bengio, Vukosi Marivate, Joëlle Barral & Yutaka Matsuo",
-    "u": "https://www.youtube.com/watch?v=O7_OaijiZeE",
+    "d": "2026-08-04",
+    "t": "Yoshua Bengio: Deep Learning",
+    "u": "https://www.youtube.com/watch?v=ZLEjBx5ppvU",
     "s": "yt",
-    "o": "AI for Good"
+    "o": "Zenvora Productions"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -268,6 +268,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-01",
+    "t": "IAS Lectio Magistralis #04/2026 - Jürgen Schmidhuber",
+    "u": "https://www.youtube.com/watch?v=U8iFBfaZYiw",
+    "s": "yt",
+    "o": "AI4I & IAS – Institute for Advanced Study"
+   },
+   {
     "d": "2026-07-23",
     "t": "#73 Joachim Nareike sucht das Gespräch mit Jürgen Schmidhuber - FONDS professionell PODCAST",
     "u": "https://www.youtube.com/watch?v=HoHtQx0dIns",
@@ -280,13 +287,6 @@
     "u": "https://www.youtube.com/watch?v=RKjR8DQ40po",
     "s": "yt",
     "o": "Unsupervised Learning: With Jacob Effron"
-   },
-   {
-    "d": "2026-07-06",
-    "t": "How Jürgen Schmidhuber’s Team Powered the Trillion-Dollar AI Boom",
-    "u": "https://www.youtube.com/watch?v=1d8cHATCoiQ",
-    "s": "yt",
-    "o": "Human By Design"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-28",
+    "t": "The Day Michael Jordan Showed Orlando Magic Who Was The BOSS",
+    "u": "https://www.youtube.com/watch?v=PLjdszK87iY",
+    "s": "yt",
+    "o": "Mr Sports"
+   },
+   {
     "d": "2026-08-27",
     "t": "60 Minutes of Michael Jordan's MOST JAW-DROPPING Highlights",
     "u": "https://www.youtube.com/watch?v=IKKWrRxTIp0",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=QFqm_c_1BzE",
     "s": "yt",
     "o": "Straight Game Podcast "
-   },
-   {
-    "d": "2026-08-14",
-    "t": "*how good michael jordan was actually first watch*",
-    "u": "https://www.youtube.com/watch?v=O4On4cl7tLs",
-    "s": "yt",
-    "o": "Sheray"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -700,6 +700,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-01",
+    "t": "Koray Kavukcuoglu on frontier models, coding agents, and building AGI",
+    "u": "https://www.youtube.com/watch?v=Rrr2gdbvNFU",
+    "s": "yt",
+    "o": "Google for Developers"
+   },
+   {
     "d": "不明",
     "t": "Google DeepMind CTO: Advancing AI Frontier, New Reasoning Methods",
     "u": "https://www.youtube.com/watch?v=dIPdY541vus",
@@ -712,13 +719,6 @@
     "u": "https://www.youtube.com/watch?v=fXtna7UrL44",
     "s": "yt",
     "o": "Google for Developers"
-   },
-   {
-    "d": "不明",
-    "t": "Google DeepMind CTO on How AI Actually Changes Your Workday",
-    "u": "https://www.youtube.com/watch?v=hlfbyi-c7AU",
-    "s": "yt",
-    "o": "Allie K Miller"
    }
   ],
   "note": "本人名義のDeepMind公式ブログ記事は直近で確認できず。",
@@ -1118,23 +1118,23 @@
   ],
   "yt": [
    {
-    "d": "2026-08-31",
-    "t": "A Day in the Polis - s260913e17 - Solitude — Ilya Sutskever [Sol · matchmaking]",
-    "u": "https://www.youtube.com/watch?v=bX3ObOHD2BE",
+    "d": "2026-09-02",
+    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
    {
-    "d": "2026-08-30",
-    "t": "Ilya Sutskever: The Future of LLMs—Beyond Pre-Training to Agentic Systems",
-    "u": "https://www.youtube.com/watch?v=cQtKzWOb1jY",
+    "d": "2026-09-02",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
-    "o": "DarrowStation"
+    "o": "Shared Context Podcast"
    },
    {
-    "d": "2026-08-28",
-    "t": "A Day in the Polis - s260904e22 - Adam Savage × Ilya Sutskever [Sol]",
-    "u": "https://www.youtube.com/watch?v=OuhE1mWrTeQ",
+    "d": "2026-08-31",
+    "t": "A Day in the Polis - s260913e17 - Solitude — Ilya Sutskever [Sol · matchmaking]",
+    "u": "https://www.youtube.com/watch?v=nv2ufcBZf9U",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -4593,6 +4593,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-01",
+    "t": "Giving AI a Browser | Magnus Müller, Browser Use | Europe on Edge #4",
+    "u": "https://www.youtube.com/watch?v=xucMxoFfDx8",
+    "s": "yt",
+    "o": "Europe on Edge"
+   },
+   {
     "d": "2026-08-01",
     "t": "He Paused His Master's and Built an 80,000 Star Repo | Magnus Müller, CEO @Browser Use",
     "u": "https://www.youtube.com/watch?v=-L3CQClT4MY",
@@ -6574,6 +6581,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-02",
+    "t": "第4回｜岡野原大輔『ヒトとAI』を読んで考えた、AIに「意識」を感じる条件",
+    "u": "https://www.youtube.com/watch?v=NEAhCsYK0QU",
+    "s": "yt",
+    "o": "SONZAI EIGEN"
+   },
+   {
     "d": "2026-08-17",
     "t": "プリファード岡野原大輔社長「人材育成が裏テーマ」 国産AIの勝算語る【NIKKEI Digital Governance × NIKKEI PODCAST】",
     "u": "https://www.youtube.com/watch?v=SPJ_9B_NC8E",
@@ -6586,13 +6600,6 @@
     "u": "https://www.youtube.com/watch?v=-LH2Hoc3Bh4",
     "s": "yt",
     "o": "公益社団法人 経済同友会"
-   },
-   {
-    "d": "不明",
-    "t": "【ChatGPT・Geminiの学習データ「日本語はたった0.1％」】岡野原社長「国産AIで勝てる」【1on1 Tech】",
-    "u": "https://www.youtube.com/watch?v=Vlj0K7r1qkY",
-    "s": "yt",
-    "o": "TBS CROSS DIG with Bloomberg"
    }
   ],
   "note": "PFN公式の本人名義連載「岡野原大輔のランチタイムトーク」。日本語で最も安定して発信している一人。",
