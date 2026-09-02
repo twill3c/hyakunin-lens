@@ -4476,20 +4476,20 @@
   "own": [
    {
     "d": "2026-09-01",
+    "t": "Claude Fable 5.1 made me a really nice animated pelican",
+    "u": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-01",
     "t": "Codex bundles LibreOffice",
     "u": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
     "s": "blog"
    },
    {
     "d": "2026-09-01",
-    "t": "Quoting Tarn Adams",
-    "u": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "Python 3.15.0 candidate 2 is here!",
-    "u": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "t": "GeoJSON Map Viewer",
+    "u": "https://simonwillison.net/2026/Sep/1/geojson/",
     "s": "blog"
    }
   ],
@@ -5688,6 +5688,12 @@
   "own": [
    {
     "d": "2026-09-01",
+    "t": "The latest AI news we announced in August 2026",
+    "u": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-01",
     "t": "September Android Drop: Remember where you put things, ease motion sickness, and more",
     "u": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
     "s": "blog"
@@ -5696,12 +5702,6 @@
     "d": "2026-09-01",
     "t": "Introducing agentic video understanding with Gemini",
     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "u": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
     "s": "blog"
    }
   ],
