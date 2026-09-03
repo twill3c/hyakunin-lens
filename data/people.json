@@ -50,18 +50,18 @@
     "o": "The Vision Journal"
    },
    {
-    "d": "2026-08-14",
-    "t": "Geoffrey Hinton's Biggest AI Warning Yet",
-    "u": "https://www.youtube.com/watch?v=r7fEV4tvvLc",
+    "d": "2026-08-28",
+    "t": "Godfather of AI, Geoffrey Hinton: “If you sleep well tonight, you may not have understood this le...",
+    "u": "https://www.youtube.com/watch?v=YDv54iiOrao",
     "s": "yt",
-    "o": "StudentAI Hub"
+    "o": "UninformedInvestors"
    },
    {
-    "d": "2026-08-06",
-    "t": "AI4 2026 Conference Recap: Geoffrey Hinton, AI Governance & Live Takeaways from Las Vegas",
-    "u": "https://www.youtube.com/watch?v=3UnqWZEX9Fc",
+    "d": "2026-08-19",
+    "t": "Do LLMs Really Understand? Examining Geoffrey Hinton's Arguments",
+    "u": "https://www.youtube.com/watch?v=XhF_49e6Cpg",
     "s": "yt",
-    "o": "The IT Director's Podcast"
+    "o": "Ontology Explained: Philosophy and AI"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-03",
+    "t": "Andrej Karpathy: \"Delete Everything, Keep Attention\" | Stanford Lecture",
+    "u": "https://www.youtube.com/watch?v=rxv6B7JODTY",
+    "s": "yt",
+    "o": "The AI Snack"
+   },
+   {
     "d": "2026-08-28",
     "t": "Anthropic Engineer Andrej Karpathy just said what no one wants to admit",
     "u": "https://www.youtube.com/watch?v=wGgcn-rvUV8",
@@ -1725,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=Gm469A_dCZA",
     "s": "yt",
     "o": "The Mukuls"
-   },
-   {
-    "d": "2026-08-19",
-    "t": "This 1-Hour Andrej Karpathy Lecture Explains Modern AI Better Than Most Courses",
-    "u": "https://www.youtube.com/watch?v=EsQ_bmXKA4A",
-    "s": "yt",
-    "o": "TechXOps"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -3689,6 +3689,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-03",
+    "t": "Vercel CEO Guillermo Rauch 深度解析：AI時代的「遞迴創始人模式」與軟體開發未來",
+    "u": "https://www.youtube.com/watch?v=5G7WjUBzWoQ",
+    "s": "yt",
+    "o": "PP科技筆記 Podcast"
+   },
+   {
     "d": "2026-08-25",
     "t": "Inside Vercel's AI-era playbook: \"Recursive Founder Mode\" | Guillermo Rauch (CEO)",
     "u": "https://www.youtube.com/watch?v=DdbCtAScTsk",
@@ -3701,13 +3708,6 @@
     "u": "https://www.youtube.com/watch?v=cUO5hZi7OtU",
     "s": "yt",
     "o": "PP科技筆記 Podcast"
-   },
-   {
-    "d": "2026-08-14",
-    "t": "每家公司都即將自己蓋的那個 AI 代理｜Vercel 執行長 Guillermo Rauch 專訪完整重點｜繁體中文",
-    "u": "https://www.youtube.com/watch?v=ictixUBW3mE",
-    "s": "yt",
-    "o": "Markluce AI"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -5848,6 +5848,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-03",
+    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
+    "u": "https://www.youtube.com/watch?v=pqozy-0YJ-E",
+    "s": "yt",
+    "o": "김빈의폴리띵스 Polithings by Been Kim"
+   },
+   {
     "d": "2026-08-31",
     "t": "Been Kim - Changing Shapes: Interpretability, AI, and the Future of Human Agency - IPAM at UCLA",
     "u": "https://www.youtube.com/watch?v=TcJFGNbRTa0",
@@ -5858,13 +5865,6 @@
     "d": "2026-08-17",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=gXKchklb5n4",
-    "s": "yt",
-    "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
-    "u": "https://www.youtube.com/watch?v=qjiyaWVC7yQ",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
    }
