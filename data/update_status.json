@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T21:16:39Z",
- "ok": 16,
- "fail": 5,
+ "generated_at": "2026-09-03T05:02:34Z",
+ "ok": 17,
+ "fail": 4,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -30,7 +30,7 @@
    "s": "blog",
    "feed": "https://www.langchain.com/blog/rss.xml",
    "ok": true,
-   "count": 99
+   "count": 98
   },
   {
    "n": "Jan Leike",
@@ -137,9 +137,8 @@
    "n": "Yohei Nakajima",
    "s": "blog",
    "feed": "https://yoheinakajima.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "ValueError: XML として解釈できない: mismatched tag: line 93, column 2"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "Yoshua Bengio",
