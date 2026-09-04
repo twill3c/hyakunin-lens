@@ -3976,7 +3976,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-03",
+    "d": "2026-09-04",
     "t": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
     "u": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
     "s": "blog"
