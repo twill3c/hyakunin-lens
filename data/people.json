@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-09-04",
+    "t": "OpenAI's rogue agents were caught communicating via public wikis",
+    "u": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-04",
     "t": "August newsletter is out",
     "u": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-09-03",
     "t": "GPT‑6 Astra",
     "u": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "llm-gemini 0.34",
-    "u": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
     "s": "blog"
    }
   ],
@@ -5694,21 +5694,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-04",
+    "t": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-04",
+    "t": "Google Translate rolls out new upgrades for iOS and Android.",
+    "u": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-03",
     "t": "Start the year AI-ready with the Google AI Educator Series",
     "u": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-03",
-    "t": "Use your voice to get more done in Gmail, Docs, and Keep",
-    "u": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-03",
-    "t": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-    "u": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
     "s": "blog"
    }
   ],
