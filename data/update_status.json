@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T21:02:03Z",
+ "generated_at": "2026-09-05T04:55:45Z",
  "ok": 17,
  "fail": 4,
  "sources": [
@@ -53,7 +53,7 @@
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
    "ok": false,
    "count": 0,
-   "error": "URLError: <urlopen error timed out>"
+   "error": "URLError: <urlopen error [Errno 111] Connection refused>"
   },
   {
    "n": "Lilian Weng",
