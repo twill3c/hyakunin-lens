@@ -200,18 +200,18 @@
     "o": "PodCast OscarAI"
    },
    {
+    "d": "2026-08-16",
+    "t": "Yann LeCun contra el mundo| Por qué el \"padrino de la IA\" apostó $3.500 millones a que los LLM son u",
+    "u": "https://www.youtube.com/watch?v=-Co7x5TSpME",
+    "s": "yt",
+    "o": "PodCast OscarAI"
+   },
+   {
     "d": "2026-08-08",
     "t": "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
     "u": "https://www.youtube.com/watch?v=srAK9Jp_0f0",
     "s": "yt",
     "o": "Zenvora Productions"
-   },
-   {
-    "d": "2026-07-28",
-    "t": "Yann LeCun Thinks AI Is Learning the Wrong Way — JEPA Explained",
-    "u": "https://www.youtube.com/watch?v=4qVXLEImiN8",
-    "s": "yt",
-    "o": "Vector Meridian"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -338,7 +338,7 @@
   "yt": [
    {
     "d": "2026-08-31",
-    "t": "Sunday Morning Worship- Richard Sutton- August 30",
+    "t": "The Church’s Giant Mission - Richard Sutton- August 30",
     "u": "https://www.youtube.com/watch?v=ruG8BQtBG_U",
     "s": "yt",
     "o": "Linder Road Church of Christ"
@@ -352,7 +352,7 @@
    },
    {
     "d": "2026-08-24",
-    "t": "Sunday AM Worship - Richard Sutton - 8/26/2026",
+    "t": "The Life Changing Word of God - Richard Sutton - 8/26/2026",
     "u": "https://www.youtube.com/watch?v=JWWYvylGK7s",
     "s": "yt",
     "o": "Linder Road Church of Christ"
@@ -1720,18 +1720,18 @@
     "o": "The AI Snack"
    },
    {
+    "d": "2026-08-29",
+    "t": "Andrej Karpathy’s 1-hour Stanford lecture on AI engineering is one of the best explanations I’ve ...",
+    "u": "https://www.youtube.com/watch?v=jb2vcyFJLto",
+    "s": "yt",
+    "o": "UninformedInvestors"
+   },
+   {
     "d": "2026-08-28",
     "t": "Anthropic Engineer Andrej Karpathy just said what no one wants to admit",
     "u": "https://www.youtube.com/watch?v=wGgcn-rvUV8",
     "s": "yt",
     "o": "UninformedInvestors"
-   },
-   {
-    "d": "2026-08-25",
-    "t": "Andrej Karpathy on Agents, Loops and Self Improving Systems",
-    "u": "https://www.youtube.com/watch?v=Gm469A_dCZA",
-    "s": "yt",
-    "o": "The Mukuls"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -5313,6 +5313,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-04",
+    "t": "Top Robot Expert: The Next Breakthrough in AI Will Be Physical | Sergey Levine",
+    "u": "https://www.youtube.com/watch?v=qexxkb1M1mE",
+    "s": "yt",
+    "o": "SparX by Mukesh Bansal"
+   },
+   {
     "d": "2026-08-24",
     "t": "Sergey Levine: Humanoid Robotics Results, Chinese Labs & Future Timelines",
     "u": "https://www.youtube.com/watch?v=9OSbaPjv0Rc",
@@ -5325,13 +5332,6 @@
     "u": "https://www.youtube.com/watch?v=9yKrxygFvlw",
     "s": "yt",
     "o": "Zenvora Productions"
-   },
-   {
-    "d": "2026-07-22",
-    "t": "Physical Intelligence & UC Berkeley - Sergey Levine: Robotic Foundation Models",
-    "u": "https://www.youtube.com/watch?v=Bn7hLecuHmA",
-    "s": "yt",
-    "o": "WDFM-EAI"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
@@ -5606,6 +5606,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-04",
+    "t": "Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
+    "u": "https://www.youtube.com/watch?v=KS_IpnX7n9I",
+    "s": "yt",
+    "o": "Latent Space"
+   },
+   {
     "d": "2026-08-26",
     "t": "🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
     "u": "https://www.youtube.com/watch?v=79mIutht1f4",
@@ -5618,13 +5625,6 @@
     "u": "https://www.youtube.com/watch?v=RIoVMeQDXEE",
     "s": "yt",
     "o": "AI Signal Live: Tech"
-   },
-   {
-    "d": "2026-07-22",
-    "t": "Anima Anandkumar: How do we build AI to push the frontiers of scientific discovery?",
-    "u": "https://www.youtube.com/watch?v=B4EMfGKpm8s",
-    "s": "yt",
-    "o": "SAIR"
    }
   ],
   "note": "Caltech個人ページに本人執筆ブログの掲載なし。X日付は取得できず。",
@@ -5848,7 +5848,14 @@
   ],
   "yt": [
    {
-    "d": "2026-09-03",
+    "d": "2026-09-05",
+    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
+    "u": "https://www.youtube.com/watch?v=IHfL-XO8wzU",
+    "s": "yt",
+    "o": "김빈의폴리띵스 Polithings by Been Kim"
+   },
+   {
+    "d": "2026-09-04",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=pqozy-0YJ-E",
     "s": "yt",
@@ -5860,13 +5867,6 @@
     "u": "https://www.youtube.com/watch?v=TcJFGNbRTa0",
     "s": "yt",
     "o": "Institute for Pure & Applied Mathematics (IPAM)"
-   },
-   {
-    "d": "2026-08-17",
-    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
-    "u": "https://www.youtube.com/watch?v=gXKchklb5n4",
-    "s": "yt",
-    "o": "김빈의폴리띵스 Polithings by Been Kim"
    }
   ],
   "note": "個人サイトにブログ一覧はなくMediumへのリンクのみ。X投稿は存在を確認したが個別URL・日付が取得できず不採用。",
