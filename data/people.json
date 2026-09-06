@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-09-05",
+    "t": "Introducing GPT-6 Astra for developers",
+    "u": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-05",
     "t": "Using Blender with coding agents on macOS",
     "u": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-09-04",
     "t": "The Pelican comparison grid for Astra is pretty interesting",
     "u": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "OpenAI's rogue agents were caught communicating via public wikis",
-    "u": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
     "s": "blog"
    }
   ],
