@@ -550,25 +550,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-06",
+    "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
+    "u": "https://www.youtube.com/watch?v=jXaB4T7vi_U",
+    "s": "yt",
+    "o": "Focal Point Church"
+   },
+   {
+    "d": "2026-09-05",
+    "t": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford",
+    "u": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+    "s": "yt",
+    "o": "philia"
+   },
+   {
     "d": "2026-09-04",
     "t": "OpenWorker Security: Shift-Left AI Harness (Andrew Ng) (Audio Deep Dive)",
     "u": "https://www.youtube.com/watch?v=3f2QZb5OpWs",
     "s": "yt",
     "o": "Latent AI"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
-    "u": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
-    "s": "yt",
-    "o": "Silicon Valley Girl"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Google Brain founder, Andrew Ng",
-    "u": "https://www.youtube.com/watch?v=dT8kEpsIWOU",
-    "s": "yt",
-    "o": "UninformedInvestors"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1255,6 +1255,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-06",
+    "t": "An Alien Mind - By Jakub Pachocki, Chief Scientist at OpenAI",
+    "u": "https://www.youtube.com/watch?v=VBiRnlxydu0",
+    "s": "yt",
+    "o": "AskwhoCasts AI"
+   },
+   {
     "d": "不明",
     "t": "OpenAI's Chief Scientist on Continual Learning Hype, RL Beyond Code, & Alignment",
     "u": "https://www.youtube.com/watch?v=vK1qEF3a3WM",
@@ -1267,13 +1274,6 @@
     "u": "https://www.youtube.com/watch?v=KSgPNVmZ8jQ",
     "s": "yt",
     "o": "a16z"
-   },
-   {
-    "d": "不明",
-    "t": "AGI progress, surprising breakthroughs, and the road ahead — the OpenAI Podcast Ep. 5",
-    "u": "https://www.youtube.com/watch?v=yBzStBK6Z8c",
-    "s": "yt",
-    "o": "OpenAI"
    }
   ],
   "note": "2026-08-18の投稿もあるが本文未確認のため除外。",
@@ -2132,6 +2132,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-05",
+    "t": "Analyse Arthur Mensch",
+    "u": "https://www.youtube.com/watch?v=n1JqRDeXcew",
+    "s": "yt",
+    "o": "Gautier Bonnemaison"
+   },
+   {
     "d": "2026-06-17",
     "t": "欧州発のソブリンAI「Mistral AI」 CEO Arthur Mensch（アルチュール・メンシュ）。Mixture of Expertsとオープン・ウェイトの哲学",
     "u": "https://www.youtube.com/watch?v=Ue2Fu-YYva4",
@@ -2144,13 +2151,6 @@
     "u": "https://www.youtube.com/watch?v=bgfxyt-rU4s",
     "s": "yt",
     "o": "Bourseko"
-   },
-   {
-    "d": "2026-06-08",
-    "t": "Face au PDG de Mistral AI Arthur Mensch, certains députés semblent dépassés par l'IA",
-    "u": "https://www.youtube.com/watch?v=qOytBwoUTdA",
-    "s": "yt",
-    "o": "Actu politique"
    }
   ],
   "note": "LinkedInはフェッチ不可。投稿の存在のみ確認、本文・日付は未確認。",
@@ -4443,6 +4443,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-05",
+    "t": "Mörwald kocht! Toni Mörwald trifft auf Unternehmer Joachim & Thomas Wolf",
+    "u": "https://www.youtube.com/watch?v=44Bk0wyOGtQ",
+    "s": "yt",
+    "o": "OE24.TV"
+   },
+   {
     "d": "2026-09-04",
     "t": "Why AI Agents Need Million-Token Context — Thomas Wolf & Olive Song, MiniMax",
     "u": "https://www.youtube.com/watch?v=5Cxe5dv2Xlw",
@@ -4455,13 +4462,6 @@
     "u": "https://www.youtube.com/watch?v=FU9A481E2W8",
     "s": "yt",
     "o": "The MAD Podcast with Matt Turck"
-   },
-   {
-    "d": "2026-08-06",
-    "t": "Thomas Wolf & Leandro von Werra: Inside Hugging Face’s Open Science Mission",
-    "u": "https://www.youtube.com/watch?v=kOXwIwWp8ts",
-    "s": "yt",
-    "o": "SAIR"
    }
   ],
   "note": "個人ブログ最新は2025-05-14のためX投稿を採用。",
