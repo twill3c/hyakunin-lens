@@ -4475,21 +4475,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-07",
+    "t": "Video compressor",
+    "u": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-07",
+    "t": "Mercator ↔ Equal Earth",
+    "u": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-06",
     "t": "Research acceleration: The view inside OpenAI",
     "u": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-06",
-    "t": "The purpose of DNS is to spread scams",
-    "u": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-06",
-    "t": "There's No Limit to How Bad Code Can Get",
-    "u": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
     "s": "blog"
    }
   ],
