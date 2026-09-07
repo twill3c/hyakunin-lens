@@ -775,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-07",
+    "t": "Jeff Dean Leaving Google - A Google Exodus ? | Why “Hire People Smarter Than You” Is Terrible Advice",
+    "u": "https://www.youtube.com/watch?v=OgfMPC7Hvn4",
+    "s": "yt",
+    "o": "TwoFoundersPodcast"
+   },
+   {
     "d": "2026-08-30",
     "t": "Ex-Google Engineer Jeff Dean released 1-hour lecture on full AI engineering:",
     "u": "https://www.youtube.com/watch?v=WyLWoTmf9dw",
@@ -787,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=dZAynvtk6yg",
     "s": "yt",
     "o": "UninformedInvestors"
-   },
-   {
-    "d": "2026-08-23",
-    "t": "Jeff Dean Explains 15 Years of AI: TPUs, Transformers, Gemini 3 & What Comes Next",
-    "u": "https://www.youtube.com/watch?v=rjb4gJ3BA24",
-    "s": "yt",
-    "o": "Pet circle"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -4945,7 +4945,15 @@
     "o": "Changelog"
    }
   ],
-  "yt": [],
+  "yt": [
+   {
+    "d": "2026-09-07",
+    "t": "GEORGI GERGANOV - 25/26 FULL SEASON HIGHLIGHTS ",
+    "u": "https://www.youtube.com/watch?v=4KBEMAw46xU",
+    "s": "yt",
+    "o": "triplecondi.highlights "
+   }
+  ],
   "note": "",
   "mnote": "公開インタビューが非常に少なく、2件は同一収録の音声版・映像版。",
   "ynote": "本人が登場する対談動画はこの1件のみ。（うち1件は上のセクションと重複のため非表示）"
@@ -5607,7 +5615,7 @@
   "yt": [
    {
     "d": "2026-09-04",
-    "t": "Faster Chips That Don't Melt — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
+    "t": "Trillion Token Context. No, Really — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
     "u": "https://www.youtube.com/watch?v=KS_IpnX7n9I",
     "s": "yt",
     "o": "Latent Space"
