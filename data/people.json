@@ -268,6 +268,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-08",
+    "t": "The GOAT of AI | Jürgen Schmidhuber | Europe on Edge #5",
+    "u": "https://www.youtube.com/watch?v=zrMeM0yp05A",
+    "s": "yt",
+    "o": "Europe on Edge"
+   },
+   {
     "d": "2026-09-01",
     "t": "IAS Lectio Magistralis #04/2026 - Jürgen Schmidhuber",
     "u": "https://www.youtube.com/watch?v=U8iFBfaZYiw",
@@ -280,13 +287,6 @@
     "u": "https://www.youtube.com/watch?v=HoHtQx0dIns",
     "s": "yt",
     "o": "FONDS professionell"
-   },
-   {
-    "d": "2026-07-09",
-    "t": "AI Pioneer Jürgen Schmidhuber on the State of AI Today",
-    "u": "https://www.youtube.com/watch?v=RKjR8DQ40po",
-    "s": "yt",
-    "o": "Unsupervised Learning: With Jacob Effron"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -400,25 +400,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-02",
+    "t": "2 Hours of Breaking Down Michael Jordan's Greatness",
+    "u": "https://www.youtube.com/watch?v=1la9ElFjM6A",
+    "s": "yt",
+    "o": "Jonny Arnett"
+   },
+   {
+    "d": "2026-09-02",
+    "t": "Every Time Michael Jordan Took It Personally...",
+    "u": "https://www.youtube.com/watch?v=EPmMmUW7oBU",
+    "s": "yt",
+    "o": "Hoops Central - Throwback"
+   },
+   {
     "d": "2026-08-30",
     "t": "99 OVR MICHAEL JORDAN BUILD has BROKEN NBA 2K27...",
     "u": "https://www.youtube.com/watch?v=IQMajXWDt0M",
     "s": "yt",
     "o": "Joe Knows"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "The Day Michael Jordan Showed Orlando Magic Who Was The BOSS",
-    "u": "https://www.youtube.com/watch?v=PLjdszK87iY",
-    "s": "yt",
-    "o": "Mr Sports"
-   },
-   {
-    "d": "2026-08-27",
-    "t": "60 Minutes of Michael Jordan's MOST JAW-DROPPING Highlights",
-    "u": "https://www.youtube.com/watch?v=IKKWrRxTIp0",
-    "s": "yt",
-    "o": "Issa Sport"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -552,6 +552,13 @@
    {
     "d": "2026-09-06",
     "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
+    "u": "https://www.youtube.com/watch?v=c4dY9fQgX_M",
+    "s": "yt",
+    "o": "Focal Point Church"
+   },
+   {
+    "d": "2026-09-06",
+    "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
     "u": "https://www.youtube.com/watch?v=jXaB4T7vi_U",
     "s": "yt",
     "o": "Focal Point Church"
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
     "s": "yt",
     "o": "philia"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "OpenWorker Security: Shift-Left AI Harness (Andrew Ng) (Audio Deep Dive)",
-    "u": "https://www.youtube.com/watch?v=3f2QZb5OpWs",
-    "s": "yt",
-    "o": "Latent AI"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1119,15 +1119,15 @@
   "yt": [
    {
     "d": "2026-09-02",
-    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
    {
     "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
+    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
@@ -1255,6 +1255,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-07",
+    "t": "An Alien Mind: Jakub Pachocki Warns Us",
+    "u": "https://www.youtube.com/watch?v=sM1FORt-3Z8",
+    "s": "yt",
+    "o": "AskwhoCasts AI"
+   },
+   {
     "d": "2026-09-06",
     "t": "An Alien Mind - By Jakub Pachocki, Chief Scientist at OpenAI",
     "u": "https://www.youtube.com/watch?v=VBiRnlxydu0",
@@ -1267,13 +1274,6 @@
     "u": "https://www.youtube.com/watch?v=vK1qEF3a3WM",
     "s": "yt",
     "o": "Unsupervised Learning: With Jacob Effron"
-   },
-   {
-    "d": "不明",
-    "t": "From Vibe Coding to Vibe Researching: OpenAI's Mark Chen and Jakub Pachocki",
-    "u": "https://www.youtube.com/watch?v=KSgPNVmZ8jQ",
-    "s": "yt",
-    "o": "a16z"
    }
   ],
   "note": "2026-08-18の投稿もあるが本文未確認のため除外。",
@@ -2007,6 +2007,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-07",
+    "t": "梁文锋讲话泄露后，DeepSeek为何重押华为昇腾?",
+    "u": "https://www.youtube.com/watch?v=tQp-7_FZhFw",
+    "s": "yt",
+    "o": "老范讲故事"
+   },
+   {
     "d": "2026-08-26",
     "t": "梁文峰成為了讓美國忌憚的人Liang Wenfeng has become someone that the United States fears",
     "u": "https://www.youtube.com/watch?v=LYCK-fyiAY0",
@@ -2019,13 +2026,6 @@
     "u": "https://www.youtube.com/watch?v=zbi1MKAQKL4",
     "s": "yt",
     "o": "正确君"
-   },
-   {
-    "d": "2026-07-31",
-    "t": "Liang Wenfeng: The man who told capital to wait...",
-    "u": "https://www.youtube.com/watch?v=HRMzXAovHis",
-    "s": "yt",
-    "o": "Border Cyber Group"
    }
   ],
   "note": "本人名義のブログ・SNSは確認できず0件。流通しているのは第三者による書き起こしのみ。",
@@ -5008,6 +5008,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-04",
+    "t": "Why Fei-Fei Li Is Betting on Spatial Intelligence",
+    "u": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
+    "s": "yt",
+    "o": "a16z"
+   },
+   {
     "d": "2026-09-03",
     "t": "The Girl Who Taught Machines to See — Fei-Fei Li | The Constellation",
     "u": "https://www.youtube.com/watch?v=O2HwEGXC3pE",
@@ -5020,13 +5027,6 @@
     "u": "https://www.youtube.com/watch?v=maCyQfkGnxQ",
     "s": "yt",
     "o": "HumanX"
-   },
-   {
-    "d": "2026-08-13",
-    "t": "華人 AI 教母李飛飛：具身智能缺的不是模型，是「經驗」",
-    "u": "https://www.youtube.com/watch?v=haAi9086PqA",
-    "s": "yt",
-    "o": "MoneyDaddy财漫"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -6297,15 +6297,15 @@
   "yt": [
    {
     "d": "2026-08-30",
-    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
-    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
+    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
+    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
    {
     "d": "2026-08-30",
-    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
-    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
+    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
+    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
@@ -6589,6 +6589,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-08",
+    "t": "【Claude・Kimi・GPTは“社外秘”の最強AIが作る】「ループが回り始めた」Preferred Networks社長・岡野原大輔／国産AI「Noetra」に社員派遣の理由【1on1 Tech】",
+    "u": "https://www.youtube.com/watch?v=j6hdakNkiXk",
+    "s": "yt",
+    "o": "TBS CROSS DIG with Bloomberg"
+   },
+   {
     "d": "2026-09-02",
     "t": "第4回｜岡野原大輔『ヒトとAI』を読んで考えた、AIに「意識」を感じる条件",
     "u": "https://www.youtube.com/watch?v=NEAhCsYK0QU",
@@ -6601,13 +6608,6 @@
     "u": "https://www.youtube.com/watch?v=SPJ_9B_NC8E",
     "s": "yt",
     "o": "NIKKEI PODCAST　日経ポッドキャスト"
-   },
-   {
-    "d": "2026-03-19",
-    "t": "放課後ゼミナールVol.4～Z世代と考える「AIがもたらす未来」(講演:岡野原大輔 企業のDX推進委員会副委員長 / Preferred Networks共同創業者取締役社長)～経済同友会×ニコニコ】",
-    "u": "https://www.youtube.com/watch?v=-LH2Hoc3Bh4",
-    "s": "yt",
-    "o": "公益社団法人 経済同友会"
    }
   ],
   "note": "PFN公式の本人名義連載「岡野原大輔のランチタイムトーク」。日本語で最も安定して発信している一人。",
