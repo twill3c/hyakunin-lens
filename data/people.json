@@ -3976,6 +3976,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-09-08",
+    "t": "Organizing Context in a Multi-Agent Harness",
+    "u": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-04",
     "t": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
     "u": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
@@ -3985,12 +3991,6 @@
     "d": "2026-09-03",
     "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
     "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-27",
-    "t": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
-    "u": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
     "s": "blog"
    }
   ],
@@ -5703,20 +5703,20 @@
   "own": [
    {
     "d": "2026-09-08",
-    "t": "Helping small businesses win with AI",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
+    "t": "Missouri and Google partner on AI and career training",
+    "u": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
     "s": "blog"
    },
    {
-    "d": "2026-09-07",
-    "t": "Our new contrail avoidance trial in Asia-Pacific",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
+    "d": "2026-09-08",
+    "t": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
     "s": "blog"
    },
    {
-    "d": "2026-09-07",
-    "t": "Backing 16 green AI projects in Asia-Pacific",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
+    "d": "2026-09-08",
+    "t": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "s": "blog"
    }
   ],
