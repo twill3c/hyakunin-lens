@@ -4476,20 +4476,20 @@
   "own": [
    {
     "d": "2026-09-07",
-    "t": "Video compressor",
-    "u": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "t": "llm 0.35",
+    "u": "https://simonwillison.net/2026/Sep/7/llm/",
     "s": "blog"
    },
    {
     "d": "2026-09-07",
-    "t": "Mercator ↔ Equal Earth",
-    "u": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "t": "Creepy crawlies",
+    "u": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
     "s": "blog"
    },
    {
-    "d": "2026-09-06",
-    "t": "Research acceleration: The view inside OpenAI",
-    "u": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "d": "2026-09-07",
+    "t": "Quoting Jakub Pachocki",
+    "u": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
     "s": "blog"
    }
   ],
