@@ -5702,21 +5702,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-09",
+    "t": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-09",
+    "t": "Our blueprint for responsible clean energy growth in Finland",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-08",
     "t": "Missouri and Google partner on AI and career training",
     "u": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "We’re helping put 25 new electric semi trucks on the road in Texas.",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "AlphaGenome Atlas: a high-resolution map of human DNA",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "s": "blog"
    }
   ],
