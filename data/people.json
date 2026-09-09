@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-08",
+    "t": "Andrej Karpathy: The Future of AI Is a Graph",
+    "u": "https://www.youtube.com/watch?v=Rlk0GLRWwTI",
+    "s": "yt",
+    "o": "Perfology Clips"
+   },
+   {
     "d": "2026-09-03",
     "t": "Andrej Karpathy: \"Delete Everything, Keep Attention\" | Stanford Lecture",
     "u": "https://www.youtube.com/watch?v=rxv6B7JODTY",
@@ -1723,13 +1730,6 @@
     "d": "2026-08-29",
     "t": "Andrej Karpathy’s 1-hour Stanford lecture on AI engineering is one of the best explanations I’ve ...",
     "u": "https://www.youtube.com/watch?v=jb2vcyFJLto",
-    "s": "yt",
-    "o": "UninformedInvestors"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Anthropic Engineer Andrej Karpathy just said what no one wants to admit",
-    "u": "https://www.youtube.com/watch?v=wGgcn-rvUV8",
     "s": "yt",
     "o": "UninformedInvestors"
    }
@@ -3174,6 +3174,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-08",
+    "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
+    "u": "https://www.youtube.com/watch?v=2_u9L8eUq5s",
+    "s": "yt",
+    "o": "TBPN"
+   },
+   {
     "d": "2026-08-23",
     "t": "Cognition CEO Scott Wu：Devin、AI軟體工程師與AGI的未來",
     "u": "https://www.youtube.com/watch?v=sYSB42VIadY",
@@ -3186,13 +3193,6 @@
     "u": "https://www.youtube.com/watch?v=y1XxtvYll4s",
     "s": "yt",
     "o": "Sourcery with Molly O'Shea"
-   },
-   {
-    "d": "2026-07-21",
-    "t": "Windsurf、DevinのAIコーディングのCognition AI CEO Scott Wu（スコット・ウー）、シリーズDで10億ドル（約1,600億円）調達",
-    "u": "https://www.youtube.com/watch?v=4lRtysL5Bdw",
-    "s": "yt",
-    "o": "newsify"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -5322,7 +5322,7 @@
   "yt": [
    {
     "d": "2026-09-04",
-    "t": "Top Robot Expert: The Next Breakthrough in AI Will Be Physical | Sergey Levine",
+    "t": "Top Robot Expert: The ₹10 Lakh Crore Robot Opportunity | Sergey Levine",
     "u": "https://www.youtube.com/watch?v=qexxkb1M1mE",
     "s": "yt",
     "o": "SparX by Mukesh Bansal"
@@ -5856,6 +5856,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-09",
+    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
+    "u": "https://www.youtube.com/watch?v=ma8agqyWF6Q",
+    "s": "yt",
+    "o": "김빈의폴리띵스 Polithings by Been Kim"
+   },
+   {
     "d": "2026-09-05",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=IHfL-XO8wzU",
@@ -5868,13 +5875,6 @@
     "u": "https://www.youtube.com/watch?v=pqozy-0YJ-E",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Been Kim - Changing Shapes: Interpretability, AI, and the Future of Human Agency - IPAM at UCLA",
-    "u": "https://www.youtube.com/watch?v=TcJFGNbRTa0",
-    "s": "yt",
-    "o": "Institute for Pure & Applied Mathematics (IPAM)"
    }
   ],
   "note": "個人サイトにブログ一覧はなくMediumへのリンクのみ。X投稿は存在を確認したが個別URL・日付が取得できず不採用。",
