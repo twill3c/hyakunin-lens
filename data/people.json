@@ -4475,21 +4475,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-09-07",
-    "t": "llm 0.35",
-    "u": "https://simonwillison.net/2026/Sep/7/llm/",
+    "d": "2026-09-09",
+    "t": "Quoting Terence Tao",
+    "u": "https://simonwillison.net/2026/Sep/9/terence-tao/",
     "s": "blog"
    },
    {
-    "d": "2026-09-07",
-    "t": "Creepy crawlies",
-    "u": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+    "d": "2026-09-08",
+    "t": "On the Navier–Stokes Millennium Prize Problem",
+    "u": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
     "s": "blog"
    },
    {
-    "d": "2026-09-07",
-    "t": "Quoting Jakub Pachocki",
-    "u": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "d": "2026-09-08",
+    "t": "Introducing ChatGPT Images 2.5",
+    "u": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
     "s": "blog"
    }
   ],
