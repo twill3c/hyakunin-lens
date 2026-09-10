@@ -401,17 +401,17 @@
   "yt": [
    {
     "d": "2026-09-02",
-    "t": "2 Hours of Breaking Down Michael Jordan's Greatness",
-    "u": "https://www.youtube.com/watch?v=1la9ElFjM6A",
-    "s": "yt",
-    "o": "Jonny Arnett"
-   },
-   {
-    "d": "2026-09-02",
     "t": "Every Time Michael Jordan Took It Personally...",
     "u": "https://www.youtube.com/watch?v=EPmMmUW7oBU",
     "s": "yt",
     "o": "Hoops Central - Throwback"
+   },
+   {
+    "d": "2026-09-02",
+    "t": "2 Hours of Breaking Down Michael Jordan's Greatness",
+    "u": "https://www.youtube.com/watch?v=1la9ElFjM6A",
+    "s": "yt",
+    "o": "Jonny Arnett"
    },
    {
     "d": "2026-08-30",
@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-10",
+    "t": "Harness Engineering- Andrew Ng just released a free 2-hour course on complete Harness Engineering",
+    "u": "https://www.youtube.com/watch?v=VjSdN_7MAU4",
+    "s": "yt",
+    "o": "DigitalFoundry"
+   },
+   {
     "d": "2026-09-06",
     "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
     "u": "https://www.youtube.com/watch?v=c4dY9fQgX_M",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=jXaB4T7vi_U",
     "s": "yt",
     "o": "Focal Point Church"
-   },
-   {
-    "d": "2026-09-05",
-    "t": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford",
-    "u": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-    "s": "yt",
-    "o": "philia"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -3614,6 +3614,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-09",
+    "t": "Bolt CEO on How PMs Turn AI Prototypes Into Production Code Engineers Trust | Eric Simons | E311",
+    "u": "https://www.youtube.com/watch?v=ZELi-yvOF_w",
+    "s": "yt",
+    "o": "Product School"
+   },
+   {
     "d": "2026-08-31",
     "t": "From Talent to the Highest Level: What Does It Really Take? | Eric Simons",
     "u": "https://www.youtube.com/watch?v=xdQoLjUf7t8",
@@ -3626,13 +3633,6 @@
     "u": "https://www.youtube.com/watch?v=9YE163b3kgI",
     "s": "yt",
     "o": "The General Podcast"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "At Every Depth: Our Growing Knowledge of the Changing Oceans Audiobook by Eric Simons",
-    "u": "https://www.youtube.com/watch?v=_a1yPq7_3Qg",
-    "s": "yt",
-    "o": "Free Audiobook"
    }
   ],
   "note": "3件目に該当するものは確認できず2件。",
@@ -4169,6 +4169,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-10",
+    "t": "Homenagem em Sorocaba: João Moura Júnior é o mais novo Cidadão Sorocabano!",
+    "u": "https://www.youtube.com/watch?v=Dk0ilSOEnGA",
+    "s": "yt",
+    "o": "PodEduca Evolução"
+   },
+   {
     "d": "2026-08-03",
     "t": "Vida de Casado: o que muda depois do casamento? | Marina Campello e João Moura",
     "u": "https://www.youtube.com/watch?v=O4UtemZs3CA",
@@ -4181,13 +4188,6 @@
     "u": "https://www.youtube.com/watch?v=mBEAPsf7QaY",
     "s": "yt",
     "o": "IEBAP Amor e Paz"
-   },
-   {
-    "d": "2026-05-22",
-    "t": "João Moura, CrewAI CEO on Scaling Multi-Agent AI Systems",
-    "u": "https://www.youtube.com/watch?v=D9NLv69wxlY",
-    "s": "yt",
-    "o": "Grace Gong"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -6297,15 +6297,15 @@
   "yt": [
    {
     "d": "2026-08-30",
-    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
-    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
+    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
+    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
    {
     "d": "2026-08-30",
-    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
-    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
+    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
+    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
@@ -6446,6 +6446,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-09",
+    "t": "Dispersed Lighting and Bud Grade Optimization with David Hawley, PhD",
+    "u": "https://www.youtube.com/watch?v=if-1FZHhHMY",
+    "s": "yt",
+    "o": "Medicinal Genomics"
+   },
+   {
     "d": "2026-08-10",
     "t": "How to Think in English and Stop Translating | English Listening Practice | David Ha Podcast",
     "u": "https://www.youtube.com/watch?v=7TV9nWHF7oQ",
@@ -6458,13 +6465,6 @@
     "u": "https://www.youtube.com/watch?v=I1m_E5gYRW4",
     "s": "yt",
     "o": "Mountain Rock Church of Christ"
-   },
-   {
-    "d": "2026-07-31",
-    "t": "16 WAPT Special: David Hartman signs off after 40 years as chief meteorologist",
-    "u": "https://www.youtube.com/watch?v=E_eeI5G4WRE",
-    "s": "yt",
-    "o": "16 WAPT News Jackson"
    }
   ],
   "note": "本人ブログの最新は2022-10で対象期間外（参考として記載）。X(@hardmaru)は取得不可。",
