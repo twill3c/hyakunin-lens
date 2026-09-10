@@ -3976,6 +3976,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-09-10",
+    "t": "How Credit Genie keeps codebase docs fresh with OpenWiki",
+    "u": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-09",
     "t": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
     "u": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
@@ -3985,12 +3991,6 @@
     "d": "2026-09-08",
     "t": "Organizing Context in a Multi-Agent Harness",
     "u": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
-    "u": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
     "s": "blog"
    }
   ],
@@ -5702,6 +5702,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-10",
+    "t": "Exploring Creative Intelligence with London’s Southbank Centre",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-09",
     "t": "A new deep learning model maps global methane emissions from space.",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
@@ -5711,12 +5717,6 @@
     "d": "2026-09-09",
     "t": "Tackle your to-do list with new features in our Google AI plans.",
     "u": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "Get ready for the game with new football features in Search",
-    "u": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
     "s": "blog"
    }
   ],
