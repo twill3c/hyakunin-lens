@@ -4475,21 +4475,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-10",
+    "t": "Quoting Calif Research",
+    "u": "https://simonwillison.net/2026/Sep/10/calif-research/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-09",
+    "t": ".blend URL Viewer",
+    "u": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-09",
     "t": "Quoting Terence Tao",
     "u": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "On the Navier–Stokes Millennium Prize Problem",
-    "u": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "Introducing ChatGPT Images 2.5",
-    "u": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
     "s": "blog"
    }
   ],
@@ -5703,6 +5703,12 @@
   "own": [
    {
     "d": "2026-09-09",
+    "t": "A new deep learning model maps global methane emissions from space.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-09",
     "t": "Tackle your to-do list with new features in our Google AI plans.",
     "u": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
     "s": "blog"
@@ -5711,12 +5717,6 @@
     "d": "2026-09-09",
     "t": "Get ready for the game with new football features in Search",
     "u": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "4 ways Gemini makes administrative chores quick and easy",
-    "u": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
     "s": "blog"
    }
   ],
@@ -6328,6 +6328,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-09-10",
+    "t": "Sakana AI、ＳＣＳＫ、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携　～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
+    "u": "https://sakana.ai/scsk-sc-partnership/",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-24",
     "t": "Sakana AI、防衛省から「総合分析業務に必要なAI機能の調査・実証」を受注",
     "u": "https://sakana.ai/defense-integrated-analysis/",
@@ -6337,12 +6343,6 @@
     "d": "2026-08-21",
     "t": "Sakana Translateをアップデート：翻訳モデルに新世代「Sakana Namazu」を搭載",
     "u": "https://sakana.ai/translate-update/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-13",
-    "t": "Sakana Chatがアップデート：「Sakana Fugu」と新世代「Sakana Namazu」が利用可能に",
-    "u": "https://sakana.ai/chat-update/",
     "s": "blog"
    }
   ],
