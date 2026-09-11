@@ -75,6 +75,12 @@
   "bio": "深層学習の三巨頭の一人で、Mila（モントリオール学習アルゴリズム研究所）を世界最大級のアカデミックAI研究拠点に育てた。近年は研究の軸足を安全性に移し、2025年に非営利のLawZeroを設立して「行動しないAI（Scientist AI）」による監視という独自の路線を提示。国際AI安全報告書の議長として各国政府への影響力も大きい。",
   "own": [
    {
+    "d": "2026-09-11",
+    "t": "Why are AI agents lying, cheating and coordinating?",
+    "u": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+    "s": "blog"
+   },
+   {
     "d": "2025-06-03",
     "t": "Introducing LawZero",
     "u": "https://yoshuabengio.org/en/blog/introducing-lawzero",
@@ -84,12 +90,6 @@
     "d": "2024-10-30",
     "t": "Implications of Artificial General Intelligence on National and International Security",
     "u": "https://yoshuabengio.org/en/blog/implications-artificial-general-intelligence-national-and-international-security",
-    "s": "blog"
-   },
-   {
-    "d": "2024-08-29",
-    "t": "Bounding the probability of harm from an AI to create a guardrail",
-    "u": "https://yoshuabengio.org/en/blog/bounding-probability-harm-ai-create-guardrail",
     "s": "blog"
    }
   ],
@@ -4476,20 +4476,20 @@
   "own": [
    {
     "d": "2026-09-11",
-    "t": "Datasette 1.0a39 and 0.65.4 security releases",
-    "u": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+    "t": "Quoting huggingface.co/security.txt",
+    "u": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
     "s": "blog"
    },
    {
-    "d": "2026-09-10",
-    "t": "Any Nix package, live in your browser",
-    "u": "https://simonwillison.net/2026/Sep/10/trynix/",
+    "d": "2026-09-11",
+    "t": "Soft-deprecating re.match()",
+    "u": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
     "s": "blog"
    },
    {
-    "d": "2026-09-10",
-    "t": "Native is now the future of mobile at Shopify",
-    "u": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+    "d": "2026-09-11",
+    "t": "Don't sleep on wrapture",
+    "u": "https://simonwillison.net/2026/Sep/11/wrapture/",
     "s": "blog"
    }
   ],
@@ -5702,6 +5702,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-11",
+    "t": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+    "u": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-10",
     "t": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
@@ -5711,12 +5717,6 @@
     "d": "2026-09-10",
     "t": "3 ways to prep for your next big race with Search",
     "u": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-10",
-    "t": "The Gemini app is now available for Windows",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
     "s": "blog"
    }
   ],
