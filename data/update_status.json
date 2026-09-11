@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T21:11:46Z",
- "ok": 16,
- "fail": 5,
+ "generated_at": "2026-09-11T05:14:18Z",
+ "ok": 18,
+ "fail": 3,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -51,9 +51,8 @@
    "n": "Joseph E. Gonzalez",
    "s": "blog",
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 1
   },
   {
    "n": "Lilian Weng",
@@ -137,9 +136,8 @@
    "n": "Yohei Nakajima",
    "s": "blog",
    "feed": "https://yoheinakajima.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "ValueError: XML として解釈できない: mismatched tag: line 93, column 2"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "Yoshua Bengio",
