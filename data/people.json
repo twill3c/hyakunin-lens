@@ -625,6 +625,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-11",
+    "t": "Sir Demis Hassabis on Creativity and AI | Will AI Change How We Create? | Hannah Fry",
+    "u": "https://www.youtube.com/watch?v=rDteJAuKiBI",
+    "s": "yt",
+    "o": "Royal Society of Arts"
+   },
+   {
     "d": "2026-08-25",
     "t": "Demis Hassabis and the Quest for AGI | Robert Wright & Sebastian Mallaby",
     "u": "https://www.youtube.com/watch?v=RAMYsW4Ou_E",
@@ -637,13 +644,6 @@
     "u": "https://www.youtube.com/watch?v=Pru04MlhLZo",
     "s": "yt",
     "o": "Pet circle"
-   },
-   {
-    "d": "2026-08-20",
-    "t": "Demis Hassabis wanted to solve intelligence. Then came ChatGPT. (Sebastian Mallaby)",
-    "u": "https://www.youtube.com/watch?v=y35V5ACMfS4",
-    "s": "yt",
-    "o": "The Globe and Mail"
    }
   ],
   "note": "",
@@ -2746,8 +2746,8 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia answers questions about Spark at the first Apache Spark meetup",
-    "u": "https://www.youtube.com/watch?v=owRgcgImrO8",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -5856,6 +5856,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-11",
+    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
+    "u": "https://www.youtube.com/watch?v=S75IkHn3ywo",
+    "s": "yt",
+    "o": "김빈의폴리띵스 Polithings by Been Kim"
+   },
+   {
     "d": "2026-09-09",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=ma8agqyWF6Q",
@@ -5866,13 +5873,6 @@
     "d": "2026-09-05",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=IHfL-XO8wzU",
-    "s": "yt",
-    "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
-    "u": "https://www.youtube.com/watch?v=pqozy-0YJ-E",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
    }
