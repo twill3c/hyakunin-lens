@@ -401,17 +401,17 @@
   "yt": [
    {
     "d": "2026-09-02",
-    "t": "Every Time Michael Jordan Took It Personally...",
-    "u": "https://www.youtube.com/watch?v=EPmMmUW7oBU",
-    "s": "yt",
-    "o": "Hoops Central - Throwback"
-   },
-   {
-    "d": "2026-09-02",
     "t": "2 Hours of Breaking Down Michael Jordan's Greatness",
     "u": "https://www.youtube.com/watch?v=1la9ElFjM6A",
     "s": "yt",
     "o": "Jonny Arnett"
+   },
+   {
+    "d": "2026-09-02",
+    "t": "Every Time Michael Jordan Took It Personally...",
+    "u": "https://www.youtube.com/watch?v=EPmMmUW7oBU",
+    "s": "yt",
+    "o": "Hoops Central - Throwback"
    },
    {
     "d": "2026-08-30",
@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-11",
+    "t": "Andrew Ng 1-hour course on full agent engineering with Claude Code ans Codex from scratch",
+    "u": "https://www.youtube.com/watch?v=ooPeB_vlywg",
+    "s": "yt",
+    "o": "Codila | AI - Researcher & Coder"
+   },
+   {
     "d": "2026-09-10",
     "t": "Harness Engineering- Andrew Ng just released a free 2-hour course on complete Harness Engineering",
     "u": "https://www.youtube.com/watch?v=VjSdN_7MAU4",
@@ -560,13 +567,6 @@
     "d": "2026-09-06",
     "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
     "u": "https://www.youtube.com/watch?v=c4dY9fQgX_M",
-    "s": "yt",
-    "o": "Focal Point Church"
-   },
-   {
-    "d": "2026-09-06",
-    "t": "Unbreakable Life | Apostle Andrew Ng'ang'a",
-    "u": "https://www.youtube.com/watch?v=jXaB4T7vi_U",
     "s": "yt",
     "o": "Focal Point Church"
    }
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-12",
+    "t": "Can AI Save Us… or Will It Destroy Us? | Mustafa Suleyman 😂 | Trevor Noah Podcast",
+    "u": "https://www.youtube.com/watch?v=z_VVP2oM5W0",
+    "s": "yt",
+    "o": "TOP stand up comedy"
+   },
+   {
     "d": "2026-08-24",
     "t": "Mustafa Suleyman : Can We Keep Control of AI? | The Coming Wave l",
     "u": "https://www.youtube.com/watch?v=UTJcBz0ziIM",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=W8jMofEn5l4",
     "s": "yt",
     "o": "Titan Wissen"
-   },
-   {
-    "d": "2026-08-03",
-    "t": "Book Fala - A Próxima Onda - Mustafa Suleyman e Michael Bhaskar #181",
-    "u": "https://www.youtube.com/watch?v=_aQhxiK5CzU",
-    "s": "yt",
-    "o": "Book Fala"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -5008,6 +5008,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-11",
+    "t": "Fei-Fei Li: The Godmother of AI and the Race to Build World Models",
+    "u": "https://www.youtube.com/watch?v=fF3N2Wp6Ce8",
+    "s": "yt",
+    "o": "Moconomy"
+   },
+   {
     "d": "2026-09-04",
     "t": "Why Fei-Fei Li Is Betting on Spatial Intelligence",
     "u": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
@@ -5020,13 +5027,6 @@
     "u": "https://www.youtube.com/watch?v=O2HwEGXC3pE",
     "s": "yt",
     "o": "gigi bacchetta"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Dr. Fei-Fei Li: The Godmother of AI on What Comes Next",
-    "u": "https://www.youtube.com/watch?v=maCyQfkGnxQ",
-    "s": "yt",
-    "o": "HumanX"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -6297,15 +6297,15 @@
   "yt": [
    {
     "d": "2026-08-30",
-    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
-    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
+    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
+    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
    {
     "d": "2026-08-30",
-    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
-    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
+    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
+    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
