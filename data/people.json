@@ -4476,6 +4476,12 @@
   "own": [
    {
     "d": "2026-09-12",
+    "t": "Quoting Paul Ford",
+    "u": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-12",
     "t": "OpenAI agents attacked RubyGems back in May",
     "u": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
     "s": "blog"
@@ -4484,12 +4490,6 @@
     "d": "2026-09-11",
     "t": "So you want to use OpenRouter?",
     "u": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Quoting Boris Cherny",
-    "u": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
     "s": "blog"
    }
   ],
@@ -6328,6 +6328,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-09-12",
+    "t": "英国王立協会特集号に見る、世界モデルの最前線とAIの未来",
+    "u": "https://sakana.ai/world-models-royal-society-issue/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-11",
     "t": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier",
     "u": "https://sakana.ai/fugu-max-release/",
@@ -6337,12 +6343,6 @@
     "d": "2026-09-10",
     "t": "Sakana AI、ＳＣＳＫ、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携　～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
     "u": "https://sakana.ai/scsk-sc-partnership/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "Sakana AI、防衛省から「総合分析業務に必要なAI機能の調査・実証」を受注",
-    "u": "https://sakana.ai/defense-integrated-analysis/",
     "s": "blog"
    }
   ],
