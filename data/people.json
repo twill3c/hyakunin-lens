@@ -4475,21 +4475,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-12",
+    "t": "OpenAI agents attacked RubyGems back in May",
+    "u": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-11",
+    "t": "So you want to use OpenRouter?",
+    "u": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-11",
     "t": "Quoting Boris Cherny",
     "u": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Quoting huggingface.co/security.txt",
-    "u": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Soft-deprecating re.match()",
-    "u": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
     "s": "blog"
    }
   ],
