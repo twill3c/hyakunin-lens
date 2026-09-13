@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-12",
+    "t": "AI 可能杀死所有人？Yann LeCun 有话说！",
+    "u": "https://www.youtube.com/watch?v=m1sf791Hz6A",
+    "s": "yt",
+    "o": "wow"
+   },
+   {
     "d": "2026-08-16",
     "t": "Yann LeCun vs  the world | Why the \"godfather of AI\" bet $3.5 billion that LLMs are a dead end",
     "u": "https://www.youtube.com/watch?v=ox63ohs1NMg",
@@ -205,13 +212,6 @@
     "u": "https://www.youtube.com/watch?v=-Co7x5TSpME",
     "s": "yt",
     "o": "PodCast OscarAI"
-   },
-   {
-    "d": "2026-08-08",
-    "t": "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
-    "u": "https://www.youtube.com/watch?v=srAK9Jp_0f0",
-    "s": "yt",
-    "o": "Zenvora Productions"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -626,7 +626,7 @@
   "yt": [
    {
     "d": "2026-09-11",
-    "t": "Sir Demis Hassabis on Creativity and AI | Will AI Change How We Create? | Hannah Fry",
+    "t": "Sir Demis Hassabis on the AI Revolution, the Future of AI and Human Creativity | Hannah Fry",
     "u": "https://www.youtube.com/watch?v=rDteJAuKiBI",
     "s": "yt",
     "o": "Royal Society of Arts"
@@ -925,25 +925,25 @@
   ],
   "yt": [
    {
-    "d": "2026-08-21",
-    "t": "Inside the Mind of Anthropic CEO Dario Amodei | AI, Power and the Exponential",
-    "u": "https://www.youtube.com/watch?v=PjE7OaId_qg",
+    "d": "2026-09-13",
+    "t": "Extended Interview: Dario Amodei",
+    "u": "https://www.youtube.com/watch?v=hQR_VJF6ukk",
     "s": "yt",
-    "o": "Moconomy"
+    "o": "CBS Sunday Morning"
    },
    {
-    "d": "2026-08-18",
-    "t": "Dario Amodei Breaks His Social Media Silence",
-    "u": "https://www.youtube.com/watch?v=_q3yhihZKSg",
+    "d": "2026-09-13",
+    "t": "Dario Amodei: Cinco advertencias sobre la IA",
+    "u": "https://www.youtube.com/watch?v=7K-dJGdbN54",
     "s": "yt",
-    "o": "The AI Daily Brief: Artificial Intelligence News"
+    "o": "Moris_Dieckonomics"
    },
    {
-    "d": "2026-08-08",
-    "t": "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
-    "u": "https://www.youtube.com/watch?v=qnIj5gqNaKA",
+    "d": "2026-09-13",
+    "t": "Is Dario Amodei About To Trigger an AI Stock Crash?",
+    "u": "https://www.youtube.com/watch?v=jvYdhFGqOeg",
     "s": "yt",
-    "o": "Zenvora Productions"
+    "o": "H Invest"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1951,6 +1951,13 @@
   "med": [],
   "yt": [
    {
+    "d": "2026-09-12",
+    "t": "Premonitions and Merging Mysticism with Science, with Bryan Quoc Le",
+    "u": "https://www.youtube.com/watch?v=lH356vh2JqI",
+    "s": "yt",
+    "o": "Closer To Venus Podcast"
+   },
+   {
     "d": "2026-08-11",
     "t": "Before leaving Google, Quoc Le shared his vision for the future of AI | MOMENTUM 07",
     "u": "https://www.youtube.com/watch?v=IewUi6dE05o",
@@ -1963,13 +1970,6 @@
     "u": "https://www.youtube.com/watch?v=-A87ILKMD5I",
     "s": "yt",
     "o": "New Turing Institute (NTI)"
-   },
-   {
-    "d": "不明",
-    "t": "Fireside Chat with Quoc Le, Google DeepMind's Distinguished Scientist",
-    "u": "https://www.youtube.com/watch?v=ahpQzwAtbrs",
-    "s": "yt",
-    "o": "Industrial AI Federation"
    }
   ],
   "note": "個人ブログは確認できず。他の投稿はスニペットが取得できなかった。",
@@ -2588,6 +2588,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-12",
+    "t": "前 OpenAI / 頂尖學者 Lilian Weng 最新研究：AI 自我進化的最後一塊拼圖",
+    "u": "https://www.youtube.com/watch?v=q0Yllj6d8gw",
+    "s": "yt",
+    "o": "NickBrainEvo"
+   },
+   {
     "d": "2026-07-31",
     "t": "The Lilian Weng Saga, Mental Health Essay Then OpenAI | Meta's AI Ad, China Cracks DUV",
     "u": "https://www.youtube.com/watch?v=PBGC6CjfdtM",
@@ -2739,15 +2746,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    }
