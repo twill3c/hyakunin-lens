@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-10",
+    "d": "2026-09-14",
+    "t": "How We Built LangChain’s Paid Media Agent",
+    "u": "https://www.langchain.com/blog/paid-media-agent",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-14",
+    "t": "How we built LangChain’s GTM Agent",
+    "u": "https://www.langchain.com/blog/how-we-built-langchains-gtm-agent",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-14",
     "t": "How Credit Genie keeps codebase docs fresh with OpenWiki",
     "u": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
-    "u": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "Organizing Context in a Multi-Agent Harness",
-    "u": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
     "s": "blog"
    }
   ],
@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "commit-rewriter 0.1",
+    "u": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-13",
+    "t": "shot-scraper 1.12",
+    "u": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-12",
     "t": "Generating running routes with GPT-6 Astra and ChatGPT Work",
     "u": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-12",
-    "t": "California Brown Pelican",
-    "u": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-12",
-    "t": "Quoting Paul Ford",
-    "u": "https://simonwillison.net/2026/Sep/12/paul-ford/",
     "s": "blog"
    }
   ],
