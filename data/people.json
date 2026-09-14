@@ -3441,6 +3441,12 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "Cline Desktop: An open-source app for open-weight models",
+    "u": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-02",
     "t": "How We Migrated 11 Million Users to Cline's Biggest Harness Upgrade",
     "u": "https://cline.ghost.io/how-we-migrated-11-million-users-to-clines-biggest-harness-upgrade/",
@@ -3450,12 +3456,6 @@
     "d": "2026-08-26",
     "t": "DeepSeek wins IMO Gold on 12 cents",
     "u": "https://cline.ghost.io/deepseek-wins-imo-gold-on-12-cents/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "Building a code review agent on the Cline loop",
-    "u": "https://cline.ghost.io/building-a-code-review-agent-with-cline-sdk/",
     "s": "blog"
    }
   ],
@@ -3990,8 +3990,8 @@
    },
    {
     "d": "2026-09-14",
-    "t": "How we built LangChain’s GTM Agent",
-    "u": "https://www.langchain.com/blog/how-we-built-langchains-gtm-agent",
+    "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
+    "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
     "s": "blog"
    },
    {
@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-09-14",
-    "t": "commit-rewriter 0.1",
-    "u": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "t": "The contagion of fear",
+    "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
     "s": "blog"
    },
    {
-    "d": "2026-09-13",
-    "t": "shot-scraper 1.12",
-    "u": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+    "d": "2026-09-14",
+    "t": "What blog posts influenced your thinking the most?",
+    "u": "https://simonwillison.net/2026/Sep/14/influences/",
     "s": "blog"
    },
    {
-    "d": "2026-09-12",
-    "t": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-    "u": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "d": "2026-09-14",
+    "t": "Quoting Laurie Voss",
+    "u": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-09-11",
-    "t": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-    "u": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+    "d": "2026-09-14",
+    "t": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
     "s": "blog"
    },
    {
-    "d": "2026-09-10",
-    "t": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+    "d": "2026-09-14",
+    "t": "DevFest is back",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "s": "blog"
    },
    {
-    "d": "2026-09-10",
-    "t": "3 ways to prep for your next big race with Search",
-    "u": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "d": "2026-09-14",
+    "t": "We’re exploring a potential data center in Lea County, New Mexico.",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
     "s": "blog"
    }
   ],
@@ -6335,6 +6335,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-09-17",
+    "t": "Inside Sakana AI’s Product Team",
+    "u": "https://sakana.ai/inside-product-team/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-12",
     "t": "英国王立協会特集号に見る、世界モデルの最前線とAIの未来",
     "u": "https://sakana.ai/world-models-royal-society-issue/",
@@ -6344,12 +6350,6 @@
     "d": "2026-09-11",
     "t": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier",
     "u": "https://sakana.ai/fugu-max-release/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-10",
-    "t": "Sakana AI、ＳＣＳＫ、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携　～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
-    "u": "https://sakana.ai/scsk-sc-partnership/",
     "s": "blog"
    }
   ],
