@@ -3983,15 +3983,15 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-14",
-    "t": "How We Built LangChain’s Paid Media Agent",
-    "u": "https://www.langchain.com/blog/paid-media-agent",
+    "d": "2026-09-15",
+    "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
+    "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
     "s": "blog"
    },
    {
     "d": "2026-09-14",
-    "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
-    "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
+    "t": "How We Built LangChain’s Paid Media Agent",
+    "u": "https://www.langchain.com/blog/paid-media-agent",
     "s": "blog"
    },
    {
