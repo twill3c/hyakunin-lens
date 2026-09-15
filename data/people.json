@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-15",
-    "t": "New insights from Google’s AI & Economy ATLAS",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "t": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
+    "u": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
     "s": "blog"
    },
    {
-    "d": "2026-09-14",
-    "t": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "d": "2026-09-15",
+    "t": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
     "s": "blog"
    },
    {
-    "d": "2026-09-14",
-    "t": "DevFest is back",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "d": "2026-09-15",
+    "t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "s": "blog"
    }
   ],
@@ -6341,15 +6341,15 @@
     "s": "blog"
    },
    {
-    "d": "2026-09-12",
-    "t": "英国王立協会特集号に見る、世界モデルの最前線とAIの未来",
-    "u": "https://sakana.ai/world-models-royal-society-issue/",
+    "d": "2026-09-16",
+    "t": "Sakana Marlinアップデート：レポートと対話する「Interactive Reading」と、出力スライドのPowerPoint対応",
+    "u": "https://sakana.ai/marlin-update/",
     "s": "blog"
    },
    {
-    "d": "2026-09-11",
-    "t": "Introducing Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier",
-    "u": "https://sakana.ai/fugu-max-release/",
+    "d": "2026-09-12",
+    "t": "英国王立協会特集号に見る、世界モデルの最前線とAIの未来",
+    "u": "https://sakana.ai/world-models-royal-society-issue/",
     "s": "blog"
    }
   ],
