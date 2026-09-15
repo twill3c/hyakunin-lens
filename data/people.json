@@ -3984,6 +3984,12 @@
   "own": [
    {
     "d": "2026-09-15",
+    "t": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
+    "u": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-15",
     "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
     "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
     "s": "blog"
@@ -3992,12 +3998,6 @@
     "d": "2026-09-14",
     "t": "How We Built LangChain’s Paid Media Agent",
     "u": "https://www.langchain.com/blog/paid-media-agent",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "How Credit Genie keeps codebase docs fresh with OpenWiki",
-    "u": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
     "s": "blog"
    }
   ],
@@ -5709,6 +5709,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-15",
+    "t": "New insights from Google’s AI & Economy ATLAS",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-14",
     "t": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
     "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -5718,12 +5724,6 @@
     "d": "2026-09-14",
     "t": "DevFest is back",
     "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "We’re exploring a potential data center in Lea County, New Mexico.",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
     "s": "blog"
    }
   ],
