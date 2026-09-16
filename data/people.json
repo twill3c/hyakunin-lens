@@ -2964,17 +2964,17 @@
   "yt": [
    {
     "d": "2026-06-28",
-    "t": "Anthropic의 제품팀은 어떻게 누구보다 빠르게 움직이는가 | Cat Wu (Claude Code 제품 총괄)",
-    "u": "https://www.youtube.com/watch?v=aBl6aLdpzA8",
-    "s": "yt",
-    "o": "sudoremove 창고"
-   },
-   {
-    "d": "2026-06-28",
     "t": "클로드 코드 PM Cat Wu 가 하는 일, NVIDIA 와 한국 로봇 회사들",
     "u": "https://www.youtube.com/watch?v=TtjXKQ-qS9Y",
     "s": "yt",
     "o": "sudoremove"
+   },
+   {
+    "d": "2026-06-28",
+    "t": "Anthropic의 제품팀은 어떻게 누구보다 빠르게 움직이는가 | Cat Wu (Claude Code 제품 총괄)",
+    "u": "https://www.youtube.com/watch?v=aBl6aLdpzA8",
+    "s": "yt",
+    "o": "sudoremove 창고"
    },
    {
     "d": "2026-04-23",
@@ -4026,6 +4026,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-15",
+    "t": "LangChain CEO Harrison Chase on the infrastructure bet he got wrong",
+    "u": "https://www.youtube.com/watch?v=oP_W7GuP6OA",
+    "s": "yt",
+    "o": "Browserbase"
+   },
+   {
     "d": "2026-08-13",
     "t": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
     "u": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
@@ -4038,13 +4045,6 @@
     "u": "https://www.youtube.com/watch?v=Id3yFWBII0o",
     "s": "yt",
     "o": "Focused"
-   },
-   {
-    "d": "2026-07-22",
-    "t": "The Agent Development Lifecycle 101 by Harrison Chase",
-    "u": "https://www.youtube.com/watch?v=ZUjijNrg5sQ",
-    "s": "yt",
-    "o": "LangChain"
    }
   ],
   "note": "本人コラム「Harrison's In the Loop」名義。著者と日付を確認。",
@@ -4176,6 +4176,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-13",
+    "t": "Gabriel e Emanoel / Neto e João Moura",
+    "u": "https://www.youtube.com/watch?v=W-MdkLC_L10",
+    "s": "yt",
+    "o": "gabrielcosta_bt"
+   },
+   {
     "d": "2026-09-10",
     "t": "Homenagem em Sorocaba: João Moura Júnior é o mais novo Cidadão Sorocabano!",
     "u": "https://www.youtube.com/watch?v=Dk0ilSOEnGA",
@@ -4188,13 +4195,6 @@
     "u": "https://www.youtube.com/watch?v=O4UtemZs3CA",
     "s": "yt",
     "o": "iCasei"
-   },
-   {
-    "d": "2026-07-30",
-    "t": "212-Espiritismo nos EUA - palestrante João Moura",
-    "u": "https://www.youtube.com/watch?v=mBEAPsf7QaY",
-    "s": "yt",
-    "o": "IEBAP Amor e Paz"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -5403,6 +5403,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-15",
+    "t": "Actuate 26 | Bringing Physical Intelligence to the Real World by Chelsea Finn",
+    "u": "https://www.youtube.com/watch?v=h2E5jDR5OsY",
+    "s": "yt",
+    "o": "Foxglove"
+   },
+   {
     "d": "2026-08-15",
     "t": "Chelsea Finn 揭示機器人的「GPT 時代」：實體智慧如何改變世界",
     "u": "https://www.youtube.com/watch?v=-GfZmmsSPPU",
@@ -5415,13 +5422,6 @@
     "u": "https://www.youtube.com/watch?v=zHenqzBZxm0",
     "s": "yt",
     "o": "Adam Kortylewski"
-   },
-   {
-    "d": "2026-06-08",
-    "t": "Chelsea Finn & Perry Dong (Stanford & PI): Reliable VLA Post-Training with Real-World RL",
-    "u": "https://www.youtube.com/watch?v=fAqgJMyxBbo",
-    "s": "yt",
-    "o": "Zhanpeng He"
    }
   ],
   "note": "Stanford AI Lab等に本人著者のブログ記事はなし。",
@@ -5905,6 +5905,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-16",
+    "t": "Could AI Take Control? Stuart Russell On The Biggest Risk Of Superintelligence",
+    "u": "https://www.youtube.com/watch?v=G9o9ZUOY5PQ",
+    "s": "yt",
+    "o": "NDTV"
+   },
+   {
     "d": "2026-09-14",
     "t": "WE CAN'T PULL THE PLUG: Stuart Russell on AGI & The End of the Human Era",
     "u": "https://www.youtube.com/watch?v=Ndg_b8rV1AA",
@@ -5917,13 +5924,6 @@
     "u": "https://www.youtube.com/watch?v=09iPVpKW4m8",
     "s": "yt",
     "o": "Rehan Ali Philosophy"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "Stuart Russell: Long-Term Future of AI",
-    "u": "https://www.youtube.com/watch?v=Nam48bmiBDE",
-    "s": "yt",
-    "o": "Zenvora Productions"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
@@ -6453,6 +6453,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-16",
+    "t": "Cardinal Burke, synodality's Protestant roots and assisted suicide fails | The David Hahn Show",
+    "u": "https://www.youtube.com/watch?v=XrMPxb9jNWI",
+    "s": "yt",
+    "o": "The Catholic Herald "
+   },
+   {
     "d": "2026-09-14",
     "t": "EL LEÓN DE LA TRIBU DE JUDÁ,  LA RAÍZ DE DAVID HA VENCIDO. Génesis 49:10",
     "u": "https://www.youtube.com/watch?v=AtmwYzXo0Ws",
@@ -6465,13 +6472,6 @@
     "u": "https://www.youtube.com/watch?v=if-1FZHhHMY",
     "s": "yt",
     "o": "Medicinal Genomics"
-   },
-   {
-    "d": "2026-08-10",
-    "t": "How to Think in English and Stop Translating | English Listening Practice | David Ha Podcast",
-    "u": "https://www.youtube.com/watch?v=7TV9nWHF7oQ",
-    "s": "yt",
-    "o": "David Ha English Poscart"
    }
   ],
   "note": "本人ブログの最新は2022-10で対象期間外（参考として記載）。X(@hardmaru)は取得不可。",
@@ -6694,8 +6694,15 @@
   ],
   "yt": [
    {
+    "d": "2026-09-15",
+    "t": "華為任正非全家逃亡、Kimi楊植麟16人被帶走？ 習近平啟動「科技整肅」國安部出手畫下AI紅線！【關鍵時刻】張炤和 @ebcCTime",
+    "u": "https://www.youtube.com/watch?v=AvCtF8M5ddM",
+    "s": "yt",
+    "o": "57東森財經新聞"
+   },
+   {
     "d": "2026-09-14",
-    "t": "華為任正非全家逃亡、Kimi楊植麟16人被帶走？ 習近平啟動「科技整肅」國安部出手畫下AI紅線！【關鍵時刻】20260914－4張炤和",
+    "t": "華為任正非全家逃亡、Kimi楊植麟16人被帶走？ 習近平啟動「科技整肅」國安部出手畫下AI紅線！【關鍵時刻】20260914-4張炤和",
     "u": "https://www.youtube.com/watch?v=3hTKyuBCrVA",
     "s": "yt",
     "o": "關鍵時刻"
@@ -6706,13 +6713,6 @@
     "u": "https://www.youtube.com/watch?v=9t6VRSHEVZ4",
     "s": "yt",
     "o": "Podcast Aboard"
-   },
-   {
-    "d": "2026-07-31",
-    "t": "Value at $3 billion, Kimi CEO yang zhilin",
-    "u": "https://www.youtube.com/watch?v=-fQx4DD_rkI",
-    "s": "yt",
-    "o": "AI Google "
    }
   ],
   "note": "Moonshot AI公式は全てチーム名義。個人ページの更新は2022年が最後。0件。",
