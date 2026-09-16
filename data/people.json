@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-09-16",
+    "t": "Claude Cowork and chat are now one Claude",
+    "u": "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-16",
     "t": "Quoting Mustafa Suleyman",
     "u": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-09-15",
     "t": "Gemini Live audio",
     "u": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "The contagion of fear",
-    "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-16",
-    "t": "We’re catalyzing megaton-scale climate impact in Brazil",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/",
+    "t": "3 new ways we're improving Search profiles for publishers",
+    "u": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
     "s": "blog"
    },
    {
     "d": "2026-09-16",
-    "t": "Reimagining Chicago’s Thompson Center for the next generation",
-    "u": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
+    "t": "Rethink your strategy to drive sales this holiday season.",
+    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
     "s": "blog"
    },
    {
-    "d": "2026-09-15",
-    "t": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
-    "u": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
+    "d": "2026-09-16",
+    "t": "5 things to know about teens' views on AI today",
+    "u": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
     "s": "blog"
    }
   ],
@@ -6341,15 +6341,15 @@
     "s": "blog"
    },
    {
-    "d": "2026-09-16",
-    "t": "Sakana Marlinアップデート：レポートと対話する「Interactive Reading」と、出力スライドのPowerPoint対応",
-    "u": "https://sakana.ai/marlin-update/",
+    "d": "2026-09-17",
+    "t": "Sakana Chatをアップデート：最新モデルに刷新、メモリー機能を追加",
+    "u": "https://sakana.ai/chat-fugumax/",
     "s": "blog"
    },
    {
-    "d": "2026-09-12",
-    "t": "英国王立協会特集号に見る、世界モデルの最前線とAIの未来",
-    "u": "https://sakana.ai/world-models-royal-society-issue/",
+    "d": "2026-09-16",
+    "t": "Sakana Marlinアップデート：レポートと対話する「Interactive Reading」と、出力スライドのPowerPoint対応",
+    "u": "https://sakana.ai/marlin-update/",
     "s": "blog"
    }
   ],
