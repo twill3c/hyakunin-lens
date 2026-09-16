@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-16",
+    "t": "Quoting Mustafa Suleyman",
+    "u": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-15",
     "t": "Gemini Live audio",
     "u": "https://simonwillison.net/2026/Sep/15/gemini-live/",
@@ -4491,12 +4497,6 @@
     "d": "2026-09-14",
     "t": "The contagion of fear",
     "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "What blog posts influenced your thinking the most?",
-    "u": "https://simonwillison.net/2026/Sep/14/influences/",
     "s": "blog"
    }
   ],
@@ -5710,6 +5710,12 @@
   "own": [
    {
     "d": "2026-09-16",
+    "t": "We’re catalyzing megaton-scale climate impact in Brazil",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-16",
     "t": "Reimagining Chicago’s Thompson Center for the next generation",
     "u": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
     "s": "blog"
@@ -5718,12 +5724,6 @@
     "d": "2026-09-15",
     "t": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
     "u": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
     "s": "blog"
    }
   ],
