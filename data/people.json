@@ -43,25 +43,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-17",
+    "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+    "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+    "s": "yt",
+    "o": "freeCodeCamp.org"
+   },
+   {
+    "d": "2026-09-17",
+    "t": "LIVE: AI KILL SWITCH WON’T WORK? | Geoffrey Hinton’s AI Warning: Why a ‘Kill Switch’ May Fail | N18G",
+    "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
+    "s": "yt",
+    "o": "CNN-News18"
+   },
+   {
     "d": "2026-08-30",
     "t": "\"Train To Be A Plumber\" - Why AI Will Destroy The Job Market | Geoffrey Hinton x Steven Bartlett",
     "u": "https://www.youtube.com/watch?v=88jkyUldmws",
     "s": "yt",
     "o": "The Vision Journal"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Godfather of AI, Geoffrey Hinton: “If you sleep well tonight, you may not have understood this le...",
-    "u": "https://www.youtube.com/watch?v=YDv54iiOrao",
-    "s": "yt",
-    "o": "UninformedInvestors"
-   },
-   {
-    "d": "2026-08-19",
-    "t": "Do LLMs Really Understand? Examining Geoffrey Hinton's Arguments",
-    "u": "https://www.youtube.com/watch?v=XhF_49e6Cpg",
-    "s": "yt",
-    "o": "Ontology Explained: Philosophy and AI"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -775,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-16",
+    "t": "Ex-Google Jeff Dean just released the best 1-hour lecture on AI engineering: from basics to Graphs",
+    "u": "https://www.youtube.com/watch?v=gTfgbqqL3J0",
+    "s": "yt",
+    "o": "RahulMCA"
+   },
+   {
     "d": "2026-09-15",
     "t": "Fireside Chat with Jeff Dean",
     "u": "https://www.youtube.com/watch?v=BVQSWeK2Nrw",
@@ -787,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=OgfMPC7Hvn4",
     "s": "yt",
     "o": "TwoFoundersPodcast"
-   },
-   {
-    "d": "2026-08-30",
-    "t": "Ex-Google Engineer Jeff Dean released 1-hour lecture on full AI engineering:",
-    "u": "https://www.youtube.com/watch?v=WyLWoTmf9dw",
-    "s": "yt",
-    "o": "UninformedInvestors"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -5863,6 +5863,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-16",
+    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
+    "u": "https://www.youtube.com/watch?v=J9KbOju_w3g",
+    "s": "yt",
+    "o": "김빈의폴리띵스 Polithings by Been Kim"
+   },
+   {
     "d": "2026-09-15",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=18NYfU4wI1E",
@@ -5873,13 +5880,6 @@
     "d": "2026-09-11",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=S75IkHn3ywo",
-    "s": "yt",
-    "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
-    "u": "https://www.youtube.com/watch?v=ma8agqyWF6Q",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
    }
