@@ -3984,14 +3984,14 @@
   "own": [
    {
     "d": "2026-09-17",
-    "t": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
-    "u": "https://www.langchain.com/blog/agent-harness-life-sciences",
+    "t": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
+    "u": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
     "s": "blog"
    },
    {
     "d": "2026-09-17",
-    "t": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
-    "u": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+    "t": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+    "u": "https://www.langchain.com/blog/agent-harness-life-sciences",
     "s": "blog"
    },
    {
@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-17",
+    "t": "Self-generated prompt injections in compaction summaries",
+    "u": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-16",
     "t": "datasette 1.0a40",
     "u": "https://simonwillison.net/2026/Sep/16/datasette/",
@@ -4491,12 +4497,6 @@
     "d": "2026-09-16",
     "t": "datasette 0.65.5",
     "u": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-16",
-    "t": "Claude Cowork and chat are now one Claude",
-    "u": "https://simonwillison.net/2026/Sep/16/one-claude/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-17",
-    "t": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+    "t": "Making global data easier to explore",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
     "s": "blog"
    },
    {
-    "d": "2026-09-16",
-    "t": "3 new ways we're improving Search profiles for publishers",
-    "u": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
+    "d": "2026-09-17",
+    "t": "The new CC, an AI agent built for families",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
     "s": "blog"
    },
    {
-    "d": "2026-09-16",
-    "t": "Rethink your strategy to drive sales this holiday season.",
-    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+    "d": "2026-09-17",
+    "t": "Drive with “Forgotten Island” on Waze.",
+    "u": "https://blog.google/waze/waze-forgotten-island/",
     "s": "blog"
    }
   ],
