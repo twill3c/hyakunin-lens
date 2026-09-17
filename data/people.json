@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-09-16",
-    "t": "Claude Cowork and chat are now one Claude",
-    "u": "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "t": "datasette 1.0a40",
+    "u": "https://simonwillison.net/2026/Sep/16/datasette/",
     "s": "blog"
    },
    {
     "d": "2026-09-16",
-    "t": "Quoting Mustafa Suleyman",
-    "u": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "t": "datasette 0.65.5",
+    "u": "https://simonwillison.net/2026/Sep/16/datasette-2/",
     "s": "blog"
    },
    {
-    "d": "2026-09-15",
-    "t": "Gemini Live audio",
-    "u": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "d": "2026-09-16",
+    "t": "Claude Cowork and chat are now one Claude",
+    "u": "https://simonwillison.net/2026/Sep/16/one-claude/",
     "s": "blog"
    }
   ],
