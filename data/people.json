@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-09-17",
+    "t": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+    "u": "https://www.langchain.com/blog/agent-harness-life-sciences",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-17",
+    "t": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
+    "u": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-16",
     "t": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
     "u": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
-    "u": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "How We Built LangChain’s Paid Media Agent",
-    "u": "https://www.langchain.com/blog/paid-media-agent",
     "s": "blog"
    }
   ],
