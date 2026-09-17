@@ -5709,6 +5709,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-17",
+    "t": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-16",
     "t": "3 new ways we're improving Search profiles for publishers",
     "u": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
@@ -5718,12 +5724,6 @@
     "d": "2026-09-16",
     "t": "Rethink your strategy to drive sales this holiday season.",
     "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-16",
-    "t": "5 things to know about teens' views on AI today",
-    "u": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
     "s": "blog"
    }
   ],
