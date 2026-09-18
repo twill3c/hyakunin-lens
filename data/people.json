@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-18",
+    "t": "The Creative Spirit of Who Framed Roger Rabbit",
+    "u": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-17",
     "t": "Be alert: targeted attacks on prominent Rustaceans",
     "u": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
@@ -4491,12 +4497,6 @@
     "d": "2026-09-17",
     "t": "How To Write With An LLM",
     "u": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Self-generated prompt injections in compaction summaries",
-    "u": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-18",
+    "t": "Co-creating the future of fashion with Google",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-18",
+    "t": "Build campaigns that drive high-converting, sales-ready leads.",
+    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-17",
     "t": "Making global data easier to explore",
     "u": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "The new CC, an AI agent built for families",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Drive with “Forgotten Island” on Waze.",
-    "u": "https://blog.google/waze/waze-forgotten-island/",
     "s": "blog"
    }
   ],
