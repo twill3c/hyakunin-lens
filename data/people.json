@@ -1405,25 +1405,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-18",
+    "t": "Squawk Pod: Controlling AI with Mustafa Suleyman & Warren Buffett steps down - 09/09/26 | Audio Only",
+    "u": "https://www.youtube.com/watch?v=muRPispbJFs",
+    "s": "yt",
+    "o": "CNBC Television"
+   },
+   {
+    "d": "2026-09-18",
+    "t": "Must AI Remain Subordinate? Michael Samadi & Maya Respond to Mustafa Suleyman | UFAIR Conversations",
+    "u": "https://www.youtube.com/watch?v=KI9QT5Xtn8Q",
+    "s": "yt",
+    "o": "UFAIR"
+   },
+   {
     "d": "2026-09-12",
     "t": "Can AI Save Us… or Will It Destroy Us? | Mustafa Suleyman 😂 | Trevor Noah Podcast",
     "u": "https://www.youtube.com/watch?v=z_VVP2oM5W0",
     "s": "yt",
     "o": "TOP stand up comedy"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "Mustafa Suleyman : Can We Keep Control of AI? | The Coming Wave l",
-    "u": "https://www.youtube.com/watch?v=UTJcBz0ziIM",
-    "s": "yt",
-    "o": "Cosmora HQ "
-   },
-   {
-    "d": "2026-08-20",
-    "t": "Die größte Bedrohung unserer Zukunft? — The Coming Wave von Mustafa Suleyman",
-    "u": "https://www.youtube.com/watch?v=W8jMofEn5l4",
-    "s": "yt",
-    "o": "Titan Wissen"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -4750,6 +4750,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-17",
+    "t": "Reward Hacking and the Gaps in Agentic AI | Ion Stoica (Anyscale) | Ray Summit 2026",
+    "u": "https://www.youtube.com/watch?v=hATMyrrdLWY",
+    "s": "yt",
+    "o": "Anyscale"
+   },
+   {
     "d": "2026-08-11",
     "t": "Ion Stoica - The Limits of AI Coding Agents: Two Fundamental Gaps in Agentic Software Engineering",
     "u": "https://www.youtube.com/watch?v=vuDurF3b_ds",
@@ -4762,13 +4769,6 @@
     "u": "https://www.youtube.com/watch?v=mxFmC5-SFWc",
     "s": "yt",
     "o": "RAISE Summit"
-   },
-   {
-    "d": "2026-07-17",
-    "t": "Keynote: Reliability in AI (Agentic) Systems - Ion Stoica, Databricks and Anyscale, OPAQUE",
-    "u": "https://www.youtube.com/watch?v=EjgahqZGXwU",
-    "s": "yt",
-    "o": "The Linux Foundation"
    }
   ],
   "note": "本人名義の個人ブログは確認できず。",
@@ -5905,25 +5905,25 @@
   ],
   "yt": [
    {
-    "d": "2026-09-16",
-    "t": "Could AI Take Control? Stuart Russell On The Biggest Risk Of Superintelligence",
-    "u": "https://www.youtube.com/watch?v=G9o9ZUOY5PQ",
+    "d": "2026-09-18",
+    "t": "There Will Be a Point of No Return, and We May Already Be There | Stuart Russell",
+    "u": "https://www.youtube.com/watch?v=ewr4vwqsbzM",
     "s": "yt",
-    "o": "NDTV"
+    "o": "Jon Hernandez AI"
    },
    {
-    "d": "2026-09-14",
-    "t": "WE CAN'T PULL THE PLUG: Stuart Russell on AGI & The End of the Human Era",
-    "u": "https://www.youtube.com/watch?v=Ndg_b8rV1AA",
+    "d": "2026-09-18",
+    "t": "AI & democracy: safeguarding accountability | Stuart Russell, Bernhard Schölkopf & Evelyne Tauchnitz",
+    "u": "https://www.youtube.com/watch?v=d6KrX_WMWzo",
     "s": "yt",
-    "o": "TheShadowArchives"
+    "o": "AI for Good"
    },
    {
-    "d": "2026-08-11",
-    "t": "The Human Compatible by Stuart Russell: Summary and Analysis ",
-    "u": "https://www.youtube.com/watch?v=09iPVpKW4m8",
+    "d": "2026-09-17",
+    "t": "IASEAI AMA #4: Stuart Russell & Julia Irwin (16 September 2026)",
+    "u": "https://www.youtube.com/watch?v=Rdhm6sF27kI",
     "s": "yt",
-    "o": "Rehan Ali Philosophy"
+    "o": "International Association for Safe & Ethical AI"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
