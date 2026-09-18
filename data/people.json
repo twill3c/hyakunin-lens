@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-09-18",
+    "t": "Note on 18th September 2026",
+    "u": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-18",
+    "t": "Quoting Thariq Shihipar",
+    "u": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-18",
     "t": "The Creative Spirit of Who Framed Roger Rabbit",
     "u": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Be alert: targeted attacks on prominent Rustaceans",
-    "u": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "How To Write With An LLM",
-    "u": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-18",
-    "t": "Co-creating the future of fashion with Google",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "t": "Earn continuing education and college credits for AI educator training.",
+    "u": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
     "s": "blog"
    },
    {
     "d": "2026-09-18",
-    "t": "Build campaigns that drive high-converting, sales-ready leads.",
-    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+    "t": "New experts join Google’s AI & Economy team",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "s": "blog"
    },
    {
-    "d": "2026-09-17",
-    "t": "Making global data easier to explore",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "d": "2026-09-18",
+    "t": "Co-creating the future of fashion with Google",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
     "s": "blog"
    }
   ],
