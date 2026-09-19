@@ -3983,7 +3983,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-18",
+    "d": "2026-09-19",
     "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
     "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
     "s": "blog"
@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-09-18",
+    "t": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "u": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-18",
     "t": "Note on 18th September 2026",
     "u": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-09-18",
     "t": "Quoting Thariq Shihipar",
     "u": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "The Creative Spirit of Who Framed Roger Rabbit",
-    "u": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
     "s": "blog"
    }
   ],
