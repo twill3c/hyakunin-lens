@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-19",
+    "t": "California Sea Lion, Brandt's Cormorant",
+    "u": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-18",
     "t": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
     "u": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
@@ -4491,12 +4497,6 @@
     "d": "2026-09-18",
     "t": "Note on 18th September 2026",
     "u": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Quoting Thariq Shihipar",
-    "u": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
     "s": "blog"
    }
   ],
