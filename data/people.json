@@ -44,17 +44,17 @@
   "yt": [
    {
     "d": "2026-09-17",
-    "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-    "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
-    "s": "yt",
-    "o": "freeCodeCamp.org"
-   },
-   {
-    "d": "2026-09-17",
     "t": "LIVE: AI KILL SWITCH WON’T WORK? | Geoffrey Hinton’s AI Warning: Why a ‘Kill Switch’ May Fail | N18G",
     "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
     "s": "yt",
     "o": "CNN-News18"
+   },
+   {
+    "d": "2026-09-17",
+    "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+    "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+    "s": "yt",
+    "o": "freeCodeCamp.org"
    },
    {
     "d": "2026-08-30",
@@ -337,6 +337,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-18",
+    "t": "Built To Thrive With Richard Sutton",
+    "u": "https://www.youtube.com/watch?v=H7bm4FSP6lU",
+    "s": "yt",
+    "o": "getAbstract"
+   },
+   {
     "d": "2026-08-31",
     "t": "The Church’s Giant Mission - Richard Sutton- August 30",
     "u": "https://www.youtube.com/watch?v=ruG8BQtBG_U",
@@ -349,13 +356,6 @@
     "u": "https://www.youtube.com/watch?v=pf_EekihrYc",
     "s": "yt",
     "o": "World Health Organization Timor-Leste"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "The Life Changing Word of God - Richard Sutton - 8/26/2026",
-    "u": "https://www.youtube.com/watch?v=JWWYvylGK7s",
-    "s": "yt",
-    "o": "Linder Road Church of Christ"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -925,25 +925,25 @@
   ],
   "yt": [
    {
-    "d": "2026-09-15",
-    "t": "Jensen Huang, Dario Amodei and Siemens CEO Busch Debate AI’s Future at Dreamforce 2026 | AI1G",
-    "u": "https://www.youtube.com/watch?v=YmSzE5hpWiQ",
+    "d": "2026-09-18",
+    "t": "Why Dario Amodei and Sam Altman Are Faking the AI Doomsday Crisis | The Weekly Wrap",
+    "u": "https://www.youtube.com/watch?v=Q1jSJG1iBL8",
     "s": "yt",
-    "o": "DRM News"
+    "o": "Steve Eisman"
    },
    {
-    "d": "2026-09-15",
-    "t": "Live: Anthropic CEO Dario Amodei talks AI at Dreamforce summit after calls for development slowdown",
-    "u": "https://www.youtube.com/watch?v=OyAN7XsEUBY",
+    "d": "2026-09-18",
+    "t": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | Equity Podcast",
+    "u": "https://www.youtube.com/watch?v=a5Y-UGoJf1A",
     "s": "yt",
-    "o": "USA TODAY"
+    "o": "TechCrunch"
    },
    {
-    "d": "2026-09-15",
-    "t": "Dario Amodei is NOT your friend | The 10 Year is Blowing Out",
-    "u": "https://www.youtube.com/watch?v=imDuGLUjDTw",
+    "d": "2026-09-18",
+    "t": "Anthropic Wants to Slow Down AI. Is Dario Amodei Actually Right?",
+    "u": "https://www.youtube.com/watch?v=fuwB9JCB71Q",
     "s": "yt",
-    "o": "UNFTR Media"
+    "o": "More or Less Podcast"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1720,18 +1720,18 @@
     "o": "Perfology Clips"
    },
    {
+    "d": "2026-09-05",
+    "t": "how to stop babysitting agents and only approve the last step- Andrej Karpathy baby sit to do",
+    "u": "https://www.youtube.com/watch?v=dWzt2d25ldk",
+    "s": "yt",
+    "o": "DigitalFoundry"
+   },
+   {
     "d": "2026-09-03",
     "t": "Andrej Karpathy: \"Delete Everything, Keep Attention\" | Stanford Lecture",
     "u": "https://www.youtube.com/watch?v=rxv6B7JODTY",
     "s": "yt",
     "o": "The AI Snack"
-   },
-   {
-    "d": "2026-08-29",
-    "t": "Andrej Karpathy’s 1-hour Stanford lecture on AI engineering is one of the best explanations I’ve ...",
-    "u": "https://www.youtube.com/watch?v=jb2vcyFJLto",
-    "s": "yt",
-    "o": "UninformedInvestors"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2596,7 +2596,7 @@
    },
    {
     "d": "2026-07-31",
-    "t": "The Lilian Weng Saga, Mental Health Essay Then OpenAI | Meta's AI Ad, China Cracks DUV",
+    "t": "Meta's AI Campaign, While Rivals Ask Washington To Slow it Down | Lilian Weng Saga, China Cracks DUV",
     "u": "https://www.youtube.com/watch?v=PBGC6CjfdtM",
     "s": "yt",
     "o": "More or Less Podcast"
@@ -3181,6 +3181,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-09",
+    "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
+    "u": "https://www.youtube.com/watch?v=dRPT515zdG8",
+    "s": "yt",
+    "o": "John Coogan"
+   },
+   {
     "d": "2026-09-08",
     "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
     "u": "https://www.youtube.com/watch?v=2_u9L8eUq5s",
@@ -3193,13 +3200,6 @@
     "u": "https://www.youtube.com/watch?v=sYSB42VIadY",
     "s": "yt",
     "o": "PP科技筆記 Podcast"
-   },
-   {
-    "d": "2026-07-27",
-    "t": "Inside the Fastest-Growing Category in AI: Scott Wu, CEO of $26B Cognition",
-    "u": "https://www.youtube.com/watch?v=y1XxtvYll4s",
-    "s": "yt",
-    "o": "Sourcery with Molly O'Shea"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -4677,6 +4677,13 @@
    {
     "d": "2026-08-29",
     "t": "Ajahn Tri Dao  is live!",
+    "u": "https://www.youtube.com/watch?v=56Q6PKFfgHg",
+    "s": "yt",
+    "o": "Ajahn Tri Dao "
+   },
+   {
+    "d": "2026-08-29",
+    "t": "Ajahn Tri Dao  is live!",
     "u": "https://www.youtube.com/watch?v=rITHS4bO-ys",
     "s": "yt",
     "o": "Ajahn Tri Dao "
@@ -4687,13 +4694,6 @@
     "u": "https://www.youtube.com/watch?v=VKEaBNK0VLU",
     "s": "yt",
     "o": "Together AI"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "Ajahn Tri Dao  is live!",
-    "u": "https://www.youtube.com/watch?v=uoetQ8RDiq4",
-    "s": "yt",
-    "o": "Ajahn Tri Dao "
    }
   ],
   "note": "個人ブログで技術記事を継続的に発信。",
@@ -5973,6 +5973,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-18",
+    "t": "Percy Liang - Marin: An Open Lab For Frontier AI",
+    "u": "https://www.youtube.com/watch?v=fxIeLdftLiM",
+    "s": "yt",
+    "o": "UC Berkeley EECS"
+   },
+   {
     "d": "2026-07-22",
     "t": "CAIS 2026 | Keynote: Percy Liang (Stanford University)",
     "u": "https://www.youtube.com/watch?v=m5pn6XH9rdM",
@@ -5983,13 +5990,6 @@
     "d": "2026-03-04",
     "t": "【斯坦福大学】CS221 人工智能：原理与技术-Percy Liang（全38-第1讲）主讲人：Percy Liang#人工智能公开课",
     "u": "https://www.youtube.com/watch?v=PPh3jIZv5Vc",
-    "s": "yt",
-    "o": "10AI学习课堂"
-   },
-   {
-    "d": "2026-03-04",
-    "t": "【斯坦福大学】CS221 人工智能：原理与技术-Percy Liang（全38讲-第3讲）主讲人：Percy Liang#人工智能公开课",
-    "u": "https://www.youtube.com/watch?v=AY6p1dhQkfs",
     "s": "yt",
     "o": "10AI学习课堂"
    }
@@ -6104,6 +6104,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-18",
+    "t": "Is AI Really Going to Kill Us? Timnit Gebru Explains | Vibe Check",
+    "u": "https://www.youtube.com/watch?v=-7uSdNdMsEw",
+    "s": "yt",
+    "o": "Vibe Check"
+   },
+   {
     "d": "不明",
     "t": "「Deep Unlearning」: AIの誇大宣伝、倫理、アルゴリズムによる人種バイアス",
     "u": "https://www.youtube.com/watch?v=aCB-NQtsKrs",
@@ -6116,13 +6123,6 @@
     "u": "https://www.youtube.com/watch?v=gRFaow12xo0",
     "s": "yt",
     "o": "Access Now"
-   },
-   {
-    "d": "不明",
-    "t": "「AI Research for the public interest」, a conversation with Timnit Gebru",
-    "u": "https://www.youtube.com/watch?v=EgRwlnKI0oY",
-    "s": "yt",
-    "o": "DRI UFMG"
    }
   ],
   "note": "DAIRブログで本人名義の投稿を特定できず。Substackは404、X/LinkedInは取得不可。0件。",
