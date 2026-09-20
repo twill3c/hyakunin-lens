@@ -3984,14 +3984,14 @@
   "own": [
    {
     "d": "2026-09-20",
-    "t": "Can Jev Be a Better Agent Evaluator?",
-    "u": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
+    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
+    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
     "s": "blog"
    },
    {
-    "d": "2026-09-19",
-    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
+    "d": "2026-09-20",
+    "t": "Can Jev Be a Better Agent Evaluator?",
+    "u": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
     "s": "blog"
    },
    {
