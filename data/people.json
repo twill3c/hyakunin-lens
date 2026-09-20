@@ -3983,6 +3983,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-09-20",
+    "t": "Can Jev Be a Better Agent Evaluator?",
+    "u": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-19",
     "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
     "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
@@ -3992,12 +3998,6 @@
     "d": "2026-09-17",
     "t": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
     "u": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
-    "u": "https://www.langchain.com/blog/agent-harness-life-sciences",
     "s": "blog"
    }
   ],
@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-09-19",
+    "t": "datasette-auth-github 1.0",
+    "u": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-19",
     "t": "California Sea Lion, Brandt's Cormorant",
     "u": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-09-18",
     "t": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
     "u": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Note on 18th September 2026",
-    "u": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
     "s": "blog"
    }
   ],
