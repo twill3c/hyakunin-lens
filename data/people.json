@@ -44,17 +44,17 @@
   "yt": [
    {
     "d": "2026-09-17",
-    "t": "LIVE: AI KILL SWITCH WON’T WORK? | Geoffrey Hinton’s AI Warning: Why a ‘Kill Switch’ May Fail | N18G",
-    "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
-    "s": "yt",
-    "o": "CNN-News18"
-   },
-   {
-    "d": "2026-09-17",
     "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
     "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
     "s": "yt",
     "o": "freeCodeCamp.org"
+   },
+   {
+    "d": "2026-09-17",
+    "t": "LIVE: AI KILL SWITCH WON’T WORK? | Geoffrey Hinton’s AI Warning: Why a ‘Kill Switch’ May Fail | N18G",
+    "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
+    "s": "yt",
+    "o": "CNN-News18"
    },
    {
     "d": "2026-08-30",
@@ -337,6 +337,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-20",
+    "t": "Adrian Gore on leadership, hope and questioning everything | #ShiftHappens with Richard Sutton",
+    "u": "https://www.youtube.com/watch?v=eBpZpotleiw",
+    "s": "yt",
+    "o": "Shift Happens Podcast "
+   },
+   {
     "d": "2026-09-18",
     "t": "Built To Thrive With Richard Sutton",
     "u": "https://www.youtube.com/watch?v=H7bm4FSP6lU",
@@ -349,13 +356,6 @@
     "u": "https://www.youtube.com/watch?v=ruG8BQtBG_U",
     "s": "yt",
     "o": "Linder Road Church of Christ"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "Can AI Improve Healthcare in Timor-Leste? Turing Award Winner Prof. Richard Sutton Weighs In",
-    "u": "https://www.youtube.com/watch?v=pf_EekihrYc",
-    "s": "yt",
-    "o": "World Health Organization Timor-Leste"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -1330,23 +1330,23 @@
   ],
   "yt": [
    {
-    "d": "2026-08-15",
-    "t": "A Revolutionized Joy-Giving Life | Phil 2:12-18 | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=y9K1SX2nfoM",
+    "d": "2026-09-20",
+    "t": "Earthly Justice and Injustice | Ecclesiastes 3:16-22 | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=7MqW7dIa8Lo",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
    },
    {
-    "d": "2026-07-28",
-    "t": "Gay Christian? When Biblical Truth and Gospel Hope Clash with Conversion Therapy Laws, by Mark Chen",
-    "u": "https://www.youtube.com/watch?v=ZkT-uep0GWY",
+    "d": "2026-09-20",
+    "t": "Priority and Responsibilities of Church Membership | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=M_mFJkvkoYs",
     "s": "yt",
-    "o": "ARPA Australia"
+    "o": "Covenant Grace Church, Penang"
    },
    {
-    "d": "2026-07-18",
-    "t": "A Reversal of Fortune through Repentance | Gen 43-45  | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=L5IXWLvNcng",
+    "d": "2026-08-15",
+    "t": "A Revolutionized Joy-Giving Life | Phil 2:12-18 | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=y9K1SX2nfoM",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
    }
@@ -2746,15 +2746,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -2888,6 +2888,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-21",
+    "t": "Boris Cherny - the man who built Claude Code - explains how to create Agents, Loops, and Graphs. ",
+    "u": "https://www.youtube.com/watch?v=CQWdcf5xP-8",
+    "s": "yt",
+    "o": "Batavus"
+   },
+   {
     "d": "2026-09-15",
     "t": "Boris Cherny × Andrej Karpathy | Preview-enabled chess — Astra (AI-generated)",
     "u": "https://www.youtube.com/watch?v=MONiIdauh54",
@@ -2900,13 +2907,6 @@
     "u": "https://www.youtube.com/watch?v=PXknyOXkB_Q",
     "s": "yt",
     "o": "UninformedInvestors"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Boris Cherny: Mastering Claude Code, Agentic Coding, Setup, & Anthropic Workflows",
-    "u": "https://www.youtube.com/watch?v=r8vA9kJH4UQ",
-    "s": "yt",
-    "o": "DarrowStation"
    }
   ],
   "note": "本人名義のブログ記事は確認できず、X投稿のみ。",
@@ -4675,7 +4675,7 @@
   ],
   "yt": [
    {
-    "d": "2026-08-29",
+    "d": "2026-09-20",
     "t": "Ajahn Tri Dao  is live!",
     "u": "https://www.youtube.com/watch?v=56Q6PKFfgHg",
     "s": "yt",
