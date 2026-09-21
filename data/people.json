@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-20",
-    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
+    "d": "2026-09-21",
+    "t": "Jev is now available in LangSmith Evals",
+    "u": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
     "s": "blog"
    },
    {
-    "d": "2026-09-20",
+    "d": "2026-09-21",
     "t": "Can Jev Be a Better Agent Evaluator?",
     "u": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
     "s": "blog"
    },
    {
-    "d": "2026-09-17",
-    "t": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
-    "u": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+    "d": "2026-09-21",
+    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
+    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
     "s": "blog"
    }
   ],
@@ -4489,14 +4489,14 @@
    },
    {
     "d": "2026-09-20",
-    "t": "llm-keys-ui 0.1",
-    "u": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "t": "MCP was always a bad idea?",
+    "u": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
     "s": "blog"
    },
    {
     "d": "2026-09-20",
-    "t": "datasette-explain 0.2.2",
-    "u": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+    "t": "llm-keys-ui 0.1",
+    "u": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-09-18",
-    "t": "Earn continuing education and college credits for AI educator training.",
-    "u": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+    "d": "2026-09-21",
+    "t": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
+    "u": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
     "s": "blog"
    },
    {
-    "d": "2026-09-18",
-    "t": "New experts join Google’s AI & Economy team",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "d": "2026-09-21",
+    "t": "Premium materials and striking design set Googlebook apart",
+    "u": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
     "s": "blog"
    },
    {
-    "d": "2026-09-18",
-    "t": "Co-creating the future of fashion with Google",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "d": "2026-09-21",
+    "t": "Googlebook: The laptop your Android phone has been waiting for",
+    "u": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
     "s": "blog"
    }
   ],
