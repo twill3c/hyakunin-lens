@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T12:02:10Z",
- "ok": 18,
- "fail": 3,
+ "generated_at": "2026-09-22T17:16:16Z",
+ "ok": 17,
+ "fail": 4,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -136,8 +136,9 @@
    "n": "Yohei Nakajima",
    "s": "blog",
    "feed": "https://yoheinakajima.com/feed/",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "ValueError: XML として解釈できない: mismatched tag: line 93, column 2"
   },
   {
    "n": "Yoshua Bengio",

@@ -3983,6 +3983,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-09-22",
+    "t": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
+    "u": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-21",
     "t": "Jev is now available in LangSmith Evals",
     "u": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
@@ -3992,12 +3998,6 @@
     "d": "2026-09-21",
     "t": "Can Jev Be a Better Agent Evaluator?",
     "u": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
     "s": "blog"
    }
   ],
@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-22",
+    "t": "llm-typesafe 0.1a0",
+    "u": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-21",
     "t": "Jev introduces a new shape of LLM - System One, aka Decision Models",
     "u": "https://simonwillison.net/2026/Sep/21/jev/",
@@ -4491,12 +4497,6 @@
     "d": "2026-09-21",
     "t": "Cloudflare Python Workers are now generally available",
     "u": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-20",
-    "t": "Quoting voxium",
-    "u": "https://simonwillison.net/2026/Sep/20/voxium/",
     "s": "blog"
    }
   ],
