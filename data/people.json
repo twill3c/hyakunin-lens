@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-09-22",
+    "t": "Quoting @therealcornpop",
+    "u": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-22",
     "t": "llm-typesafe 0.1a0",
     "u": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-09-21",
     "t": "Jev introduces a new shape of LLM - System One, aka Decision Models",
     "u": "https://simonwillison.net/2026/Sep/21/jev/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "Cloudflare Python Workers are now generally available",
-    "u": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-22",
+    "t": "Investing in global talent and AI literacy",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-22",
+    "t": "Using AI to help local governments connect with constituents",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-21",
     "t": "Expanding free AI training for educators",
     "u": "https://blog.google/products-and-platforms/products/education/digital-promise/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
-    "u": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "Premium materials and striking design set Googlebook apart",
-    "u": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
     "s": "blog"
    }
   ],
