@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-09-23",
+    "t": "Gemini 3.8 TTS Playground",
+    "u": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-23",
+    "t": "Shadow roots, explained with live examples",
+    "u": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-23",
     "t": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
     "u": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-22",
-    "t": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-    "u": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-22",
-    "t": "llm 0.36",
-    "u": "https://simonwillison.net/2026/Sep/22/llm/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-23",
-    "t": "6 new Google Flow Tools built by industry creatives",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+    "t": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+    "u": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
     "s": "blog"
    },
    {
     "d": "2026-09-23",
-    "t": "A new wave of Connected Apps is rolling out to Gemini.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "t": "Google Beam expands with new regions, partners, and customers",
+    "u": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "s": "blog"
    },
    {
     "d": "2026-09-23",
-    "t": "MedGemma is helping global healthcare providers deliver better care",
-    "u": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/",
+    "t": "6 ways Android Enterprise is evolving for the modern workforce",
+    "u": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
     "s": "blog"
    }
   ],
