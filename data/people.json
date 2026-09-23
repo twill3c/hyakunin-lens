@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-22",
+    "t": "Geoffrey Hinton On AI's Biggest Risk: \"We've Just Reached That Point\"",
+    "u": "https://www.youtube.com/watch?v=8xaAzx0vnl8",
+    "s": "yt",
+    "o": "NDTV"
+   },
+   {
     "d": "2026-09-17",
     "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
     "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
     "s": "yt",
     "o": "CNN-News18"
-   },
-   {
-    "d": "2026-08-30",
-    "t": "\"Train To Be A Plumber\" - Why AI Will Destroy The Job Market | Geoffrey Hinton x Steven Bartlett",
-    "u": "https://www.youtube.com/watch?v=88jkyUldmws",
-    "s": "yt",
-    "o": "The Vision Journal"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -625,25 +625,25 @@
   ],
   "yt": [
    {
-    "d": "2026-09-11",
-    "t": "Sir Demis Hassabis on the AI Revolution, the Future of AI and Human Creativity | Hannah Fry",
-    "u": "https://www.youtube.com/watch?v=rDteJAuKiBI",
+    "d": "2026-09-23",
+    "t": "🔴 LIVE: AI CEOs Brief UN Security Council | Sam Altman, Demis Hassabis & Dario Amodei on AI Risks",
+    "u": "https://www.youtube.com/watch?v=-Xog7fJwkzE",
     "s": "yt",
-    "o": "Royal Society of Arts"
+    "o": "News Mobile"
    },
    {
-    "d": "2026-08-25",
-    "t": "Demis Hassabis and the Quest for AGI | Robert Wright & Sebastian Mallaby",
-    "u": "https://www.youtube.com/watch?v=RAMYsW4Ou_E",
+    "d": "2026-09-16",
+    "t": "Demis Hassabis on Accelerating Scientific Discovery With AI",
+    "u": "https://www.youtube.com/watch?v=hV-CkdC8B7I",
     "s": "yt",
-    "o": "Nonzero"
+    "o": "Innovation and the British Economy"
    },
    {
-    "d": "2026-08-21",
-    "t": "Demis Hassabis on the Future of AI, AGI, Physics & Discovery | Lex Fridman",
-    "u": "https://www.youtube.com/watch?v=Pru04MlhLZo",
+    "d": "2026-09-15",
+    "t": "Demis Hassabis on the Future of AI: From Games to Digital Biology",
+    "u": "https://www.youtube.com/watch?v=qQ91wRysPXQ",
     "s": "yt",
-    "o": "Pet circle"
+    "o": "LufSec Cyber Security"
    }
   ],
   "note": "",
@@ -925,25 +925,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-23",
+    "t": "Live: Sam Altman, Dario Amodei and AI leaders brief UN amid warnings of tech's 'existential threat'",
+    "u": "https://www.youtube.com/watch?v=X9JTZ0VRjVo",
+    "s": "yt",
+    "o": "USA TODAY"
+   },
+   {
+    "d": "2026-09-23",
+    "t": "BREAKING: Sam Altman And Dario Amodei Brief UN Security Council On New AI Risks",
+    "u": "https://www.youtube.com/watch?v=8N7trNoDodo",
+    "s": "yt",
+    "o": "Forbes Breaking News"
+   },
+   {
     "d": "2026-09-18",
     "t": "Why Dario Amodei and Sam Altman Are Faking the AI Doomsday Crisis | The Weekly Wrap",
     "u": "https://www.youtube.com/watch?v=Q1jSJG1iBL8",
     "s": "yt",
     "o": "Steve Eisman"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Dario Amodei and other AI leaders want to 'Pace the Frontier' but…how? | Equity Podcast",
-    "u": "https://www.youtube.com/watch?v=a5Y-UGoJf1A",
-    "s": "yt",
-    "o": "TechCrunch"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Anthropic Wants to Slow Down AI. Is Dario Amodei Actually Right?",
-    "u": "https://www.youtube.com/watch?v=fuwB9JCB71Q",
-    "s": "yt",
-    "o": "More or Less Podcast"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1331,15 +1331,15 @@
   "yt": [
    {
     "d": "2026-09-20",
-    "t": "Earthly Justice and Injustice | Ecclesiastes 3:16-22 | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=7MqW7dIa8Lo",
+    "t": "Priority and Responsibilities of Church Membership | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=M_mFJkvkoYs",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
    },
    {
     "d": "2026-09-20",
-    "t": "Priority and Responsibilities of Church Membership | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=M_mFJkvkoYs",
+    "t": "Earthly Justice and Injustice | Ecclesiastes 3:16-22 | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=7MqW7dIa8Lo",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
    },
@@ -3552,6 +3552,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-23",
+    "t": "Replit CEO Amjad Masad on What Young People Should Learn in the AI Era",
+    "u": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
+    "s": "yt",
+    "o": "a16z"
+   },
+   {
     "d": "2026-09-01",
     "t": "Amjad Masad, Founder of Replit | Keynote Session | T4P Bay Area Summit 2026",
     "u": "https://www.youtube.com/watch?v=8E1TE-vd9hE",
@@ -3564,13 +3571,6 @@
     "u": "https://www.youtube.com/watch?v=4GZoCG2HOh4",
     "s": "yt",
     "o": "Hexaware Technologies"
-   },
-   {
-    "d": "2026-07-18",
-    "t": "Amjad Masad on Good Enough AI, AGI, and the End of Coding",
-    "u": "https://www.youtube.com/watch?v=Jrivfqn5GbA",
-    "s": "yt",
-    "o": "Kaushik Datta"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -4101,6 +4101,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-23",
+    "t": "Building the Document Context Layer for AI Agents — Jerry Liu, LlamaIndex",
+    "u": "https://www.youtube.com/watch?v=RQi7x-navxU",
+    "s": "yt",
+    "o": "AI Engineer"
+   },
+   {
     "d": "2026-08-31",
     "t": "He's Building the Document Layer for AI Agents | Jerry Liu, LlamaIndex",
     "u": "https://www.youtube.com/watch?v=QR_yEI8mNGo",
@@ -4113,13 +4120,6 @@
     "u": "https://www.youtube.com/watch?v=Bk2J0KV4DPY",
     "s": "yt",
     "o": "Eli the Computer Guy"
-   },
-   {
-    "d": "2026-06-03",
-    "t": "The AI Framework Era Is Over: Why Context Is the Moat | Jerry Liu",
-    "u": "https://www.youtube.com/watch?v=PJ-3hXAUotI",
-    "s": "yt",
-    "o": "The Chain of Thought Podcast"
    }
   ],
   "note": "llamaindex.ai/blog は著者表記が確認できずX投稿のみ採用。",
