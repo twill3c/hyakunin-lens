@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T12:11:21Z",
+ "generated_at": "2026-09-24T17:32:17Z",
  "ok": 18,
  "fail": 3,
  "sources": [
@@ -30,7 +30,7 @@
    "s": "blog",
    "feed": "https://www.langchain.com/blog/rss.xml",
    "ok": true,
-   "count": 98
+   "count": 99
   },
   {
    "n": "Jan Leike",

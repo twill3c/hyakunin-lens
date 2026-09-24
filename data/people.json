@@ -75,6 +75,12 @@
   "bio": "深層学習の三巨頭の一人で、Mila（モントリオール学習アルゴリズム研究所）を世界最大級のアカデミックAI研究拠点に育てた。近年は研究の軸足を安全性に移し、2025年に非営利のLawZeroを設立して「行動しないAI（Scientist AI）」による監視という独自の路線を提示。国際AI安全報告書の議長として各国政府への影響力も大きい。",
   "own": [
    {
+    "d": "2026-09-23",
+    "t": "Professor Yoshua Bengio’s speech at the UN Security Council",
+    "u": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-11",
     "t": "Why are AI agents lying, cheating and coordinating?",
     "u": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -84,12 +90,6 @@
     "d": "2025-06-03",
     "t": "Introducing LawZero",
     "u": "https://yoshuabengio.org/en/blog/introducing-lawzero",
-    "s": "blog"
-   },
-   {
-    "d": "2024-10-30",
-    "t": "Implications of Artificial General Intelligence on National and International Security",
-    "u": "https://yoshuabengio.org/en/blog/implications-artificial-general-intelligence-national-and-international-security",
     "s": "blog"
    }
   ],
@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-23",
-    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
+    "d": "2026-09-24",
+    "t": "New in LangSmith Engine: red teaming and automated testing",
+    "u": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
     "s": "blog"
    },
    {
-    "d": "2026-09-22",
-    "t": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
-    "u": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
+    "d": "2026-09-24",
+    "t": "Introducing LangSmith Fine-Tuning",
+    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
     "s": "blog"
    },
    {
-    "d": "2026-09-21",
-    "t": "Jev is now available in LangSmith Evals",
-    "u": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
+    "d": "2026-09-24",
+    "t": "Managed Deep Agents delivers a better user experience for agents in production",
+    "u": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-09-23",
-    "t": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-    "u": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+    "d": "2026-09-24",
+    "t": "Behind Project Suncatcher, our moonshot to put AI in space",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
     "s": "blog"
    },
    {
-    "d": "2026-09-23",
-    "t": "Google Beam expands with new regions, partners, and customers",
-    "u": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "d": "2026-09-24",
+    "t": "Helping 25,000 veterans and military families build careers in skilled trades",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
     "s": "blog"
    },
    {
-    "d": "2026-09-23",
-    "t": "6 ways Android Enterprise is evolving for the modern workforce",
-    "u": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
+    "d": "2026-09-24",
+    "t": "Turning cultural artifacts into interactive learning companions",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
     "s": "blog"
    }
   ],
@@ -6335,15 +6335,15 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
-    "d": "2026-09-18",
-    "t": "Introducing Sakana AI’s Frontier Intelligence Group (FIG)",
-    "u": "https://sakana.ai/frontier-intelligence-group/",
+    "d": "2026-09-24",
+    "t": "The Next Frontier: Welcoming AI Pioneer Jürgen Schmidhuber to Sakana AI",
+    "u": "https://sakana.ai/schmidhuber/",
     "s": "blog"
    },
    {
-    "d": "2026-09-17",
-    "t": "Sakana Chatをアップデート：最新モデルに刷新、メモリー機能を追加",
-    "u": "https://sakana.ai/chat-fugumax/",
+    "d": "2026-09-18",
+    "t": "Introducing Sakana AI’s Frontier Intelligence Group (FIG)",
+    "u": "https://sakana.ai/frontier-intelligence-group/",
     "s": "blog"
    },
    {
