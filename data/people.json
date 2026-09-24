@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-24",
+    "t": "commit-rewriter 0.2",
+    "u": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-24",
+    "t": "datasette 1.0a41",
+    "u": "https://simonwillison.net/2026/Sep/24/datasette/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-23",
     "t": "Gemini 3.8 TTS Playground",
     "u": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "Shadow roots, explained with live examples",
-    "u": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-    "u": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-09-24",
-    "t": "Behind Project Suncatcher, our moonshot to put AI in space",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "t": "5 ways to upgrade your study habits with Chrome",
+    "u": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
     "s": "blog"
    },
    {
     "d": "2026-09-24",
-    "t": "Helping 25,000 veterans and military families build careers in skilled trades",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+    "t": "5 Google Photos updates to make the most of summer memories.",
+    "u": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
     "s": "blog"
    },
    {
     "d": "2026-09-24",
-    "t": "Turning cultural artifacts into interactive learning companions",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+    "t": "Our new health and safety tools are live in the Google Health app.",
+    "u": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
     "s": "blog"
    }
   ],
