@@ -3984,6 +3984,12 @@
   "own": [
    {
     "d": "2026-09-25",
+    "t": "Building Production Agents with Jev and LangGraph",
+    "u": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-25",
     "t": "LangSmith Custom Apps: Build custom interfaces around your agent data",
     "u": "https://www.langchain.com/blog/langsmith-custom-apps",
     "s": "blog"
@@ -3992,12 +3998,6 @@
     "d": "2026-09-25",
     "t": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
     "u": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "New in LangSmith Engine: red teaming and automated testing",
-    "u": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
     "s": "blog"
    }
   ],
