@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-23",
+    "t": "LIVE: Geoffrey Hinton’s AI Warning | ‘10% Risk’ Of Human Extinction Within A Decade | N18G",
+    "u": "https://www.youtube.com/watch?v=607QRxREiBI",
+    "s": "yt",
+    "o": "CNN-News18"
+   },
+   {
     "d": "2026-09-22",
     "t": "Geoffrey Hinton On AI's Biggest Risk: \"We've Just Reached That Point\"",
     "u": "https://www.youtube.com/watch?v=8xaAzx0vnl8",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
     "s": "yt",
     "o": "freeCodeCamp.org"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "LIVE: AI KILL SWITCH WON’T WORK? | Geoffrey Hinton’s AI Warning: Why a ‘Kill Switch’ May Fail | N18G",
-    "u": "https://www.youtube.com/watch?v=83OyTJ-vVaQ",
-    "s": "yt",
-    "o": "CNN-News18"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -1330,11 +1330,11 @@
   ],
   "yt": [
    {
-    "d": "2026-09-20",
-    "t": "Priority and Responsibilities of Church Membership | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=M_mFJkvkoYs",
+    "d": "2026-09-25",
+    "t": "Mark Chen (陳皓圓): Quantum Reinforcement Learning (QRL) with QNNs | SQAI 2026",
+    "u": "https://www.youtube.com/watch?v=HYliOkXBtVg",
     "s": "yt",
-    "o": "Covenant Grace Church, Penang"
+    "o": "臺大量子應用社 NTU Quantum Club"
    },
    {
     "d": "2026-09-20",
@@ -1344,9 +1344,9 @@
     "o": "Covenant Grace Church, Penang"
    },
    {
-    "d": "2026-08-15",
-    "t": "A Revolutionized Joy-Giving Life | Phil 2:12-18 | Pastor Mark Chen",
-    "u": "https://www.youtube.com/watch?v=y9K1SX2nfoM",
+    "d": "2026-09-20",
+    "t": "Priority and Responsibilities of Church Membership | Pastor Mark Chen",
+    "u": "https://www.youtube.com/watch?v=M_mFJkvkoYs",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
    }
@@ -2888,6 +2888,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-24",
+    "t": "In Conversation with Boris Cherny, Creator of Claude Code",
+    "u": "https://www.youtube.com/watch?v=9wr9HLraTbc",
+    "s": "yt",
+    "o": "Computer History Museum"
+   },
+   {
     "d": "2026-09-21",
     "t": "Boris Cherny - the man who built Claude Code - explains how to create Agents, Loops, and Graphs. ",
     "u": "https://www.youtube.com/watch?v=CQWdcf5xP-8",
@@ -2895,18 +2902,11 @@
     "o": "Batavus"
    },
    {
-    "d": "2026-09-15",
-    "t": "Boris Cherny × Andrej Karpathy | Preview-enabled chess — Astra (AI-generated)",
-    "u": "https://www.youtube.com/watch?v=MONiIdauh54",
+    "d": "2026-09-18",
+    "t": "How to Code 10x Faster with Claude Code by By BORIS CHERNY - SOLOMON ALFRED!",
+    "u": "https://www.youtube.com/watch?v=SUWLe6UNmYs",
     "s": "yt",
-    "o": "Shared Context Podcast"
-   },
-   {
-    "d": "2026-08-29",
-    "t": "Boris Cherny, creator of Claude Code at Anthropic",
-    "u": "https://www.youtube.com/watch?v=PXknyOXkB_Q",
-    "s": "yt",
-    "o": "UninformedInvestors"
+    "o": "ERENN"
    }
   ],
   "note": "本人名義のブログ記事は確認できず、X投稿のみ。",
@@ -3046,17 +3046,17 @@
    },
    {
     "d": "2026-06-22",
+    "t": "Cursor, GPT급 모델 자체 개발 선언 | Compile 26 키노트, Michael Truell",
+    "u": "https://www.youtube.com/watch?v=N6TmhTTEj2w",
+    "s": "yt",
+    "o": "스쿱 (Scoop)"
+   },
+   {
+    "d": "2026-06-22",
     "t": "Opening Keynote, Michael Truell | Compile 26",
     "u": "https://www.youtube.com/watch?v=fWa7uxyhVDE",
     "s": "yt",
     "o": "Cursor"
-   },
-   {
-    "d": "2026-06-20",
-    "t": "Michael Truell cofounder of Cursor's fireside chat with Ed Catmull, cofounder of Pixar",
-    "u": "https://www.youtube.com/watch?v=i288Aa5TH2Y",
-    "s": "yt",
-    "o": "Morgan Linton"
    }
   ],
   "note": "cursor.com/blog に本人名義の記事は見当たらず。",
@@ -3552,6 +3552,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-24",
+    "t": "Replit创始人Amjad Masad：人工智能时代年轻人该学什么",
+    "u": "https://www.youtube.com/watch?v=h5VHJm-dfJ8",
+    "s": "yt",
+    "o": "小雨科技商业说"
+   },
+   {
     "d": "2026-09-23",
     "t": "Replit CEO Amjad Masad on What Young People Should Learn in the AI Era",
     "u": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
@@ -3564,13 +3571,6 @@
     "u": "https://www.youtube.com/watch?v=8E1TE-vd9hE",
     "s": "yt",
     "o": "Tech For Palestine"
-   },
-   {
-    "d": "2026-07-28",
-    "t": "CEO Tech Live | S3:E4 | Amjad Masad on the AI Bet That Changed Replit",
-    "u": "https://www.youtube.com/watch?v=4GZoCG2HOh4",
-    "s": "yt",
-    "o": "Hexaware Technologies"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -4675,6 +4675,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-25",
+    "t": "Ajahn Tri Dao  is live!",
+    "u": "https://www.youtube.com/watch?v=Ekjwfmph7iI",
+    "s": "yt",
+    "o": "Ajahn Tri Dao "
+   },
+   {
     "d": "2026-09-20",
     "t": "Ajahn Tri Dao  is live!",
     "u": "https://www.youtube.com/watch?v=56Q6PKFfgHg",
@@ -4687,13 +4694,6 @@
     "u": "https://www.youtube.com/watch?v=rITHS4bO-ys",
     "s": "yt",
     "o": "Ajahn Tri Dao "
-   },
-   {
-    "d": "2026-08-20",
-    "t": "ICML 2026: Fireside chat with Tri Dao & Max Ryabinin",
-    "u": "https://www.youtube.com/watch?v=VKEaBNK0VLU",
-    "s": "yt",
-    "o": "Together AI"
    }
   ],
   "note": "個人ブログで技術記事を継続的に発信。",
@@ -5328,6 +5328,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-24",
+    "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
+    "u": "https://www.youtube.com/watch?v=fBe0POLId0s",
+    "s": "yt",
+    "o": "ICONIQ"
+   },
+   {
     "d": "2026-09-04",
     "t": "Top Robot Expert: The ₹10 Lakh Crore Robot Opportunity | Sergey Levine",
     "u": "https://www.youtube.com/watch?v=qexxkb1M1mE",
@@ -5340,13 +5347,6 @@
     "u": "https://www.youtube.com/watch?v=9OSbaPjv0Rc",
     "s": "yt",
     "o": "Ryan Peterman"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "#108 – Sergey Levine: Robotics and Machine Learning",
-    "u": "https://www.youtube.com/watch?v=9yKrxygFvlw",
-    "s": "yt",
-    "o": "Zenvora Productions"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
