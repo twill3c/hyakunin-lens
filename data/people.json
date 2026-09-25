@@ -3984,6 +3984,12 @@
   "own": [
    {
     "d": "2026-09-25",
+    "t": "LangSmith Custom Apps: Build custom interfaces around your agent data",
+    "u": "https://www.langchain.com/blog/langsmith-custom-apps",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-25",
     "t": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
     "u": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
     "s": "blog"
@@ -3992,12 +3998,6 @@
     "d": "2026-09-24",
     "t": "New in LangSmith Engine: red teaming and automated testing",
     "u": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "Introducing LangSmith Fine-Tuning",
-    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
     "s": "blog"
    }
   ],
@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-09-24",
-    "t": "commit-rewriter 0.2",
-    "u": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+    "d": "2026-09-25",
+    "t": "Quoting John Gruber",
+    "u": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-25",
+    "t": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+    "u": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
     "s": "blog"
    },
    {
     "d": "2026-09-24",
-    "t": "datasette 1.0a41",
-    "u": "https://simonwillison.net/2026/Sep/24/datasette/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "Gemini 3.8 TTS Playground",
-    "u": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "t": "Note on 24th September 2026",
+    "u": "https://simonwillison.net/2026/Sep/24/harder/",
     "s": "blog"
    }
   ],
