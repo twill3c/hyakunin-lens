@@ -6335,6 +6335,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-09-25",
+    "t": "Sakana AI、「日本スタートアップ大賞2026」で総務大臣賞（情報通信分野）を受賞",
+    "u": "https://sakana.ai/japan-startup-award-2026/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-24",
     "t": "The Next Frontier: Welcoming AI Pioneer Jürgen Schmidhuber to Sakana AI",
     "u": "https://sakana.ai/schmidhuber/",
@@ -6344,12 +6350,6 @@
     "d": "2026-09-18",
     "t": "Introducing Sakana AI’s Frontier Intelligence Group (FIG)",
     "u": "https://sakana.ai/frontier-intelligence-group/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Inside Sakana AI’s Product Team",
-    "u": "https://sakana.ai/inside-product-team/",
     "s": "blog"
    }
   ],
