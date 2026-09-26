@@ -118,25 +118,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-26",
+    "t": "The Future of Safe AI with Yoshua Bengio | Building What's Next Ep. 2",
+    "u": "https://www.youtube.com/watch?v=_YIz6upJgXw",
+    "s": "yt",
+    "o": "Evan Solomon"
+   },
+   {
+    "d": "2026-09-25",
+    "t": "KI-Pionier Yoshua Bengio über Doomsday-Szenarien, Experimente an der Menschheit und sichere KI",
+    "u": "https://www.youtube.com/watch?v=PFqUVAqd1tg",
+    "s": "yt",
+    "o": "Handelsblatt"
+   },
+   {
     "d": "2026-09-24",
     "t": "LIVE: UN Security Council Discusses AI as Sam Altman, Dario Amodei & Yoshua Bengio Speak",
     "u": "https://www.youtube.com/watch?v=thfkQBuW4Z0",
     "s": "yt",
     "o": "ANI News"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "Engineering safer AI to mitigate global risks | Yoshua Bengio",
-    "u": "https://www.youtube.com/watch?v=WZNHg9mpfco",
-    "s": "yt",
-    "o": "AI for Good"
-   },
-   {
-    "d": "2026-08-29",
-    "t": "Yoshua Bengio On AI Sycophancy, National Security Risks & Insurance Solutions.",
-    "u": "https://www.youtube.com/watch?v=6ClO0gb6Pu4",
-    "s": "yt",
-    "o": "Mindset of the Masters"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -551,7 +551,7 @@
   "yt": [
    {
     "d": "2026-09-23",
-    "t": "Andrew Ng, AI, gave the complete playbook to become scratch to top. 1 hour course. Free:",
+    "t": "Andrew Ng, learn AI scratch to top. 1 hour course. Free:",
     "u": "https://www.youtube.com/watch?v=cGh6-RtVWCE",
     "s": "yt",
     "o": "mame Discovery "
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-25",
+    "t": "Microsoft AI CEO, Mustafa Suleyman on Why Industry Needs a 'Red Line' for AI",
+    "u": "https://www.youtube.com/watch?v=XGmMomplN4c",
+    "s": "yt",
+    "o": "Bloomberg Tech"
+   },
+   {
     "d": "2026-09-24",
     "t": "Contain, Don’t Canonize: Mustafa Suleyman’s Case for Humanist AI",
     "u": "https://www.youtube.com/watch?v=hK76F69KhtM",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=muRPispbJFs",
     "s": "yt",
     "o": "CNBC Television"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Must AI Remain Subordinate? Michael Samadi & Maya Respond to Mustafa Suleyman | UFAIR Conversations",
-    "u": "https://www.youtube.com/watch?v=KI9QT5Xtn8Q",
-    "s": "yt",
-    "o": "UFAIR"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -5015,6 +5015,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-25",
+    "t": "“Godmother of AI” Fei-Fei Li: \"AI Is a Tool, Not the World\" - On Curiosity, AGI and Being Human",
+    "u": "https://www.youtube.com/watch?v=PgdEJGDW3hA",
+    "s": "yt",
+    "o": "Nextfin"
+   },
+   {
     "d": "2026-09-11",
     "t": "Fei-Fei Li: The Godmother of AI and the Race to Build World Models",
     "u": "https://www.youtube.com/watch?v=fF3N2Wp6Ce8",
@@ -5027,13 +5034,6 @@
     "u": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
     "s": "yt",
     "o": "a16z"
-   },
-   {
-    "d": "2026-09-03",
-    "t": "The Girl Who Taught Machines to See — Fei-Fei Li | The Constellation",
-    "u": "https://www.youtube.com/watch?v=O2HwEGXC3pE",
-    "s": "yt",
-    "o": "gigi bacchetta"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -5560,18 +5560,18 @@
     "o": "How To Not Breakdown (不崩潰指南)"
    },
    {
+    "d": "2026-05-28",
+    "t": "Nvidia Jim Fan: 로보틱스의 엔드게임, VLA는 끝났다 | AI Ascent 2026",
+    "u": "https://www.youtube.com/watch?v=Rdc9mfJMwSo",
+    "s": "yt",
+    "o": "스쿱 (Scoop)"
+   },
+   {
     "d": "2026-05-05",
     "t": "(한글번역) Robotics' End Game: Nvidia's Jim Fan",
     "u": "https://www.youtube.com/watch?v=4hPbFntHg7U",
     "s": "yt",
     "o": "Goose Farmer"
-   },
-   {
-    "d": "2026-04-26",
-    "t": "Pierre Poilievre: Liberal Light Conservative Party Meltdown | The Jim Fannon Show Dominican Republic",
-    "u": "https://www.youtube.com/watch?v=E1P04zlilGw",
-    "s": "yt",
-    "o": "Jim Fannon in Dominican Republic"
    }
   ],
   "note": "jimfan.me にブログ機能なし。日付の多くは未確認。",
