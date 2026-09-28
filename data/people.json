@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-25",
+    "d": "2026-09-28",
     "t": "Building Production Agents with Jev and LangGraph",
     "u": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
     "s": "blog"
    },
    {
-    "d": "2026-09-25",
-    "t": "LangSmith Custom Apps: Build custom interfaces around your agent data",
-    "u": "https://www.langchain.com/blog/langsmith-custom-apps",
+    "d": "2026-09-28",
+    "t": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
+    "u": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
     "s": "blog"
    },
    {
-    "d": "2026-09-25",
-    "t": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
-    "u": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
+    "d": "2026-09-28",
+    "t": "LangSmith Custom Apps: Build custom interfaces around your agent data",
+    "u": "https://www.langchain.com/blog/langsmith-custom-apps",
     "s": "blog"
    }
   ],
@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-09-28",
+    "t": "Claude Sonnet 5.5",
+    "u": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-28",
+    "t": "Quoting @joedaroo",
+    "u": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-28",
     "t": "Quoting Muse AI Agent",
     "u": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-27",
-    "t": "2026 in LLMs (so far)",
-    "u": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-27",
-    "t": "S3 Is the Future, S3 Is the Past",
-    "u": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
     "s": "blog"
    }
   ],
