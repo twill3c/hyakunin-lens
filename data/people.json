@@ -5709,6 +5709,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-09-28",
+    "t": "Introducing Vertical Video Unification with Display & Video 360.",
+    "u": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-24",
     "t": "5 ways to upgrade your study habits with Chrome",
     "u": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
@@ -5718,12 +5724,6 @@
     "d": "2026-09-24",
     "t": "5 Google Photos updates to make the most of summer memories.",
     "u": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "Our new health and safety tools are live in the Google Health app.",
-    "u": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
     "s": "blog"
    }
   ],
