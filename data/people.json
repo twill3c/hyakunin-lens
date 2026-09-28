@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-27",
+    "t": "Yoshua Bengio : l'IA pourrait « se retourner contre nous » | Hors des ondes avec Patrice Roy",
+    "u": "https://www.youtube.com/watch?v=WSsggkm03uE",
+    "s": "yt",
+    "o": "Radio-Canada Info"
+   },
+   {
     "d": "2026-09-26",
     "t": "The Future of Safe AI with Yoshua Bengio | Building What's Next Ep. 2",
     "u": "https://www.youtube.com/watch?v=_YIz6upJgXw",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=PFqUVAqd1tg",
     "s": "yt",
     "o": "Handelsblatt"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "LIVE: UN Security Council Discusses AI as Sam Altman, Dario Amodei & Yoshua Bengio Speak",
-    "u": "https://www.youtube.com/watch?v=thfkQBuW4Z0",
-    "s": "yt",
-    "o": "ANI News"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -1405,8 +1405,15 @@
   ],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "Can AI Stay Under Human Control? | CEO of Microsoft AI, Mustafa Suleyman",
+    "u": "https://www.youtube.com/watch?v=_VyF0naZ4AI",
+    "s": "yt",
+    "o": "The Rest Is Politics: Leading"
+   },
+   {
     "d": "2026-09-25",
-    "t": "Microsoft AI CEO, Mustafa Suleyman on Why Industry Needs a 'Red Line' for AI",
+    "t": "Why Industry Needs a 'Red Line' for AI: Microsoft AI CEO, Mustafa Suleyman",
     "u": "https://www.youtube.com/watch?v=XGmMomplN4c",
     "s": "yt",
     "o": "Bloomberg Tech"
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=hK76F69KhtM",
     "s": "yt",
     "o": "AI & Beyond"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Squawk Pod: Controlling AI with Mustafa Suleyman & Warren Buffett steps down - 09/09/26 | Audio Only",
-    "u": "https://www.youtube.com/watch?v=muRPispbJFs",
-    "s": "yt",
-    "o": "CNBC Television"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -3771,6 +3771,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-24",
+    "t": "OpenAI Chair Bret Taylor: Superintelligence Is Coming",
+    "u": "https://www.youtube.com/watch?v=Idb6s66kK_c",
+    "s": "yt",
+    "o": "McKinsey & Company"
+   },
+   {
     "d": "2026-08-06",
     "t": "Bret Taylor - How Did Species Evolve?",
     "u": "https://www.youtube.com/watch?v=lGiNuifvaHA",
@@ -3783,13 +3790,6 @@
     "u": "https://www.youtube.com/watch?v=tBDSGp4f7Bk",
     "s": "yt",
     "o": "Worthy"
-   },
-   {
-    "d": "2026-07-20",
-    "t": "Squawk Pod: AMC CEO Adam Aron & OpenAI Chairman Bret Taylor - 07/20/26 | Audio Only",
-    "u": "https://www.youtube.com/watch?v=J3HBLeMXNGY",
-    "s": "yt",
-    "o": "CNBC Television"
    }
   ],
   "note": "Sierra公式の本人名義記事は確認できず。日付はいずれも未確認。",
@@ -4033,18 +4033,18 @@
     "o": "Browserbase"
    },
    {
+    "d": "2026-08-23",
+    "t": "Harrison Chase (LangChain): AI Agent 部署策略 - 駕馭器、評估與可觀察性關鍵",
+    "u": "https://www.youtube.com/watch?v=YfBWKsVAsTo",
+    "s": "yt",
+    "o": "PP科技筆記 Podcast"
+   },
+   {
     "d": "2026-08-13",
     "t": "When to Build Your Own Agent Harness | Harrison Chase, LangChain",
     "u": "https://www.youtube.com/watch?v=HI2q3ci3Iuc",
     "s": "yt",
     "o": "Sequoia Capital"
-   },
-   {
-    "d": "2026-07-27",
-    "t": "Agents in the Enterprise: Deep Agents, Evals, and Ambient UX | Austin Vance and Harrison Chase",
-    "u": "https://www.youtube.com/watch?v=Id3yFWBII0o",
-    "s": "yt",
-    "o": "Focused"
    }
   ],
   "note": "本人コラム「Harrison's In the Loop」名義。著者と日付を確認。",
@@ -5015,25 +5015,25 @@
   ],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
+    "u": "https://www.youtube.com/watch?v=uD62Yn8j_Pg",
+    "s": "yt",
+    "o": "Bloomberg Tech"
+   },
+   {
+    "d": "2026-09-28",
+    "t": "AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
+    "u": "https://www.youtube.com/watch?v=-BKzNOIF6-4",
+    "s": "yt",
+    "o": "Bloomberg Podcasts"
+   },
+   {
     "d": "2026-09-25",
     "t": "“Godmother of AI” Fei-Fei Li: \"AI Is a Tool, Not the World\" - On Curiosity, AGI and Being Human",
     "u": "https://www.youtube.com/watch?v=PgdEJGDW3hA",
     "s": "yt",
     "o": "Nextfin"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Fei-Fei Li: The Godmother of AI and the Race to Build World Models",
-    "u": "https://www.youtube.com/watch?v=fF3N2Wp6Ce8",
-    "s": "yt",
-    "o": "Moconomy"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "Why Fei-Fei Li Is Betting on Spatial Intelligence",
-    "u": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
-    "s": "yt",
-    "o": "a16z"
    }
   ],
   "note": "Substackと X の両方で発信。",
