@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-09-29",
+    "t": "Quoting Anthropic Frontier Red Team",
+    "u": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-29",
+    "t": "OpenAI DevDay 2026 live blog",
+    "u": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-28",
     "t": "Claude Sonnet 5.5",
     "u": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "Quoting @joedaroo",
-    "u": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "Quoting Muse AI Agent",
-    "u": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-09-28",
-    "t": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "d": "2026-09-29",
+    "t": "Game on: Henry Cavill is putting Googlebook to the test",
+    "u": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
     "s": "blog"
    },
    {
-    "d": "2026-09-28",
-    "t": "Google Arts & Culture turns 15 — and gives its app a makeover",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+    "d": "2026-09-29",
+    "t": "Experience two artists’ perspectives on philosophy, science, and AI",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
     "s": "blog"
    },
    {
-    "d": "2026-09-28",
-    "t": "See what 4 builders are making with Gemini 3.8 Flash",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+    "d": "2026-09-29",
+    "t": "Google is a technology partner for the launch of America.gov.",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
     "s": "blog"
    }
   ],
