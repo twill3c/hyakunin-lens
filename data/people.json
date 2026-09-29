@@ -337,7 +337,14 @@
   ],
   "yt": [
    {
-    "d": "2026-09-27",
+    "d": "2026-09-28",
+    "t": "机器人为什么要上“幼儿园”？｜对话图灵奖得主 Richard Sutton：Why Do Robots Need “Kindergarten”?",
+    "u": "https://www.youtube.com/watch?v=CjGFcL2Qjxk",
+    "s": "yt",
+    "o": "福爸说人形机器人"
+   },
+   {
+    "d": "2026-09-28",
     "t": "Sunday Morning Worship - Richard Sutton - 9/27/2026",
     "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
     "s": "yt",
@@ -349,13 +356,6 @@
     "u": "https://www.youtube.com/watch?v=eBpZpotleiw",
     "s": "yt",
     "o": "Shift Happens Podcast "
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Built To Thrive With Richard Sutton",
-    "u": "https://www.youtube.com/watch?v=H7bm4FSP6lU",
-    "s": "yt",
-    "o": "getAbstract"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -1951,6 +1951,13 @@
   "med": [],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "Food Scientist to Medium: Dr. Bryan Quoc Le on Consciousness, Psychedelics & the Afterlife",
+    "u": "https://www.youtube.com/watch?v=zDfJJILOVCs",
+    "s": "yt",
+    "o": "The Kidd and Friends Podcast "
+   },
+   {
     "d": "2026-09-27",
     "t": "Food Scientist to Medium: Dr. Bryan Quoc Le on Consciousness, Psychedelics & the Afterlife",
     "u": "https://www.youtube.com/watch?v=6CKdDjzQB0E",
@@ -1963,13 +1970,6 @@
     "u": "https://www.youtube.com/watch?v=lH356vh2JqI",
     "s": "yt",
     "o": "Closer To Venus Podcast"
-   },
-   {
-    "d": "2026-08-11",
-    "t": "Before leaving Google, Quoc Le shared his vision for the future of AI | MOMENTUM 07",
-    "u": "https://www.youtube.com/watch?v=IewUi6dE05o",
-    "s": "yt",
-    "o": "WORLD·V"
    }
   ],
   "note": "個人ブログは確認できず。他の投稿はスニペットが取得できなかった。",
@@ -2746,15 +2746,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -4101,6 +4101,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "[한영자막] AI 에이전트를 위한 문서 컨텍스트 레이어 구축하는 법 — Jerry Liu, LlamaIndex",
+    "u": "https://www.youtube.com/watch?v=S-bRN-avZ4Q",
+    "s": "yt",
+    "o": "Tech Bridge"
+   },
+   {
     "d": "2026-09-23",
     "t": "Building the Document Context Layer for AI Agents — Jerry Liu, LlamaIndex",
     "u": "https://www.youtube.com/watch?v=RQi7x-navxU",
@@ -4113,13 +4120,6 @@
     "u": "https://www.youtube.com/watch?v=QR_yEI8mNGo",
     "s": "yt",
     "o": "Composio"
-   },
-   {
-    "d": "2026-08-05",
-    "t": "LlamaIndex Document Infrastructure for AI Agents - Jerry Liu, Co Founder and CEO at #AI4",
-    "u": "https://www.youtube.com/watch?v=Bk2J0KV4DPY",
-    "s": "yt",
-    "o": "Eli the Computer Guy"
    }
   ],
   "note": "llamaindex.ai/blog は著者表記が確認できずX投稿のみ採用。",
