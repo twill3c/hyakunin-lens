@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T12:59:40Z",
- "ok": 17,
- "fail": 4,
+ "generated_at": "2026-09-30T22:36:46Z",
+ "ok": 18,
+ "fail": 3,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -136,9 +136,8 @@
    "n": "Yohei Nakajima",
    "s": "blog",
    "feed": "https://yoheinakajima.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "URLError: <urlopen error timed out>"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "Yoshua Bengio",
