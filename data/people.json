@@ -268,6 +268,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-29",
+    "t": "Crudas verdades de la inteligencia artificial según el padre de la IA, Jürgen Schmidhuber",
+    "u": "https://www.youtube.com/watch?v=aauintNTCls",
+    "s": "yt",
+    "o": "Educa Tips Canal"
+   },
+   {
     "d": "2026-09-08",
     "t": "The GOAT of AI | Jürgen Schmidhuber | Europe on Edge #5",
     "u": "https://www.youtube.com/watch?v=zrMeM0yp05A",
@@ -280,13 +287,6 @@
     "u": "https://www.youtube.com/watch?v=U8iFBfaZYiw",
     "s": "yt",
     "o": "AI4I & IAS – Institute for Advanced Study"
-   },
-   {
-    "d": "2026-07-23",
-    "t": "#73 Joachim Nareike sucht das Gespräch mit Jürgen Schmidhuber - FONDS professionell PODCAST",
-    "u": "https://www.youtube.com/watch?v=HoHtQx0dIns",
-    "s": "yt",
-    "o": "FONDS professionell"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -400,25 +400,25 @@
   ],
   "yt": [
    {
-    "d": "2026-09-18",
-    "t": "23 Minutes of Michael Jordan's BRILLIANCE 🐐",
-    "u": "https://www.youtube.com/watch?v=EgTiFXGegMo",
+    "d": "2026-09-26",
+    "t": "MJ HATER Gets HUMBLED Watching Michael Jordan BEST Dunks..",
+    "u": "https://www.youtube.com/watch?v=Vlkwhdij9As",
     "s": "yt",
-    "o": "MaxaMillion711"
+    "o": "Daily CT"
    },
    {
-    "d": "2026-09-05",
-    "t": "The GOAT: The Most In-Depth Look At Michael Jordan's GREATNESS",
-    "u": "https://www.youtube.com/watch?v=Psqh-9mjGl4",
+    "d": "2026-09-24",
+    "t": "Cómo Michael Jordan se convirtió en el mejor de la historia",
+    "u": "https://www.youtube.com/watch?v=7OpEBQY4NJ4",
     "s": "yt",
-    "o": "Basketball Universe"
+    "o": "Tou Moreno"
    },
    {
-    "d": "2026-09-02",
-    "t": "2 Hours of Breaking Down Michael Jordan's Greatness",
-    "u": "https://www.youtube.com/watch?v=1la9ElFjM6A",
+    "d": "2026-09-23",
+    "t": "What Are Raw Michael Jordan Cards Worth? Recent Sales & Price Ranges",
+    "u": "https://www.youtube.com/watch?v=fIMwFmXPHvU",
     "s": "yt",
-    "o": "Jonny Arnett"
+    "o": "MJ Vault"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "Andrew Ng just dropped the best 2-hour course on Graph Engineering",
+    "u": "https://www.youtube.com/watch?v=pj341YTkh48",
+    "s": "yt",
+    "o": "Ai insider"
+   },
+   {
     "d": "2026-09-23",
     "t": "Andrew Ng, learn AI scratch to top. 1 hour course. Free:",
     "u": "https://www.youtube.com/watch?v=cGh6-RtVWCE",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=m7VlI2tUJWg",
     "s": "yt",
     "o": "DigitalFoundry"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Andrew Ng 1-hour course on full agent engineering with Claude Code ans Codex from scratch",
-    "u": "https://www.youtube.com/watch?v=ooPeB_vlywg",
-    "s": "yt",
-    "o": "Codila | AI - Researcher & Coder"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -981,6 +981,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-29",
+    "t": "Jared Kaplan Anthropic Hubspot 2023 keynote",
+    "u": "https://www.youtube.com/watch?v=Vp6ocPlYsKY",
+    "s": "yt",
+    "o": "CONTEXT🎸🤖JAMMING"
+   },
+   {
     "d": "2026-05-26",
     "t": "Why Indigo Technologies' Jared Kaplan Is Betting MedMal Is Ripe for Disruption | Claims Denied",
     "u": "https://www.youtube.com/watch?v=CqdVyP790R4",
@@ -993,13 +1000,6 @@
     "u": "https://www.youtube.com/watch?v=PO_rTvMsThE",
     "s": "yt",
     "o": "Insurance Nerds"
-   },
-   {
-    "d": "不明",
-    "t": "Are we ready for human-level AI by 2030? Anthropic's co-founder answers",
-    "u": "https://www.youtube.com/watch?v=tC_3KAyli4U",
-    "s": "yt",
-    "o": "Azeem Azhar"
    }
   ],
   "note": "検索でヒットするのは第三者の引用・インタビューのみ。本人発信として確認できるものが0件。",
@@ -2674,7 +2674,7 @@
     "t": "Omar Khattab on Late Interaction in 2030",
     "u": "https://www.youtube.com/watch?v=Z2TmdcylyEc",
     "s": "yt",
-    "o": "cmpnd"
+    "o": "Cmpnd"
    },
    {
     "d": "不明",
@@ -5017,16 +5017,16 @@
    {
     "d": "2026-09-28",
     "t": "AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
-    "u": "https://www.youtube.com/watch?v=uD62Yn8j_Pg",
+    "u": "https://www.youtube.com/watch?v=-BKzNOIF6-4",
     "s": "yt",
-    "o": "Bloomberg Tech"
+    "o": "Bloomberg Podcasts"
    },
    {
     "d": "2026-09-28",
     "t": "AMD Acquires Fei-Fei Li’s World Labs for $8.2 Billion",
-    "u": "https://www.youtube.com/watch?v=-BKzNOIF6-4",
+    "u": "https://www.youtube.com/watch?v=uD62Yn8j_Pg",
     "s": "yt",
-    "o": "Bloomberg Podcasts"
+    "o": "Bloomberg Tech"
    },
    {
     "d": "2026-09-25",
