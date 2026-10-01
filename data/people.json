@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-30",
+    "t": "NYU Proffesor Yann LeCun Explains What Comes After LLMs",
+    "u": "https://www.youtube.com/watch?v=xVLz32EWmz0",
+    "s": "yt",
+    "o": "Perfology Clips"
+   },
+   {
     "d": "2026-09-12",
     "t": "AI 可能杀死所有人？Yann LeCun 有话说！",
     "u": "https://www.youtube.com/watch?v=m1sf791Hz6A",
@@ -203,13 +210,6 @@
     "d": "2026-08-16",
     "t": "Yann LeCun vs  the world | Why the \"godfather of AI\" bet $3.5 billion that LLMs are a dead end",
     "u": "https://www.youtube.com/watch?v=ox63ohs1NMg",
-    "s": "yt",
-    "o": "PodCast OscarAI"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "Yann LeCun contra el mundo| Por qué el \"padrino de la IA\" apostó $3.500 millones a que los LLM son u",
-    "u": "https://www.youtube.com/watch?v=-Co7x5TSpME",
     "s": "yt",
     "o": "PodCast OscarAI"
    }
@@ -3696,6 +3696,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-01",
+    "t": "AI Era Playbook for Developers (Guillermo Rauch in Klemen Selakovič) — RE:moat podkast 42",
+    "u": "https://www.youtube.com/watch?v=rni25K7TXgo",
+    "s": "yt",
+    "o": "Klemen Selakovic – AIDEA podkast"
+   },
+   {
     "d": "2026-09-03",
     "t": "Vercel CEO Guillermo Rauch 深度解析：AI時代的「遞迴創始人模式」與軟體開發未來",
     "u": "https://www.youtube.com/watch?v=5G7WjUBzWoQ",
@@ -3708,13 +3715,6 @@
     "u": "https://www.youtube.com/watch?v=DdbCtAScTsk",
     "s": "yt",
     "o": "Knuckle Up with Nakul"
-   },
-   {
-    "d": "2026-08-14",
-    "t": "Vercel CEO Guillermo Rauch：揭秘 AI 代理人革命與企業級 EVE 框架",
-    "u": "https://www.youtube.com/watch?v=cUO5hZi7OtU",
-    "s": "yt",
-    "o": "PP科技筆記 Podcast"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -4101,6 +4101,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-30",
+    "t": "Lukas Biewald & Jerry Liu | CoreWeave Fully Connected 2026",
+    "u": "https://www.youtube.com/watch?v=hDtRB8y5NKM",
+    "s": "yt",
+    "o": "SiliconANGLE theCUBE"
+   },
+   {
     "d": "2026-09-28",
     "t": "[한영자막] AI 에이전트를 위한 문서 컨텍스트 레이어 구축하는 법 — Jerry Liu, LlamaIndex",
     "u": "https://www.youtube.com/watch?v=S-bRN-avZ4Q",
@@ -4113,13 +4120,6 @@
     "u": "https://www.youtube.com/watch?v=RQi7x-navxU",
     "s": "yt",
     "o": "AI Engineer"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "He's Building the Document Layer for AI Agents | Jerry Liu, LlamaIndex",
-    "u": "https://www.youtube.com/watch?v=QR_yEI8mNGo",
-    "s": "yt",
-    "o": "Composio"
    }
   ],
   "note": "llamaindex.ai/blog は著者表記が確認できずX投稿のみ採用。",
@@ -6104,25 +6104,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-01",
+    "t": "\"They're Not Superintelligent\": Timnit Gebru Discredits Big Tech's AI Claims",
+    "u": "https://www.youtube.com/watch?v=XqxbWdJ51K0",
+    "s": "yt",
+    "o": "Democracy Now!"
+   },
+   {
+    "d": "2026-09-30",
+    "t": "Press Conference with 2026 Right Livelihood Laureate Timnit Gebru",
+    "u": "https://www.youtube.com/watch?v=lB57Pg84wEc",
+    "s": "yt",
+    "o": "Right Livelihood"
+   },
+   {
     "d": "2026-09-18",
     "t": "Is AI Really Going to Kill Us? Timnit Gebru Explains | Vibe Check",
     "u": "https://www.youtube.com/watch?v=-7uSdNdMsEw",
     "s": "yt",
     "o": "Vibe Check"
-   },
-   {
-    "d": "不明",
-    "t": "「Deep Unlearning」: AIの誇大宣伝、倫理、アルゴリズムによる人種バイアス",
-    "u": "https://www.youtube.com/watch?v=aCB-NQtsKrs",
-    "s": "yt",
-    "o": "Democracy Now!"
-   },
-   {
-    "d": "不明",
-    "t": "In Conversation with Timnit Gebru and Melissa Chan",
-    "u": "https://www.youtube.com/watch?v=gRFaow12xo0",
-    "s": "yt",
-    "o": "Access Now"
    }
   ],
   "note": "DAIRブログで本人名義の投稿を特定できず。Substackは404、X/LinkedInは取得不可。0件。",
