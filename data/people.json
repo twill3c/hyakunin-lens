@@ -3983,7 +3983,13 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-09-30",
+    "d": "2026-10-01",
+    "t": "How to Build a Model Router in the Harness",
+    "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-01",
     "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
     "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
     "s": "blog"
@@ -3992,12 +3998,6 @@
     "d": "2026-09-29",
     "t": "Jev is now available in LangSmith Evals",
     "u": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "Building Production Agents with Jev and LangGraph",
-    "u": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
     "s": "blog"
    }
   ],
