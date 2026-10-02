@@ -3983,7 +3983,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-10-01",
+    "d": "2026-10-02",
     "t": "How to Build a Model Router in the Harness",
     "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
     "s": "blog"
@@ -5709,6 +5709,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-02",
+    "t": "The latest AI news we announced in September 2026",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-01",
     "t": "Our Project Suncatcher prototype satellite is in orbit.",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
@@ -5718,12 +5724,6 @@
     "d": "2026-10-01",
     "t": "Turn your existing social assets into high-impact YouTube ads.",
     "u": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "Guided Vision in Gemini Live: built for accessibility",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
     "s": "blog"
    }
   ],
