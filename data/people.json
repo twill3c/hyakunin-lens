@@ -5710,6 +5710,12 @@
   "own": [
    {
     "d": "2026-10-01",
+    "t": "Our Project Suncatcher prototype satellite is in orbit.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-01",
     "t": "Turn your existing social assets into high-impact YouTube ads.",
     "u": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
     "s": "blog"
@@ -5718,12 +5724,6 @@
     "d": "2026-10-01",
     "t": "Guided Vision in Gemini Live: built for accessibility",
     "u": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
-    "u": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
     "s": "blog"
    }
   ],
