@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-03",
+    "t": "We're going to need default hard budget caps on pretty much everything",
+    "u": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-03",
+    "t": "September sponsors-only newsletter",
+    "u": "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-02",
     "t": "Rex's Dino Store",
     "u": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "Quoting Matthew Green",
-    "u": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-30",
-    "t": "He Built This City",
-    "u": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
     "s": "blog"
    }
   ],
