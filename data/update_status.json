@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T18:36:21Z",
- "ok": 18,
- "fail": 3,
+ "generated_at": "2026-10-06T22:47:24Z",
+ "ok": 17,
+ "fail": 4,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -51,8 +51,9 @@
    "n": "Joseph E. Gonzalez",
    "s": "blog",
    "feed": "https://people.eecs.berkeley.edu/~jegonzal/rss",
-   "ok": true,
-   "count": 1
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "n": "Lilian Weng",

@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-10-06",
-    "t": "Scrimshaw Jukebox",
-    "u": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+    "t": "llm-mistral 0.16",
+    "u": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
     "s": "blog"
    },
    {
-    "d": "2026-10-05",
-    "t": "Quoting Felix Rieseberg",
-    "u": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "d": "2026-10-06",
+    "t": "EmbeddingGemma 2",
+    "u": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
     "s": "blog"
    },
    {
-    "d": "2026-10-04",
-    "t": "Qwen3.8 27B addition in words",
-    "u": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "d": "2026-10-06",
+    "t": "Introducing Mistral Large 4: Le chonk",
+    "u": "https://simonwillison.net/2026/Oct/6/le-chonk/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-05",
-    "t": "I use technology to give students a voice and become critical digital citizens.",
-    "u": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
+    "d": "2026-10-06",
+    "t": "Producers can now vibe code their own music production tools using Google Flow Music.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
     "s": "blog"
    },
    {
-    "d": "2026-10-05",
-    "t": "Technology helps my students balance big creative ideas with tight deadlines.",
-    "u": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+    "d": "2026-10-06",
+    "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
     "s": "blog"
    },
    {
-    "d": "2026-10-05",
-    "t": "Here’s how I use technology to bring science to life in my classroom.",
-    "u": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
+    "d": "2026-10-06",
+    "t": "Making global public health more proactive with Google Earth AI",
+    "u": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
     "s": "blog"
    }
   ],
