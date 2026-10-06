@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-06",
+    "t": "Scrimshaw Jukebox",
+    "u": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-05",
     "t": "Quoting Felix Rieseberg",
     "u": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
@@ -4491,12 +4497,6 @@
     "d": "2026-10-04",
     "t": "Qwen3.8 27B addition in words",
     "u": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-03",
-    "t": "We're going to need default hard budget caps on pretty much everything",
-    "u": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
     "s": "blog"
    }
   ],
