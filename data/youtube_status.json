@@ -16,12 +16,12 @@
   {
    "n": "Michael I. Jordan",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "n": "Andrew Ng",
    "ok": true,
-   "count": 21
+   "count": 19
   },
   {
    "n": "Koray Kavukcuoglu",
@@ -51,7 +51,7 @@
   {
    "n": "Mustafa Suleyman",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "n": "Ashish Vaswani",
@@ -101,7 +101,7 @@
   {
    "n": "Omar Khattab",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "n": "Graham Neubig",
@@ -166,7 +166,7 @@
   {
    "n": "Thomas Wolf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "n": "Magnus Müller",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "n": "Sara Hooker",
@@ -241,7 +241,7 @@
   {
    "n": "David Ha",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "n": "岡野原大輔",
@@ -254,5 +254,5 @@
    "count": 5
   }
  ],
- "generated_at": "2026-10-06T00:45:45Z"
+ "generated_at": "2026-10-06T22:59:14Z"
 }
