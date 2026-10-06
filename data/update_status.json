@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T00:19:23Z",
+ "generated_at": "2026-10-06T06:50:37Z",
  "ok": 18,
  "fail": 3,
  "sources": [
@@ -45,7 +45,7 @@
    "s": "blog",
    "feed": "https://www.jasonwei.net/blog?format=rss",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "n": "Joseph E. Gonzalez",

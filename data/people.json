@@ -1813,6 +1813,12 @@
   "bio": "Chain-of-Thoughtプロンプティングと「創発的能力」という2つの論文で、LLMの推論に関する議論の枠組みを作った。OpenAIで推論モデルの研究に携わる。個人ブログの短いエッセイは研究者コミュニティで広く読まれ、検証の非対称性など実務的な概念を提供している。",
   "own": [
    {
+    "d": "2026-10-06",
+    "t": "The Best Three Hours in San Francisco",
+    "u": "https://www.jasonwei.net/blog/the-best-three-hours-in-san-francisco",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-20",
     "t": "Cognitive reward shapes in sports and career",
     "u": "https://www.jasonwei.net/blog/cognitive-reward-shapes-in-sports-and-career",
@@ -1822,12 +1828,6 @@
     "d": "2026-08-16",
     "t": "What's left for humans?",
     "u": "https://www.jasonwei.net/blog/whats-left-for-humans",
-    "s": "blog"
-   },
-   {
-    "d": "2025-07-16",
-    "t": "Life lessons from reinforcement learning",
-    "u": "https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-10-05",
-    "t": "Wheels up: Trends and tips for 2026 holiday travel",
-    "u": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
+    "t": "I use technology to give students a voice and become critical digital citizens.",
+    "u": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
     "s": "blog"
    },
    {
     "d": "2026-10-05",
-    "t": "Making AI training available to UK and Ireland educators",
-    "u": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
+    "t": "Technology helps my students balance big creative ideas with tight deadlines.",
+    "u": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
     "s": "blog"
    },
    {
-    "d": "2026-10-02",
-    "t": "The latest AI news we announced in September 2026",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "d": "2026-10-05",
+    "t": "Here’s how I use technology to bring science to life in my classroom.",
+    "u": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
     "s": "blog"
    }
   ],
