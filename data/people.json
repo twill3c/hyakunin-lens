@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-10-06",
-    "t": "llm-mistral 0.16",
-    "u": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+    "d": "2026-10-07",
+    "t": "Quoting Jake Boggan",
+    "u": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-07",
+    "t": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "u": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
     "s": "blog"
    },
    {
     "d": "2026-10-06",
-    "t": "EmbeddingGemma 2",
-    "u": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "Introducing Mistral Large 4: Le chonk",
-    "u": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+    "t": "Quoting Victoria Kim",
+    "u": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
     "s": "blog"
    }
   ],
@@ -5710,6 +5710,12 @@
   "own": [
    {
     "d": "2026-10-06",
+    "t": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-06",
     "t": "Producers can now vibe code their own music production tools using Google Flow Music.",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
     "s": "blog"
@@ -5718,12 +5724,6 @@
     "d": "2026-10-06",
     "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "Making global public health more proactive with Google Earth AI",
-    "u": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
     "s": "blog"
    }
   ],
