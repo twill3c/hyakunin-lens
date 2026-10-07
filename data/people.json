@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-06",
+    "t": "Geoffrey Hinton Explains AI & Beetles",
+    "u": "https://www.youtube.com/watch?v=Vm-E1kgHXig",
+    "s": "yt",
+    "o": "Nayeema Raza"
+   },
+   {
     "d": "2026-09-23",
     "t": "LIVE: Geoffrey Hinton’s AI Warning | ‘10% Risk’ Of Human Extinction Within A Decade | N18G",
     "u": "https://www.youtube.com/watch?v=607QRxREiBI",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=8xaAzx0vnl8",
     "s": "yt",
     "o": "NDTV"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-    "u": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
-    "s": "yt",
-    "o": "freeCodeCamp.org"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -193,25 +193,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "Become Yann LeCun in 27 Minutes — His AI Ideas From Scratch",
+    "u": "https://www.youtube.com/watch?v=yY6lRbo_sqI",
+    "s": "yt",
+    "o": "Vuk Rosić"
+   },
+   {
+    "d": "2026-10-06",
+    "t": "Yann LeCun's Warned Us About LLMs, But Nobody Listened",
+    "u": "https://www.youtube.com/watch?v=6m7pmFdRJvI",
+    "s": "yt",
+    "o": "Tech Meets East"
+   },
+   {
     "d": "2026-09-30",
     "t": "NYU Proffesor Yann LeCun Explains What Comes After LLMs",
     "u": "https://www.youtube.com/watch?v=xVLz32EWmz0",
     "s": "yt",
     "o": "Perfology Clips"
-   },
-   {
-    "d": "2026-09-12",
-    "t": "AI 可能杀死所有人？Yann LeCun 有话说！",
-    "u": "https://www.youtube.com/watch?v=m1sf791Hz6A",
-    "s": "yt",
-    "o": "wow"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "Yann LeCun vs  the world | Why the \"godfather of AI\" bet $3.5 billion that LLMs are a dead end",
-    "u": "https://www.youtube.com/watch?v=ox63ohs1NMg",
-    "s": "yt",
-    "o": "PodCast OscarAI"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -338,17 +338,17 @@
   "yt": [
    {
     "d": "2026-09-28",
+    "t": "The Giant of More - Richard Sutton - 9/27/2026",
+    "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
+    "s": "yt",
+    "o": "Linder Road Church of Christ"
+   },
+   {
+    "d": "2026-09-28",
     "t": "机器人为什么要上“幼儿园”？｜对话图灵奖得主 Richard Sutton：Why Do Robots Need “Kindergarten”?",
     "u": "https://www.youtube.com/watch?v=CjGFcL2Qjxk",
     "s": "yt",
     "o": "福爸说人形机器人"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "Sunday Morning Worship - Richard Sutton - 9/27/2026",
-    "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
-    "s": "yt",
-    "o": "Linder Road Church of Christ"
    },
    {
     "d": "2026-09-20",
@@ -1713,25 +1713,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-06",
+    "t": "How Andrej Karpathy uses LLMs: complete example-driven, practical walkthrough",
+    "u": "https://www.youtube.com/watch?v=d-0-6VBkMhw",
+    "s": "yt",
+    "o": "The AI Snack"
+   },
+   {
+    "d": "2026-10-05",
+    "t": "Andrej Karpathy Explains How He Actually Uses AI (Full Lecture)",
+    "u": "https://www.youtube.com/watch?v=PDbQl4AGDNU",
+    "s": "yt",
+    "o": "Hamza Ahmed Sheikh"
+   },
+   {
     "d": "2026-09-26",
     "t": "Andrej Karpathy",
     "u": "https://www.youtube.com/watch?v=I2H04AyRe4c",
     "s": "yt",
     "o": "Kwan Hee Yoo"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "Andrej Karpathy: The Future of AI Is a Graph",
-    "u": "https://www.youtube.com/watch?v=Rlk0GLRWwTI",
-    "s": "yt",
-    "o": "Perfology Clips"
-   },
-   {
-    "d": "2026-09-05",
-    "t": "how to stop babysitting agents and only approve the last step- Andrej Karpathy baby sit to do",
-    "u": "https://www.youtube.com/watch?v=dWzt2d25ldk",
-    "s": "yt",
-    "o": "DigitalFoundry"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2888,6 +2888,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-06",
+    "t": "Boris Cherny on Anthropic & Claude Code | Computer History Museum",
+    "u": "https://www.youtube.com/watch?v=6AemxX9k0eU",
+    "s": "yt",
+    "o": "AgentGlass, Inc."
+   },
+   {
     "d": "2026-09-26",
     "t": "CHM Live | Anthropic's Boris Cherny, Creator of Claude Code",
     "u": "https://www.youtube.com/watch?v=djDt8J2_YVs",
@@ -2900,13 +2907,6 @@
     "u": "https://www.youtube.com/watch?v=9wr9HLraTbc",
     "s": "yt",
     "o": "Computer History Museum"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "Boris Cherny - the man who built Claude Code - explains how to create Agents, Loops, and Graphs. ",
-    "u": "https://www.youtube.com/watch?v=CQWdcf5xP-8",
-    "s": "yt",
-    "o": "Batavus"
    }
   ],
   "note": "本人名義のブログ記事は確認できず、X投稿のみ。",
@@ -3181,6 +3181,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-04",
+    "t": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
+    "u": "https://www.youtube.com/watch?v=cvmgnpxr-Lk",
+    "s": "yt",
+    "o": "David Senra"
+   },
+   {
     "d": "2026-09-09",
     "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
     "u": "https://www.youtube.com/watch?v=dRPT515zdG8",
@@ -3193,13 +3200,6 @@
     "u": "https://www.youtube.com/watch?v=2_u9L8eUq5s",
     "s": "yt",
     "o": "TBPN"
-   },
-   {
-    "d": "2026-08-23",
-    "t": "Cognition CEO Scott Wu：Devin、AI軟體工程師與AGI的未來",
-    "u": "https://www.youtube.com/watch?v=sYSB42VIadY",
-    "s": "yt",
-    "o": "PP科技筆記 Podcast"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -3552,6 +3552,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-04",
+    "t": "Replit CEO Amjad Masad On AI Doom, Software and Vibe-Coding | The Interview",
+    "u": "https://www.youtube.com/watch?v=b-gkp4iiR00",
+    "s": "yt",
+    "o": "The Times Tech Podcast"
+   },
+   {
     "d": "2026-09-24",
     "t": "Replit创始人Amjad Masad：人工智能时代年轻人该学什么",
     "u": "https://www.youtube.com/watch?v=h5VHJm-dfJ8",
@@ -3564,13 +3571,6 @@
     "u": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
     "s": "yt",
     "o": "a16z"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "Amjad Masad, Founder of Replit | Keynote Session | T4P Bay Area Summit 2026",
-    "u": "https://www.youtube.com/watch?v=8E1TE-vd9hE",
-    "s": "yt",
-    "o": "Tech For Palestine"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -5328,6 +5328,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-05",
+    "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
+    "u": "https://www.youtube.com/watch?v=AX1VsGYt1u4",
+    "s": "yt",
+    "o": "ICONIQ"
+   },
+   {
     "d": "2026-09-24",
     "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
     "u": "https://www.youtube.com/watch?v=fBe0POLId0s",
@@ -5340,13 +5347,6 @@
     "u": "https://www.youtube.com/watch?v=qexxkb1M1mE",
     "s": "yt",
     "o": "SparX by Mukesh Bansal"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "Sergey Levine: Humanoid Robotics Results, Chinese Labs & Future Timelines",
-    "u": "https://www.youtube.com/watch?v=9OSbaPjv0Rc",
-    "s": "yt",
-    "o": "Ryan Peterman"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
@@ -5863,6 +5863,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-05",
+    "t": "【极致中配】斯坦福大学 CS224N 深度学习自然语言处理 | Spring 2024 | 20. Model Interpretability & Editing, Been Kim（重制版）",
+    "u": "https://www.youtube.com/watch?v=9dUsvd2fdWs",
+    "s": "yt",
+    "o": "常青藤名校课"
+   },
+   {
     "d": "2026-09-16",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=J9KbOju_w3g",
@@ -5873,13 +5880,6 @@
     "d": "2026-09-15",
     "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
     "u": "https://www.youtube.com/watch?v=18NYfU4wI1E",
-    "s": "yt",
-    "o": "김빈의폴리띵스 Polithings by Been Kim"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "김빈의폴리띵스 Polithings by Been Kim 라이브 스트리밍 중",
-    "u": "https://www.youtube.com/watch?v=S75IkHn3ywo",
     "s": "yt",
     "o": "김빈의폴리띵스 Polithings by Been Kim"
    }
