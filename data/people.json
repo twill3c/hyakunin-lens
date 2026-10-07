@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-07",
+    "t": "Revamping Skills in Deep Agents",
+    "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-07",
+    "t": "What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions",
+    "u": "https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-02",
     "t": "How to Build a Model Router in the Harness",
     "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "u": "https://www.langchain.com/blog/building-a-harness-with-jev",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-29",
-    "t": "Jev is now available in LangSmith Evals",
-    "u": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
     "s": "blog"
    }
   ],
@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-10-07",
-    "t": "Quoting Jake Boggan",
-    "u": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+    "t": "Quoting Ben Affleck",
+    "u": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
     "s": "blog"
    },
    {
     "d": "2026-10-07",
-    "t": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "u": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+    "t": "Claude Haiku 5.5",
+    "u": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
     "s": "blog"
    },
    {
-    "d": "2026-10-06",
-    "t": "Quoting Victoria Kim",
-    "u": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+    "d": "2026-10-07",
+    "t": "Anti-Patterns in Software Blogging",
+    "u": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
     "s": "blog"
    }
   ],
@@ -5709,15 +5709,15 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-06",
-    "t": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+    "d": "2026-10-07",
+    "t": "Introducing Playground: Create and play custom games",
+    "u": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "s": "blog"
    },
    {
     "d": "2026-10-06",
-    "t": "Producers can now vibe code their own music production tools using Google Flow Music.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+    "t": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
     "s": "blog"
    },
    {
