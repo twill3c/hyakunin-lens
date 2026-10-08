@@ -3983,21 +3983,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-08",
+    "t": "Introducing LangSmith Fine-Tuning",
+    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-08",
+    "t": "Managed Deep Agents delivers a better user experience for agents in production",
+    "u": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-07",
     "t": "Revamping Skills in Deep Agents",
     "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions",
-    "u": "https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-02",
-    "t": "How to Build a Model Router in the Harness",
-    "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-08",
+    "t": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-07",
+    "t": "We're making it easier to identify AI-generated content globally.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-07",
     "t": "Introducing Playground: Create and play custom games",
     "u": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
     "s": "blog"
    }
   ],
