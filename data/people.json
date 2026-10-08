@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-02",
+    "t": "What Does NBA Legends ACTUALLY Think of Michael Jordan?",
+    "u": "https://www.youtube.com/watch?v=LD0NayY-YgE",
+    "s": "yt",
+    "o": "dime"
+   },
+   {
     "d": "2026-10-01",
     "t": "Michael Jordan PSA 8 Card Sales by Year | What Sold Sept 20–26, 2026",
     "u": "https://www.youtube.com/watch?v=XSEjgdeVthk",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=H_4xiKo1CL0",
     "s": "yt",
     "o": "ICookedUp"
-   },
-   {
-    "d": "2026-09-27",
-    "t": "Michael Jordan Price Guide, Edition 10 📈 PSA & BGS Price Movements | September 20 26, 2026",
-    "u": "https://www.youtube.com/watch?v=j5iks_Bygi0",
-    "s": "yt",
-    "o": "MJ Vault"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development",
+    "u": "https://www.youtube.com/watch?v=WmgPAOIhrko",
+    "s": "yt",
+    "o": "Stanford Graduate School of Business"
+   },
+   {
     "d": "2026-10-04",
     "t": "Andrew Ng (google brain founder @ Standford) Prompt Engineering ends 6 month.Move to Agent Harnesses",
     "u": "https://www.youtube.com/watch?v=Jkb56wnaU1M",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=qXfdVoqVTFs",
     "s": "yt",
     "o": "hyperfixation on AI | beamnxw"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "Andrew Ng just dropped the best 2-hour course on Graph Engineering",
-    "u": "https://www.youtube.com/watch?v=pj341YTkh48",
-    "s": "yt",
-    "o": "Ai insider"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1134,7 +1134,7 @@
    {
     "d": "2026-08-31",
     "t": "A Day in the Polis - s260913e17 - Solitude — Ilya Sutskever [Sol · matchmaking]",
-    "u": "https://www.youtube.com/watch?v=nv2ufcBZf9U",
+    "u": "https://www.youtube.com/watch?v=bX3ObOHD2BE",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -2813,6 +2813,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "Teaching AI at AI Speed | Graham Neubig, CMU & OpenHands",
+    "u": "https://www.youtube.com/watch?v=rnCBQczBCSA",
+    "s": "yt",
+    "o": "SOTA TV"
+   },
+   {
     "d": "2026-07-23",
     "t": "NEC Talks: Can AI Assess Scientific Research? – Prof. Dr. Graham Neubig",
     "u": "https://www.youtube.com/watch?v=-l2ufFjW5BA",
@@ -2825,13 +2832,6 @@
     "u": "https://www.youtube.com/watch?v=eSJexCW-43Y",
     "s": "yt",
     "o": "AI Agent Frontier"
-   },
-   {
-    "d": "不明",
-    "t": "Best of 2024 in Agents (from #1 on SWE-Bench Full)",
-    "u": "https://www.youtube.com/watch?v=B6PKVZq2qqo",
-    "s": "yt",
-    "o": "Latent Space"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -3771,6 +3771,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-08",
+    "t": "Bret Taylor on applied AI, tokens, renting intelligence and owning the context",
+    "u": "https://www.youtube.com/watch?v=YKB69rWPnvM",
+    "s": "yt",
+    "o": "ICONIQ"
+   },
+   {
     "d": "2026-09-24",
     "t": "OpenAI Chair Bret Taylor: Superintelligence Is Coming",
     "u": "https://www.youtube.com/watch?v=Idb6s66kK_c",
@@ -3783,13 +3790,6 @@
     "u": "https://www.youtube.com/watch?v=lGiNuifvaHA",
     "s": "yt",
     "o": "FrancoBuilt"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "Worthy Podcast | Ep.6: AI and Reinventing Healthcare with Bret Taylor",
-    "u": "https://www.youtube.com/watch?v=tBDSGp4f7Bk",
-    "s": "yt",
-    "o": "Worthy"
    }
   ],
   "note": "Sierra公式の本人名義記事は確認できず。日付はいずれも未確認。",
@@ -4190,11 +4190,11 @@
     "o": "PodEduca Evolução"
    },
    {
-    "d": "2026-08-03",
-    "t": "Vida de Casado: o que muda depois do casamento? | Marina Campello e João Moura",
-    "u": "https://www.youtube.com/watch?v=O4UtemZs3CA",
+    "d": "2026-08-05",
+    "t": "How Fraud Networks Hide in Plain Sight  And How to Stop Them | João Moura, Founder & CEO at Fraudio",
+    "u": "https://www.youtube.com/watch?v=ge3EXtXGil4",
     "s": "yt",
-    "o": "iCasei"
+    "o": "Monica Millares "
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -4750,6 +4750,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "Ion Stoica | Keynote: Reality Is the Final Verifier: Two Gaps in Agentic Software Engineering",
+    "u": "https://www.youtube.com/watch?v=WfxMx1WgerM",
+    "s": "yt",
+    "o": "The AI Conference™"
+   },
+   {
     "d": "2026-09-17",
     "t": "Reward Hacking and the Gaps in Agentic AI | Ion Stoica (Anyscale) | Ray Summit 2026",
     "u": "https://www.youtube.com/watch?v=hATMyrrdLWY",
@@ -4762,13 +4769,6 @@
     "u": "https://www.youtube.com/watch?v=vuDurF3b_ds",
     "s": "yt",
     "o": "Berkeley RDI"
-   },
-   {
-    "d": "2026-07-22",
-    "t": "Opening Fireside: Ramin Hasani, Liquid AI & Ion Stoica, Arena | RAISE Summit 2026",
-    "u": "https://www.youtube.com/watch?v=mxFmC5-SFWc",
-    "s": "yt",
-    "o": "RAISE Summit"
    }
   ],
   "note": "本人名義の個人ブログは確認できず。",
@@ -5905,7 +5905,7 @@
   ],
   "yt": [
    {
-    "d": "2026-10-03",
+    "d": "2026-10-08",
     "t": "Stuart Russell | Stop Us Before We Kill Everyone on Earth",
     "u": "https://www.youtube.com/watch?v=ot_xLPW13cM",
     "s": "yt",
