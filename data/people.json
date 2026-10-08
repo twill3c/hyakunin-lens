@@ -76,6 +76,12 @@
   "own": [
    {
     "d": "2026-10-08",
+    "t": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "u": "https://yoshuabengio.org/en/blog/bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-05",
     "t": "The dangerous myth behind AI agent hacks",
     "u": "https://yoshuabengio.org/en/blog/dangerous-myth-behind-ai-agent-hacks",
     "s": "blog"
@@ -84,12 +90,6 @@
     "d": "2026-09-23",
     "t": "Professor Yoshua Bengio’s speech at the UN Security Council",
     "u": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Why are AI agents lying, cheating and coordinating?",
-    "u": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
     "s": "blog"
    }
   ],
@@ -3984,20 +3984,20 @@
   "own": [
    {
     "d": "2026-10-08",
-    "t": "Introducing LangSmith Fine-Tuning",
-    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
+    "t": "Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
     "s": "blog"
    },
    {
     "d": "2026-10-08",
-    "t": "Managed Deep Agents delivers a better user experience for agents in production",
-    "u": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "t": "Revamping Skills in Deep Agents",
+    "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
     "s": "blog"
    },
    {
-    "d": "2026-10-07",
-    "t": "Revamping Skills in Deep Agents",
-    "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
+    "d": "2026-10-08",
+    "t": "Introducing LangSmith Fine-Tuning",
+    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
     "s": "blog"
    }
   ],
@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-08",
+    "t": "Quoting Carson Gross",
+    "u": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-07",
     "t": "Quoting Ben Affleck",
     "u": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
@@ -4491,12 +4497,6 @@
     "d": "2026-10-07",
     "t": "Claude Haiku 5.5",
     "u": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "Anti-Patterns in Software Blogging",
-    "u": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-10-08",
-    "t": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
-    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+    "t": "Google Cloud introduces the Gemini agent.",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
     "s": "blog"
    },
    {
-    "d": "2026-10-07",
-    "t": "We're making it easier to identify AI-generated content globally.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+    "d": "2026-10-08",
+    "t": "3 ways Google Maps can help you navigate your next culinary adventure.",
+    "u": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
     "s": "blog"
    },
    {
-    "d": "2026-10-07",
-    "t": "Introducing Playground: Create and play custom games",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "d": "2026-10-08",
+    "t": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+    "u": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
     "s": "blog"
    }
   ],
