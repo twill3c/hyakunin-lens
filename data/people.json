@@ -3984,14 +3984,14 @@
   "own": [
    {
     "d": "2026-10-09",
-    "t": "How to Build a Model Router in the Harness",
-    "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "t": "How to build great out-of-the-box user experiences with Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
     "s": "blog"
    },
    {
     "d": "2026-10-09",
-    "t": "How to build great out-of-the-box user experiences with Managed Deep Agents",
-    "u": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+    "t": "How to Build a Model Router in the Harness",
+    "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
     "s": "blog"
    },
    {
@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-10-09",
+    "t": "Deno is joining Cloudflare",
+    "u": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-09",
     "t": "Quoting Matthew Green",
     "u": "https://simonwillison.net/2026/Oct/9/matthew-green/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-10-09",
     "t": "A new feature for my blog, built using my voice",
     "u": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "ttok 1.0",
-    "u": "https://simonwillison.net/2026/Oct/9/ttok/",
     "s": "blog"
    }
   ],
