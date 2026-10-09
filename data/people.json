@@ -3983,6 +3983,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-09",
+    "t": "How Snyk Turned an Internal Support Agent into a Customer Feature",
+    "u": "https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-08",
     "t": "Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents",
     "u": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
@@ -3992,12 +3998,6 @@
     "d": "2026-10-08",
     "t": "Revamping Skills in Deep Agents",
     "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Introducing LangSmith Fine-Tuning",
-    "u": "https://www.langchain.com/blog/langsmith-fine-tuning",
     "s": "blog"
    }
   ],
@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-09",
+    "t": "ttok 1.0",
+    "u": "https://simonwillison.net/2026/Oct/9/ttok/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-08",
+    "t": "ttok 0.4",
+    "u": "https://simonwillison.net/2026/Oct/8/ttok/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-08",
     "t": "Quoting Carson Gross",
     "u": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "Quoting Ben Affleck",
-    "u": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "Claude Haiku 5.5",
-    "u": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-10-08",
-    "t": "Google Cloud introduces the Gemini agent.",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+    "t": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+    "u": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
     "s": "blog"
    },
    {
     "d": "2026-10-08",
-    "t": "3 ways Google Maps can help you navigate your next culinary adventure.",
-    "u": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+    "t": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+    "u": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
     "s": "blog"
    },
    {
     "d": "2026-10-08",
-    "t": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
-    "u": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+    "t": "Sign in quickly and securely with passkeys.",
+    "u": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
     "s": "blog"
    }
   ],
@@ -6335,6 +6335,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-09",
+    "t": "医師向け検索ツール「Evidence Finder」にSakana Namazuを導入：日本仕様のAIを、医療の現場へ",
+    "u": "https://sakana.ai/namazu-aillis/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-08",
     "t": "研究、産業実装、プロダクトの最前線へ―Sakana AIニュースレター「Sakana AI Insider」―",
     "u": "https://sakana.ai/sakana-ai-insider/",
@@ -6344,12 +6350,6 @@
     "d": "2026-09-28",
     "t": "SAIL: Scaling In-Context Imitation Learning",
     "u": "https://sakana.ai/sail/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-25",
-    "t": "Sakana AI、「日本スタートアップ大賞2026」で総務大臣賞（情報通信分野）を受賞",
-    "u": "https://sakana.ai/japan-startup-award-2026/",
     "s": "blog"
    }
   ],
