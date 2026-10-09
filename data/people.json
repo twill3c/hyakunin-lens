@@ -3984,20 +3984,20 @@
   "own": [
    {
     "d": "2026-10-09",
+    "t": "How to Build a Model Router in the Harness",
+    "u": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-09",
+    "t": "How to build great out-of-the-box user experiences with Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-09",
     "t": "How Snyk Turned an Internal Support Agent into a Customer Feature",
     "u": "https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents",
-    "u": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Revamping Skills in Deep Agents",
-    "u": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
     "s": "blog"
    }
   ],
@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-10-09",
+    "t": "Quoting Matthew Green",
+    "u": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-09",
+    "t": "A new feature for my blog, built using my voice",
+    "u": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-09",
     "t": "ttok 1.0",
     "u": "https://simonwillison.net/2026/Oct/9/ttok/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "ttok 0.4",
-    "u": "https://simonwillison.net/2026/Oct/8/ttok/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Quoting Carson Gross",
-    "u": "https://simonwillison.net/2026/Oct/8/carson-gross/",
     "s": "blog"
    }
   ],
