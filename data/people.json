@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-08",
+    "t": "Opening keynote : Yann LeCun (Founder, AMI Labs  and Turing Award laureate)",
+    "u": "https://www.youtube.com/watch?v=awyjqG5KGcQ",
+    "s": "yt",
+    "o": "IA and Futur of Work"
+   },
+   {
     "d": "2026-10-07",
     "t": "Become Yann LeCun in 27 Minutes — His AI Ideas From Scratch",
     "u": "https://www.youtube.com/watch?v=yY6lRbo_sqI",
@@ -205,13 +212,6 @@
     "u": "https://www.youtube.com/watch?v=6m7pmFdRJvI",
     "s": "yt",
     "o": "Tech Meets East"
-   },
-   {
-    "d": "2026-09-30",
-    "t": "NYU Proffesor Yann LeCun Explains What Comes After LLMs",
-    "u": "https://www.youtube.com/watch?v=xVLz32EWmz0",
-    "s": "yt",
-    "o": "Perfology Clips"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -1605,17 +1605,17 @@
   "yt": [
    {
     "d": "2026-06-26",
-    "t": "Aidan Gomez Unfiltered on AGI, China & AI's Biggest Risk",
-    "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
-    "s": "yt",
-    "o": "Newcomer"
-   },
-   {
-    "d": "2026-06-26",
     "t": "Aidan Gomez (Cohere) at the Cerebral Valley AI Summit in London",
     "u": "https://www.youtube.com/watch?v=zFsB5VvrTD4",
     "s": "yt",
     "o": "Newcomer AI Summits"
+   },
+   {
+    "d": "2026-06-26",
+    "t": "Aidan Gomez Unfiltered on AGI, China & AI's Biggest Risk",
+    "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
+    "s": "yt",
+    "o": "Newcomer"
    },
    {
     "d": "2026-06-25",
@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "'You are using AI Wrong' - Andrej Karpathy Said What?",
+    "u": "https://www.youtube.com/watch?v=wR5X9MafDpM",
+    "s": "yt",
+    "o": "theBoringExecutive"
+   },
+   {
     "d": "2026-10-06",
     "t": "How Andrej Karpathy uses LLMs: complete example-driven, practical walkthrough",
     "u": "https://www.youtube.com/watch?v=d-0-6VBkMhw",
@@ -1725,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=PDbQl4AGDNU",
     "s": "yt",
     "o": "Hamza Ahmed Sheikh"
-   },
-   {
-    "d": "2026-09-26",
-    "t": "Andrej Karpathy",
-    "u": "https://www.youtube.com/watch?v=I2H04AyRe4c",
-    "s": "yt",
-    "o": "Kwan Hee Yoo"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2753,8 +2753,8 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
+    "t": "1st Spark: Matei Zaharia answers questions about Spark at the first Apache Spark meetup",
+    "u": "https://www.youtube.com/watch?v=owRgcgImrO8",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -4375,6 +4375,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-08",
+    "t": "From BabyAGI to ActiveGraph: Why Long-Running Agents Need Logs, State, and Proof with Yohei Nakajima",
+    "u": "https://www.youtube.com/watch?v=GZiQVAeuT0k",
+    "s": "yt",
+    "o": "Open Data Science and AI Conference"
+   },
+   {
     "d": "2026-04-20",
     "t": "Yohei Nakajima：AI時代的創投革命 | Untapped VC 的頂層投資策略與自動化應用",
     "u": "https://www.youtube.com/watch?v=2LXclhL3-v8",
@@ -4387,13 +4394,6 @@
     "u": "https://www.youtube.com/watch?v=9j6WPiJhvd0",
     "s": "yt",
     "o": "Logan Kilpatrick"
-   },
-   {
-    "d": "不明",
-    "t": "AI Agents, VC Insights on AI, and Building in Public",
-    "u": "https://www.youtube.com/watch?v=6DnnTD9d2bg",
-    "s": "yt",
-    "o": "Cognitive Revolution"
    }
   ],
   "note": "ブログ最新は2025-12-05。",
@@ -6104,6 +6104,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-08",
+    "t": "„Nie są superinteligentne”: Timnit Gebru obala głośne twierdzenia gigantów technologii na temat AI!",
+    "u": "https://www.youtube.com/watch?v=b-JtbR_E1Xg",
+    "s": "yt",
+    "o": "KRAINA ORŁA BIAŁEGO"
+   },
+   {
     "d": "2026-10-01",
     "t": "\"They're Not Superintelligent\": Timnit Gebru Discredits Big Tech's AI Claims",
     "u": "https://www.youtube.com/watch?v=XqxbWdJ51K0",
@@ -6116,13 +6123,6 @@
     "u": "https://www.youtube.com/watch?v=lB57Pg84wEc",
     "s": "yt",
     "o": "Right Livelihood"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Is AI Really Going to Kill Us? Timnit Gebru Explains | Vibe Check",
-    "u": "https://www.youtube.com/watch?v=-7uSdNdMsEw",
-    "s": "yt",
-    "o": "Vibe Check"
    }
   ],
   "note": "DAIRブログで本人名義の投稿を特定できず。Substackは404、X/LinkedInは取得不可。0件。",
