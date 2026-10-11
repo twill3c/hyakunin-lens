@@ -6335,6 +6335,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-12",
+    "t": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
+    "u": "https://sakana.ai/mass/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-09",
     "t": "医師向け検索ツール「Evidence Finder」にSakana Namazuを導入：日本仕様のAIを、医療の現場へ",
     "u": "https://sakana.ai/namazu-aillis/",
@@ -6344,12 +6350,6 @@
     "d": "2026-10-08",
     "t": "研究、産業実装、プロダクトの最前線へ―Sakana AIニュースレター「Sakana AI Insider」―",
     "u": "https://sakana.ai/sakana-ai-insider/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "SAIL: Scaling In-Context Imitation Learning",
-    "u": "https://sakana.ai/sail/",
     "s": "blog"
    }
   ],
