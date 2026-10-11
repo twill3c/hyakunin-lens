@@ -4482,21 +4482,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-11",
+    "t": "Dwarf Fortress uses version control now",
+    "u": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-10",
+    "t": "Python 3.15.0 added to actions/python-versions",
+    "u": "https://simonwillison.net/2026/Oct/10/python-actions/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-10",
     "t": "Quoting The New York Times",
     "u": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "Deno is joining Cloudflare",
-    "u": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "Quoting Matthew Green",
-    "u": "https://simonwillison.net/2026/Oct/9/matthew-green/",
     "s": "blog"
    }
   ],
