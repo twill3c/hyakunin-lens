@@ -16,7 +16,7 @@
   {
    "n": "Richard Sutton",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "n": "Judea Pearl",
@@ -26,7 +26,7 @@
   {
    "n": "Demis Hassabis",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "n": "Jeff Dean",
@@ -36,7 +36,7 @@
   {
    "n": "Dario Amodei",
    "ok": true,
-   "count": 23
+   "count": 17
   },
   {
    "n": "Chris Olah",
@@ -56,17 +56,17 @@
   {
    "n": "Noam Shazeer",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "n": "Aidan Gomez",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "n": "Andrej Karpathy",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "n": "Jason Wei",
@@ -141,7 +141,7 @@
   {
    "n": "Guillermo Rauch",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "n": "Isa Fulford",
@@ -231,7 +231,7 @@
   {
    "n": "Timnit Gebru",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "n": "Beth Barnes",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-10-11T22:49:47Z"
+ "generated_at": "2026-10-13T01:17:41Z"
 }
