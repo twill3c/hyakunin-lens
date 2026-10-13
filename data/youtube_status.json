@@ -6,7 +6,7 @@
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "n": "Yann LeCun",
@@ -26,7 +26,7 @@
   {
    "n": "Demis Hassabis",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "n": "Jeff Dean",
@@ -66,7 +66,7 @@
   {
    "n": "Andrej Karpathy",
    "ok": true,
-   "count": 22
+   "count": 24
   },
   {
    "n": "Jason Wei",
@@ -141,7 +141,7 @@
   {
    "n": "Guillermo Rauch",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "n": "Isa Fulford",
@@ -161,7 +161,7 @@
   {
    "n": "Chi Wang",
    "ok": true,
-   "count": 6
+   "count": 8
   },
   {
    "n": "Yohei Nakajima",
@@ -176,7 +176,7 @@
   {
    "n": "Tri Dao",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "n": "Woosuk Kwon",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-10-13T01:17:41Z"
+ "generated_at": "2026-10-13T23:15:20Z"
 }
