@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-13T14:33:45Z",
- "ok": 17,
- "fail": 4,
+ "generated_at": "2026-10-13T23:06:56Z",
+ "ok": 18,
+ "fail": 3,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -100,9 +100,8 @@
    "n": "Pushmeet Kohli",
    "s": "blog",
    "feed": "https://blog.google/authors/pushmeet-kohli/rss",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "Saoud Rizwan",

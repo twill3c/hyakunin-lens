@@ -2302,7 +2302,7 @@
   "own": [
    {
     "d": "2026-10-13",
-    "t": "The Era Of Human Level Ai Is Over",
+    "t": "The Era of Human-level AI is Over (in some sub-domains)",
     "u": "https://ofir.io/The-Era-of-Human-level-AI-is-Over/",
     "s": "blog"
    },
@@ -3984,20 +3984,20 @@
   "own": [
    {
     "d": "2026-10-13",
-    "t": "Search agent traces by behavior with AI Search in LangSmith",
-    "u": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+    "t": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
+    "u": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
     "s": "blog"
    },
    {
     "d": "2026-10-13",
-    "t": "Building Long-Running Agents with ScaleDown and Deep Agents",
-    "u": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+    "t": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
+    "u": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
     "s": "blog"
    },
    {
-    "d": "2026-10-09",
-    "t": "How to build great out-of-the-box user experiences with Managed Deep Agents",
-    "u": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+    "d": "2026-10-13",
+    "t": "How We Made Our Docs Test Themselves",
+    "u": "https://www.langchain.com/blog/our-docs-test-themselves",
     "s": "blog"
    }
   ],
@@ -4483,20 +4483,20 @@
   "own": [
    {
     "d": "2026-10-13",
+    "t": "Redesigning source control at Anthropic",
+    "u": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-13",
     "t": "Quoting Geoffrey Huntley",
     "u": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
     "s": "blog"
    },
    {
     "d": "2026-10-12",
-    "t": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-    "u": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "web-edit 0.1a0",
-    "u": "https://simonwillison.net/2026/Oct/12/web-edit/",
+    "t": "llm-meta-ai 0.2",
+    "u": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-12",
-    "t": "Applying technology to understand and treat disease",
-    "u": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+    "d": "2026-10-13",
+    "t": "Developing Gemini 4 Argon responsibly and safely",
+    "u": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
     "s": "blog"
    },
    {
-    "d": "2026-10-12",
-    "t": "Google Health: Evolving so you can focus on living better",
-    "u": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+    "d": "2026-10-13",
+    "t": "New on Google Play: More ways to create, discover, and play",
+    "u": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
     "s": "blog"
    },
    {
-    "d": "2026-10-12",
-    "t": "From game days to daily life: The familiar faces teaming up with Google Health",
-    "u": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+    "d": "2026-10-13",
+    "t": "A new app experience is coming to cars with Google built-in",
+    "u": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
     "s": "blog"
    }
   ],
