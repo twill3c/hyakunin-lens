@@ -3983,6 +3983,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-14",
+    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-13",
     "t": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
     "u": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
@@ -3992,12 +3998,6 @@
     "d": "2026-10-13",
     "t": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
     "u": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-13",
-    "t": "How We Made Our Docs Test Themselves",
-    "u": "https://www.langchain.com/blog/our-docs-test-themselves",
     "s": "blog"
    }
   ],
@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-14",
+    "t": "AI is mass decompiling games. That's both awesome and scary.",
+    "u": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-13",
     "t": "Redesigning source control at Anthropic",
     "u": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
@@ -4491,12 +4497,6 @@
     "d": "2026-10-13",
     "t": "llm-gemini 0.35",
     "u": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-13",
-    "t": "Quoting Geoffrey Huntley",
-    "u": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-13",
-    "t": "Developing Gemini 4 Argon responsibly and safely",
-    "u": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+    "d": "2026-10-14",
+    "t": "Research@ 2026: Novel capabilities and intelligence",
+    "u": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
     "s": "blog"
    },
    {
-    "d": "2026-10-13",
-    "t": "New on Google Play: More ways to create, discover, and play",
-    "u": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+    "d": "2026-10-14",
+    "t": "Guide your campaign spending with new priority and allocation features",
+    "u": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
     "s": "blog"
    },
    {
-    "d": "2026-10-13",
-    "t": "A new app experience is coming to cars with Google built-in",
-    "u": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+    "d": "2026-10-14",
+    "t": "Check out this year’s buzziest Halloween trends.",
+    "u": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
     "s": "blog"
    }
   ],
@@ -6335,6 +6335,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-15",
+    "t": "Sakana Chatが覚えていることを見てみよう：メモリーを可視化する新機能「My Fish」",
+    "u": "https://sakana.ai/my-fish/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-12",
     "t": "Recursive Self-Improvement through Collective Intelligence",
     "u": "https://sakana.ai/mass/",
@@ -6344,12 +6350,6 @@
     "d": "2026-10-09",
     "t": "医師向け検索ツール「Evidence Finder」にSakana Namazuを導入：日本仕様のAIを、医療の現場へ",
     "u": "https://sakana.ai/namazu-aillis/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "研究、産業実装、プロダクトの最前線へ―Sakana AIニュースレター「Sakana AI Insider」―",
-    "u": "https://sakana.ai/sakana-ai-insider/",
     "s": "blog"
    }
   ],
