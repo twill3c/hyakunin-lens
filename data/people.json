@@ -4483,6 +4483,12 @@
   "own": [
    {
     "d": "2026-10-15",
+    "t": "Chirp Pong",
+    "u": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-15",
     "t": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "u": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
     "s": "blog"
@@ -4491,12 +4497,6 @@
     "d": "2026-10-14",
     "t": "Tree Appreciator",
     "u": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "AI is mass decompiling games. That's both awesome and scary.",
-    "u": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
     "s": "blog"
    }
   ],
@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-10-15",
-    "t": "An intelligent new shopping cart",
-    "u": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+    "t": "How we're helping the world prepare for natural disasters",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
     "s": "blog"
    },
    {
     "d": "2026-10-15",
-    "t": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+    "t": "Android earthquake alerts now available in more than 200 regions",
+    "u": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
     "s": "blog"
    },
    {
     "d": "2026-10-15",
-    "t": "Data-backed secrets to smarter holiday shopping",
-    "u": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+    "t": "400 publications are now partnering with us on our News AI pilot program.",
+    "u": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
     "s": "blog"
    }
   ],
