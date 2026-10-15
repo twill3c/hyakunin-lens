@@ -3441,6 +3441,12 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
+    "d": "2026-10-15",
+    "t": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
+    "u": "https://cline.ghost.io/nvidia-nemotron-3-5-super-vl-cline-agent-harness/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-14",
     "t": "Cline Desktop: An open-source app for open-weight models",
     "u": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
@@ -3450,12 +3456,6 @@
     "d": "2026-09-02",
     "t": "How We Migrated 11 Million Users to Cline's Biggest Harness Upgrade",
     "u": "https://cline.ghost.io/how-we-migrated-11-million-users-to-clines-biggest-harness-upgrade/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "DeepSeek wins IMO Gold on 12 cents",
-    "u": "https://cline.ghost.io/deepseek-wins-imo-gold-on-12-cents/",
     "s": "blog"
    }
   ],
@@ -3984,6 +3984,12 @@
   "own": [
    {
     "d": "2026-10-15",
+    "t": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+    "u": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-15",
     "t": "The Most Common Questions About Agent Evals, Answered",
     "u": "https://www.langchain.com/blog/common-questions-about-agent-evals",
     "s": "blog"
@@ -3992,12 +3998,6 @@
     "d": "2026-10-14",
     "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
     "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-13",
-    "t": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
-    "u": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
     "s": "blog"
    }
   ],
@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-15",
+    "t": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "u": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-14",
     "t": "Tree Appreciator",
     "u": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
@@ -4491,12 +4497,6 @@
     "d": "2026-10-14",
     "t": "AI is mass decompiling games. That's both awesome and scary.",
     "u": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-13",
-    "t": "Redesigning source control at Anthropic",
-    "u": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
     "s": "blog"
    }
   ],
@@ -5709,21 +5709,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-14",
-    "t": "Research@ 2026: Novel capabilities and intelligence",
-    "u": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+    "d": "2026-10-15",
+    "t": "An intelligent new shopping cart",
+    "u": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
     "s": "blog"
    },
    {
-    "d": "2026-10-14",
-    "t": "Guide your campaign spending with new priority and allocation features",
-    "u": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+    "d": "2026-10-15",
+    "t": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
     "s": "blog"
    },
    {
-    "d": "2026-10-14",
-    "t": "Check out this year’s buzziest Halloween trends.",
-    "u": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+    "d": "2026-10-15",
+    "t": "Data-backed secrets to smarter holiday shopping",
+    "u": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
     "s": "blog"
    }
   ],
