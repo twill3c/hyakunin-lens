@@ -5709,6 +5709,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-16",
+    "t": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-15",
     "t": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
     "u": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
@@ -5718,12 +5724,6 @@
     "d": "2026-10-15",
     "t": "Check if a text message is a scam using Circle to Search.",
     "u": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "How we're helping the world prepare for natural disasters",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
     "s": "blog"
    }
   ],
