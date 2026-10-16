@@ -5710,20 +5710,20 @@
   "own": [
    {
     "d": "2026-10-15",
+    "t": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-15",
+    "t": "Check if a text message is a scam using Circle to Search.",
+    "u": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-15",
     "t": "How we're helping the world prepare for natural disasters",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Android earthquake alerts now available in more than 200 regions",
-    "u": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "400 publications are now partnering with us on our News AI pilot program.",
-    "u": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
     "s": "blog"
    }
   ],
