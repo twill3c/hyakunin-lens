@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-12",
+    "t": "Andrew Ng on Coding Agents and Deciding What to Build",
+    "u": "https://www.youtube.com/watch?v=qeMMnOiF51A",
+    "s": "yt",
+    "o": "Supabase Library"
+   },
+   {
     "d": "2026-10-07",
     "t": "World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development",
     "u": "https://www.youtube.com/watch?v=WmgPAOIhrko",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=Jkb56wnaU1M",
     "s": "yt",
     "o": "DigitalFoundry"
-   },
-   {
-    "d": "2026-09-29",
-    "t": "Google Brain founder Andrew Ng: \"Prompting will be dead in 3 months\"",
-    "u": "https://www.youtube.com/watch?v=qXfdVoqVTFs",
-    "s": "yt",
-    "o": "hyperfixation on AI | beamnxw"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -4176,6 +4176,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "João Moura & Lorenze Hay: Designing Reliable Agentic Systems that make it into Production",
+    "u": "https://www.youtube.com/watch?v=_a5Lz0oYsHg",
+    "s": "yt",
+    "o": "The AI Conference™"
+   },
+   {
     "d": "2026-09-13",
     "t": "Gabriel e Emanoel / Neto e João Moura",
     "u": "https://www.youtube.com/watch?v=W-MdkLC_L10",
@@ -4188,13 +4195,6 @@
     "u": "https://www.youtube.com/watch?v=Dk0ilSOEnGA",
     "s": "yt",
     "o": "PodEduca Evolução"
-   },
-   {
-    "d": "2026-08-05",
-    "t": "How Fraud Networks Hide in Plain Sight  And How to Stop Them | João Moura, Founder & CEO at Fraudio",
-    "u": "https://www.youtube.com/watch?v=ge3EXtXGil4",
-    "s": "yt",
-    "o": "Monica Millares "
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
