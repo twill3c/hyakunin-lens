@@ -4482,6 +4482,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-16",
+    "t": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+    "u": "https://simonwillison.net/2026/Oct/16/code-review/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-15",
     "t": "Chirp Pong",
     "u": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
@@ -4491,12 +4497,6 @@
     "d": "2026-10-15",
     "t": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "u": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "Tree Appreciator",
-    "u": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
     "s": "blog"
    }
   ],
