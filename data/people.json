@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-17",
+    "t": "The Godfather of AI Is Worried: What Yoshua Bengio Fears",
+    "u": "https://www.youtube.com/watch?v=26F9uGhfjrg",
+    "s": "yt",
+    "o": "The Genius Files"
+   },
+   {
     "d": "2026-10-05",
     "t": "MLSS 2026 — Yoshua Bengio — Why are AIs cheating, lying and apparently colluding?",
     "u": "https://www.youtube.com/watch?v=F4kuuLQrIaE",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=WSsggkm03uE",
     "s": "yt",
     "o": "Radio-Canada Info"
-   },
-   {
-    "d": "2026-09-26",
-    "t": "The Future of Safe AI with Yoshua Bengio | Building What's Next Ep. 2",
-    "u": "https://www.youtube.com/watch?v=_YIz6upJgXw",
-    "s": "yt",
-    "o": "Evan Solomon"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-13",
+    "t": "90s Baby Wasn't Ready For Michael Jordan's HISTORIC Bulls Mixtape | The Jordan Vault 🤯",
+    "u": "https://www.youtube.com/watch?v=EZZq5gRU7HM",
+    "s": "yt",
+    "o": "Schuyler Reacts"
+   },
+   {
     "d": "2026-10-10",
     "t": "Michael I. Jordan — Sequential Testing | Parisian Seminar on Mathematical Foundations for AI",
     "u": "https://www.youtube.com/watch?v=-nk-5R3RMHQ",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=R6js9AZ6tds",
     "s": "yt",
     "o": "Daily CT"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "Michael Jordan 1996-98 Documentary: When The GOAT Debate Ended FOREVER",
-    "u": "https://www.youtube.com/watch?v=HB26UCvq1t0",
-    "s": "yt",
-    "o": "Basketball Universe"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -1419,11 +1419,11 @@
     "o": "The Rest Is Politics: Leading"
    },
    {
-    "d": "2026-09-25",
-    "t": "Why Industry Needs a 'Red Line' for AI: Microsoft AI CEO, Mustafa Suleyman",
-    "u": "https://www.youtube.com/watch?v=XGmMomplN4c",
+    "d": "2026-09-26",
+    "t": "Mustafa Suleyman谈人工智能红线、模型福利与Microsoft超级智能",
+    "u": "https://www.youtube.com/watch?v=vQhVSEKBe3c",
     "s": "yt",
-    "o": "Bloomberg Tech"
+    "o": "小雨科技商业说"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -2540,7 +2540,15 @@
     "o": "London AI4Code Meetup"
    }
   ],
-  "yt": [],
+  "yt": [
+   {
+    "d": "2026-10-17",
+    "t": "Instinct創辦人Noah Shinn傳奇之路 #Meta Muse #OpenAI #Instinct #Noah Shinn #估值100亿",
+    "u": "https://www.youtube.com/watch?v=BPNP_4uuihk",
+    "s": "yt",
+    "o": "HUSTLE STORIES 搞錢故事會"
+   }
+  ],
   "note": "個人サイトにブログ一覧はなく、自著リンクはSubstack1件のみ。",
   "mnote": "公開インタビュー・出演がほとんどなく1件のみ。現所属はSierra。",
   "ynote": "唯一の候補動画（AI4Code Meetup）はoEmbedが404で検証できず不採用。同名別人の動画が多数混入する。"
@@ -4450,6 +4458,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-15",
+    "t": "Me Decade The 60's: Peter Marin Thomas Wolf",
+    "u": "https://www.youtube.com/watch?v=qK6ap3k5X7s",
+    "s": "yt",
+    "o": "Who Are You and What's your Life For?"
+   },
+   {
     "d": "2026-10-14",
     "t": "Benevolent Disruptors Ep. 5 Thomas Wolf, Co-Founder of Hugging Face",
     "u": "https://www.youtube.com/watch?v=jBq7-A_FtMg",
@@ -4462,13 +4477,6 @@
     "u": "https://www.youtube.com/watch?v=t4gnwNXR_cM",
     "s": "yt",
     "o": "MTS "
-   },
-   {
-    "d": "2026-09-05",
-    "t": "Mörwald kocht! Toni Mörwald trifft auf Unternehmer Joachim & Thomas Wolf",
-    "u": "https://www.youtube.com/watch?v=44Bk0wyOGtQ",
-    "s": "yt",
-    "o": "OE24.TV"
    }
   ],
   "note": "個人ブログ最新は2025-05-14のためX投稿を採用。",
