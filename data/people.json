@@ -4490,21 +4490,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-18",
+    "t": "llm-tools-datasette 0.1.1",
+    "u": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-18",
+    "t": "llm-echo 0.5",
+    "u": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-17",
     "t": "Inline rendering with document​.currentScript",
     "u": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "web-edit 0.1a2",
-    "u": "https://simonwillison.net/2026/Oct/17/web-edit/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-16",
-    "t": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-    "u": "https://simonwillison.net/2026/Oct/16/code-review/",
     "s": "blog"
    }
   ],
