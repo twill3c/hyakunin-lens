@@ -1813,6 +1813,12 @@
   "bio": "Chain-of-Thoughtプロンプティングと「創発的能力」という2つの論文で、LLMの推論に関する議論の枠組みを作った。OpenAIで推論モデルの研究に携わる。個人ブログの短いエッセイは研究者コミュニティで広く読まれ、検証の非対称性など実務的な概念を提供している。",
   "own": [
    {
+    "d": "2026-10-19",
+    "t": "AI will not automate radiologists like you think",
+    "u": "https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-06",
     "t": "The Best Three Hours in San Francisco",
     "u": "https://www.jasonwei.net/blog/the-best-three-hours-in-san-francisco",
@@ -1822,12 +1828,6 @@
     "d": "2026-08-20",
     "t": "Cognitive reward shapes in sports and career",
     "u": "https://www.jasonwei.net/blog/cognitive-reward-shapes-in-sports-and-career",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "What's left for humans?",
-    "u": "https://www.jasonwei.net/blog/whats-left-for-humans",
     "s": "blog"
    }
   ],
@@ -3991,6 +3991,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-19",
+    "t": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+    "u": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-15",
     "t": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
     "u": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
@@ -4000,12 +4006,6 @@
     "d": "2026-10-15",
     "t": "The Most Common Questions About Agent Evals, Answered",
     "u": "https://www.langchain.com/blog/common-questions-about-agent-evals",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
     "s": "blog"
    }
   ],
@@ -5717,6 +5717,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-19",
+    "t": "We’re supporting nature restoration through sustainable farming in Brazil.",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-16",
     "t": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
     "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
@@ -5726,12 +5732,6 @@
     "d": "2026-10-15",
     "t": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
     "u": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Check if a text message is a scam using Circle to Search.",
-    "u": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
     "s": "blog"
    }
   ],
