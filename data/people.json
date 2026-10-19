@@ -1612,17 +1612,17 @@
    },
    {
     "d": "2026-06-26",
-    "t": "Aidan Gomez (Cohere) at the Cerebral Valley AI Summit in London",
-    "u": "https://www.youtube.com/watch?v=zFsB5VvrTD4",
-    "s": "yt",
-    "o": "Newcomer AI Summits"
-   },
-   {
-    "d": "2026-06-26",
     "t": "Aidan Gomez Unfiltered on AGI, China & AI's Biggest Risk",
     "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
     "s": "yt",
     "o": "Newcomer"
+   },
+   {
+    "d": "2026-06-26",
+    "t": "Aidan Gomez (Cohere) at the Cerebral Valley AI Summit in London",
+    "u": "https://www.youtube.com/watch?v=zFsB5VvrTD4",
+    "s": "yt",
+    "o": "Newcomer AI Summits"
    }
   ],
   "note": "Cohere公式ブログの本人著者ページ最新は2025-01。",
@@ -2596,6 +2596,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-18",
+    "t": "LLM Powered Autonomous Agents (Lilian Weng) Explained with Code",
+    "u": "https://www.youtube.com/watch?v=S8VsASdPQL4",
+    "s": "yt",
+    "o": "NeoTridhi"
+   },
+   {
     "d": "2026-09-12",
     "t": "前 OpenAI / 頂尖學者 Lilian Weng 最新研究：AI 自我進化的最後一塊拼圖",
     "u": "https://www.youtube.com/watch?v=q0Yllj6d8gw",
@@ -2608,13 +2615,6 @@
     "u": "https://www.youtube.com/watch?v=PBGC6CjfdtM",
     "s": "yt",
     "o": "More or Less Podcast"
-   },
-   {
-    "d": "2026-07-09",
-    "t": "AI自我递归改进先要靠Harness工程 | Lilian Weng最新长文 | 反馈循环 | 三个设计模式 | 核心智能 | ACE | MCE | Meta-Harness | STOP",
-    "u": "https://www.youtube.com/watch?v=z_F0z7wF5XU",
-    "s": "yt",
-    "o": "最佳拍档"
    }
   ],
   "note": "Lil'Log を直接確認。エージェント設計の解説として最も参照される連載。",
@@ -2754,15 +2754,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia introduces Spark and RDDs at Scala for Startups hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=Mz6qyph-xEI",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -3705,17 +3705,17 @@
   "yt": [
    {
     "d": "2026-10-16",
-    "t": "Vercel CEO Guillermo Rauch on Building the Internet for Agents",
-    "u": "https://www.youtube.com/watch?v=WuorvLfAFmA",
-    "s": "yt",
-    "o": "Sourcery with Molly O'Shea"
-   },
-   {
-    "d": "2026-10-16",
     "t": "AI Will Build Most Frontend Code | Guillermo Rauch",
     "u": "https://www.youtube.com/watch?v=0PoFeFCoqbo",
     "s": "yt",
     "o": "MTS "
+   },
+   {
+    "d": "2026-10-16",
+    "t": "Vercel CEO Guillermo Rauch on Building the Internet for Agents",
+    "u": "https://www.youtube.com/watch?v=WuorvLfAFmA",
+    "s": "yt",
+    "o": "Sourcery with Molly O'Shea"
    },
    {
     "d": "2026-10-09",
@@ -4383,6 +4383,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-19",
+    "t": "Unpolished Signals Matter More Now | Yohei Nakajima, Untapped Capital",
+    "u": "https://www.youtube.com/watch?v=x9vHsFooYM8",
+    "s": "yt",
+    "o": "Odin"
+   },
+   {
     "d": "2026-10-08",
     "t": "From BabyAGI to ActiveGraph: Why Long-Running Agents Need Logs, State, and Proof with Yohei Nakajima",
     "u": "https://www.youtube.com/watch?v=GZiQVAeuT0k",
@@ -4395,13 +4402,6 @@
     "u": "https://www.youtube.com/watch?v=2LXclhL3-v8",
     "s": "yt",
     "o": "PP科技筆記 Podcast"
-   },
-   {
-    "d": "不明",
-    "t": "BabyAGI, AI Agents & AI Investing | Around the Prompt #2",
-    "u": "https://www.youtube.com/watch?v=9j6WPiJhvd0",
-    "s": "yt",
-    "o": "Logan Kilpatrick"
    }
   ],
   "note": "ブログ最新は2025-12-05。",
