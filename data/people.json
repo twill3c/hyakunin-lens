@@ -6343,6 +6343,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-20",
+    "t": "オープンエンドな探索を意思決定支援へ：推薦の質と多様性を高める「QD-Rec」を提案",
+    "u": "https://sakana.ai/qd-rec/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-15",
     "t": "Sakana Chatが覚えていることを見てみよう：メモリを可視化する新機能「My Fish」",
     "u": "https://sakana.ai/my-fish/",
@@ -6352,12 +6358,6 @@
     "d": "2026-10-12",
     "t": "Recursive Self-Improvement through Collective Intelligence",
     "u": "https://sakana.ai/mass/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "医師向け検索ツール「Evidence Finder」にSakana Namazuを導入：日本仕様のAIを、医療の現場へ",
-    "u": "https://sakana.ai/namazu-aillis/",
     "s": "blog"
    }
   ],
