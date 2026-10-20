@@ -4490,6 +4490,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-19",
+    "t": "My obituary for programming",
+    "u": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-18",
     "t": "llm-tools-datasette 0.1.1",
     "u": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
@@ -4499,12 +4505,6 @@
     "d": "2026-10-18",
     "t": "llm-echo 0.5",
     "u": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "Inline rendering with document​.currentScript",
-    "u": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
     "s": "blog"
    }
   ],
@@ -5718,20 +5718,20 @@
   "own": [
    {
     "d": "2026-10-19",
-    "t": "We’re supporting nature restoration through sustainable farming in Brazil.",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+    "t": "Partnering to strengthen the grid and support local communities in Arkansas",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
     "s": "blog"
    },
    {
-    "d": "2026-10-16",
-    "t": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+    "d": "2026-10-19",
+    "t": "How to shape your slides and videos with Gemini Notebook",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
     "s": "blog"
    },
    {
-    "d": "2026-10-15",
-    "t": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+    "d": "2026-10-19",
+    "t": "4 tips for styling outfits with Gemini",
+    "u": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
     "s": "blog"
    }
   ],
