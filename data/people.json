@@ -43,25 +43,25 @@
   ],
   "yt": [
    {
-    "d": "2026-10-11",
-    "t": "Geoffrey Hinton Explores the Unseen Power of AI",
-    "u": "https://www.youtube.com/watch?v=gekJbgDNC80",
+    "d": "2026-10-21",
+    "t": "Geoffrey Hinton I Starmus Panel I Music-News.com @starmusfest @DrGeoffreyHinton",
+    "u": "https://www.youtube.com/watch?v=odass1Pj7oo",
     "s": "yt",
-    "o": "AI Catalyst"
+    "o": "MusicNewsWeb"
    },
    {
-    "d": "2026-10-10",
-    "t": "‘Screw You, Trump!’: Nobel Laureate Geoffrey Hinton Unleashes Brutal Rebuke, Praises Carney | US",
-    "u": "https://www.youtube.com/watch?v=eNksKDiP1fs",
+    "d": "2026-10-21",
+    "t": "Nobel Prize Winner Geoffrey Hinton Delivers Remarks on the Impact",
+    "u": "https://www.youtube.com/watch?v=IebgqymMo4U",
     "s": "yt",
-    "o": "The Financial Express"
+    "o": "mortalis"
    },
    {
-    "d": "2026-10-06",
-    "t": "Geoffrey Hinton Explains AI & Beetles",
-    "u": "https://www.youtube.com/watch?v=Vm-E1kgHXig",
+    "d": "2026-10-20",
+    "t": "Digital Intelligence vs Biological Intelligence | Geoffrey Hinton",
+    "u": "https://www.youtube.com/watch?v=2rKVSkW-0YM",
     "s": "yt",
-    "o": "Nayeema Raza"
+    "o": "Solomon Alfred-Eto"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-18",
+    "t": "Andrej Karpathy: From Prompts to AI Agents, Loops & Graphs | The Future of AI",
+    "u": "https://www.youtube.com/watch?v=vStxou8n5cM",
+    "s": "yt",
+    "o": "o0o0o0o"
+   },
+   {
     "d": "2026-10-15",
     "t": "Andrej Karpathy: \"99% Use AI & LLMs Wrong\" (Here’s How He Does It)",
     "u": "https://www.youtube.com/watch?v=7YEHs2SMaVQ",
@@ -1725,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=wR5X9MafDpM",
     "s": "yt",
     "o": "theBoringExecutive"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "How Andrej Karpathy uses LLMs: complete example-driven, practical walkthrough",
-    "u": "https://www.youtube.com/watch?v=d-0-6VBkMhw",
-    "s": "yt",
-    "o": "The AI Snack"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -4683,6 +4683,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-21",
+    "t": "Ajahn Tri Dao  is live!",
+    "u": "https://www.youtube.com/watch?v=GkV9To5JtK0",
+    "s": "yt",
+    "o": "Ajahn Tri Dao "
+   },
+   {
     "d": "2026-10-13",
     "t": "P1| Dân Công Sở Hiện Đại Tô Tri Dao Biến Game Otome “Không Yêu Sẽ Chết” Thành Trò Mô Phỏng Làm Ruộng",
     "u": "https://www.youtube.com/watch?v=1UyPk5MbOAk",
@@ -4693,13 +4700,6 @@
     "d": "2026-09-25",
     "t": "Ajahn Tri Dao  is live!",
     "u": "https://www.youtube.com/watch?v=Ekjwfmph7iI",
-    "s": "yt",
-    "o": "Ajahn Tri Dao "
-   },
-   {
-    "d": "2026-09-20",
-    "t": "Ajahn Tri Dao  is live!",
-    "u": "https://www.youtube.com/watch?v=56Q6PKFfgHg",
     "s": "yt",
     "o": "Ajahn Tri Dao "
    }
@@ -6112,6 +6112,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-21",
+    "t": "The Dangerous Cults Behind AI Believe Humans Can Be Replaced | Timnit Gebru",
+    "u": "https://www.youtube.com/watch?v=khxHvUs6ruU",
+    "s": "yt",
+    "o": "Dr Myriam François"
+   },
+   {
     "d": "2026-10-08",
     "t": "„Nie są superinteligentne”: Timnit Gebru obala głośne twierdzenia gigantów technologii na temat AI!",
     "u": "https://www.youtube.com/watch?v=b-JtbR_E1Xg",
@@ -6124,13 +6131,6 @@
     "u": "https://www.youtube.com/watch?v=XqxbWdJ51K0",
     "s": "yt",
     "o": "Democracy Now!"
-   },
-   {
-    "d": "2026-09-30",
-    "t": "Press Conference with 2026 Right Livelihood Laureate Timnit Gebru",
-    "u": "https://www.youtube.com/watch?v=lB57Pg84wEc",
-    "s": "yt",
-    "o": "Right Livelihood"
    }
   ],
   "note": "DAIRブログで本人名義の投稿を特定できず。Substackは404、X/LinkedInは取得不可。0件。",
