@@ -407,18 +407,18 @@
     "o": "Schuyler Reacts"
    },
    {
+    "d": "2026-10-11",
+    "t": "How Rich Is Michael Jordan ACTUALLY???",
+    "u": "https://www.youtube.com/watch?v=7JDxPLsrpU0",
+    "s": "yt",
+    "o": "Eli Mack Reacts"
+   },
+   {
     "d": "2026-10-10",
     "t": "Michael I. Jordan — Sequential Testing | Parisian Seminar on Mathematical Foundations for AI",
     "u": "https://www.youtube.com/watch?v=-nk-5R3RMHQ",
     "s": "yt",
     "o": "institut-legendre"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "Gen Z CANT BELEIVE HIS EYES Watching 1991 Michael Jordan Was A GOD...",
-    "u": "https://www.youtube.com/watch?v=R6js9AZ6tds",
-    "s": "yt",
-    "o": "Daily CT"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -550,25 +550,25 @@
   ],
   "yt": [
    {
-    "d": "2026-10-12",
-    "t": "Andrew Ng on Coding Agents and Deciding What to Build",
-    "u": "https://www.youtube.com/watch?v=qeMMnOiF51A",
+    "d": "2026-10-22",
+    "t": "Andrew Ng On AI At Scale: Building The Intelligence Economy | NDTV World Summit 2026",
+    "u": "https://www.youtube.com/watch?v=HlkBYlQPfRM",
     "s": "yt",
-    "o": "Supabase Library"
+    "o": "NDTV"
    },
    {
-    "d": "2026-10-07",
-    "t": "World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development",
-    "u": "https://www.youtube.com/watch?v=WmgPAOIhrko",
+    "d": "2026-10-22",
+    "t": "Will AI destroy jobs? Andrew Ng on the AI jobpocalypse debate | NDTV World Summit 2026",
+    "u": "https://www.youtube.com/watch?v=8qdh2TvlaIo",
     "s": "yt",
-    "o": "Stanford Graduate School of Business"
+    "o": "NDTV World"
    },
    {
-    "d": "2026-10-04",
-    "t": "Andrew Ng (google brain founder @ Standford) Prompt Engineering ends 6 month.Move to Agent Harnesses",
-    "u": "https://www.youtube.com/watch?v=Jkb56wnaU1M",
+    "d": "2026-10-22",
+    "t": "Andrew Ng Podcast: Is AI panic engineered to raise funding?",
+    "u": "https://www.youtube.com/watch?v=IKExqTIRTVg",
     "s": "yt",
-    "o": "DigitalFoundry"
+    "o": "ET Digital"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1126,15 +1126,15 @@
    },
    {
     "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
+    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
    {
     "d": "2026-09-02",
-    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -3629,6 +3629,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-21",
+    "t": "Q&A with Bolt.new founders Eric Simons and Albert Pai | Builders Week",
+    "u": "https://www.youtube.com/watch?v=DMyzOaOAqGE",
+    "s": "yt",
+    "o": "Bolt․new"
+   },
+   {
     "d": "2026-10-14",
     "t": "Episode 28 - Eric Simons",
     "u": "https://www.youtube.com/watch?v=zyIgzCzFyJo",
@@ -3641,13 +3648,6 @@
     "u": "https://www.youtube.com/watch?v=p-vqdtBkasQ",
     "s": "yt",
     "o": "Free Audiobooks"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "Bolt CEO on How PMs Turn AI Prototypes Into Production Code Engineers Trust | Eric Simons | E311",
-    "u": "https://www.youtube.com/watch?v=ZELi-yvOF_w",
-    "s": "yt",
-    "o": "Product School"
    }
   ],
   "note": "3件目に該当するものは確認できず2件。",
@@ -4184,6 +4184,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-22",
+    "t": "218-Nehemias Merien -  palestrante João Moura",
+    "u": "https://www.youtube.com/watch?v=qWFqsJbDEy8",
+    "s": "yt",
+    "o": "IEBAP Amor e Paz"
+   },
+   {
     "d": "2026-10-07",
     "t": "João Moura & Lorenze Hay: Designing Reliable Agentic Systems that make it into Production",
     "u": "https://www.youtube.com/watch?v=_a5Lz0oYsHg",
@@ -4196,13 +4203,6 @@
     "u": "https://www.youtube.com/watch?v=W-MdkLC_L10",
     "s": "yt",
     "o": "gabrielcosta_bt"
-   },
-   {
-    "d": "2026-09-10",
-    "t": "Homenagem em Sorocaba: João Moura Júnior é o mais novo Cidadão Sorocabano!",
-    "u": "https://www.youtube.com/watch?v=Dk0ilSOEnGA",
-    "s": "yt",
-    "o": "PodEduca Evolução"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -4458,6 +4458,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-21",
+    "t": "Lazar Todev | Ich lüfte mein Geheimnis! 🔥 So trainiere ich mit meinem Personal Coach Thomas Wolf",
+    "u": "https://www.youtube.com/watch?v=WgMsnCszBTQ",
+    "s": "yt",
+    "o": "Lazar Todev"
+   },
+   {
     "d": "2026-10-18",
     "t": "Taufgottesdienst | Thomas Wolf | 18.10.2026",
     "u": "https://www.youtube.com/watch?v=msNQlxUzBsw",
@@ -4470,13 +4477,6 @@
     "u": "https://www.youtube.com/watch?v=qK6ap3k5X7s",
     "s": "yt",
     "o": "Who Are You and What's your Life For?"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "Benevolent Disruptors Ep. 5 Thomas Wolf, Co-Founder of Hugging Face",
-    "u": "https://www.youtube.com/watch?v=jBq7-A_FtMg",
-    "s": "yt",
-    "o": "Benevolent Capital"
    }
   ],
   "note": "個人ブログ最新は2025-05-14のためX投稿を採用。",
@@ -5023,7 +5023,7 @@
   ],
   "yt": [
    {
-    "d": "2026-10-16",
+    "d": "2026-10-21",
     "t": "Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence",
     "u": "https://www.youtube.com/watch?v=hHlpUt7Cqg8",
     "s": "yt",
