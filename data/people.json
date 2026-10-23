@@ -3992,7 +3992,7 @@
   "own": [
    {
     "d": "2026-10-23",
-    "t": "Context Engineering for AI Agents Starts with Retrieval",
+    "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
     "s": "blog"
    },
@@ -4490,6 +4490,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-23",
+    "t": "Introducing Kimi K3.1 Pro",
+    "u": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-22",
     "t": "DE STAAT - FREEDOM (Official Music Video)",
     "u": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
@@ -4499,12 +4505,6 @@
     "d": "2026-10-22",
     "t": "Donating Agent Skills to the Agentic AI Foundation",
     "u": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "Quoting Armin Ronacher",
-    "u": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
     "s": "blog"
    }
   ],
