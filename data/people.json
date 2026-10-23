@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-22",
+    "t": "Yann LeCun, AI legend, Co-Founder of AMI Labs, NYU Professor [AI Founders Masterclass Session 5]",
+    "u": "https://www.youtube.com/watch?v=k4irc59yUsE",
+    "s": "yt",
+    "o": "Radical Ventures"
+   },
+   {
     "d": "2026-10-16",
     "t": "Yann LeCun, Mark Zuckerberg and Tristan Harris - THE CODE ANYBODY MAY READ Book 6 - Part 01",
     "u": "https://www.youtube.com/watch?v=gGlTEJB_mMY",
@@ -200,18 +207,11 @@
     "o": "Ministry of Spark"
    },
    {
-    "d": "2026-10-08",
-    "t": "Opening keynote : Yann LeCun (Founder, AMI Labs  and Turing Award laureate)",
-    "u": "https://www.youtube.com/watch?v=awyjqG5KGcQ",
+    "d": "2026-10-15",
+    "t": "Je DÉTRUIS Yann LeCun (comment j'assume ce titre maintenant ?)",
+    "u": "https://www.youtube.com/watch?v=eCl0xW0cZ-E",
     "s": "yt",
-    "o": "IA and Futur of Work"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "Become Yann LeCun in 27 Minutes — His AI Ideas From Scratch",
-    "u": "https://www.youtube.com/watch?v=yY6lRbo_sqI",
-    "s": "yt",
-    "o": "Vuk Rosić"
+    "o": "Dr. Deep Réflections"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -3431,6 +3431,13 @@
   "med": [],
   "yt": [
    {
+    "d": "2026-10-23",
+    "t": "Behind the Ballot: Paul Gauthier | LISD Board Place 7",
+    "u": "https://www.youtube.com/watch?v=X1IpnKLJX8c",
+    "s": "yt",
+    "o": "CPHS News"
+   },
+   {
     "d": "2026-07-13",
     "t": "Jean-Paul Gauthier à Tahiti",
     "u": "https://www.youtube.com/watch?v=amGjXUcbKSI",
@@ -3704,25 +3711,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-22",
+    "t": "Guillermo Rauch: One Stroke Dragon › First of Kind",
+    "u": "https://www.youtube.com/watch?v=D1tkBhmI5fs",
+    "s": "yt",
+    "o": "First of Kind"
+   },
+   {
+    "d": "2026-10-22",
+    "t": "The Third Customer: A Fireside with Tobi Lütke and Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=p7AhQO3Y-GY",
+    "s": "yt",
+    "o": "Vercel"
+   },
+   {
     "d": "2026-10-16",
     "t": "AI Will Build Most Frontend Code | Guillermo Rauch",
     "u": "https://www.youtube.com/watch?v=0PoFeFCoqbo",
     "s": "yt",
     "o": "MTS "
-   },
-   {
-    "d": "2026-10-16",
-    "t": "Vercel CEO Guillermo Rauch on Building the Internet for Agents",
-    "u": "https://www.youtube.com/watch?v=WuorvLfAFmA",
-    "s": "yt",
-    "o": "Sourcery with Molly O'Shea"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "La app argentina que consiguió la inversión de Guillermo Rauch: Clickie | Tomás Dascola en SLA",
-    "u": "https://www.youtube.com/watch?v=6LNxvp2ztp4",
-    "s": "yt",
-    "o": "SLA TV"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -5336,6 +5343,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-22",
+    "t": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence",
+    "u": "https://www.youtube.com/watch?v=5X166Fead8o",
+    "s": "yt",
+    "o": "South Park Commons"
+   },
+   {
     "d": "2026-10-05",
     "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
     "u": "https://www.youtube.com/watch?v=AX1VsGYt1u4",
@@ -5348,13 +5362,6 @@
     "u": "https://www.youtube.com/watch?v=fBe0POLId0s",
     "s": "yt",
     "o": "ICONIQ"
-   },
-   {
-    "d": "2026-09-04",
-    "t": "Top Robot Expert: The ₹10 Lakh Crore Robot Opportunity | Sergey Levine",
-    "u": "https://www.youtube.com/watch?v=qexxkb1M1mE",
-    "s": "yt",
-    "o": "SparX by Mukesh Bansal"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
