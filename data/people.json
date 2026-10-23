@@ -3991,6 +3991,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-23",
+    "t": "Context Engineering for AI Agents Starts with Retrieval",
+    "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-22",
     "t": "LangSmith LLM Gateway: Runtime Controls for Agents",
     "u": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
@@ -4000,12 +4006,6 @@
     "d": "2026-10-19",
     "t": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
     "u": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
-    "u": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
     "s": "blog"
    }
   ],
