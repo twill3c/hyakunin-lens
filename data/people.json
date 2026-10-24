@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-18",
+    "t": "These Michael Jordan RECORDS will make LeBron Fans CRY",
+    "u": "https://www.youtube.com/watch?v=Zd0ZwzFsxbc",
+    "s": "yt",
+    "o": "TheRealMindCrime"
+   },
+   {
     "d": "2026-10-13",
     "t": "90s Baby Wasn't Ready For Michael Jordan's HISTORIC Bulls Mixtape | The Jordan Vault 🤯",
     "u": "https://www.youtube.com/watch?v=EZZq5gRU7HM",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=7JDxPLsrpU0",
     "s": "yt",
     "o": "Eli Mack Reacts"
-   },
-   {
-    "d": "2026-10-10",
-    "t": "Michael I. Jordan — Sequential Testing | Parisian Seminar on Mathematical Foundations for AI",
-    "u": "https://www.youtube.com/watch?v=-nk-5R3RMHQ",
-    "s": "yt",
-    "o": "institut-legendre"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -550,18 +550,11 @@
   ],
   "yt": [
    {
-    "d": "2026-10-22",
-    "t": "Andrew Ng On AI At Scale: Building The Intelligence Economy | NDTV World Summit 2026",
-    "u": "https://www.youtube.com/watch?v=HlkBYlQPfRM",
+    "d": "2026-10-23",
+    "t": "LIVE: NDTV World Summit 2026 | Building the Intelligence Economy | Andrew Ng Full Speech",
+    "u": "https://www.youtube.com/watch?v=5IaXK7DHRxw",
     "s": "yt",
     "o": "NDTV"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "Will AI destroy jobs? Andrew Ng on the AI jobpocalypse debate | NDTV World Summit 2026",
-    "u": "https://www.youtube.com/watch?v=8qdh2TvlaIo",
-    "s": "yt",
-    "o": "NDTV World"
    },
    {
     "d": "2026-10-22",
@@ -569,6 +562,13 @@
     "u": "https://www.youtube.com/watch?v=IKExqTIRTVg",
     "s": "yt",
     "o": "ET Digital"
+   },
+   {
+    "d": "2026-10-22",
+    "t": "Will AI destroy jobs? Andrew Ng on the AI jobpocalypse debate | NDTV World Summit 2026",
+    "u": "https://www.youtube.com/watch?v=8qdh2TvlaIo",
+    "s": "yt",
+    "o": "NDTV World"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1126,15 +1126,15 @@
    },
    {
     "d": "2026-09-02",
-    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
    {
     "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
+    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-23",
+    "t": "Mustafa Suleyman (on artificial intelligence)",
+    "u": "https://www.youtube.com/watch?v=SXPV18g4kFU",
+    "s": "yt",
+    "o": "BlackNova Productions"
+   },
+   {
     "d": "2026-10-04",
     "t": "AGI, AI Revolution & the Future of Human Work | Mustafa Suleyman",
     "u": "https://www.youtube.com/watch?v=HSmqmaoSiBA",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=_VyF0naZ4AI",
     "s": "yt",
     "o": "The Rest Is Politics: Leading"
-   },
-   {
-    "d": "2026-09-26",
-    "t": "Mustafa Suleyman谈人工智能红线、模型福利与Microsoft超级智能",
-    "u": "https://www.youtube.com/watch?v=vQhVSEKBe3c",
-    "s": "yt",
-    "o": "小雨科技商业说"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -4465,6 +4465,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-24",
+    "t": "Thomas Wolf: Mother ML: A Modular Framework for Reproducible Cheminformatics",
+    "u": "https://www.youtube.com/watch?v=nGc-f2cmCoU",
+    "s": "yt",
+    "o": "RDKit"
+   },
+   {
     "d": "2026-10-21",
     "t": "Lazar Todev | Ich lüfte mein Geheimnis! 🔥 So trainiere ich mit meinem Personal Coach Thomas Wolf",
     "u": "https://www.youtube.com/watch?v=WgMsnCszBTQ",
@@ -4477,13 +4484,6 @@
     "u": "https://www.youtube.com/watch?v=msNQlxUzBsw",
     "s": "yt",
     "o": "ChristusGemeinde Flein"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Me Decade The 60's: Peter Marin Thomas Wolf",
-    "u": "https://www.youtube.com/watch?v=qK6ap3k5X7s",
-    "s": "yt",
-    "o": "Who Are You and What's your Life For?"
    }
   ],
   "note": "個人ブログ最新は2025-05-14のためX投稿を採用。",
@@ -5030,6 +5030,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-24",
+    "t": "#839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology...",
+    "u": "https://www.youtube.com/watch?v=SKs8SIxg_e0",
+    "s": "yt",
+    "o": "BlackNova Productions"
+   },
+   {
     "d": "2026-10-21",
     "t": "Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence",
     "u": "https://www.youtube.com/watch?v=hHlpUt7Cqg8",
@@ -5042,13 +5049,6 @@
     "u": "https://www.youtube.com/watch?v=5Q4804-uwtY",
     "s": "yt",
     "o": "Futurology"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "World models. Consciousness. Superintelligence. - Fei-Fei Li, Hinton & Yampolskiy on Advanced AI —",
-    "u": "https://www.youtube.com/watch?v=zXwQM0FIHJ4",
-    "s": "yt",
-    "o": "Two Minds  One Road"
    }
   ],
   "note": "Substackと X の両方で発信。",
