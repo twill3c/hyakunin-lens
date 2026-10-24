@@ -3998,6 +3998,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-24",
+    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-23",
     "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
@@ -4007,12 +4013,6 @@
     "d": "2026-10-22",
     "t": "LangSmith LLM Gateway: Runtime Controls for Agents",
     "u": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-19",
-    "t": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-    "u": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
     "s": "blog"
    }
   ],
@@ -4498,6 +4498,12 @@
   "own": [
    {
     "d": "2026-10-23",
+    "t": "Quick Study",
+    "u": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-23",
     "t": "Introducing Kimi K3.1 Pro",
     "u": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
     "s": "blog"
@@ -4506,12 +4512,6 @@
     "d": "2026-10-22",
     "t": "DE STAAT - FREEDOM (Official Music Video)",
     "u": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "Donating Agent Skills to the Agentic AI Foundation",
-    "u": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
     "s": "blog"
    }
   ],
@@ -5724,6 +5724,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-23",
+    "t": "See what 5 builders are making with Gemini 4 Argon",
+    "u": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-22",
     "t": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
     "u": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
@@ -5733,12 +5739,6 @@
     "d": "2026-10-22",
     "t": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
     "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Recreating the lost studios of women sculptors with Prune Nourry",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
     "s": "blog"
    }
   ],
