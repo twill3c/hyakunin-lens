@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-24",
+    "t": "Vienna Gödel Lecture 2026: Geoffrey Hinton",
+    "u": "https://www.youtube.com/watch?v=TNffIt8eRb0",
+    "s": "yt",
+    "o": "TU Wien Informatics"
+   },
+   {
     "d": "2026-10-21",
     "t": "Geoffrey Hinton I Starmus Panel I Music-News.com @starmusfest @DrGeoffreyHinton",
     "u": "https://www.youtube.com/watch?v=odass1Pj7oo",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=IebgqymMo4U",
     "s": "yt",
     "o": "mortalis"
-   },
-   {
-    "d": "2026-10-20",
-    "t": "Digital Intelligence vs Biological Intelligence | Geoffrey Hinton",
-    "u": "https://www.youtube.com/watch?v=2rKVSkW-0YM",
-    "s": "yt",
-    "o": "Solomon Alfred-Eto"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -475,6 +475,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-24",
+    "t": "The Book of Why by Judea Pearl and Dana Mackenzie: Book Summary, Chapter by Chapter",
+    "u": "https://www.youtube.com/watch?v=B_E1Dgfinf0",
+    "s": "yt",
+    "o": "Qianliyan"
+   },
+   {
     "d": "2026-08-15",
     "t": "Judea Pearl on book \"Coexistence & other Fighting Words\" Pt2 w/ Rabbi Abe Cooper at Tolerance Museum",
     "u": "https://www.youtube.com/watch?v=Vma68vq_6pg",
@@ -487,13 +494,6 @@
     "u": "https://www.youtube.com/watch?v=BMKEiVylEaI",
     "s": "yt",
     "o": "最佳拍档"
-   },
-   {
-    "d": "2026-08-04",
-    "t": "Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI",
-    "u": "https://www.youtube.com/watch?v=yBC5DhzR8zE",
-    "s": "yt",
-    "o": "Zenvora Productions"
    }
   ],
   "note": "UCLA因果ブログの最新本人記事は2023-03で対象期間外。",
@@ -925,6 +925,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-18",
+    "t": "Dario Amodei Fears His Own AI. So Why Is He Still Building It?",
+    "u": "https://www.youtube.com/watch?v=Ff4QcXuQo-U",
+    "s": "yt",
+    "o": "Niloticai"
+   },
+   {
     "d": "2026-10-14",
     "t": "Dario Amodei Spent 15 Years Learning to Predict What You Do Next",
     "u": "https://www.youtube.com/watch?v=reP1wbOL7Wk",
@@ -937,13 +944,6 @@
     "u": "https://www.youtube.com/watch?v=LT49cNJ1-o4",
     "s": "yt",
     "o": "Boson"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "Dario Amodei: de AI-topman die waarschuwt voor zijn eigen technologie",
-    "u": "https://www.youtube.com/watch?v=eV-zK6K1iLE",
-    "s": "yt",
-    "o": "High Profile"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1713,6 +1713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-22",
+    "t": "The LLM Operating System: A Briefing on Andrej Karpathy's Vision for Software 3.0",
+    "u": "https://www.youtube.com/watch?v=pWqproo_vX0",
+    "s": "yt",
+    "o": "NOVAi Records"
+   },
+   {
     "d": "2026-10-18",
     "t": "Andrej Karpathy: From Prompts to AI Agents, Loops & Graphs | The Future of AI",
     "u": "https://www.youtube.com/watch?v=vStxou8n5cM",
@@ -1725,13 +1732,6 @@
     "u": "https://www.youtube.com/watch?v=7YEHs2SMaVQ",
     "s": "yt",
     "o": "hyperfixation on AI | beamnxw"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "'You are using AI Wrong' - Andrej Karpathy Said What?",
-    "u": "https://www.youtube.com/watch?v=wR5X9MafDpM",
-    "s": "yt",
-    "o": "theBoringExecutive"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -4541,10 +4541,10 @@
   "yt": [
    {
     "d": "2026-10-16",
-    "t": "Simon Willison의 '개념적 무결성과 코드 줄 수' — 죽은 지표가 되살아난 이유, 그리고 함정 (오디오 개요)",
+    "t": "🎧 Simon Willison 개념적 무결성, 죽은 지표가 돌아온 이유",
     "u": "https://www.youtube.com/watch?v=oUChGZiTOq8",
     "s": "yt",
-    "o": "Theojini"
+    "o": "아프니까 개발자다"
    },
    {
     "d": "2026-08-14",
