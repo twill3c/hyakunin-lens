@@ -4498,20 +4498,20 @@
   "own": [
    {
     "d": "2026-10-26",
+    "t": "GPT-6.1 Terra",
+    "u": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-26",
     "t": "Quoting Jason Koebler",
     "u": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
     "s": "blog"
    },
    {
-    "d": "2026-10-25",
-    "t": "Seam Cutter",
-    "u": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "battledrones v14: Compass Rose, a four player map",
-    "u": "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "d": "2026-10-26",
+    "t": "webframe: evaluated as a scraper and a sandbox",
+    "u": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
     "s": "blog"
    }
   ],
@@ -5725,20 +5725,20 @@
   "own": [
    {
     "d": "2026-10-26",
-    "t": "How Google Beam connects military families globally",
-    "u": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
+    "t": "Our newest AI Quest: Mapping the human brain",
+    "u": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "s": "blog"
    },
    {
-    "d": "2026-10-23",
-    "t": "See what 5 builders are making with Gemini 4 Argon",
-    "u": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+    "d": "2026-10-26",
+    "t": "15 college students share their favorite Gemini features",
+    "u": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
     "s": "blog"
    },
    {
-    "d": "2026-10-22",
-    "t": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
-    "u": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+    "d": "2026-10-26",
+    "t": "Powering sub-Saharan Africa beyond the grid",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
     "s": "blog"
    }
   ],
@@ -6350,6 +6350,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-27",
+    "t": "Taking Japan-Born AI Products to the World: An Interview with Sakana AI’s VP of GTM",
+    "u": "https://sakana.ai/vp-of-gtm-interview/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-23",
     "t": "オントロジーを基盤に、意思決定・実行を支援するAIエージェントプラットフォーム「Sakana Aquarium」",
     "u": "https://sakana.ai/aquarium-release/",
@@ -6359,12 +6365,6 @@
     "d": "2026-10-21",
     "t": "【イベントレポート】Sakana AI Engineer Open House 2026",
     "u": "https://sakana.ai/open-house-2026/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-20",
-    "t": "オープンエンドな探索を意思決定支援へ：推薦の質と多様性を高める「QD-Rec」を提案",
-    "u": "https://sakana.ai/qd-rec/",
     "s": "blog"
    }
   ],
