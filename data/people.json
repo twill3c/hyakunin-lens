@@ -3456,6 +3456,12 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
+    "d": "2026-10-27",
+    "t": "Building Faster AI Agents with Jev Decision Models and Cline",
+    "u": "https://cline.ghost.io/jev-decision-models-ai-agents-cline/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-15",
     "t": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
     "u": "https://cline.ghost.io/nvidia-nemotron-3-5-super-vl-cline-agent-harness/",
@@ -3465,12 +3471,6 @@
     "d": "2026-09-14",
     "t": "Cline Desktop: An open-source app for open-weight models",
     "u": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "How We Migrated 11 Million Users to Cline's Biggest Harness Upgrade",
-    "u": "https://cline.ghost.io/how-we-migrated-11-million-users-to-clines-biggest-harness-upgrade/",
     "s": "blog"
    }
   ],
@@ -3998,6 +3998,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-10-27",
+    "t": "How We Built Our Design Agent",
+    "u": "https://www.langchain.com/blog/design-agent",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-26",
     "t": "The five components of building a \"company harness\"",
     "u": "https://www.langchain.com/blog/components-building-company-harness",
@@ -4007,12 +4013,6 @@
     "d": "2026-10-26",
     "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-26",
-    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
     "s": "blog"
    }
   ],
@@ -5724,21 +5724,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-26",
-    "t": "Our newest AI Quest: Mapping the human brain",
-    "u": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "d": "2026-10-27",
+    "t": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
     "s": "blog"
    },
    {
-    "d": "2026-10-26",
-    "t": "15 college students share their favorite Gemini features",
-    "u": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+    "d": "2026-10-27",
+    "t": "8 examples of Gemini 4 Argon in action",
+    "u": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
     "s": "blog"
    },
    {
-    "d": "2026-10-26",
-    "t": "Powering sub-Saharan Africa beyond the grid",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+    "d": "2026-10-27",
+    "t": "Fitbit Edge: Premium design for an active life",
+    "u": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
     "s": "blog"
    }
   ],
