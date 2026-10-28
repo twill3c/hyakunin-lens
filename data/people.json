@@ -407,18 +407,18 @@
     "o": "Daily CT"
    },
    {
+    "d": "2026-10-21",
+    "t": "The GREATEST MICHAEL JORDAN BUILD on NBA 2K27! 2-WAY MENACE!",
+    "u": "https://www.youtube.com/watch?v=ZMBWPCo-AFo",
+    "s": "yt",
+    "o": "RyBuckets"
+   },
+   {
     "d": "2026-10-18",
     "t": "These Michael Jordan RECORDS will make LeBron Fans CRY",
     "u": "https://www.youtube.com/watch?v=Zd0ZwzFsxbc",
     "s": "yt",
     "o": "TheRealMindCrime"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "Gen Z Learns How Impactful Playoff Michael Jordan Was & Can’t Argue Anymore!",
-    "u": "https://www.youtube.com/watch?v=VVtruk-uL0I",
-    "s": "yt",
-    "o": "More Lithic"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -558,17 +558,17 @@
    },
    {
     "d": "2026-10-22",
-    "t": "Andrew Ng On AI At Scale: Building The Intelligence Economy | NDTV World Summit 2026",
-    "u": "https://www.youtube.com/watch?v=HlkBYlQPfRM",
-    "s": "yt",
-    "o": "NDTV"
-   },
-   {
-    "d": "2026-10-22",
     "t": "Will AI destroy jobs? Andrew Ng on the AI jobpocalypse debate | NDTV World Summit 2026",
     "u": "https://www.youtube.com/watch?v=8qdh2TvlaIo",
     "s": "yt",
     "o": "NDTV World"
+   },
+   {
+    "d": "2026-10-22",
+    "t": "Andrew Ng Podcast: Is AI panic engineered to raise funding?",
+    "u": "https://www.youtube.com/watch?v=IKExqTIRTVg",
+    "s": "yt",
+    "o": "ET Digital"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1543,6 +1543,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-28",
+    "t": "Attention Is All You Need — Ashish Vaswani et al.",
+    "u": "https://www.youtube.com/watch?v=pRj1Ql-5Nvw",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "不明",
     "t": "RAAIS 2019 - Ashish Vaswani, Senior Research Scientist at Google AI",
     "u": "https://www.youtube.com/watch?v=bYmeuc5voUQ",
@@ -2007,6 +2014,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-27",
+    "t": "DeepSeek Goes Open Source Again?Liang Wenfeng's Bigger AI Ambitions#DeepSeek#LiangWenfeng#AIIndustry",
+    "u": "https://www.youtube.com/watch?v=mddcTitoT3k",
+    "s": "yt",
+    "o": "Ex Marquez"
+   },
+   {
     "d": "2026-10-09",
     "t": "梁文鋒再掀桌子：永久降價Liang Wenfeng lifts the table again: permanent price reduction #ai #deepseek #api",
     "u": "https://www.youtube.com/watch?v=I36vEW_ZMLk",
@@ -2019,13 +2033,6 @@
     "u": "https://www.youtube.com/watch?v=28XthtaXuEg",
     "s": "yt",
     "o": "杰明科技官"
-   },
-   {
-    "d": "2026-09-07",
-    "t": "梁文锋讲话泄露后，DeepSeek为何重押华为昇腾?",
-    "u": "https://www.youtube.com/watch?v=tQp-7_FZhFw",
-    "s": "yt",
-    "o": "老范讲故事"
    }
   ],
   "note": "本人名義のブログ・SNSは確認できず0件。流通しているのは第三者による書き起こしのみ。",
@@ -6709,6 +6716,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-27",
+    "t": "Full Interview Record: Yang Zhilin, Founder of Kimi (July， 2025）",
+    "u": "https://www.youtube.com/watch?v=qWQHPPH-T1U",
+    "s": "yt",
+    "o": "MadeinChina"
+   },
+   {
     "d": "2026-09-15",
     "t": "華為任正非全家逃亡、Kimi楊植麟16人被帶走？ 習近平啟動「科技整肅」國安部出手畫下AI紅線！【關鍵時刻】張炤和 @ebcCTime",
     "u": "https://www.youtube.com/watch?v=AvCtF8M5ddM",
@@ -6721,13 +6735,6 @@
     "u": "https://www.youtube.com/watch?v=3hTKyuBCrVA",
     "s": "yt",
     "o": "關鍵時刻"
-   },
-   {
-    "d": "2026-08-14",
-    "t": "Kimi Founder Yang Zhilin: Agentic LLMs, Generalization, Long Context, and the Beginning of Infinity",
-    "u": "https://www.youtube.com/watch?v=9t6VRSHEVZ4",
-    "s": "yt",
-    "o": "Podcast Aboard"
    }
   ],
   "note": "Moonshot AI公式は全てチーム名義。個人ページの更新は2022年が最後。0件。",
