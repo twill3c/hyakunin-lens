@@ -4497,6 +4497,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-28",
+    "t": "Quoting Terk Terkowitz",
+    "u": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-27",
     "t": "Game Boy Color on My Conference Badge",
     "u": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
@@ -4506,12 +4512,6 @@
     "d": "2026-10-26",
     "t": "GPT-6.1 Terra",
     "u": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-26",
-    "t": "Quoting Jason Koebler",
-    "u": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
     "s": "blog"
    }
   ],
