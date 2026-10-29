@@ -4005,21 +4005,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-10-28",
-    "t": "How We Built LangChain’s Paid Media Agent",
-    "u": "https://www.langchain.com/blog/paid-media-agent",
+    "d": "2026-10-29",
+    "t": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "u": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
     "s": "blog"
    },
    {
-    "d": "2026-10-28",
+    "d": "2026-10-29",
+    "t": "Browser Use in Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-29",
     "t": "How We Built Our Design Agent",
     "u": "https://www.langchain.com/blog/design-agent",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "The Art of Loop Engineering",
-    "u": "https://www.langchain.com/blog/the-art-of-loop-engineering",
     "s": "blog"
    }
   ],
@@ -4504,21 +4504,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-10-28",
-    "t": "Quoting Ted Sanders",
-    "u": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+    "d": "2026-10-29",
+    "t": "API credits benefit for eligible ChatGPT subscriptions",
+    "u": "https://simonwillison.net/2026/Oct/29/api-credits/",
     "s": "blog"
    },
    {
-    "d": "2026-10-28",
-    "t": "GitHub Octoverse 2026",
-    "u": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+    "d": "2026-10-29",
+    "t": "Building a multiplayer game world with autonomous Fable-class models",
+    "u": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
     "s": "blog"
    },
    {
-    "d": "2026-10-28",
-    "t": "The October inflection point for vibe game development",
-    "u": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+    "d": "2026-10-29",
+    "t": "Quoting Ben Hylak",
+    "u": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
     "s": "blog"
    }
   ],
