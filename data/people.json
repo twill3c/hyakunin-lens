@@ -475,11 +475,18 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "Why Coexistence Is a \"Fighting Word\" | Prof. Judea Pearl",
+    "u": "https://www.youtube.com/watch?v=18QuLkGtYkE",
+    "s": "yt",
+    "o": "Antisemitism in Muslim Societies (AMS)"
+   },
+   {
     "d": "2026-10-24",
     "t": "The Book of Why by Judea Pearl and Dana Mackenzie: Book Summary, Chapter by Chapter",
     "u": "https://www.youtube.com/watch?v=B_E1Dgfinf0",
     "s": "yt",
-    "o": "Qianliyan"
+    "o": "PaoBull"
    },
    {
     "d": "2026-08-15",
@@ -487,13 +494,6 @@
     "u": "https://www.youtube.com/watch?v=Vma68vq_6pg",
     "s": "yt",
     "o": "Jew Tube"
-   },
-   {
-    "d": "2026-08-05",
-    "t": "大模型会讲因果，是因为人类为它解释了世界 | Judea Pearl | 图灵奖得主 | LLM | AGI | 因果推理 | 贝叶斯网络 | 因果阶梯 | 世界模型 | 机器学习",
-    "u": "https://www.youtube.com/watch?v=BMKEiVylEaI",
-    "s": "yt",
-    "o": "最佳拍档"
    }
   ],
   "note": "UCLA因果ブログの最新本人記事は2023-03で対象期間外。",
@@ -1720,6 +1720,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "Why AI Lies to You — Andrej Karpathy Explains Hallucinations",
+    "u": "https://www.youtube.com/watch?v=E4xtIxv6xtM",
+    "s": "yt",
+    "o": "Data&AI_Consultant"
+   },
+   {
     "d": "2026-10-27",
     "t": "Andrej Karpathy: You're Using AI All Wrong",
     "u": "https://www.youtube.com/watch?v=hrnxzn-3U_A",
@@ -1732,13 +1739,6 @@
     "u": "https://www.youtube.com/watch?v=pWqproo_vX0",
     "s": "yt",
     "o": "NOVAi Records"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Andrej Karpathy: From Prompts to AI Agents, Loops & Graphs | The Future of AI",
-    "u": "https://www.youtube.com/watch?v=vStxou8n5cM",
-    "s": "yt",
-    "o": "o0o0o0o"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2761,15 +2761,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia introduces Spark and RDDs at Scala for Startups hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=Mz6qyph-xEI",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -3438,6 +3438,13 @@
   "med": [],
   "yt": [
    {
+    "d": "2026-10-28",
+    "t": "LIVE: Chipmunk Overclocks, VITS Voice Labs, and Paul Gauthier's Search-Replace",
+    "u": "https://www.youtube.com/watch?v=ThOB1DYDjjU",
+    "s": "yt",
+    "o": "Mike Levin AI-Readiness Consultant"
+   },
+   {
     "d": "2026-10-23",
     "t": "Behind the Ballot: Paul Gauthier | LISD Board Place 7",
     "u": "https://www.youtube.com/watch?v=X1IpnKLJX8c",
@@ -3574,25 +3581,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-28",
+    "t": "Replit’s CEO: We 100x’d Revenue in a Year. Here’s What Changed. | Amjad Masad",
+    "u": "https://www.youtube.com/watch?v=rWI7UC2zOXU",
+    "s": "yt",
+    "o": "Product School"
+   },
+   {
+    "d": "2026-10-28",
+    "t": "What Comes After Everyone Can Ship: Amjad Masad (CEO, Replit) with David Sacks (Craft) | Un_prompted",
+    "u": "https://www.youtube.com/watch?v=Q5K-xcwNyxo",
+    "s": "yt",
+    "o": "Craft Ventures"
+   },
+   {
     "d": "2026-10-16",
     "t": "Everyone Can Build Software. What Happens Now? Replit's CEO Amjad Masad Has an Idea | Disrupt 2026",
     "u": "https://www.youtube.com/watch?v=grkRhVKcxiE",
     "s": "yt",
     "o": "TechCrunch"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Agents Write Most of Our Code | Replit CEO Amjad Masad",
-    "u": "https://www.youtube.com/watch?v=aFTjbZjcj4c",
-    "s": "yt",
-    "o": "Supabase Library"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "Replit CEO Amjad Masad On AI Doom, Software and Vibe-Coding | The Interview",
-    "u": "https://www.youtube.com/watch?v=b-gkp4iiR00",
-    "s": "yt",
-    "o": "The Times Tech Podcast"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -3718,25 +3725,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "Guillermo Rauch: Shipping in the age of agents",
+    "u": "https://www.youtube.com/watch?v=zuc_AGd_mL0",
+    "s": "yt",
+    "o": "Resend"
+   },
+   {
+    "d": "2026-10-29",
+    "t": "Vercel CEO: How to Raise Kids Who Can Think in the AI Era | Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=W9YfKZaK7KI",
+    "s": "yt",
+    "o": "Delphi"
+   },
+   {
     "d": "2026-10-22",
     "t": "Guillermo Rauch: One Stroke Dragon › First of Kind",
     "u": "https://www.youtube.com/watch?v=D1tkBhmI5fs",
     "s": "yt",
     "o": "First of Kind"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "The Third Customer: A Fireside with Tobi Lütke and Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=p7AhQO3Y-GY",
-    "s": "yt",
-    "o": "Vercel"
-   },
-   {
-    "d": "2026-10-16",
-    "t": "AI Will Build Most Frontend Code | Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=0PoFeFCoqbo",
-    "s": "yt",
-    "o": "MTS "
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -5774,25 +5781,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-28",
+    "t": "#ESTIC2026 Plenary Talk 3: Dr Pushmeet Kohli, Vice President, Google DeepMind.",
+    "u": "https://www.youtube.com/watch?v=-qCLPVZjj8k",
+    "s": "yt",
+    "o": "DEPARTMENT OF SCIENCE & TECHNOLOGY GOVT. OF INDIA (DST)"
+   },
+   {
+    "d": "2026-10-28",
+    "t": "Plenary Talk by Dr. Pushmeet Kohli & Prof. Timothy Palmer",
+    "u": "https://www.youtube.com/watch?v=lY2q4DpMhOE",
+    "s": "yt",
+    "o": "ESTIC 2026"
+   },
+   {
     "d": "2026-10-10",
     "t": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
     "u": "https://www.youtube.com/watch?v=NufiHZfMwaw",
     "s": "yt",
     "o": "Latent Space"
-   },
-   {
-    "d": "2026-06-28",
-    "t": "AlphaGo 10년: AI의 전환점 | Thore Graepel & Pushmeet Kohli",
-    "u": "https://www.youtube.com/watch?v=XL4nsAPHH7I",
-    "s": "yt",
-    "o": "sudoremove 창고"
-   },
-   {
-    "d": "2026-06-16",
-    "t": "AI x BIO 2026 | Keynote lecture by Pushmeet Kohli, Google DeepMind, UK",
-    "u": "https://www.youtube.com/watch?v=E2CB8V32QWw",
-    "s": "yt",
-    "o": "Sanger Institute Scientific Training and Events"
    }
   ],
   "note": "3件とも記事末尾の署名で本人名を確認。現肩書はGoogle Cloud最高科学責任者兼DeepMind VP。",
