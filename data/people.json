@@ -4505,6 +4505,12 @@
   "own": [
    {
     "d": "2026-10-28",
+    "t": "Quoting Ted Sanders",
+    "u": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-28",
     "t": "GitHub Octoverse 2026",
     "u": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
     "s": "blog"
@@ -4513,12 +4519,6 @@
     "d": "2026-10-28",
     "t": "The October inflection point for vibe game development",
     "u": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Quoting Terk Terkowitz",
-    "u": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
     "s": "blog"
    }
   ],
@@ -5731,6 +5731,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-10-29",
+    "t": "Partnering with Singapore to bring frontier AI to public health",
+    "u": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-28",
     "t": "Ads in AI Mode expand to new markets.",
     "u": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
@@ -5740,12 +5746,6 @@
     "d": "2026-10-28",
     "t": "Q3 2026 earnings call: Remarks from our CEO",
     "u": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Adapt your ad strategy to meet the way people search today.",
-    "u": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
     "s": "blog"
    }
   ],
@@ -6357,6 +6357,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-28",
+    "t": "Sakana API Platform、エンタープライズ向けにアーリーアクセスプログラムを開始",
+    "u": "https://sakana.ai/api-platform-earlyaccess/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-27",
     "t": "Taking Japan-Born AI Products to the World: An Interview with Sakana AI’s VP of GTM",
     "u": "https://sakana.ai/vp-of-gtm-interview/",
@@ -6366,12 +6372,6 @@
     "d": "2026-10-23",
     "t": "オントロジーを基盤に、意思決定・実行を支援するAIエージェントプラットフォーム「Sakana Aquarium」",
     "u": "https://sakana.ai/aquarium-release/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "【イベントレポート】Sakana AI Engineer Open House 2026",
-    "u": "https://sakana.ai/open-house-2026/",
     "s": "blog"
    }
   ],
