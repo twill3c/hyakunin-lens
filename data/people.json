@@ -5732,20 +5732,20 @@
   "own": [
    {
     "d": "2026-10-29",
+    "t": "Equipping healthcare professionals with practical AI skills",
+    "u": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-29",
+    "t": "How Gemini is helping students and teachers in the classroom",
+    "u": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-29",
     "t": "Partnering with Singapore to bring frontier AI to public health",
     "u": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Ads in AI Mode expand to new markets.",
-    "u": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Q3 2026 earnings call: Remarks from our CEO",
-    "u": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
     "s": "blog"
    }
   ],
@@ -6357,6 +6357,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "Intelligence Report: SNSのAI分析からみる米中間選挙",
+    "u": "https://sakana.ai/us-midterms-analysis/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-28",
     "t": "Sakana API Platform、エンタープライズ向けにアーリーアクセスプログラムを開始",
     "u": "https://sakana.ai/api-platform-earlyaccess/",
@@ -6366,12 +6372,6 @@
     "d": "2026-10-27",
     "t": "Taking Japan-Born AI Products to the World: An Interview with Sakana AI’s VP of GTM",
     "u": "https://sakana.ai/vp-of-gtm-interview/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-23",
-    "t": "オントロジーを基盤に、意思決定・実行を支援するAIエージェントプラットフォーム「Sakana Aquarium」",
-    "u": "https://sakana.ai/aquarium-release/",
     "s": "blog"
    }
   ],
