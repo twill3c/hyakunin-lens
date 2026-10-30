@@ -4012,7 +4012,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-10-29",
+    "d": "2026-10-30",
     "t": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
     "u": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
     "s": "blog"
@@ -4511,6 +4511,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "dbreunig/nesformer",
+    "u": "https://simonwillison.net/2026/Oct/30/nesformer/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-29",
     "t": "API credits benefit for eligible ChatGPT subscriptions",
     "u": "https://simonwillison.net/2026/Oct/29/api-credits/",
@@ -4520,12 +4526,6 @@
     "d": "2026-10-29",
     "t": "Building a multiplayer game world with autonomous Fable-class models",
     "u": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "Quoting Ben Hylak",
-    "u": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
     "s": "blog"
    }
   ],
@@ -5738,21 +5738,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-10-29",
-    "t": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+    "d": "2026-10-30",
+    "t": "Google Fitbit Edge: On shelves now",
+    "u": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
     "s": "blog"
    },
    {
-    "d": "2026-10-29",
-    "t": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+    "d": "2026-10-30",
+    "t": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
     "s": "blog"
    },
    {
-    "d": "2026-10-29",
-    "t": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+    "d": "2026-10-30",
+    "t": "See who has access to your Gmail inbox in 2 minutes.",
+    "u": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
     "s": "blog"
    }
   ],
