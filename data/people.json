@@ -550,25 +550,25 @@
   ],
   "yt": [
    {
+    "d": "2026-10-28",
+    "t": "Andrew Ng on building AI-native teams | AI Fund Frontier ‘26",
+    "u": "https://www.youtube.com/watch?v=DuT3dsyshLA",
+    "s": "yt",
+    "o": "AI Fund"
+   },
+   {
+    "d": "2026-10-27",
+    "t": "Andrew Ng: Coding Is No Longer the Bottleneck",
+    "u": "https://www.youtube.com/watch?v=6d7TIF3zW7I",
+    "s": "yt",
+    "o": "Perfology"
+   },
+   {
     "d": "2026-10-23",
     "t": "LIVE: NDTV World Summit 2026 | Building the Intelligence Economy | Andrew Ng Full Speech",
     "u": "https://www.youtube.com/watch?v=5IaXK7DHRxw",
     "s": "yt",
     "o": "NDTV"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "Will AI destroy jobs? Andrew Ng on the AI jobpocalypse debate | NDTV World Summit 2026",
-    "u": "https://www.youtube.com/watch?v=8qdh2TvlaIo",
-    "s": "yt",
-    "o": "NDTV World"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "Andrew Ng Podcast: Is AI panic engineered to raise funding?",
-    "u": "https://www.youtube.com/watch?v=IKExqTIRTVg",
-    "s": "yt",
-    "o": "ET Digital"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "Mustafa Suleyman: The End of Human Jobs, the Rise of AI, and the Future of Humanity",
+    "u": "https://www.youtube.com/watch?v=aeIY7Q0iebw",
+    "s": "yt",
+    "o": "The Builders with Walter Isaacson"
+   },
+   {
     "d": "2026-10-24",
     "t": "What Is Microsoft Building in AI? Mustafa Suleyman and the AI Disconnects",
     "u": "https://www.youtube.com/watch?v=qL-qiZZQmNM",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=SXPV18g4kFU",
     "s": "yt",
     "o": "BlackNova Productions"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "AGI, AI Revolution & the Future of Human Work | Mustafa Suleyman",
-    "u": "https://www.youtube.com/watch?v=HSmqmaoSiBA",
-    "s": "yt",
-    "o": "Young and Profiting"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -4055,6 +4055,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-30",
+    "t": "Why Own Your Intelligence? Harrison Chase Keynote | Interrupt London",
+    "u": "https://www.youtube.com/watch?v=XOUSuxY074U",
+    "s": "yt",
+    "o": "LangChain"
+   },
+   {
     "d": "2026-10-13",
     "t": "Suds News-Harrison Chase: Clueless Putz",
     "u": "https://www.youtube.com/watch?v=w7GT5pf0hsw",
@@ -4067,13 +4074,6 @@
     "u": "https://www.youtube.com/watch?v=oP_W7GuP6OA",
     "s": "yt",
     "o": "Browserbase"
-   },
-   {
-    "d": "2026-08-23",
-    "t": "Harrison Chase (LangChain): AI Agent 部署策略 - 駕馭器、評估與可觀察性關鍵",
-    "u": "https://www.youtube.com/watch?v=YfBWKsVAsTo",
-    "s": "yt",
-    "o": "PP科技筆記 Podcast"
    }
   ],
   "note": "本人コラム「Harrison's In the Loop」名義。著者と日付を確認。",
@@ -5044,6 +5044,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-30",
+    "t": "ImageNet: How Fei-Fei Li Made the Visual World Familiar to Machines",
+    "u": "https://www.youtube.com/watch?v=PBifqc-WWIc",
+    "s": "yt",
+    "o": "Fifteen Hours"
+   },
+   {
     "d": "2026-10-24",
     "t": "#839: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology...",
     "u": "https://www.youtube.com/watch?v=SKs8SIxg_e0",
@@ -5056,13 +5063,6 @@
     "u": "https://www.youtube.com/watch?v=hHlpUt7Cqg8",
     "s": "yt",
     "o": "Hoover Institution"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "Stop Saying AI Will Replace Us | Fei-Fei Li | The Futurology Podcast",
-    "u": "https://www.youtube.com/watch?v=5Q4804-uwtY",
-    "s": "yt",
-    "o": "Futurology"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -5837,6 +5837,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "Regina Barzilay: Turning Breast Cancer Into a Mission for AI in Medicine | 100 Women in AI",
+    "u": "https://www.youtube.com/watch?v=fFti16y1-Dc",
+    "s": "yt",
+    "o": "100 Women in AI"
+   },
+   {
     "d": "2026-08-04",
     "t": "Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment",
     "u": "https://www.youtube.com/watch?v=h3LrEqWPsew",
@@ -5849,13 +5856,6 @@
     "u": "https://www.youtube.com/watch?v=mIA4yknV1d8",
     "s": "yt",
     "o": "Harvard CMSA"
-   },
-   {
-    "d": "2026-06-27",
-    "t": "Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment",
-    "u": "https://www.youtube.com/watch?v=339HeLuOoik",
-    "s": "yt",
-    "o": "MindVoice Production"
    }
   ],
   "note": "本人サイトのNewsは第三者報道のみ。本人執筆記事・SNS投稿は確認できず0件。",

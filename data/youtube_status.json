@@ -1,258 +1,258 @@
 {
- "bucket": 0,
- "ok": 38,
+ "bucket": 1,
+ "ok": 39,
  "attempted": 50,
  "people": [
   {
-   "n": "Geoffrey Hinton",
+   "n": "Yoshua Bengio",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
-   "n": "Yann LeCun",
-   "ok": true,
-   "count": 19
-  },
-  {
-   "n": "Richard Sutton",
-   "ok": true,
-   "count": 16
-  },
-  {
-   "n": "Judea Pearl",
+   "n": "Jürgen Schmidhuber",
    "ok": true,
    "count": 10
   },
   {
-   "n": "Demis Hassabis",
-   "ok": true,
-   "count": 16
-  },
-  {
-   "n": "Jeff Dean",
-   "ok": true,
-   "count": 12
-  },
-  {
-   "n": "Dario Amodei",
-   "ok": true,
-   "count": 16
-  },
-  {
-   "n": "Chris Olah",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Mira Murati",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Mark Chen",
-   "ok": true,
-   "count": 21
-  },
-  {
-   "n": "Noam Shazeer",
-   "ok": true,
-   "count": 4
-  },
-  {
-   "n": "Aidan Gomez",
+   "n": "Michael I. Jordan",
    "ok": true,
    "count": 3
   },
   {
-   "n": "Andrej Karpathy",
+   "n": "Andrew Ng",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
-   "n": "Jason Wei",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Quoc Le",
-   "ok": true,
-   "count": 3
-  },
-  {
-   "n": "Guillaume Lample",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Jerry Tworek",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Ofir Press",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Karthik Narasimhan",
+   "n": "Koray Kavukcuoglu",
    "ok": true,
    "count": 1
   },
   {
-   "n": "Lilian Weng",
-   "ok": true,
-   "count": 4
+   "n": "Shane Legg",
+   "ok": false,
+   "count": 0
   },
   {
-   "n": "Matei Zaharia",
+   "n": "Jared Kaplan",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Ilya Sutskever",
+   "ok": true,
+   "count": 16
+  },
+  {
+   "n": "Jakub Pachocki",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Mustafa Suleyman",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "n": "Ashish Vaswani",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "Alec Radford",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "John Schulman",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Oriol Vinyals",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Liang Wenfeng 梁文锋",
+   "ok": true,
+   "count": 11
+  },
+  {
+   "n": "Arthur Mensch",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "n": "Shunyu Yao 姚順雨",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "John Yang",
    "ok": true,
    "count": 9
   },
   {
-   "n": "Boris Cherny",
+   "n": "Noah Shinn",
    "ok": true,
-   "count": 19
+   "count": 1
   },
   {
-   "n": "Michael Truell",
-   "ok": true,
-   "count": 5
-  },
-  {
-   "n": "Scott Wu",
-   "ok": true,
-   "count": 8
-  },
-  {
-   "n": "Varun Mohan",
+   "n": "Omar Khattab",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Paul Gauthier",
+   "n": "Graham Neubig",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Cat Wu",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "n": "Aman Sanger",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Walden Yan",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "Xingyao Wang",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Saoud Rizwan",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "n": "Eric Simons",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "Bret Taylor",
+   "ok": true,
+   "count": 11
+  },
+  {
+   "n": "David Soria Parra",
    "ok": true,
    "count": 3
   },
   {
-   "n": "Amjad Masad",
+   "n": "Harrison Chase",
    "ok": true,
-   "count": 16
+   "count": 11
   },
   {
-   "n": "Guillermo Rauch",
-   "ok": true,
-   "count": 16
-  },
-  {
-   "n": "Isa Fulford",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Justin Spahr-Summers",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Jerry Liu",
-   "ok": true,
-   "count": 8
-  },
-  {
-   "n": "Chi Wang",
-   "ok": true,
-   "count": 6
-  },
-  {
-   "n": "Yohei Nakajima",
-   "ok": true,
-   "count": 2
-  },
-  {
-   "n": "Simon Willison",
-   "ok": true,
-   "count": 6
-  },
-  {
-   "n": "Tri Dao",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Woosuk Kwon",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Georgi Gerganov",
-   "ok": true,
-   "count": 1
-  },
-  {
-   "n": "Kaiming He 何愷明",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Ian Goodfellow",
-   "ok": true,
-   "count": 2
-  },
-  {
-   "n": "Sergey Levine",
-   "ok": true,
-   "count": 7
-  },
-  {
-   "n": "Karol Hausman",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "n": "Anima Anandkumar",
+   "n": "João Moura",
    "ok": true,
    "count": 5
   },
   {
-   "n": "Pushmeet Kohli",
-   "ok": true,
-   "count": 4
+   "n": "Toran Bruce Richards",
+   "ok": false,
+   "count": 0
   },
   {
-   "n": "Been Kim",
+   "n": "Thomas Wolf",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
-   "n": "Percy Liang",
+   "n": "Magnus Müller",
    "ok": true,
    "count": 2
   },
   {
-   "n": "Timnit Gebru",
+   "n": "Ion Stoica",
+   "ok": true,
+   "count": 11
+  },
+  {
+   "n": "Joseph E. Gonzalez",
    "ok": true,
    "count": 4
   },
   {
-   "n": "Beth Barnes",
+   "n": "Fei-Fei Li 李飛飛",
+   "ok": true,
+   "count": 17
+  },
+  {
+   "n": "Jitendra Malik",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Pieter Abbeel",
    "ok": true,
    "count": 1
   },
   {
-   "n": "Llion Jones",
+   "n": "Chelsea Finn",
    "ok": true,
-   "count": 1
+   "count": 4
   },
   {
-   "n": "秋葉拓哉",
+   "n": "Jim Fan 范麟熙",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "John Jumper",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "Regina Barzilay",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "Stuart Russell",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "n": "Sara Hooker",
    "ok": false,
    "count": 0
   },
   {
-   "n": "Junyang Lin 林俊旸",
+   "n": "Jan Leike",
    "ok": false,
    "count": 0
+  },
+  {
+   "n": "松尾豊",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "David Ha",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "岡野原大輔",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "n": "Yang Zhilin 楊植麟",
+   "ok": true,
+   "count": 5
   }
  ],
- "generated_at": "2026-10-29T23:14:21Z"
+ "generated_at": "2026-10-30T22:56:00Z"
 }
