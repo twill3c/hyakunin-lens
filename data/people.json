@@ -352,10 +352,10 @@
    },
    {
     "d": "2026-09-28",
-    "t": "The Giant of More - Richard Sutton - 9/27/2026",
-    "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
+    "t": "机器人为什么要上“幼儿园”？｜对话图灵奖得主 Richard Sutton：Why Do Robots Need “Kindergarten”?",
+    "u": "https://www.youtube.com/watch?v=CjGFcL2Qjxk",
     "s": "yt",
-    "o": "Linder Road Church of Christ"
+    "o": "福爸说人形机器人"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -1611,6 +1611,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-31",
+    "t": "Building Secure AI in Canada | Aidan Gomez and Joëlle Pineau",
+    "u": "https://www.youtube.com/watch?v=x08qttt_CxY",
+    "s": "yt",
+    "o": "Evan Solomon"
+   },
+   {
     "d": "2026-10-15",
     "t": "Aidan Gomez, Co-Founder and CEO of Cohere [AI Founders Masterclass 2026 Session 3]",
     "u": "https://www.youtube.com/watch?v=nyZBZKS_nuQ",
@@ -1623,13 +1630,6 @@
     "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
     "s": "yt",
     "o": "Newcomer"
-   },
-   {
-    "d": "2026-06-26",
-    "t": "Aidan Gomez (Cohere) at the Cerebral Valley AI Summit in London",
-    "u": "https://www.youtube.com/watch?v=zFsB5VvrTD4",
-    "s": "yt",
-    "o": "Newcomer AI Summits"
    }
   ],
   "note": "Cohere公式ブログの本人著者ページ最新は2025-01。",
@@ -2201,6 +2201,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-31",
+    "t": "Jerry Tworek, Core Automation CEO on AI Reasoning, Agents and Research",
+    "u": "https://www.youtube.com/watch?v=g5Witsq_KLY",
+    "s": "yt",
+    "o": "Grace Gong"
+   },
+   {
     "d": "2026-08-26",
     "t": "Most AI Labs are Simply Cooked | Jerry Tworek",
     "u": "https://www.youtube.com/watch?v=FJfEq9jhpX8",
@@ -2213,13 +2220,6 @@
     "u": "https://www.youtube.com/watch?v=tFyFurOpi_E",
     "s": "yt",
     "o": "PunkAI"
-   },
-   {
-    "d": "2026-07-29",
-    "t": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
-    "u": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
-    "s": "yt",
-    "o": "Sequoia Capital"
    }
   ],
   "note": "個人ブログ・OpenAI公式の本人名義記事は確認できず。日付未確認。",
@@ -2761,15 +2761,15 @@
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia introduces Spark and RDDs at Scala for Startups hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=Mz6qyph-xEI",
+    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
+    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
     "s": "yt",
     "o": "FunctionalTV"
    },
    {
     "d": "2026-08-11",
-    "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
-    "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
+    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
+    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -3726,17 +3726,17 @@
   "yt": [
    {
     "d": "2026-10-29",
+    "t": "Vercel CEO: How 1 Person + AI Agents Could Build a $1T Company | Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=W9YfKZaK7KI",
+    "s": "yt",
+    "o": "Delphi"
+   },
+   {
+    "d": "2026-10-29",
     "t": "Guillermo Rauch: Shipping in the age of agents",
     "u": "https://www.youtube.com/watch?v=zuc_AGd_mL0",
     "s": "yt",
     "o": "Resend"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "Vercel CEO: How to Raise Kids Who Can Think in the AI Era | Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=W9YfKZaK7KI",
-    "s": "yt",
-    "o": "Delphi"
    },
    {
     "d": "2026-10-22",
