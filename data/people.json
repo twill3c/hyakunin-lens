@@ -1677,6 +1677,12 @@
   "bio": "Stanfordの伝説的講義CS231n、Tesla AI責任者、OpenAI創業メンバーと経歴自体が異色。何より、複雑な技術を誰にでも分かる形に翻訳する能力で世代全体の教育者となった。Eureka Labsを創業した後、2026年5月にAnthropicの事前学習チームを率いる形で研究の最前線に戻っている。",
   "own": [
    {
+    "d": "2026-10-31",
+    "t": "HackerTube",
+    "u": "https://karpathy.bearblog.dev/hacker-tube/",
+    "s": "blog"
+   },
+   {
     "d": "2026-04-30",
     "t": "Sequoia Ascent 2026 summary",
     "u": "https://karpathy.bearblog.dev/sequoia-ascent-2026/",
@@ -1686,12 +1692,6 @@
     "d": "2025-12-19",
     "t": "2025 LLM Year in Review",
     "u": "https://karpathy.bearblog.dev/year-in-review-2025/",
-    "s": "blog"
-   },
-   {
-    "d": "2025-12-18",
-    "t": "Chemical hygiene",
-    "u": "https://karpathy.bearblog.dev/chemical-hygiene/",
     "s": "blog"
    }
   ],
