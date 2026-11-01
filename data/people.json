@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-01",
+    "t": "Deep learning — Yann LeCun, Yoshua Bengio, and Geoffrey Hinton",
+    "u": "https://www.youtube.com/watch?v=6ck6Sp_yQro",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "2026-10-17",
     "t": "The Godfather of AI Is Worried: What Yoshua Bengio Fears",
     "u": "https://www.youtube.com/watch?v=26F9uGhfjrg",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=F4kuuLQrIaE",
     "s": "yt",
     "o": "Max Planck Institute for Intelligent Systems"
-   },
-   {
-    "d": "2026-09-27",
-    "t": "Yoshua Bengio : l'IA pourrait « se retourner contre nous » | Hors des ondes avec Patrice Roy",
-    "u": "https://www.youtube.com/watch?v=WSsggkm03uE",
-    "s": "yt",
-    "o": "Radio-Canada Info"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -268,6 +268,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-31",
+    "t": "Long Short-Term Memory — Sepp Hochreiter and Jürgen Schmidhuber",
+    "u": "https://www.youtube.com/watch?v=nsDk1rks5qU",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "2026-10-14",
     "t": "Could AI Destroy the World? A Debate with Stuart Russell and Jürgen Schmidhuber | Counterpoint",
     "u": "https://www.youtube.com/watch?v=9IwOFRyilfo",
@@ -280,13 +287,6 @@
     "u": "https://www.youtube.com/watch?v=fcOTx06qYtQ",
     "s": "yt",
     "o": "Hermetiq"
-   },
-   {
-    "d": "2026-09-29",
-    "t": "Crudas verdades de la inteligencia artificial según el padre de la IA, Jürgen Schmidhuber",
-    "u": "https://www.youtube.com/watch?v=aauintNTCls",
-    "s": "yt",
-    "o": "Educa Tips Canal"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-26",
+    "t": "Michael Jordan HATER First Time Seeing 23 Minutes of Michael Jordan's BRILLIANCE 🤯",
+    "u": "https://www.youtube.com/watch?v=WAOkvWMAwpY",
+    "s": "yt",
+    "o": "Schuyler Reacts"
+   },
+   {
     "d": "2026-10-21",
     "t": "MJ HATER Gets HUMBLED Watching 16 Straight Mins Of Michael Jordan Facts That Proves Hes The GOAT",
     "u": "https://www.youtube.com/watch?v=c1Y9qWg8yFw",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=ZMBWPCo-AFo",
     "s": "yt",
     "o": "RyBuckets"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "These Michael Jordan RECORDS will make LeBron Fans CRY",
-    "u": "https://www.youtube.com/watch?v=Zd0ZwzFsxbc",
-    "s": "yt",
-    "o": "TheRealMindCrime"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -1126,15 +1126,15 @@
    },
    {
     "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
+    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
     "s": "yt",
     "o": "Shared Context Podcast"
    },
    {
     "d": "2026-09-02",
-    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -2554,6 +2554,13 @@
     "u": "https://www.youtube.com/watch?v=BPNP_4uuihk",
     "s": "yt",
     "o": "HUSTLE STORIES 搞錢故事會"
+   },
+   {
+    "d": "2026-09-29",
+    "t": "회사 설립 5개월차, 기업가치 14조원 (Instinct 창업자 Noah Shinn)",
+    "u": "https://www.youtube.com/watch?v=baCAzi2kTXQ",
+    "s": "yt",
+    "o": "파운더스 컨텍스트 | Founders' Context"
    }
   ],
   "note": "個人サイトにブログ一覧はなく、自著リンクはSubstack1件のみ。",
@@ -6333,15 +6340,15 @@
   "yt": [
    {
     "d": "2026-08-30",
-    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
-    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
+    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
+    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
    {
     "d": "2026-08-30",
-    "t": "2026年8月15日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#02",
-    "u": "https://www.youtube.com/watch?v=mhZxdqfFYxw",
+    "t": "2026年8月6日　世界一流に学ぶAIスキル〜東大大学院教授・松尾豊〜#01",
+    "u": "https://www.youtube.com/watch?v=lOlsgsX_G1s",
     "s": "yt",
     "o": "Yoshi Nakayama"
    },
