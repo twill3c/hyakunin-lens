@@ -4511,6 +4511,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-01",
+    "t": "Quoting Kyle Kingsbury",
+    "u": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-31",
     "t": "How We Took Over ChatGPT Accounts",
     "u": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
@@ -4520,12 +4526,6 @@
     "d": "2026-10-31",
     "t": "datasette-llm 0.1a9",
     "u": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "dbreunig/nesformer",
-    "u": "https://simonwillison.net/2026/Oct/30/nesformer/",
     "s": "blog"
    }
   ],
