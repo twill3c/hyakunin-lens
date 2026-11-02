@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-01",
+    "t": "If in doubt, delete the uv.lock file",
+    "u": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-01",
     "t": "Quoting Kyle Kingsbury",
     "u": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-10-31",
     "t": "How We Took Over ChatGPT Accounts",
     "u": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "datasette-llm 0.1a9",
-    "u": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
     "s": "blog"
    }
   ],
@@ -6371,6 +6371,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-11-02",
+    "t": "【開催レポート】Sakana AIシンポジウム：Jürgen Schmidhuberが語るAIのこれまでとこれから、日本から挑む言語モデル・世界モデル・Physical AI",
+    "u": "https://sakana.ai/symposium-2026/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-30",
     "t": "Intelligence Report: SNSのAI分析からみる米中間選挙",
     "u": "https://sakana.ai/us-midterms-analysis/",
@@ -6380,12 +6386,6 @@
     "d": "2026-10-28",
     "t": "Sakana API Platform、エンタープライズ向けにアーリーアクセスプログラムを開始",
     "u": "https://sakana.ai/api-platform-earlyaccess/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-27",
-    "t": "Taking Japan-Born AI Products to the World: An Interview with Sakana AI’s VP of GTM",
-    "u": "https://sakana.ai/vp-of-gtm-interview/",
     "s": "blog"
    }
   ],
