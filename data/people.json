@@ -4019,21 +4019,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-11-03",
+    "t": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
+    "u": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-03",
+    "t": "How We Optimized Browser Use for Deep Agents",
+    "u": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-02",
     "t": "Managed Deep Agents: the fastest way to ship a production deep agent",
     "u": "https://www.langchain.com/blog/introducing-managed-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-02",
-    "t": "Browser Use in Managed Deep Agents",
-    "u": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-02",
-    "t": "New context engineering challenges in late 2026",
-    "u": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
     "s": "blog"
    }
   ],
@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-03",
+    "t": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "u": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-03",
     "t": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
     "u": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-11-03",
     "t": "October sponsors-only newsletter",
     "u": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-02",
-    "t": "llm 0.37",
-    "u": "https://simonwillison.net/2026/Nov/2/llm/",
     "s": "blog"
    }
   ],
@@ -5746,20 +5746,20 @@
   "own": [
    {
     "d": "2026-11-03",
-    "t": "Working collaboratively to fight scams in Asia Pacific",
-    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+    "t": "New research shows how Guided Learning supports students",
+    "u": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
     "s": "blog"
    },
    {
     "d": "2026-11-03",
-    "t": "Advancing research and partnering with universities in Singapore",
-    "u": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+    "t": "We’re providing funding for organizations building AI for teachers.",
+    "u": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
     "s": "blog"
    },
    {
-    "d": "2026-11-02",
-    "t": "The latest AI news we announced in October 2026",
-    "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "d": "2026-11-03",
+    "t": "AI in the learning era",
+    "u": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
     "s": "blog"
    }
   ],
