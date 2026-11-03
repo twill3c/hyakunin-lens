@@ -1,6 +1,6 @@
 {
  "bucket": 1,
- "ok": 38,
+ "ok": 39,
  "attempted": 50,
  "people": [
   {
@@ -11,17 +11,17 @@
   {
    "n": "Jürgen Schmidhuber",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "n": "Michael I. Jordan",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "n": "Andrew Ng",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "n": "Koray Kavukcuoglu",
@@ -41,7 +41,7 @@
   {
    "n": "Ilya Sutskever",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "n": "Jakub Pachocki",
@@ -76,7 +76,7 @@
   {
    "n": "Liang Wenfeng 梁文锋",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "n": "Arthur Mensch",
@@ -91,7 +91,7 @@
   {
    "n": "John Yang",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "n": "Noah Shinn",
@@ -151,7 +151,7 @@
   {
    "n": "Harrison Chase",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "n": "João Moura",
@@ -166,7 +166,7 @@
   {
    "n": "Thomas Wolf",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "n": "Magnus Müller",
@@ -180,8 +180,8 @@
   },
   {
    "n": "Joseph E. Gonzalez",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "n": "Fei-Fei Li 李飛飛",
@@ -206,7 +206,7 @@
   {
    "n": "Jim Fan 范麟熙",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "n": "John Jumper",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "n": "Sara Hooker",
@@ -241,7 +241,7 @@
   {
    "n": "David Ha",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "n": "岡野原大輔",
@@ -254,5 +254,5 @@
    "count": 5
   }
  ],
- "generated_at": "2026-11-01T22:44:53Z"
+ "generated_at": "2026-11-03T01:31:26Z"
 }
