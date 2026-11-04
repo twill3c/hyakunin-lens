@@ -4020,6 +4020,12 @@
   "own": [
    {
     "d": "2026-11-04",
+    "t": "Why human insight is a strategic advantage for building better agents",
+    "u": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-04",
     "t": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
     "u": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
     "s": "blog"
@@ -4028,12 +4034,6 @@
     "d": "2026-11-03",
     "t": "How We Optimized Browser Use for Deep Agents",
     "u": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "Why human insight is a strategic advantage for building better agents",
-    "u": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
     "s": "blog"
    }
   ],
@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-11-03",
-    "t": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-    "u": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "d": "2026-11-04",
+    "t": "datasette-llm 0.1a10",
+    "u": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-04",
+    "t": "datasette-apps 0.3a0",
+    "u": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
     "s": "blog"
    },
    {
     "d": "2026-11-03",
-    "t": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-    "u": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "October sponsors-only newsletter",
-    "u": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+    "t": "datasette-agent 0.5a0",
+    "u": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
     "s": "blog"
    }
   ],
@@ -5745,21 +5745,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-11-04",
+    "t": "We're sharing our framework for building safer and more helpful AI for health.",
+    "u": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-04",
+    "t": "Take a closer look at art with the Courtauld",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-03",
     "t": "New research shows how Guided Learning supports students",
     "u": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "We’re providing funding for organizations building AI for teachers.",
-    "u": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "AI in the learning era",
-    "u": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
     "s": "blog"
    }
   ],
