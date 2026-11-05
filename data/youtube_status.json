@@ -6,7 +6,7 @@
   {
    "n": "Yoshua Bengio",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "n": "Jürgen Schmidhuber",
@@ -16,7 +16,7 @@
   {
    "n": "Michael I. Jordan",
    "ok": true,
-   "count": 18
+   "count": 3
   },
   {
    "n": "Andrew Ng",
@@ -41,7 +41,7 @@
   {
    "n": "Ilya Sutskever",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "n": "Jakub Pachocki",
@@ -51,7 +51,7 @@
   {
    "n": "Mustafa Suleyman",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "n": "Ashish Vaswani",
@@ -76,7 +76,7 @@
   {
    "n": "Liang Wenfeng 梁文锋",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "n": "Arthur Mensch",
@@ -91,7 +91,7 @@
   {
    "n": "John Yang",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "n": "Noah Shinn",
@@ -141,7 +141,7 @@
   {
    "n": "Bret Taylor",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "n": "David Soria Parra",
@@ -186,7 +186,7 @@
   {
    "n": "Fei-Fei Li 李飛飛",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "n": "Jitendra Malik",
@@ -211,7 +211,7 @@
   {
    "n": "John Jumper",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "n": "Regina Barzilay",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "n": "Sara Hooker",
@@ -254,5 +254,5 @@
    "count": 5
   }
  ],
- "generated_at": "2026-11-03T23:57:05Z"
+ "generated_at": "2026-11-05T00:19:49Z"
 }

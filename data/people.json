@@ -1118,18 +1118,18 @@
   ],
   "yt": [
    {
+    "d": "2026-10-23",
+    "t": "Ilya Sutskever：ChatGPT创造者讲透AI理解世界的惊人真相",
+    "u": "https://www.youtube.com/watch?v=68g5XHsqlak",
+    "s": "yt",
+    "o": "Joy AI"
+   },
+   {
     "d": "2026-10-09",
     "t": "Chat GPT's Creator Explains The Shocking Truth About How AI Understands the World |Ilya Sutskever",
     "u": "https://www.youtube.com/watch?v=6mR5JjTY3N0",
     "s": "yt",
     "o": "Eye on AI"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
-    "s": "yt",
-    "o": "Shared Context Podcast"
    },
    {
     "d": "2026-09-02",
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-04",
+    "t": "Walter Isaacson & Mustafa Suleyman in Conversation: The Age of AI — A Live Recording of The Builders",
+    "u": "https://www.youtube.com/watch?v=f_z0GePw2Eo",
+    "s": "yt",
+    "o": "The 92nd Street Y, New York"
+   },
+   {
     "d": "2026-10-29",
     "t": "Mustafa Suleyman: The End of Human Jobs, the Rise of AI, and the Future of Humanity",
     "u": "https://www.youtube.com/watch?v=aeIY7Q0iebw",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=qL-qiZZQmNM",
     "s": "yt",
     "o": "Deep Business"
-   },
-   {
-    "d": "2026-10-23",
-    "t": "Mustafa Suleyman (on artificial intelligence)",
-    "u": "https://www.youtube.com/watch?v=SXPV18g4kFU",
-    "s": "yt",
-    "o": "BlackNova Productions"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -5051,6 +5051,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-04",
+    "t": "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li",
+    "u": "https://www.youtube.com/watch?v=ooGKNwJWdb8",
+    "s": "yt",
+    "o": "Stanford HAI"
+   },
+   {
     "d": "2026-10-30",
     "t": "ImageNet: How Fei-Fei Li Made the Visual World Familiar to Machines",
     "u": "https://www.youtube.com/watch?v=PBifqc-WWIc",
@@ -5063,13 +5070,6 @@
     "u": "https://www.youtube.com/watch?v=SKs8SIxg_e0",
     "s": "yt",
     "o": "BlackNova Productions"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence",
-    "u": "https://www.youtube.com/watch?v=hHlpUt7Cqg8",
-    "s": "yt",
-    "o": "Hoover Institution"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -5713,6 +5713,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-05",
+    "t": "How AI Cracked the Code of Life, Molecular Medicine, and Human Biology with John Jumper - StarTalk",
+    "u": "https://www.youtube.com/watch?v=P31hSUPF3-M",
+    "s": "yt",
+    "o": "Funny Science StarTaIk"
+   },
+   {
     "d": "2026-07-02",
     "t": "Working at the Edge of Knowledge With John Jumper",
     "u": "https://www.youtube.com/watch?v=TAGrlrKhD_w",
@@ -5725,13 +5732,6 @@
     "u": "https://www.youtube.com/watch?v=PkrLkwLQmI8",
     "s": "yt",
     "o": "Juergen Lunkwitz (Juergs)"
-   },
-   {
-    "d": "2026-06-27",
-    "t": "John Jumper凭AlphaFold摘诺贝尔奖后为何出走Google",
-    "u": "https://www.youtube.com/watch?v=1IFS1Djwtz0",
-    "s": "yt",
-    "o": "Joy AI"
    }
   ],
   "note": "報道（2026-06）と整合するが投稿ページ上の日付は未確認。",
