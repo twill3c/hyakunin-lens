@@ -4019,21 +4019,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-11-04",
+    "d": "2026-11-05",
+    "t": "Agents Are Going Async",
+    "u": "https://www.langchain.com/blog/agents-are-going-async",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-05",
+    "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-05",
     "t": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
     "u": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "Why human insight is a strategic advantage for building better agents",
-    "u": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "How We Optimized Browser Use for Deep Agents",
-    "u": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
     "s": "blog"
    }
   ],
@@ -4518,6 +4518,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-05",
+    "t": "Quoting Paul Ford",
+    "u": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-04",
     "t": "datasette-llm 0.1a10",
     "u": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
@@ -4527,12 +4533,6 @@
     "d": "2026-11-04",
     "t": "datasette-apps 0.3a0",
     "u": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "datasette-agent 0.5a0",
-    "u": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
     "s": "blog"
    }
   ],
