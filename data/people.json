@@ -4020,20 +4020,20 @@
   "own": [
    {
     "d": "2026-11-05",
+    "t": "How We Optimized Browser Use for Deep Agents",
+    "u": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-05",
+    "t": "Browser Use in Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-05",
     "t": "Agents Are Going Async",
     "u": "https://www.langchain.com/blog/agents-are-going-async",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-05",
-    "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-    "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-05",
-    "t": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
-    "u": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-11-04",
-    "t": "Watch Henry Cavill build a video game on his Googlebook",
-    "u": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+    "d": "2026-11-05",
+    "t": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+    "u": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
     "s": "blog"
    },
    {
-    "d": "2026-11-04",
-    "t": "We're sharing our framework for building safer and more helpful AI for health.",
-    "u": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+    "d": "2026-11-05",
+    "t": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "s": "blog"
    },
    {
-    "d": "2026-11-04",
-    "t": "Take a closer look at art with the Courtauld",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+    "d": "2026-11-05",
+    "t": "Investing in Wyoming’s infrastructure, energy and workforce",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
     "s": "blog"
    }
   ],
