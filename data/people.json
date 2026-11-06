@@ -352,10 +352,10 @@
    },
    {
     "d": "2026-09-28",
-    "t": "机器人为什么要上“幼儿园”？｜对话图灵奖得主 Richard Sutton：Why Do Robots Need “Kindergarten”?",
-    "u": "https://www.youtube.com/watch?v=CjGFcL2Qjxk",
+    "t": "The Giant of More - Richard Sutton - 9/27/2026",
+    "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
     "s": "yt",
-    "o": "福爸说人形机器人"
+    "o": "Linder Road Church of Christ"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -625,6 +625,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-05",
+    "t": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
+    "u": "https://www.youtube.com/watch?v=x7Z_1miRWB8",
+    "s": "yt",
+    "o": "Masters of Scale"
+   },
+   {
     "d": "2026-10-12",
     "t": "Demis Hassabis (CEO Google Deepmind) Explains the Future of AI in 60 Minutes | Cambridge Lecture",
     "u": "https://www.youtube.com/watch?v=VglfMQ5D4Kw",
@@ -637,13 +644,6 @@
     "u": "https://www.youtube.com/watch?v=MKyLmtNAvMM",
     "s": "yt",
     "o": "最佳拍档"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "🔴 LIVE: AI CEOs Brief UN Security Council | Sam Altman, Demis Hassabis & Dario Amodei on AI Risks",
-    "u": "https://www.youtube.com/watch?v=-Xog7fJwkzE",
-    "s": "yt",
-    "o": "News Mobile"
    }
   ],
   "note": "",
@@ -775,6 +775,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-04",
+    "t": "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li",
+    "u": "https://www.youtube.com/watch?v=ooGKNwJWdb8",
+    "s": "yt",
+    "o": "Stanford HAI"
+   },
+   {
     "d": "2026-09-16",
     "t": "Ex-Google Jeff Dean just released the best 1-hour lecture on AI engineering: from basics to Graphs",
     "u": "https://www.youtube.com/watch?v=gTfgbqqL3J0",
@@ -787,13 +794,6 @@
     "u": "https://www.youtube.com/watch?v=BVQSWeK2Nrw",
     "s": "yt",
     "o": "OpenXLA"
-   },
-   {
-    "d": "2026-09-07",
-    "t": "Jeff Dean Leaving Google - A Google Exodus ? | Why “Hire People Smarter Than You” Is Terrible Advice",
-    "u": "https://www.youtube.com/watch?v=OgfMPC7Hvn4",
-    "s": "yt",
-    "o": "TwoFoundersPodcast"
    }
   ],
   "note": "2026-08-05にDiscovery Loop創業を発表するスレッド。個人ブログは確認できず。",
@@ -1611,6 +1611,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-05",
+    "t": "Aidan Gomez, Co-Founder and CEO of Cohere [AI Founders Masterclass 2026 Session 3]",
+    "u": "https://www.youtube.com/watch?v=KrVT_0JHQmQ",
+    "s": "yt",
+    "o": "Radical Ventures"
+   },
+   {
     "d": "2026-10-31",
     "t": "Building Secure AI in Canada | Aidan Gomez and Joëlle Pineau",
     "u": "https://www.youtube.com/watch?v=x08qttt_CxY",
@@ -1623,13 +1630,6 @@
     "u": "https://www.youtube.com/watch?v=nyZBZKS_nuQ",
     "s": "yt",
     "o": "Radical Ventures"
-   },
-   {
-    "d": "2026-06-26",
-    "t": "Aidan Gomez Unfiltered on AGI, China & AI's Biggest Risk",
-    "u": "https://www.youtube.com/watch?v=GfBEBfbW6YE",
-    "s": "yt",
-    "o": "Newcomer"
    }
   ],
   "note": "Cohere公式ブログの本人著者ページ最新は2025-01。",
@@ -1720,6 +1720,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-05",
+    "t": "Is this the ultimate guide to AI engineering? Andrej Karpathy explains",
+    "u": "https://www.youtube.com/watch?v=rYX7URr8abk",
+    "s": "yt",
+    "o": "Mastering Tech Insights"
+   },
+   {
     "d": "2026-10-29",
     "t": "Why AI Lies to You — Andrej Karpathy Explains Hallucinations",
     "u": "https://www.youtube.com/watch?v=E4xtIxv6xtM",
@@ -1732,13 +1739,6 @@
     "u": "https://www.youtube.com/watch?v=hrnxzn-3U_A",
     "s": "yt",
     "o": "philia"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "The LLM Operating System: A Briefing on Andrej Karpathy's Vision for Software 3.0",
-    "u": "https://www.youtube.com/watch?v=pWqproo_vX0",
-    "s": "yt",
-    "o": "NOVAi Records"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -1962,7 +1962,7 @@
     "t": "Food Scientist to Medium: Dr. Bryan Quoc Le on Consciousness, Psychedelics & the Afterlife",
     "u": "https://www.youtube.com/watch?v=zDfJJILOVCs",
     "s": "yt",
-    "o": "The Kidd and Friends Podcast "
+    "o": "The Kidd & Friends: Consciousness, The Unexplained"
    },
    {
     "d": "2026-09-27",
@@ -5105,7 +5105,15 @@
     "o": "NeurIPS 2024"
    }
   ],
-  "yt": [],
+  "yt": [
+   {
+    "d": "2026-11-03",
+    "t": "Deep Residual Learning for Image Recognition — Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun",
+    "u": "https://www.youtube.com/watch?v=Yqvb7sicqf8",
+    "s": "yt",
+    "o": "Neural Casts"
+   }
+  ],
   "note": "MIT個人ページにブログ・SNSリンクなし。本人発信は確認できず0件。",
   "mnote": "本人発信は皆無だが、講演とMIT広報インタビューは存在する。",
   "ynote": "重要: YouTubeでも本人の対談・インタビュー動画は確認できず0件。見つかるのは講演か本人不在の論文解説のみ。"
@@ -5364,6 +5372,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-04",
+    "t": "Cal Hacks 13.0 - Closing Ceremony (feat. Keynote by Sergey Levine)",
+    "u": "https://www.youtube.com/watch?v=-kdR4p3XkWs",
+    "s": "yt",
+    "o": "The House Fund"
+   },
+   {
     "d": "2026-10-22",
     "t": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence",
     "u": "https://www.youtube.com/watch?v=5X166Fead8o",
@@ -5374,13 +5389,6 @@
     "d": "2026-10-05",
     "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
     "u": "https://www.youtube.com/watch?v=AX1VsGYt1u4",
-    "s": "yt",
-    "o": "ICONIQ"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
-    "u": "https://www.youtube.com/watch?v=fBe0POLId0s",
     "s": "yt",
     "o": "ICONIQ"
    }
