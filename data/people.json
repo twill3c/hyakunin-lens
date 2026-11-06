@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-06",
+    "t": "\"It Acts Dumb When You Test It\" — Geoffrey Hinton's Terrifying New Warning",
+    "u": "https://www.youtube.com/watch?v=aXuEt__qQiI",
+    "s": "yt",
+    "o": "AI Abyss"
+   },
+   {
     "d": "2026-10-27",
     "t": "‘Elon Musk Has No Regard For Democracy’: AI Godfather Geoffrey Hinton Slams Tech Billionaire",
     "u": "https://www.youtube.com/watch?v=_N5I-u1ezDY",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=TNffIt8eRb0",
     "s": "yt",
     "o": "TU Wien Informatics"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Geoffrey Hinton I Starmus Panel I Music-News.com @starmusfest @DrGeoffreyHinton",
-    "u": "https://www.youtube.com/watch?v=odass1Pj7oo",
-    "s": "yt",
-    "o": "MusicNewsWeb"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -352,10 +352,10 @@
    },
    {
     "d": "2026-09-28",
-    "t": "The Giant of More - Richard Sutton - 9/27/2026",
-    "u": "https://www.youtube.com/watch?v=k6fuHzwbn2M",
+    "t": "机器人为什么要上“幼儿园”？｜对话图灵奖得主 Richard Sutton：Why Do Robots Need “Kindergarten”?",
+    "u": "https://www.youtube.com/watch?v=CjGFcL2Qjxk",
     "s": "yt",
-    "o": "Linder Road Church of Christ"
+    "o": "福爸说人形机器人"
    }
   ],
   "note": "incompleteideas.net に直近24か月の新規記事は確認できず。",
@@ -1474,6 +1474,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-06",
+    "t": "Noam Shazeer（ノーム・シャジール）（現OpenAI）ら設立のCharacter AI（キャラクターAI）、破産法申請。ディズニーに一部資産売却",
+    "u": "https://www.youtube.com/watch?v=Eisf7c71UAw",
+    "s": "yt",
+    "o": "newsify"
+   },
+   {
     "d": "2026-06-28",
     "t": "Transformer八位作者现状 | Noam Shazeer离职 | Google DeepMind | OpenAI | Anthropic | AI人才外流",
     "u": "https://www.youtube.com/watch?v=pSTKE6JLl1Q",
@@ -1486,13 +1493,6 @@
     "u": "https://www.youtube.com/watch?v=OHCzeimh9R4",
     "s": "yt",
     "o": "A Global Tech Podcast"
-   },
-   {
-    "d": "2026-06-19",
-    "t": "Midjourney Goes Medical, Noam Shazeer & Dean Ball Join OpenAI | Diet TBPN",
-    "u": "https://www.youtube.com/watch?v=8rYW2eYQfvQ",
-    "s": "yt",
-    "o": "TBPN"
    }
   ],
   "note": "個人ブログ・Substackは確認できず。",
@@ -3747,10 +3747,10 @@
    },
    {
     "d": "2026-10-22",
-    "t": "Guillermo Rauch: One Stroke Dragon › First of Kind",
-    "u": "https://www.youtube.com/watch?v=D1tkBhmI5fs",
+    "t": "The Third Customer: A Fireside with Tobi Lütke and Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=p7AhQO3Y-GY",
     "s": "yt",
-    "o": "First of Kind"
+    "o": "Vercel"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",

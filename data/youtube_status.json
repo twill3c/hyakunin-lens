@@ -6,7 +6,7 @@
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "n": "Yann LeCun",
@@ -16,7 +16,7 @@
   {
    "n": "Richard Sutton",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "n": "Judea Pearl",
@@ -56,7 +56,7 @@
   {
    "n": "Noam Shazeer",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "n": "Aidan Gomez",
@@ -111,7 +111,7 @@
   {
    "n": "Boris Cherny",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "n": "Michael Truell",
@@ -171,12 +171,12 @@
   {
    "n": "Simon Willison",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "n": "Tri Dao",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "n": "Woosuk Kwon",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-11-06T00:08:55Z"
+ "generated_at": "2026-11-06T23:42:40Z"
 }
