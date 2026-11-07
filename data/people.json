@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-07",
+    "t": "A Critical Pathway to Safe-by-Design AI -  A Lecture by Prof. Yoshua Bengio at TU Berlin",
+    "u": "https://www.youtube.com/watch?v=2-jQLttcWnM",
+    "s": "yt",
+    "o": "TUBerlinTV"
+   },
+   {
     "d": "2026-11-01",
     "t": "Deep learning — Yann LeCun, Yoshua Bengio, and Geoffrey Hinton",
     "u": "https://www.youtube.com/watch?v=6ck6Sp_yQro",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=26F9uGhfjrg",
     "s": "yt",
     "o": "The Genius Files"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "MLSS 2026 — Yoshua Bengio — Why are AIs cheating, lying and apparently colluding?",
-    "u": "https://www.youtube.com/watch?v=F4kuuLQrIaE",
-    "s": "yt",
-    "o": "Max Planck Institute for Intelligent Systems"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -400,25 +400,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-02",
+    "t": "At 63, Michael Jordan Finally Confirms The Rumors",
+    "u": "https://www.youtube.com/watch?v=ZYVe5yfwhEs",
+    "s": "yt",
+    "o": "Locker Wars"
+   },
+   {
+    "d": "2026-10-30",
+    "t": "I'll Convince You Michael Jordan is the GOAT in under 28 minutes",
+    "u": "https://www.youtube.com/watch?v=Fohac6_PATs",
+    "s": "yt",
+    "o": "EddieBuckets"
+   },
+   {
     "d": "2026-10-30",
     "t": "WHY Isiah Thomas acts like Michael Jordan's JEALOUS EX GF",
     "u": "https://www.youtube.com/watch?v=SOQAsa9R8S0",
     "s": "yt",
     "o": "TheRealMindCrime"
-   },
-   {
-    "d": "2026-10-26",
-    "t": "Michael Jordan HATER First Time Seeing 23 Minutes of Michael Jordan's BRILLIANCE 🤯",
-    "u": "https://www.youtube.com/watch?v=WAOkvWMAwpY",
-    "s": "yt",
-    "o": "Schuyler Reacts"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "MJ HATER Gets HUMBLED Watching 16 Straight Mins Of Michael Jordan Facts That Proves Hes The GOAT",
-    "u": "https://www.youtube.com/watch?v=c1Y9qWg8yFw",
-    "s": "yt",
-    "o": "Daily CT"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -1133,8 +1133,8 @@
    },
    {
     "d": "2026-09-02",
-    "t": "Andrej Karpathy × Ilya Sutskever · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=F9gYtisat9M",
+    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
+    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
     "s": "yt",
     "o": "Shared Context Podcast"
    }
@@ -1645,6 +1645,13 @@
   "med": [],
   "yt": [
    {
+    "d": "2026-11-05",
+    "t": "Learning Transferable Visual Models From Natural Language Supervision — Alec Radford et al.",
+    "u": "https://www.youtube.com/watch?v=iuR0cSiBS0w",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "2026-03-18",
     "t": "Kimi K2.5 + Alec Radford Data Filtering Paper Club: AI in Action 4 Feb 2026",
     "u": "https://www.youtube.com/watch?v=xUy0vno25k0",
@@ -1657,13 +1664,6 @@
     "u": "https://www.youtube.com/watch?v=BnpB3GrpsfM",
     "s": "yt",
     "o": "Pieter Abbeel"
-   },
-   {
-    "d": "不明",
-    "t": "CLIP - Learning Transferable Visual Models From Natural Language Supervision",
-    "u": "https://www.youtube.com/watch?v=3X3EY2Fgp3g",
-    "s": "yt",
-    "o": "feather"
    }
   ],
   "note": "個人ブログ・Substackは存在を確認できず。直近24か月のX本人投稿も内容・日付ともに確認できず0件。",
@@ -2985,6 +2985,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-06",
+    "t": "Anthropic’s Cat Wu Leaves Just Before IPO, Meta Acquires AI Coding Startup Conductor",
+    "u": "https://www.youtube.com/watch?v=j4NKC2k23WM",
+    "s": "yt",
+    "o": "A Global Tech Podcast"
+   },
+   {
     "d": "2026-10-13",
     "t": "The future of software engineering | Cat Wu, Dax Raax, Swyx, Runtime 2026",
     "u": "https://www.youtube.com/watch?v=YC2yFCD5uJM",
@@ -2997,13 +3004,6 @@
     "u": "https://www.youtube.com/watch?v=TtjXKQ-qS9Y",
     "s": "yt",
     "o": "sudoremove"
-   },
-   {
-    "d": "2026-06-28",
-    "t": "Anthropic의 제품팀은 어떻게 누구보다 빠르게 움직이는가 | Cat Wu (Claude Code 제품 총괄)",
-    "u": "https://www.youtube.com/watch?v=aBl6aLdpzA8",
-    "s": "yt",
-    "o": "sudoremove 창고"
    }
   ],
   "note": "本人名義のブログ記事は確認できず、X投稿のみ。",
@@ -4212,6 +4212,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-07",
+    "t": "Entrevista Mega Cast - João Moura - João do Pidão",
+    "u": "https://www.youtube.com/watch?v=r5EmrDu9jRg",
+    "s": "yt",
+    "o": "MEGA98FM "
+   },
+   {
     "d": "2026-10-22",
     "t": "218-Nehemias Merien -  palestrante João Moura",
     "u": "https://www.youtube.com/watch?v=qWFqsJbDEy8",
@@ -4224,13 +4231,6 @@
     "u": "https://www.youtube.com/watch?v=_a5Lz0oYsHg",
     "s": "yt",
     "o": "The AI Conference™"
-   },
-   {
-    "d": "2026-09-13",
-    "t": "Gabriel e Emanoel / Neto e João Moura",
-    "u": "https://www.youtube.com/watch?v=W-MdkLC_L10",
-    "s": "yt",
-    "o": "gabrielcosta_bt"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -6497,6 +6497,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-03",
+    "t": "God of Pastor David has done it as he’s wife put to birth. Baby Girl . Oh glory to our God",
+    "u": "https://www.youtube.com/watch?v=nWzWJ59dOGI",
+    "s": "yt",
+    "o": "pastor David "
+   },
+   {
     "d": "2026-10-24",
     "t": "David Has 7 Days to Choose – A CEO Career or His Family?",
     "u": "https://www.youtube.com/watch?v=PNFlUqYFgNE",
@@ -6509,13 +6516,6 @@
     "u": "https://www.youtube.com/watch?v=jrAder5LeH0",
     "s": "yt",
     "o": "Senior Perspective on Sister Wives"
-   },
-   {
-    "d": "2026-10-03",
-    "t": "REFLEXIONES DE SUKKOT DIA  7 DAVID HA MELEK 02/010/2026",
-    "u": "https://www.youtube.com/watch?v=fu0BOQ15Bq4",
-    "s": "yt",
-    "o": "RICARDO MOJICA RAICES HEBREAS DE LA FE RD"
    }
   ],
   "note": "本人ブログの最新は2022-10で対象期間外（参考として記載）。X(@hardmaru)は取得不可。",
