@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-11-07",
-    "t": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-    "u": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+    "d": "2026-11-09",
+    "t": "The Web Is More Than Enough, by Paul Ford",
+    "u": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
     "s": "blog"
    },
    {
-    "d": "2026-11-06",
-    "t": "Quoting Nilay Patel",
-    "u": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+    "d": "2026-11-09",
+    "t": "Hide your slop PR descriptions behind <details><summary>",
+    "u": "https://simonwillison.net/2026/Nov/9/details-summary/",
     "s": "blog"
    },
    {
-    "d": "2026-11-05",
-    "t": "Quoting Paul Ford",
-    "u": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+    "d": "2026-11-08",
+    "t": "parse_number() as a SQLite extension: C vs Rust",
+    "u": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
     "s": "blog"
    }
   ],
