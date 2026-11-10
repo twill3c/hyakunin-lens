@@ -4019,21 +4019,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-11-09",
-    "t": "How Stripe Built Kai on Deep Agents in 1 Week",
-    "u": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-09",
+    "d": "2026-11-10",
     "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
     "s": "blog"
    },
    {
-    "d": "2026-11-09",
-    "t": "Iterating Towards LLM Reliability with Evaluation Driven Development",
-    "u": "https://www.langchain.com/blog/iterating-towards-llm-reliability-with-evaluation-driven-development",
+    "d": "2026-11-10",
+    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-10",
+    "t": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+    "u": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-11-10",
+    "t": "Google Cloud launches Gemini for healthcare.",
+    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-10",
+    "t": "Waze and Garmin team up to boost driver awareness of cyclists.",
+    "u": "https://blog.google/waze/garmin-safety-cyclists/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-09",
     "t": "Developers can now build with Google Maps Platform in AI Studio.",
     "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-09",
-    "t": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-09",
-    "t": "Holiday 100: Your guide to this year’s top trending gifts",
-    "u": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
     "s": "blog"
    }
   ],
