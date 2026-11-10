@@ -11,7 +11,7 @@
   {
    "n": "Yann LeCun",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "n": "Richard Sutton",
@@ -26,17 +26,17 @@
   {
    "n": "Demis Hassabis",
    "ok": true,
-   "count": 15
+   "count": 17
   },
   {
    "n": "Jeff Dean",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "n": "Dario Amodei",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "n": "Chris Olah",
@@ -86,7 +86,7 @@
   {
    "n": "Jerry Tworek",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "n": "Ofir Press",
@@ -136,7 +136,7 @@
   {
    "n": "Amjad Masad",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "n": "Guillermo Rauch",
@@ -176,7 +176,7 @@
   {
    "n": "Tri Dao",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "n": "Woosuk Kwon",
@@ -201,7 +201,7 @@
   {
    "n": "Sergey Levine",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "n": "Karol Hausman",
@@ -221,7 +221,7 @@
   {
    "n": "Been Kim",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "n": "Percy Liang",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-11-08T22:49:32Z"
+ "generated_at": "2026-11-10T01:59:59Z"
 }
