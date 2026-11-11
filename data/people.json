@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-10",
+    "t": "llm-gemini 0.36",
+    "u": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-10",
     "t": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
     "u": "https://simonwillison.net/2026/Nov/10/muse-ember/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-11-10",
     "t": "Quoting Prompting Claude Fable 5.2",
     "u": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Yonkers Rises",
-    "u": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
     "s": "blog"
    }
   ],
@@ -5754,20 +5754,20 @@
   "own": [
    {
     "d": "2026-11-10",
-    "t": "Google Cloud launches Gemini for healthcare.",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "t": "Gemini Intelligence: New features, on more devices",
+    "u": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
     "s": "blog"
    },
    {
     "d": "2026-11-10",
-    "t": "Waze and Garmin team up to boost driver awareness of cyclists.",
-    "u": "https://blog.google/waze/garmin-safety-cyclists/",
+    "t": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+    "u": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
     "s": "blog"
    },
    {
-    "d": "2026-11-09",
-    "t": "Developers can now build with Google Maps Platform in AI Studio.",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+    "d": "2026-11-10",
+    "t": "Get step-by-step workout guidance on your Pixel Watch.",
+    "u": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
     "s": "blog"
    }
   ],
