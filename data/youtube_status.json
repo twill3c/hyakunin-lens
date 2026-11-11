@@ -11,7 +11,7 @@
   {
    "n": "Yann LeCun",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "n": "Richard Sutton",
@@ -31,12 +31,12 @@
   {
    "n": "Jeff Dean",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "n": "Dario Amodei",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "n": "Chris Olah",
@@ -46,7 +46,7 @@
   {
    "n": "Mira Murati",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "n": "Mark Chen",
@@ -141,7 +141,7 @@
   {
    "n": "Guillermo Rauch",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "n": "Isa Fulford",
@@ -176,7 +176,7 @@
   {
    "n": "Tri Dao",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "n": "Woosuk Kwon",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-11-10T01:59:59Z"
+ "generated_at": "2026-11-10T23:59:22Z"
 }
