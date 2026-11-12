@@ -6,7 +6,7 @@
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "n": "Yann LeCun",
@@ -26,7 +26,7 @@
   {
    "n": "Demis Hassabis",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "n": "Jeff Dean",
@@ -56,7 +56,7 @@
   {
    "n": "Noam Shazeer",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "n": "Aidan Gomez",
@@ -136,7 +136,7 @@
   {
    "n": "Amjad Masad",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "n": "Guillermo Rauch",
@@ -201,7 +201,7 @@
   {
    "n": "Sergey Levine",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "n": "Karol Hausman",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-11-10T23:59:22Z"
+ "generated_at": "2026-11-12T01:29:18Z"
 }

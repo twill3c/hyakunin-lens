@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "\"This Is The Worst AI You Will Ever See.\" (Geoffrey Hinton's Final Warning)",
+    "u": "https://www.youtube.com/watch?v=S6SpKXD_WIo",
+    "s": "yt",
+    "o": "AI Abyss"
+   },
+   {
     "d": "2026-11-06",
     "t": "\"It Acts Dumb When You Test It\" — Geoffrey Hinton's Terrifying New Warning",
     "u": "https://www.youtube.com/watch?v=aXuEt__qQiI",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=_N5I-u1ezDY",
     "s": "yt",
     "o": "CRUX"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "Vienna Gödel Lecture 2026: Geoffrey Hinton",
-    "u": "https://www.youtube.com/watch?v=TNffIt8eRb0",
-    "s": "yt",
-    "o": "TU Wien Informatics"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Yann LeCun vient de marquer un point contre les LLM (actu IA)",
+    "u": "https://www.youtube.com/watch?v=TySSyP5xjeg",
+    "s": "yt",
+    "o": "Eliott Meunier"
+   },
+   {
     "d": "2026-10-22",
     "t": "Yann LeCun, AI legend, Co-Founder of AMI Labs, NYU Professor [AI Founders Masterclass Session 5]",
     "u": "https://www.youtube.com/watch?v=k4irc59yUsE",
@@ -205,13 +212,6 @@
     "u": "https://www.youtube.com/watch?v=gGlTEJB_mMY",
     "s": "yt",
     "o": "Ministry of Spark"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Je DÉTRUIS Yann LeCun (comment j'assume ce titre maintenant ?)",
-    "u": "https://www.youtube.com/watch?v=eCl0xW0cZ-E",
-    "s": "yt",
-    "o": "Dr. Deep Réflections"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -337,6 +337,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Indie Creator Spotlight - Richard Sutton | Comic Book Corner (Video Version)",
+    "u": "https://www.youtube.com/watch?v=-Zvudr-7x94",
+    "s": "yt",
+    "o": "3BlackGeeks"
+   },
+   {
     "d": "2026-10-12",
     "t": "Sunday Evening Service  Richard Sutton - 10/11/2026",
     "u": "https://www.youtube.com/watch?v=4X2K8a71zCM",
@@ -347,13 +354,6 @@
     "d": "2026-10-12",
     "t": "The Giant Intruder of Sin - Richard Sutton  - 10/11/2026",
     "u": "https://www.youtube.com/watch?v=LhMgK_epf5c",
-    "s": "yt",
-    "o": "Linder Road Church of Christ"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "Good News/Bad News - Richard Sutton -  10/4/26",
-    "u": "https://www.youtube.com/watch?v=gmlwB3k1HG8",
     "s": "yt",
     "o": "Linder Road Church of Christ"
    }
@@ -625,6 +625,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-10",
+    "t": "Demis Hassabis",
+    "u": "https://www.youtube.com/watch?v=H37gnM43rhA",
+    "s": "yt",
+    "o": "DMente Digital Agencia"
+   },
+   {
     "d": "2026-11-05",
     "t": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
     "u": "https://www.youtube.com/watch?v=x7Z_1miRWB8",
@@ -637,13 +644,6 @@
     "u": "https://www.youtube.com/watch?v=ynZlJObTNXs",
     "s": "yt",
     "o": "tekgurukool"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Demis Hassabis (CEO Google Deepmind) Explains the Future of AI in 60 Minutes | Cambridge Lecture",
-    "u": "https://www.youtube.com/watch?v=VglfMQ5D4Kw",
-    "s": "yt",
-    "o": "DigitalFoundry"
    }
   ],
   "note": "",
@@ -925,6 +925,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-10",
+    "t": "Anthropic IPO - Dario Amodei",
+    "u": "https://www.youtube.com/watch?v=eynv5VR9qos",
+    "s": "yt",
+    "o": "bunaul"
+   },
+   {
     "d": "2026-10-22",
     "t": "In 2016, Dario Amodei Predicted Horrific AI Future (Rare Lost Interviews Of Anthropic’s CEO)",
     "u": "https://www.youtube.com/watch?v=ZTMNM5WZZyk",
@@ -937,13 +944,6 @@
     "u": "https://www.youtube.com/watch?v=Ff4QcXuQo-U",
     "s": "yt",
     "o": "Niloticai"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "Dario Amodei Spent 15 Years Learning to Predict What You Do Next",
-    "u": "https://www.youtube.com/watch?v=reP1wbOL7Wk",
-    "s": "yt",
-    "o": "Dr. Josh C. Simmons"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -3596,17 +3596,17 @@
    },
    {
     "d": "2026-11-08",
-    "t": "Replit 執行長 Amjad Masad 深度對談 Paul Graham：AI 代理如何顛覆軟體開發？從 Vibe Coding 到「自動駕駛公司」的未來",
-    "u": "https://www.youtube.com/watch?v=vL3X8GwaWI8",
-    "s": "yt",
-    "o": "PP科技筆記 Podcast"
-   },
-   {
-    "d": "2026-11-08",
     "t": "Paul Graham 对谈 Amjad Masad：打造未来究竟从哪一步开始",
     "u": "https://www.youtube.com/watch?v=HmNjGgHLYAo",
     "s": "yt",
     "o": "Joy AI"
+   },
+   {
+    "d": "2026-11-08",
+    "t": "Replit 執行長 Amjad Masad 深度對談 Paul Graham：AI 代理如何顛覆軟體開發？從 Vibe Coding 到「自動駕駛公司」的未來",
+    "u": "https://www.youtube.com/watch?v=vL3X8GwaWI8",
+    "s": "yt",
+    "o": "PP科技筆記 Podcast"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -5372,6 +5372,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Physical Intelligence Co-Founder Sergey Levine - Keynote at Cal Hacks",
+    "u": "https://www.youtube.com/watch?v=QLPTP_PwF4g",
+    "s": "yt",
+    "o": "The House Fund"
+   },
+   {
     "d": "2026-11-04",
     "t": "Cal Hacks 13.0 - Closing Ceremony (feat. Keynote by Sergey Levine)",
     "u": "https://www.youtube.com/watch?v=-kdR4p3XkWs",
@@ -5384,13 +5391,6 @@
     "u": "https://www.youtube.com/watch?v=5X166Fead8o",
     "s": "yt",
     "o": "South Park Commons"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "Physical Intelligence Co-Founder Sergey Levine on Building a Brain for Robots",
-    "u": "https://www.youtube.com/watch?v=AX1VsGYt1u4",
-    "s": "yt",
-    "o": "ICONIQ"
    }
   ],
   "note": "個人Substackの最新は2025-07-21。pi.website は本人が著者に含まれる記事のみ採用。",
