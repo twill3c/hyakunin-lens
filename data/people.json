@@ -1820,6 +1820,12 @@
   "bio": "Chain-of-Thoughtプロンプティングと「創発的能力」という2つの論文で、LLMの推論に関する議論の枠組みを作った。OpenAIで推論モデルの研究に携わる。個人ブログの短いエッセイは研究者コミュニティで広く読まれ、検証の非対称性など実務的な概念を提供している。",
   "own": [
    {
+    "d": "2026-11-11",
+    "t": "The fall of “what you can do” and the rise of “who you know”",
+    "u": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-19",
     "t": "AI will not automate radiologists like you think",
     "u": "https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think",
@@ -1829,12 +1835,6 @@
     "d": "2026-10-06",
     "t": "The best three hours in San Francisco",
     "u": "https://www.jasonwei.net/blog/the-best-three-hours-in-san-francisco",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-20",
-    "t": "Cognitive reward shapes in sports and career",
-    "u": "https://www.jasonwei.net/blog/cognitive-reward-shapes-in-sports-and-career",
     "s": "blog"
    }
   ],
@@ -4019,7 +4019,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-11-11",
+    "d": "2026-11-12",
     "t": "How our GTM Agent builds consistent, high-quality sales artifacts",
     "u": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
     "s": "blog"
@@ -4519,20 +4519,20 @@
   "own": [
    {
     "d": "2026-11-11",
+    "t": "Gemini Decisions API",
+    "u": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-11",
+    "t": "aws-emulator",
+    "u": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-11",
     "t": "Browse tools.simonwillison.net by tag",
     "u": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "llm 0.37.2",
-    "u": "https://simonwillison.net/2026/Nov/11/llm/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "Anthropic's IPO roadshow video",
-    "u": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
     "s": "blog"
    }
   ],
@@ -5754,20 +5754,20 @@
   "own": [
    {
     "d": "2026-11-11",
-    "t": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "t": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "s": "blog"
    },
    {
-    "d": "2026-11-10",
-    "t": "Gemini Intelligence: New features, on more devices",
-    "u": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "d": "2026-11-11",
+    "t": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+    "u": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
     "s": "blog"
    },
    {
-    "d": "2026-11-10",
-    "t": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-    "u": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+    "d": "2026-11-11",
+    "t": "Talk it through with Gemini, now on Apple CarPlay",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
     "s": "blog"
    }
   ],
