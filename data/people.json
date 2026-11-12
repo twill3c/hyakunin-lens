@@ -4020,6 +4020,12 @@
   "own": [
    {
     "d": "2026-11-12",
+    "t": "Own Your Intelligence: The Key to Lasting AI Advantage",
+    "u": "https://www.langchain.com/blog/own-your-intelligence",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-12",
     "t": "How our GTM Agent builds consistent, high-quality sales artifacts",
     "u": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
     "s": "blog"
@@ -4028,12 +4034,6 @@
     "d": "2026-11-10",
     "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-    "u": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-11-11",
-    "t": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "d": "2026-11-12",
+    "t": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "s": "blog"
    },
    {
-    "d": "2026-11-11",
-    "t": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
-    "u": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+    "d": "2026-11-12",
+    "t": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
     "s": "blog"
    },
    {
-    "d": "2026-11-11",
-    "t": "Talk it through with Gemini, now on Apple CarPlay",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+    "d": "2026-11-12",
+    "t": "Introducing Gemini 4 Hydrogen",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "s": "blog"
    }
   ],
