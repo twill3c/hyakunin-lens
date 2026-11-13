@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Latent dirichlet allocation — David M. Blei, Andrew Y. Ng, and Michael I. Jordan",
+    "u": "https://www.youtube.com/watch?v=pJxwbajfgUg",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "2026-11-02",
     "t": "At 63, Michael Jordan Finally Confirms The Rumors",
     "u": "https://www.youtube.com/watch?v=ZYVe5yfwhEs",
@@ -412,13 +419,6 @@
     "u": "https://www.youtube.com/watch?v=Fohac6_PATs",
     "s": "yt",
     "o": "EddieBuckets"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "WHY Isiah Thomas acts like Michael Jordan's JEALOUS EX GF",
-    "u": "https://www.youtube.com/watch?v=SOQAsa9R8S0",
-    "s": "yt",
-    "o": "TheRealMindCrime"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -550,6 +550,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Live from NODES 2026 - Fireside Chat with Andrew Ng and Emil Eifrém APAC",
+    "u": "https://www.youtube.com/watch?v=Q9SFGkVO8mo",
+    "s": "yt",
+    "o": "Neo4j"
+   },
+   {
     "d": "2026-10-28",
     "t": "Andrew Ng on building AI-native teams | AI Fund Frontier ‘26",
     "u": "https://www.youtube.com/watch?v=DuT3dsyshLA",
@@ -562,13 +569,6 @@
     "u": "https://www.youtube.com/watch?v=6d7TIF3zW7I",
     "s": "yt",
     "o": "Perfology"
-   },
-   {
-    "d": "2026-10-23",
-    "t": "LIVE: NDTV World Summit 2026 | Building the Intelligence Economy | Andrew Ng Full Speech",
-    "u": "https://www.youtube.com/watch?v=5IaXK7DHRxw",
-    "s": "yt",
-    "o": "NDTV"
    }
   ],
   "note": "The Batch の本人執筆レターを一覧ページで確認。最も発信頻度が高い一人。",
@@ -981,6 +981,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Why Medical Malpractice Is the Best Boring Industry to Disrupt | Jared Kaplan, CEO of Indigo",
+    "u": "https://www.youtube.com/watch?v=ybbWnD0QhHY",
+    "s": "yt",
+    "o": "Care Shift with Vik"
+   },
+   {
     "d": "2026-09-29",
     "t": "Jared Kaplan Anthropic Hubspot 2023 keynote",
     "u": "https://www.youtube.com/watch?v=Vp6ocPlYsKY",
@@ -993,13 +1000,6 @@
     "u": "https://www.youtube.com/watch?v=CqdVyP790R4",
     "s": "yt",
     "o": "Hospitalogy"
-   },
-   {
-    "d": "2026-04-30",
-    "t": "Jared Kaplan, Co-Founder & CEO at indigo - PIR Ep. 811",
-    "u": "https://www.youtube.com/watch?v=PO_rTvMsThE",
-    "s": "yt",
-    "o": "Insurance Nerds"
    }
   ],
   "note": "検索でヒットするのは第三者の引用・インタビューのみ。本人発信として確認できるものが0件。",
@@ -1118,6 +1118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-10",
+    "t": "Google Chronicles: Ilya Sutskever El Místico de Silicon Valley #gemini #googleai #google",
+    "u": "https://www.youtube.com/watch?v=gPL7H6O1P_0",
+    "s": "yt",
+    "o": "Víctor Dinamita"
+   },
+   {
     "d": "2026-10-23",
     "t": "Ilya Sutskever：ChatGPT创造者讲透AI理解世界的惊人真相",
     "u": "https://www.youtube.com/watch?v=68g5XHsqlak",
@@ -1130,13 +1137,6 @@
     "u": "https://www.youtube.com/watch?v=6mR5JjTY3N0",
     "s": "yt",
     "o": "Eye on AI"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "Ilya Sutskever × John Hopfield · A Day in the Polis",
-    "u": "https://www.youtube.com/watch?v=Tpj0fDDR5oU",
-    "s": "yt",
-    "o": "Shared Context Podcast"
    }
   ],
   "note": "SSI公式サイトに本人名義の新規ブログ記事は確認できず。",
@@ -2836,7 +2836,7 @@
   "yt": [
    {
     "d": "2026-10-12",
-    "t": "Teaching AI at AI Speed | Graham Neubig, CMU & OpenHands",
+    "t": "Teaching AI at AI Speed | Graham Neubig, CMU & OpenHands, SOTA ep 1",
     "u": "https://www.youtube.com/watch?v=fsMdK14rv-s",
     "s": "yt",
     "o": "SOTA TV"
@@ -4486,6 +4486,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Is America Handing China an AI Advantage? | Thomas Wolf",
+    "u": "https://www.youtube.com/watch?v=mb2HLZNwErw",
+    "s": "yt",
+    "o": "Deirdre Bosa"
+   },
+   {
     "d": "2026-10-24",
     "t": "Thomas Wolf: Mother ML: A Modular Framework for Reproducible Cheminformatics",
     "u": "https://www.youtube.com/watch?v=nGc-f2cmCoU",
@@ -4498,13 +4505,6 @@
     "u": "https://www.youtube.com/watch?v=WgMsnCszBTQ",
     "s": "yt",
     "o": "Lazar Todev"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Taufgottesdienst | Thomas Wolf | 18.10.2026",
-    "u": "https://www.youtube.com/watch?v=msNQlxUzBsw",
-    "s": "yt",
-    "o": "ChristusGemeinde Flein"
    }
   ],
   "note": "個人ブログ最新は2025-05-14のためX投稿を採用。",
@@ -4786,6 +4786,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Crossing the Divide: Co-Evolving Kubernetes and Ray for the AI Era - Jago Macleod & Ion Stoica",
+    "u": "https://www.youtube.com/watch?v=21JiuNY9_RY",
+    "s": "yt",
+    "o": "PyTorch Foundation"
+   },
+   {
     "d": "2026-10-07",
     "t": "Ion Stoica | Keynote: Reality Is the Final Verifier: Two Gaps in Agentic Software Engineering",
     "u": "https://www.youtube.com/watch?v=WfxMx1WgerM",
@@ -4798,13 +4805,6 @@
     "u": "https://www.youtube.com/watch?v=hATMyrrdLWY",
     "s": "yt",
     "o": "Anyscale"
-   },
-   {
-    "d": "2026-08-11",
-    "t": "Ion Stoica - The Limits of AI Coding Agents: Two Fundamental Gaps in Agentic Software Engineering",
-    "u": "https://www.youtube.com/watch?v=vuDurF3b_ds",
-    "s": "yt",
-    "o": "Berkeley RDI"
    }
   ],
   "note": "本人名義の個人ブログは確認できず。",
