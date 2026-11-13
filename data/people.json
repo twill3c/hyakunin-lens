@@ -4020,6 +4020,12 @@
   "own": [
    {
     "d": "2026-11-12",
+    "t": "What Is Eval-Driven Development? How to Improve AI Agents",
+    "u": "https://www.langchain.com/blog/what-is-eval-driven-development",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-12",
     "t": "Own Your Intelligence: The Key to Lasting AI Advantage",
     "u": "https://www.langchain.com/blog/own-your-intelligence",
     "s": "blog"
@@ -4028,12 +4034,6 @@
     "d": "2026-11-12",
     "t": "How our GTM Agent builds consistent, high-quality sales artifacts",
     "u": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-    "u": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
     "s": "blog"
    }
   ],
@@ -4518,6 +4518,12 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-12",
+    "t": "llm-gemini 0.37",
+    "u": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-11",
     "t": "Gemini Decisions API",
     "u": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
@@ -4527,12 +4533,6 @@
     "d": "2026-11-11",
     "t": "aws-emulator",
     "u": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "Browse tools.simonwillison.net by tag",
-    "u": "https://simonwillison.net/2026/Nov/11/tools-tags/",
     "s": "blog"
    }
   ],
@@ -5008,6 +5008,12 @@
   "bio": "ImageNetを構築して深層学習革命の引き金を引いた。Stanford HAIを共同で率い、AIと人間中心設計・政策をつなぐ活動も続ける。現在はWorld Labsで「空間知能」を掲げ、言語の次に来るものとして3D世界の理解に取り組んでいる。",
   "own": [
    {
+    "d": "2026-09-28",
+    "t": "To Seek a Newer World",
+    "u": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
+    "s": "substack"
+   },
+   {
     "d": "2026-08-10",
     "t": "「すべての道具は人間のエージェンシーを拡張するためにある。AIも同じだ」",
     "u": "https://x.com/drfeifei/status/2086912906969719062",
@@ -5018,12 +5024,6 @@
     "t": "「SceniXがWorld Labsに加わって以来のビジョンの初期成果：ロボットを訓練する世界を作る」",
     "u": "https://x.com/drfeifei/status/2082137335052075298",
     "s": "x"
-   },
-   {
-    "d": "2026-06-03",
-    "t": "A Functional Taxonomy of World Models",
-    "u": "https://drfeifei.substack.com/p/a-functional-taxonomy-of-world-models",
-    "s": "substack"
    }
   ],
   "med": [
@@ -5754,6 +5754,12 @@
   "own": [
    {
     "d": "2026-11-12",
+    "t": "5 new Google Flow Tools designed by visual artists",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-12",
     "t": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "s": "blog"
@@ -5762,12 +5768,6 @@
     "d": "2026-11-12",
     "t": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
     "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "Introducing Gemini 4 Hydrogen",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "s": "blog"
    }
   ],

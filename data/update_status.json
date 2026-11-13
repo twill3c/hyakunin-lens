@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T20:26:03Z",
- "ok": 18,
- "fail": 3,
+ "generated_at": "2026-11-13T07:17:12Z",
+ "ok": 21,
+ "fail": 0,
  "sources": [
   {
    "n": "Andrej Karpathy",
@@ -21,9 +21,8 @@
    "n": "Fei-Fei Li 李飛飛",
    "s": "substack",
    "feed": "https://drfeifei.substack.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 4
   },
   {
    "n": "Harrison Chase",
@@ -36,9 +35,8 @@
    "n": "Jan Leike",
    "s": "substack",
    "feed": "https://aligned.substack.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 14
   },
   {
    "n": "Jason Wei",
@@ -114,9 +112,8 @@
    "n": "Sergey Levine",
    "s": "substack",
    "feed": "https://sergeylevine.substack.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "Shunyu Yao 姚順雨",
