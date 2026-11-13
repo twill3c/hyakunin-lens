@@ -4019,6 +4019,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-11-13",
+    "t": "LangChain Raises $300M Series C at $3B Valuation",
+    "u": "https://www.langchain.com/blog/series-c",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-12",
     "t": "What Is Eval-Driven Development? How to Improve AI Agents",
     "u": "https://www.langchain.com/blog/what-is-eval-driven-development",
@@ -4028,12 +4034,6 @@
     "d": "2026-11-12",
     "t": "Own Your Intelligence: The Key to Lasting AI Advantage",
     "u": "https://www.langchain.com/blog/own-your-intelligence",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "How our GTM Agent builds consistent, high-quality sales artifacts",
-    "u": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
     "s": "blog"
    }
   ],
@@ -5753,6 +5753,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-11-13",
+    "t": "Connect Google Wallet to Gemini for personal finance insights",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-12",
     "t": "5 new Google Flow Tools designed by visual artists",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
@@ -5762,12 +5768,6 @@
     "d": "2026-11-12",
     "t": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
     "s": "blog"
    }
   ],
