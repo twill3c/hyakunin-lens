@@ -43,6 +43,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-13",
+    "t": "Geoffrey Hinton | Full Episode 11.13.26 | Firing Line with Margaret Hoover | PBS",
+    "u": "https://www.youtube.com/watch?v=-NTpJs_coXo",
+    "s": "yt",
+    "o": "Firing Line with Margaret Hoover | PBS"
+   },
+   {
     "d": "2026-11-11",
     "t": "\"This Is The Worst AI You Will Ever See.\" (Geoffrey Hinton's Final Warning)",
     "u": "https://www.youtube.com/watch?v=S6SpKXD_WIo",
@@ -55,13 +62,6 @@
     "u": "https://www.youtube.com/watch?v=aXuEt__qQiI",
     "s": "yt",
     "o": "AI Abyss"
-   },
-   {
-    "d": "2026-10-27",
-    "t": "‘Elon Musk Has No Regard For Democracy’: AI Godfather Geoffrey Hinton Slams Tech Billionaire",
-    "u": "https://www.youtube.com/watch?v=_N5I-u1ezDY",
-    "s": "yt",
-    "o": "CRUX"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -632,18 +632,18 @@
     "o": "DMente Digital Agencia"
    },
    {
+    "d": "2026-11-08",
+    "t": "Insights (feat. Demis Hassabis about His Journey in AI)",
+    "u": "https://www.youtube.com/watch?v=WgeapIERD6k",
+    "s": "yt",
+    "o": "Sony AK"
+   },
+   {
     "d": "2026-11-05",
     "t": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
     "u": "https://www.youtube.com/watch?v=x7Z_1miRWB8",
     "s": "yt",
     "o": "Masters of Scale"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "Demis Hassabis Just Warning Us About the Next 5 Years of AI",
-    "u": "https://www.youtube.com/watch?v=ynZlJObTNXs",
-    "s": "yt",
-    "o": "tekgurukool"
    }
   ],
   "note": "",
@@ -936,7 +936,7 @@
     "t": "In 2016, Dario Amodei Predicted Horrific AI Future (Rare Lost Interviews Of Anthropic’s CEO)",
     "u": "https://www.youtube.com/watch?v=ZTMNM5WZZyk",
     "s": "yt",
-    "o": "Scams"
+    "o": "Neuraline"
    },
    {
     "d": "2026-10-18",
@@ -2351,6 +2351,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-13",
+    "t": "Building SWE-bench with Ofir Press | Evaluated | Kaggle",
+    "u": "https://www.youtube.com/watch?v=ubwAgxjEV1A",
+    "s": "yt",
+    "o": "Kaggle"
+   },
+   {
     "d": "不明",
     "t": "SWE-Agent Team Interview - Agents, Programming, and Benchmarks!",
     "u": "https://www.youtube.com/watch?v=fcr8WzeEXyk",
@@ -2363,13 +2370,6 @@
     "u": "https://www.youtube.com/watch?v=gHEMTdPBvoM",
     "s": "yt",
     "o": "Ofir Press"
-   },
-   {
-    "d": "不明",
-    "t": "Ofir Press on AliBi and Self-Ask - Weaviate Podcast #65",
-    "u": "https://www.youtube.com/watch?v=pOsURBfTThc",
-    "s": "yt",
-    "o": "Weaviate"
    }
   ],
   "note": "ブログ本文の日付表記で確認。X投稿は日付不明。",
@@ -3203,6 +3203,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Q3 Review with Scott Wu (Cognition) and Hemant Taneja (General Catalyst)",
+    "u": "https://www.youtube.com/watch?v=ex5ly81EGNc",
+    "s": "yt",
+    "o": "General Catalyst"
+   },
+   {
     "d": "2026-10-04",
     "t": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
     "u": "https://www.youtube.com/watch?v=cvmgnpxr-Lk",
@@ -3215,13 +3222,6 @@
     "u": "https://www.youtube.com/watch?v=dRPT515zdG8",
     "s": "yt",
     "o": "John Coogan"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
-    "u": "https://www.youtube.com/watch?v=2_u9L8eUq5s",
-    "s": "yt",
-    "o": "TBPN"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -5665,25 +5665,25 @@
   ],
   "yt": [
    {
-    "d": "2026-09-26",
-    "t": "Anima Anandkumar: How Do We Build AI That Understands Physics?",
-    "u": "https://www.youtube.com/watch?v=z_TZB3Dgnvc",
+    "d": "2026-11-13",
+    "t": "HTLS 2026 Day 1: VFS Global's Zubin Karkaria and Caltech's Anima Anandkumar Join In",
+    "u": "https://www.youtube.com/watch?v=Csi5qPHgx7c",
     "s": "yt",
-    "o": "SAIR"
+    "o": "Mint"
    },
    {
-    "d": "2026-09-04",
-    "t": "Trillion Token Context. No, Really — Anima Anandkumar & Benedikt Jenik, Accelerated Understanding",
-    "u": "https://www.youtube.com/watch?v=KS_IpnX7n9I",
+    "d": "2026-11-12",
+    "t": "Prof. Anima Anandkumar On Building AI Models Which Can Do Science In A Way Humans Can't | HTLS 2026",
+    "u": "https://www.youtube.com/watch?v=tD3D6E47aF0",
     "s": "yt",
-    "o": "Latent Space"
+    "o": "Hindustan Times"
    },
    {
-    "d": "2026-08-26",
-    "t": "🔬 Why Transformers Hit a Wall the Moment Physics Shows Up — Anima Anandkumar, Caltech",
-    "u": "https://www.youtube.com/watch?v=79mIutht1f4",
+    "d": "2026-11-12",
+    "t": "HTLS 2026 Day 1: VFS Global's Zubin Karkaria and Caltech's Anima Anandkumar Join In",
+    "u": "https://www.youtube.com/watch?v=apA9XLQn5uE",
     "s": "yt",
-    "o": "Latent Space"
+    "o": "Hindustan Times"
    }
   ],
   "note": "Caltech個人ページに本人執筆ブログの掲載なし。X日付は取得できず。",
