@@ -6,12 +6,12 @@
   {
    "n": "Geoffrey Hinton",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "n": "Yann LeCun",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "n": "Richard Sutton",
@@ -51,7 +51,7 @@
   {
    "n": "Mark Chen",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "n": "Noam Shazeer",
@@ -111,7 +111,7 @@
   {
    "n": "Boris Cherny",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "n": "Michael Truell",
@@ -176,7 +176,7 @@
   {
    "n": "Tri Dao",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "n": "Woosuk Kwon",
@@ -211,7 +211,7 @@
   {
    "n": "Anima Anandkumar",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "n": "Pushmeet Kohli",
@@ -254,5 +254,5 @@
    "count": 0
   }
  ],
- "generated_at": "2026-11-14T00:18:22Z"
+ "generated_at": "2026-11-14T22:56:09Z"
 }
