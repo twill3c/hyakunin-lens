@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-13",
+    "t": "datasette-cluster-map 0.19",
+    "u": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-13",
+    "t": "datasette-leaflet 0.3",
+    "u": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-12",
     "t": "llm-gemini 0.37",
     "u": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "Gemini Decisions API",
-    "u": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "aws-emulator",
-    "u": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
     "s": "blog"
    }
   ],
@@ -5754,6 +5754,12 @@
   "own": [
    {
     "d": "2026-11-13",
+    "t": "Claim your Google Cloud Credits in Google AI Studio",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-13",
     "t": "Connect Google Wallet to Gemini for personal finance insights",
     "u": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
     "s": "blog"
@@ -5762,12 +5768,6 @@
     "d": "2026-11-12",
     "t": "5 new Google Flow Tools designed by visual artists",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "s": "blog"
    }
   ],
