@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-13",
+    "t": "Yoshua Bengio & Cristina Criddle on Correcting the Current AI Trajectory | The Curve 2026",
+    "u": "https://www.youtube.com/watch?v=XYoHOsn-jV0",
+    "s": "yt",
+    "o": "Golden Gate Institute for AI"
+   },
+   {
     "d": "2026-11-07",
     "t": "A Critical Pathway to Safe-by-Design AI -  A Lecture by Prof. Yoshua Bengio at TU Berlin",
     "u": "https://www.youtube.com/watch?v=2-jQLttcWnM",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=6ck6Sp_yQro",
     "s": "yt",
     "o": "Neural Casts"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "The Godfather of AI Is Worried: What Yoshua Bengio Fears",
-    "u": "https://www.youtube.com/watch?v=26F9uGhfjrg",
-    "s": "yt",
-    "o": "The Genius Files"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -400,6 +400,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Michael Jordan Was Even BETTER Than I Thought… 😭",
+    "u": "https://www.youtube.com/watch?v=UX29l4CFvQU",
+    "s": "yt",
+    "o": "ICookedUp"
+   },
+   {
     "d": "2026-11-11",
     "t": "Latent dirichlet allocation — David M. Blei, Andrew Y. Ng, and Michael I. Jordan",
     "u": "https://www.youtube.com/watch?v=pJxwbajfgUg",
@@ -407,18 +414,11 @@
     "o": "Neural Casts"
    },
    {
-    "d": "2026-11-02",
-    "t": "At 63, Michael Jordan Finally Confirms The Rumors",
-    "u": "https://www.youtube.com/watch?v=ZYVe5yfwhEs",
+    "d": "2026-11-07",
+    "t": "At 63, Michael Jordan Finally Reveals The 5 Players He Despised",
+    "u": "https://www.youtube.com/watch?v=5efGV8MZLHM",
     "s": "yt",
     "o": "Locker Wars"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "I'll Convince You Michael Jordan is the GOAT in under 28 minutes",
-    "u": "https://www.youtube.com/watch?v=Fohac6_PATs",
-    "s": "yt",
-    "o": "EddieBuckets"
    }
   ],
   "note": "Mediumは2018年が最新。直近24か月の本人発信は0件（近作はarXiv論文のみで対象外）。",
@@ -551,7 +551,7 @@
   "yt": [
    {
     "d": "2026-11-12",
-    "t": "Live from NODES 2026 - Fireside Chat with Andrew Ng and Emil Eifrém APAC",
+    "t": "Live from NODES 2026 - Fireside Chat with Andrew Ng and Emil Eifrém",
     "u": "https://www.youtube.com/watch?v=Q9SFGkVO8mo",
     "s": "yt",
     "o": "Neo4j"
@@ -1788,6 +1788,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-13",
+    "t": "John Schulman & Samuel Hammond on How many winners can there be from AI? | The Curve 2026",
+    "u": "https://www.youtube.com/watch?v=1Xzp_Eo-4cA",
+    "s": "yt",
+    "o": "Golden Gate Institute for AI"
+   },
+   {
     "d": "不明",
     "t": "John Schulman on dead ends, scaling RL, and building research institutions",
     "u": "https://www.youtube.com/watch?v=29BYxvvF1iM",
@@ -1800,13 +1807,6 @@
     "u": "https://www.youtube.com/watch?v=Wo95ob_s_NI",
     "s": "yt",
     "o": "Dwarkesh Patel"
-   },
-   {
-    "d": "不明",
-    "t": "S3 E18 John Schulman of OpenAI on ChatGPT: invention, capabilities and limitations",
-    "u": "https://www.youtube.com/watch?v=nM_3d37lmcM",
-    "s": "yt",
-    "o": "The Robot Brains Podcast"
    }
   ],
   "note": "公式ブログの本人著者記事は LoRA Without Regret (2025-09) のみ。",
@@ -2836,7 +2836,7 @@
   "yt": [
    {
     "d": "2026-10-12",
-    "t": "Teaching AI at AI Speed | Graham Neubig, CMU & OpenHands, SOTA ep 1",
+    "t": "What to Learn at AI Agent Era | Graham Neubig, CMU Prof & OpenHands Founder, SOTA Ep 1",
     "u": "https://www.youtube.com/watch?v=fsMdK14rv-s",
     "s": "yt",
     "o": "SOTA TV"
@@ -4212,6 +4212,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-13",
+    "t": "Ação de Vendas Matice João Moura | 12/11/2026",
+    "u": "https://www.youtube.com/watch?v=yNhcoYO9YaI",
+    "s": "yt",
+    "o": "Canal do Boi - Oficial "
+   },
+   {
     "d": "2026-11-07",
     "t": "Entrevista Mega Cast - João Moura - João do Pidão",
     "u": "https://www.youtube.com/watch?v=r5EmrDu9jRg",
@@ -4224,13 +4231,6 @@
     "u": "https://www.youtube.com/watch?v=qWFqsJbDEy8",
     "s": "yt",
     "o": "IEBAP Amor e Paz"
-   },
-   {
-    "d": "2026-10-07",
-    "t": "João Moura & Lorenze Hay: Designing Reliable Agentic Systems that make it into Production",
-    "u": "https://www.youtube.com/watch?v=_a5Lz0oYsHg",
-    "s": "yt",
-    "o": "The AI Conference™"
    }
   ],
   "note": "本人名義のブログ記事は確認できず。",
@@ -6738,6 +6738,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-15",
+    "t": "Kimi Founder Yang Zhilin: Why We Bet Everything on One Product and Super Long Context",
+    "u": "https://www.youtube.com/watch?v=I-R9qlktbMk",
+    "s": "yt",
+    "o": "Игорь Никулин"
+   },
+   {
     "d": "2026-10-27",
     "t": "Full Interview Record: Yang Zhilin, Founder of Kimi (July， 2025）",
     "u": "https://www.youtube.com/watch?v=qWQHPPH-T1U",
@@ -6750,13 +6757,6 @@
     "u": "https://www.youtube.com/watch?v=AvCtF8M5ddM",
     "s": "yt",
     "o": "57東森財經新聞"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "華為任正非全家逃亡、Kimi楊植麟16人被帶走？ 習近平啟動「科技整肅」國安部出手畫下AI紅線！【關鍵時刻】20260914-4張炤和",
-    "u": "https://www.youtube.com/watch?v=3hTKyuBCrVA",
-    "s": "yt",
-    "o": "關鍵時刻"
    }
   ],
   "note": "Moonshot AI公式は全てチーム名義。個人ページの更新は2022年が最後。0件。",
