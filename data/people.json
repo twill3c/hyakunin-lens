@@ -4019,7 +4019,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-11-14",
+    "d": "2026-11-16",
     "t": "Goal Engineering",
     "u": "https://www.langchain.com/blog/goal-engineering",
     "s": "blog"
@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
-    "d": "2026-11-14",
-    "t": "datasette-llm 0.1a11",
-    "u": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "d": "2026-11-15",
+    "t": "datasette-maplibre 0.1a0",
+    "u": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
     "s": "blog"
    },
    {
-    "d": "2026-11-14",
-    "t": "datasette-vega 0.7",
-    "u": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+    "d": "2026-11-15",
+    "t": "datasette 1.0a43",
+    "u": "https://simonwillison.net/2026/Nov/15/datasette/",
     "s": "blog"
    },
    {
-    "d": "2026-11-13",
-    "t": "datasette-cluster-map 0.19",
-    "u": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+    "d": "2026-11-15",
+    "t": "datasette 0.65.6",
+    "u": "https://simonwillison.net/2026/Nov/15/datasette-2/",
     "s": "blog"
    }
   ],
