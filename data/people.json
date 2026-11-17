@@ -4020,20 +4020,20 @@
   "own": [
    {
     "d": "2026-11-17",
+    "t": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+    "u": "https://www.langchain.com/blog/proactive-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-17",
     "t": "The five components of building a \"company harness\"",
     "u": "https://www.langchain.com/blog/components-building-company-harness",
     "s": "blog"
    },
    {
-    "d": "2026-11-16",
-    "t": "From tasks to goals",
-    "u": "https://www.langchain.com/blog/from-tasks-to-goals",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-16",
-    "t": "LangChain Raises $300M Series C at $3B Valuation",
-    "u": "https://www.langchain.com/blog/series-c",
+    "d": "2026-11-17",
+    "t": "New context engineering challenges in late 2026",
+    "u": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
     "s": "blog"
    }
   ],
@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-17",
+    "t": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+    "u": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-17",
     "t": "Quoting Go Proverbs",
     "u": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-11-16",
     "t": "llm 0.37.3",
     "u": "https://simonwillison.net/2026/Nov/16/llm/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-15",
-    "t": "datasette-maplibre 0.1a0",
-    "u": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-11-16",
-    "t": "Regional voices are rolling out in the Gemini app.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+    "d": "2026-11-17",
+    "t": "Read the EmbeddingGemma 2 technical report.",
+    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
     "s": "blog"
    },
    {
-    "d": "2026-11-16",
-    "t": "The era of autonomous attacks has arrived.",
-    "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+    "d": "2026-11-17",
+    "t": "Put Gemini to work for you",
+    "u": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
     "s": "blog"
    },
    {
-    "d": "2026-11-16",
-    "t": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-    "u": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+    "d": "2026-11-17",
+    "t": "10 states team up with Google on free AI training",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
     "s": "blog"
    }
   ],
