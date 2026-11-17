@@ -16,12 +16,12 @@
   {
    "n": "Michael I. Jordan",
    "ok": true,
-   "count": 21
+   "count": 4
   },
   {
    "n": "Andrew Ng",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "n": "Koray Kavukcuoglu",
@@ -41,7 +41,7 @@
   {
    "n": "Ilya Sutskever",
    "ok": true,
-   "count": 19
+   "count": 17
   },
   {
    "n": "Jakub Pachocki",
@@ -76,12 +76,12 @@
   {
    "n": "Liang Wenfeng 梁文锋",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "n": "Arthur Mensch",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "n": "Shunyu Yao 姚順雨",
@@ -91,7 +91,7 @@
   {
    "n": "John Yang",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "n": "Noah Shinn",
@@ -141,7 +141,7 @@
   {
    "n": "Bret Taylor",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "n": "David Soria Parra",
@@ -151,12 +151,12 @@
   {
    "n": "Harrison Chase",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "n": "João Moura",
    "ok": true,
-   "count": 7
+   "count": 5
   },
   {
    "n": "Toran Bruce Richards",
@@ -186,7 +186,7 @@
   {
    "n": "Fei-Fei Li 李飛飛",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "n": "Jitendra Malik",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "n": "Sara Hooker",
@@ -241,7 +241,7 @@
   {
    "n": "David Ha",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "n": "岡野原大輔",
@@ -254,5 +254,5 @@
    "count": 6
   }
  ],
- "generated_at": "2026-11-15T23:21:53Z"
+ "generated_at": "2026-11-17T02:26:02Z"
 }
