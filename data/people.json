@@ -193,25 +193,25 @@
   ],
   "yt": [
    {
-    "d": "2026-11-11",
-    "t": "Yann LeCun vient de marquer un point contre les LLM (actu IA)",
-    "u": "https://www.youtube.com/watch?v=TySSyP5xjeg",
+    "d": "2026-11-17",
+    "t": "AI Memorized the Internet. That's Not Intelligence. | Yann LeCun",
+    "u": "https://www.youtube.com/watch?v=HjKRaty1dU4",
     "s": "yt",
-    "o": "Eliott Meunier"
+    "o": "Futurology"
    },
    {
-    "d": "2026-10-22",
-    "t": "Yann LeCun, AI legend, Co-Founder of AMI Labs, NYU Professor [AI Founders Masterclass Session 5]",
-    "u": "https://www.youtube.com/watch?v=k4irc59yUsE",
+    "d": "2026-11-16",
+    "t": "Yann LeCun Unfiltered: The Godfather of AI on Life, Logic, and the Future",
+    "u": "https://www.youtube.com/watch?v=Yw4i4C6T80k",
     "s": "yt",
-    "o": "Radical Ventures"
+    "o": "NTU- Institute of Advanced Studies"
    },
    {
-    "d": "2026-10-16",
-    "t": "Yann LeCun, Mark Zuckerberg and Tristan Harris - THE CODE ANYBODY MAY READ Book 6 - Part 01",
-    "u": "https://www.youtube.com/watch?v=gGlTEJB_mMY",
+    "d": "2026-11-12",
+    "t": "Yann LeCun: World Models & The Next AI Revolution |  NTU IAS Public Lecture",
+    "u": "https://www.youtube.com/watch?v=LYZCbAyssgw",
     "s": "yt",
-    "o": "Ministry of Spark"
+    "o": "NTU- Institute of Advanced Studies"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -925,25 +925,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-16",
+    "t": "Anthropic IPO roadshow - CEO Dario Amodei in Conversation with Jamie Dimon",
+    "u": "https://www.youtube.com/watch?v=mNIYbP3LRpM",
+    "s": "yt",
+    "o": "10baggers"
+   },
+   {
+    "d": "2026-11-11",
+    "t": "Anthropic IPO Roadshow Video - Dario Amodei",
+    "u": "https://www.youtube.com/watch?v=sQCZJixZ2Zs",
+    "s": "yt",
+    "o": "h8ku"
+   },
+   {
     "d": "2026-11-10",
     "t": "Anthropic IPO - Dario Amodei",
     "u": "https://www.youtube.com/watch?v=eynv5VR9qos",
     "s": "yt",
     "o": "bunaul"
-   },
-   {
-    "d": "2026-10-22",
-    "t": "In 2016, Dario Amodei Predicted Horrific AI Future (Rare Lost Interviews Of Anthropic’s CEO)",
-    "u": "https://www.youtube.com/watch?v=ZTMNM5WZZyk",
-    "s": "yt",
-    "o": "Neuraline"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Dario Amodei Fears His Own AI. So Why Is He Still Building It?",
-    "u": "https://www.youtube.com/watch?v=Ff4QcXuQo-U",
-    "s": "yt",
-    "o": "Niloticai"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1485,7 +1485,7 @@
     "t": "Transformer八位作者现状 | Noam Shazeer离职 | Google DeepMind | OpenAI | Anthropic | AI人才外流",
     "u": "https://www.youtube.com/watch?v=pSTKE6JLl1Q",
     "s": "yt",
-    "o": "Nana Chen Studio"
+    "o": "瓜哥"
    },
    {
     "d": "2026-06-23",
@@ -1720,6 +1720,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-10",
+    "t": "Andrej Karpathy’s 2-Hour AI Agents Masterclass | Agents, Harnesses, Loops & Graphs",
+    "u": "https://www.youtube.com/watch?v=XHdPucUH_y4",
+    "s": "yt",
+    "o": "Shresth Samyak"
+   },
+   {
     "d": "2026-11-07",
     "t": "Andrej Karpathy dropped a 2 hour masterclass on everything he knowns",
     "u": "https://www.youtube.com/watch?v=uRNsrBggC_c",
@@ -1732,13 +1739,6 @@
     "u": "https://www.youtube.com/watch?v=rYX7URr8abk",
     "s": "yt",
     "o": "Mastering Tech Insights"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "Andrej Karpathy Explains AI Agents: Beyond the Chatbot",
-    "u": "https://www.youtube.com/watch?v=1kSG8rRpVuI",
-    "s": "yt",
-    "o": "Trillionaire Style - WEALTH • TECH • SUCCESS"
    }
   ],
   "note": "bearblogは403のため2つの独立アグリゲータで相互確認。",
@@ -2352,7 +2352,7 @@
   "yt": [
    {
     "d": "2026-11-13",
-    "t": "Building SWE-bench with Ofir Press | Evaluated | Kaggle",
+    "t": "Building SWE-bench with Ofir Press | Evaluated",
     "u": "https://www.youtube.com/watch?v=ubwAgxjEV1A",
     "s": "yt",
     "o": "Kaggle"
@@ -2918,7 +2918,7 @@
    },
    {
     "d": "2026-09-26",
-    "t": "CHM Live | Anthropic's Boris Cherny, Creator of Claude Code",
+    "t": "Anthropic's Boris Cherny, Creator of Claude Code Talks About AI's Past, Present, and Future",
     "u": "https://www.youtube.com/watch?v=djDt8J2_YVs",
     "s": "yt",
     "o": "Computer History Museum"
@@ -3588,6 +3588,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-15",
+    "t": "#2344 - Amjad Masad",
+    "u": "https://www.youtube.com/watch?v=y4qrgTZ-JjQ",
+    "s": "yt",
+    "o": "Voxera Production Official"
+   },
+   {
     "d": "2026-11-14",
     "t": "AI Will Change Everything: What’s Next for Business? | Amjad Masad & Balaji Srinivasan",
     "u": "https://www.youtube.com/watch?v=j6BAepnzLHk",
@@ -3600,13 +3607,6 @@
     "u": "https://www.youtube.com/watch?v=-sUxN1zttY0",
     "s": "yt",
     "o": "Intelligent Finance"
-   },
-   {
-    "d": "2026-11-08",
-    "t": "Paul Graham 对谈 Amjad Masad：打造未来究竟从哪一步开始",
-    "u": "https://www.youtube.com/watch?v=HmNjGgHLYAo",
-    "s": "yt",
-    "o": "Joy AI"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -4287,6 +4287,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-16",
+    "t": "복식 50 XD - 32강 (HKG) Ngan Chi Wang Leo/Ngai Ying Wa vs (KOR) Sin Jun Seung/Park Sung Mi | VICTOR B",
+    "u": "https://www.youtube.com/watch?v=1oGmSgkIVlk",
+    "s": "yt",
+    "o": "OHMYPLAY_LIVE_3"
+   },
+   {
     "d": "2026-08-20",
     "t": "Multi-Agent Architectures in Production with Chi Wang and Xiao Ma",
     "u": "https://www.youtube.com/watch?v=oVQi6LIHWtg",
@@ -4299,13 +4306,6 @@
     "u": "https://www.youtube.com/watch?v=hLfGr433XSA",
     "s": "yt",
     "o": "Chi Chi Wang • C.C.Within "
-   },
-   {
-    "d": "2026-07-20",
-    "t": "20260719 忌妒的素祭 The Meal Offering of Jealousy by Brother Hwa Chi Wang",
-    "u": "https://www.youtube.com/watch?v=NR6a5kf5Dfc",
-    "s": "yt",
-    "o": "Sunday Sermon"
    }
   ],
   "note": "2025年2月以降の本人発信で本文確認できるものは見つからず。",
@@ -4411,6 +4411,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-12",
+    "t": "Building Frontier Agents With Replit (Pro Series) Featuring Yohei Nakajima",
+    "u": "https://www.youtube.com/watch?v=2GZyD36kdHo",
+    "s": "yt",
+    "o": "Replit"
+   },
+   {
     "d": "2026-10-19",
     "t": "Unpolished Signals Matter More Now | Yohei Nakajima, Untapped Capital",
     "u": "https://www.youtube.com/watch?v=x9vHsFooYM8",
@@ -4423,13 +4430,6 @@
     "u": "https://www.youtube.com/watch?v=GZiQVAeuT0k",
     "s": "yt",
     "o": "Open Data Science and AI Conference"
-   },
-   {
-    "d": "2026-04-20",
-    "t": "Yohei Nakajima：AI時代的創投革命 | Untapped VC 的頂層投資策略與自動化應用",
-    "u": "https://www.youtube.com/watch?v=2LXclhL3-v8",
-    "s": "yt",
-    "o": "PP科技筆記 Podcast"
    }
   ],
   "note": "ブログ最新は2025-12-05。",
@@ -5665,6 +5665,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-16",
+    "t": "Disruptive AI Innovation: Anima Anandkumar, AI Professor at Caltech",
+    "u": "https://www.youtube.com/watch?v=tbDOoNJbAIM",
+    "s": "yt",
+    "o": "Chubb"
+   },
+   {
     "d": "2026-11-13",
     "t": "HTLS 2026 Day 1: VFS Global's Zubin Karkaria and Caltech's Anima Anandkumar Join In",
     "u": "https://www.youtube.com/watch?v=Csi5qPHgx7c",
@@ -5675,13 +5682,6 @@
     "d": "2026-11-12",
     "t": "Prof. Anima Anandkumar On Building AI Models Which Can Do Science In A Way Humans Can't | HTLS 2026",
     "u": "https://www.youtube.com/watch?v=tD3D6E47aF0",
-    "s": "yt",
-    "o": "Hindustan Times"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "HTLS 2026 Day 1: VFS Global's Zubin Karkaria and Caltech's Anima Anandkumar Join In",
-    "u": "https://www.youtube.com/watch?v=apA9XLQn5uE",
     "s": "yt",
     "o": "Hindustan Times"
    }
