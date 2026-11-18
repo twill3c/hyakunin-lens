@@ -4020,6 +4020,12 @@
   "own": [
    {
     "d": "2026-11-18",
+    "t": "LangSmith for Coding Agents: Now track spend by outcome",
+    "u": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-18",
     "t": "How to Choose the Right Sandbox for AI Agents",
     "u": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
     "s": "blog"
@@ -4028,12 +4034,6 @@
     "d": "2026-11-17",
     "t": "Protect sensitive data in your traces: new controls in LangSmith",
     "u": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "New context engineering challenges in late 2026",
-    "u": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
     "s": "blog"
    }
   ],
@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-18",
+    "t": "Quoting Daniel Stenberg",
+    "u": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "The PSF end-of-year fundraiser",
+    "u": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-17",
     "t": "External sandboxes for coding agents",
     "u": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-    "u": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-    "u": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-11-17",
-    "t": "How genome mapping can help researchers better understand disease",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+    "d": "2026-11-18",
+    "t": "Google for Mexico: Technology impact that goes beyond business",
+    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
     "s": "blog"
    },
    {
-    "d": "2026-11-17",
-    "t": "See what 5 builders are making with Gemini 4 Carbon",
-    "u": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+    "d": "2026-11-18",
+    "t": "Las Vegas race week brings big rewards to Google Play",
+    "u": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
     "s": "blog"
    },
    {
-    "d": "2026-11-17",
-    "t": "Read the EmbeddingGemma 2 technical report.",
-    "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+    "d": "2026-11-18",
+    "t": "Genie 4 is now available",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
     "s": "blog"
    }
   ],
