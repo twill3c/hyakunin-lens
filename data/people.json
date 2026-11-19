@@ -125,18 +125,18 @@
     "o": "Golden Gate Institute for AI"
    },
    {
+    "d": "2026-11-13",
+    "t": "Dialogue entre Gilles Brassard et Yoshua Bengio : penser l’informatique de demain",
+    "u": "https://www.youtube.com/watch?v=12GgmiUO4yE",
+    "s": "yt",
+    "o": "Faculté des arts et des sciences - UdeM"
+   },
+   {
     "d": "2026-11-07",
     "t": "A Critical Pathway to Safe-by-Design AI -  A Lecture by Prof. Yoshua Bengio at TU Berlin",
     "u": "https://www.youtube.com/watch?v=2-jQLttcWnM",
     "s": "yt",
     "o": "TUBerlinTV"
-   },
-   {
-    "d": "2026-11-01",
-    "t": "Deep learning — Yann LeCun, Yoshua Bengio, and Geoffrey Hinton",
-    "u": "https://www.youtube.com/watch?v=6ck6Sp_yQro",
-    "s": "yt",
-    "o": "Neural Casts"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -1405,6 +1405,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "AI, Consciousness and the Future of Humanity | Mustafa Suleyman & Yuval Noah Harari",
+    "u": "https://www.youtube.com/watch?v=H43e72-2aAs",
+    "s": "yt",
+    "o": "Yuval Noah Harari "
+   },
+   {
     "d": "2026-11-04",
     "t": "Walter Isaacson & Mustafa Suleyman in Conversation: The Age of AI — A Live Recording of The Builders",
     "u": "https://www.youtube.com/watch?v=f_z0GePw2Eo",
@@ -1417,13 +1424,6 @@
     "u": "https://www.youtube.com/watch?v=aeIY7Q0iebw",
     "s": "yt",
     "o": "The Builders with Walter Isaacson"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "What Is Microsoft Building in AI? Mustafa Suleyman and the AI Disconnects",
-    "u": "https://www.youtube.com/watch?v=qL-qiZZQmNM",
-    "s": "yt",
-    "o": "Deep Business"
    }
   ],
   "note": "blogs.microsoft.com の著者ページは直近記事が列挙されず。",
@@ -3271,6 +3271,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "One Founder Now Runs a Game Studio With 20 AI Bots | Walden Yan",
+    "u": "https://www.youtube.com/watch?v=fFS4bs2Q9_c",
+    "s": "yt",
+    "o": "MTS "
+   },
+   {
     "d": "2026-05-28",
     "t": "Devin’s 80% Moment: Background Agents, 7x PRs, & End of Hand-Held Coding — Walden Yan & Cole Murray",
     "u": "https://www.youtube.com/watch?v=0fgJPhYcbVk",
@@ -3283,13 +3290,6 @@
     "u": "https://www.youtube.com/watch?v=iPNCiCVoLNo",
     "s": "yt",
     "o": "Founders You Should Know"
-   },
-   {
-    "d": "不明",
-    "t": "Cognition共同創業者Walden Yanが語る起業の理由（中英）",
-    "u": "https://www.youtube.com/watch?v=3xUZhrXF_QU",
-    "s": "yt",
-    "o": "Dr. Yuni Xia"
    }
   ],
   "note": "3件ともbylineと日付を確認。エージェント設計論として広く読まれている。",
@@ -4062,6 +4062,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "Harrison Chase: what changes from 1 agent to 10,000",
+    "u": "https://www.youtube.com/watch?v=Bc4Jub2oX4k",
+    "s": "yt",
+    "o": "AgentGlass, Inc."
+   },
+   {
     "d": "2026-10-30",
     "t": "Why Own Your Intelligence? Harrison Chase Keynote | Interrupt London",
     "u": "https://www.youtube.com/watch?v=XOUSuxY074U",
@@ -4074,13 +4081,6 @@
     "u": "https://www.youtube.com/watch?v=w7GT5pf0hsw",
     "s": "yt",
     "o": "Suds and Squared Circle Media"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "LangChain CEO Harrison Chase on the infrastructure bet he got wrong",
-    "u": "https://www.youtube.com/watch?v=oP_W7GuP6OA",
-    "s": "yt",
-    "o": "Browserbase"
    }
   ],
   "note": "本人コラム「Harrison's In the Loop」名義。著者と日付を確認。",
@@ -5721,6 +5721,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-17",
+    "t": "20 Räume [CTHULHU7] 🚪Ermittlerbau: Jean John Jumper & Lawrence Lars Bishop | Dan's Würfelgeschichten",
+    "u": "https://www.youtube.com/watch?v=9tfRW3vMNao",
+    "s": "yt",
+    "o": "Dan's Würfelgeschichten"
+   },
+   {
     "d": "2026-11-05",
     "t": "How AI Cracked the Code of Life, Molecular Medicine, and Human Biology with John Jumper - StarTalk",
     "u": "https://www.youtube.com/watch?v=P31hSUPF3-M",
@@ -5733,13 +5740,6 @@
     "u": "https://www.youtube.com/watch?v=TAGrlrKhD_w",
     "s": "yt",
     "o": "Albert and Mary Lasker Foundation"
-   },
-   {
-    "d": "2026-07-01",
-    "t": "John Jumper, Fable 5, And I Burned 1.3 Billion Tokens In A Day",
-    "u": "https://www.youtube.com/watch?v=PkrLkwLQmI8",
-    "s": "yt",
-    "o": "Juergen Lunkwitz (Juergs)"
    }
   ],
   "note": "報道（2026-06）と整合するが投稿ページ上の日付は未確認。",
@@ -5956,18 +5956,18 @@
     "o": "Clayville Assembly (Official)"
    },
    {
+    "d": "2026-11-14",
+    "t": "Stuart Russell On AI Safety, Impact On Humanity And What US, China & India Should Do | HTLS 2026",
+    "u": "https://www.youtube.com/watch?v=L_CjopFfFs0",
+    "s": "yt",
+    "o": "Hindustan Times"
+   },
+   {
     "d": "2026-10-14",
     "t": "Could AI Destroy the World? A Debate with Stuart Russell and Jürgen Schmidhuber | Counterpoint",
     "u": "https://www.youtube.com/watch?v=9IwOFRyilfo",
     "s": "yt",
     "o": "Foreign Policy"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Stuart Russell: AI Safety Is Still Pre-Scientific",
-    "u": "https://www.youtube.com/watch?v=ot_xLPW13cM",
-    "s": "yt",
-    "o": "The Roman Forum with Roman Yampolskiy"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
