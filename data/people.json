@@ -4519,20 +4519,20 @@
   "own": [
    {
     "d": "2026-11-18",
-    "t": "Quoting Daniel Stenberg",
-    "u": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+    "t": "llm-gemini 0.38",
+    "u": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
     "s": "blog"
    },
    {
     "d": "2026-11-18",
-    "t": "The PSF end-of-year fundraiser",
-    "u": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+    "t": "datasette-arrows 0.1a0",
+    "u": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
     "s": "blog"
    },
    {
-    "d": "2026-11-17",
-    "t": "External sandboxes for coding agents",
-    "u": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+    "d": "2026-11-18",
+    "t": "Quoting Daniel Stenberg",
+    "u": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
     "s": "blog"
    }
   ],
@@ -5754,6 +5754,12 @@
   "own": [
    {
     "d": "2026-11-18",
+    "t": "Introducing Gemini 4 Neon",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-18",
     "t": "Google for Mexico: Technology impact that goes beyond business",
     "u": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
     "s": "blog"
@@ -5762,12 +5768,6 @@
     "d": "2026-11-18",
     "t": "Las Vegas race week brings big rewards to Google Play",
     "u": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-18",
-    "t": "Genie 4 is now available",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
     "s": "blog"
    }
   ],
