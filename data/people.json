@@ -193,6 +193,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-19",
+    "t": "Yann LeCun, Co-Founder of AMI Labs [AI Founders Masterclass 2026 Session 5]",
+    "u": "https://www.youtube.com/watch?v=WRc1nOEPcsk",
+    "s": "yt",
+    "o": "Radical Ventures"
+   },
+   {
     "d": "2026-11-17",
     "t": "AI Memorized the Internet. That's Not Intelligence. | Yann LeCun",
     "u": "https://www.youtube.com/watch?v=HjKRaty1dU4",
@@ -201,15 +208,8 @@
    },
    {
     "d": "2026-11-16",
-    "t": "Yann LeCun Unfiltered: The Godfather of AI on Life, Logic, and the Future",
+    "t": "The Human Side of AI: A Conversation with Turing Award Laureate Yann LeCun",
     "u": "https://www.youtube.com/watch?v=Yw4i4C6T80k",
-    "s": "yt",
-    "o": "NTU- Institute of Advanced Studies"
-   },
-   {
-    "d": "2026-11-12",
-    "t": "Yann LeCun: World Models & The Next AI Revolution |  NTU IAS Public Lecture",
-    "u": "https://www.youtube.com/watch?v=LYZCbAyssgw",
     "s": "yt",
     "o": "NTU- Institute of Advanced Studies"
    }
@@ -925,25 +925,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-19",
+    "t": "Daniela And Dario Amodei Speak At The Nasdaq As Anthropic Kicks Off IPO",
+    "u": "https://www.youtube.com/watch?v=jjmSkAkShjA",
+    "s": "yt",
+    "o": "Forbes Breaking News"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "Dario Amodei WARNS: You Have No Idea What's Coming In 18 Months",
+    "u": "https://www.youtube.com/watch?v=9RFrkPyPysQ",
+    "s": "yt",
+    "o": "Library Of Wealth"
+   },
+   {
     "d": "2026-11-16",
     "t": "Anthropic IPO roadshow - CEO Dario Amodei in Conversation with Jamie Dimon",
     "u": "https://www.youtube.com/watch?v=mNIYbP3LRpM",
     "s": "yt",
     "o": "10baggers"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "Anthropic IPO Roadshow Video - Dario Amodei",
-    "u": "https://www.youtube.com/watch?v=sQCZJixZ2Zs",
-    "s": "yt",
-    "o": "h8ku"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Anthropic IPO - Dario Amodei",
-    "u": "https://www.youtube.com/watch?v=eynv5VR9qos",
-    "s": "yt",
-    "o": "bunaul"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -2352,7 +2352,7 @@
   "yt": [
    {
     "d": "2026-11-13",
-    "t": "Building SWE-bench with Ofir Press | Evaluated",
+    "t": "Building SWE-bench with Ofir Press",
     "u": "https://www.youtube.com/watch?v=ubwAgxjEV1A",
     "s": "yt",
     "o": "Kaggle"
@@ -3203,25 +3203,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-19",
+    "t": "🤠 LIVE from TX with TK, Jon Gray & Scott Wu",
+    "u": "https://www.youtube.com/watch?v=25N-ovdDDnw",
+    "s": "yt",
+    "o": "John Coogan"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "🤠 LIVE from TX with TK, Jon Gray & Scott Wu",
+    "u": "https://www.youtube.com/watch?v=jiXyYYlt7Yk",
+    "s": "yt",
+    "o": "TBPN"
+   },
+   {
     "d": "2026-11-12",
     "t": "Q3 Review with Scott Wu (Cognition) and Hemant Taneja (General Catalyst)",
     "u": "https://www.youtube.com/watch?v=ex5ly81EGNc",
     "s": "yt",
     "o": "General Catalyst"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
-    "u": "https://www.youtube.com/watch?v=cvmgnpxr-Lk",
-    "s": "yt",
-    "o": "David Senra"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
-    "u": "https://www.youtube.com/watch?v=dRPT515zdG8",
-    "s": "yt",
-    "o": "John Coogan"
    }
   ],
   "note": "ブログはbylineと日付を確認。",
@@ -3588,6 +3588,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "From near-collapse to $9 billion: Replit’s Amjad Masad on riding the AI boom | Summit 2026",
+    "u": "https://www.youtube.com/watch?v=KTgRt6VQN9g",
+    "s": "yt",
+    "o": "Masters of Scale"
+   },
+   {
     "d": "2026-11-15",
     "t": "#2344 - Amjad Masad",
     "u": "https://www.youtube.com/watch?v=y4qrgTZ-JjQ",
@@ -3600,13 +3607,6 @@
     "u": "https://www.youtube.com/watch?v=j6BAepnzLHk",
     "s": "yt",
     "o": "Astana Hub"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Amjad Masad on AI and a World Where Anyone Can Build",
-    "u": "https://www.youtube.com/watch?v=-sUxN1zttY0",
-    "s": "yt",
-    "o": "Intelligent Finance"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -3732,25 +3732,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "Vercel CEO Guillermo Rauch on Building the Agentic Web",
+    "u": "https://www.youtube.com/watch?v=jrO_w-paZRA",
+    "s": "yt",
+    "o": "Salesforce Ventures"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "Guillermo Rauch: How a High School Dropout Built a Cloud Giant | The Greats",
+    "u": "https://www.youtube.com/watch?v=CvVFPRupKl0",
+    "s": "yt",
+    "o": "Charles Cormier - Founder Wisdom Podcast"
+   },
+   {
     "d": "2026-11-10",
     "t": "HUMAN VERIFIED 003: Guillermo Rauch (CEO of Vercel) on 6 kids, vacationing on Mars + Agents",
     "u": "https://www.youtube.com/watch?v=Pd1zm71HXsU",
     "s": "yt",
     "o": "Humanagains"
-   },
-   {
-    "d": "2026-11-07",
-    "t": "Vercel 创始人：一人加智能体，撑起万亿公司​ |  Vercel | Guillermo Rauch | Next.js | 代码智能体 | AI编程 | 无头架构 | MCP协议 |",
-    "u": "https://www.youtube.com/watch?v=yE4ByiABZnI",
-    "s": "yt",
-    "o": "最佳拍档"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "Vercel CEO: How 1 Person + AI Agents Could Build a $1T Company | Guillermo Rauch",
-    "u": "https://www.youtube.com/watch?v=W9YfKZaK7KI",
-    "s": "yt",
-    "o": "Delphi"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -4287,25 +4287,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-19",
+    "t": "복식 50 XD - 16강 (HKG) Ngan Chi Wang Leo/Ngai Ying Wa vs (IND) Deepak Saxena/Urvashi Thapa | VICTOR",
+    "u": "https://www.youtube.com/watch?v=tK_NK4uFoas",
+    "s": "yt",
+    "o": "OHMYPLAY_LIVE_6"
+   },
+   {
+    "d": "2026-11-19",
+    "t": "복식 50 MD - 예선 (MAS) Cheng Huan Goh/Ewe Hock Ong vs (HKG) Li Bin/Ngan Chi Wang Leo | VICTOR Badmint",
+    "u": "https://www.youtube.com/watch?v=w9701QewtGM",
+    "s": "yt",
+    "o": "OHMYPLAY_LIVE_3"
+   },
+   {
     "d": "2026-11-16",
     "t": "복식 50 XD - 32강 (HKG) Ngan Chi Wang Leo/Ngai Ying Wa vs (KOR) Sin Jun Seung/Park Sung Mi | VICTOR B",
     "u": "https://www.youtube.com/watch?v=1oGmSgkIVlk",
     "s": "yt",
     "o": "OHMYPLAY_LIVE_3"
-   },
-   {
-    "d": "2026-08-20",
-    "t": "Multi-Agent Architectures in Production with Chi Wang and Xiao Ma",
-    "u": "https://www.youtube.com/watch?v=oVQi6LIHWtg",
-    "s": "yt",
-    "o": "Deep Engineering"
-   },
-   {
-    "d": "2026-08-06",
-    "t": "Purpose at Work | Live by Chi Chi Wang ",
-    "u": "https://www.youtube.com/watch?v=hLfGr433XSA",
-    "s": "yt",
-    "o": "Chi Chi Wang • C.C.Within "
    }
   ],
   "note": "2025年2月以降の本人発信で本文確認できるものは見つからず。",
@@ -4411,7 +4411,7 @@
   ],
   "yt": [
    {
-    "d": "2026-11-12",
+    "d": "2026-11-18",
     "t": "Building Frontier Agents With Replit (Pro Series) Featuring Yohei Nakajima",
     "u": "https://www.youtube.com/watch?v=2GZyD36kdHo",
     "s": "yt",
@@ -4561,6 +4561,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-18",
+    "t": "Simon Willison: Benchmarks Are Dead. Fable-Class Models Killed Them",
+    "u": "https://www.youtube.com/watch?v=9C8JZTmpbE4",
+    "s": "yt",
+    "o": "Turing Post TV"
+   },
+   {
     "d": "2026-10-16",
     "t": "🎧 Simon Willison의 '개념적 무결성과 코드 줄 수' — 죽은 지표가 되살아난 이유, 그리고 함정",
     "u": "https://www.youtube.com/watch?v=oUChGZiTOq8",
@@ -4573,13 +4580,6 @@
     "u": "https://www.youtube.com/watch?v=IrHaLMO96jg",
     "s": "yt",
     "o": "Citus Data"
-   },
-   {
-    "d": "2026-07-30",
-    "t": "Oxide and Friends 7/27/2026 -- The Open Weight Revolution with Simon Willison",
-    "u": "https://www.youtube.com/watch?v=f_6TzmifxnI",
-    "s": "yt",
-    "o": "Oxide Computer Company"
    }
   ],
   "note": "ほぼ毎日更新。今回の100名で最も発信頻度が高い。",
