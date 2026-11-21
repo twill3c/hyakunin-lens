@@ -268,25 +268,25 @@
   ],
   "yt": [
    {
-    "d": "2026-10-31",
-    "t": "Long Short-Term Memory — Sepp Hochreiter and Jürgen Schmidhuber",
-    "u": "https://www.youtube.com/watch?v=nsDk1rks5qU",
+    "d": "2026-11-20",
+    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=gmYcrQpOluQ",
     "s": "yt",
-    "o": "Neural Casts"
+    "o": "Sakana AI"
    },
    {
-    "d": "2026-10-14",
-    "t": "Could AI Destroy the World? A Debate with Stuart Russell and Jürgen Schmidhuber | Counterpoint",
-    "u": "https://www.youtube.com/watch?v=9IwOFRyilfo",
+    "d": "2026-11-20",
+    "t": "Jürgen Schmidhuber – Keynote | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=b-ZjVTEg7pA",
     "s": "yt",
-    "o": "Foreign Policy"
+    "o": "Sakana AI"
    },
    {
-    "d": "2026-10-05",
-    "t": "Will Humans Lose Control of AI? | Jürgen Schmidhuber vs Sebastian Raschka",
-    "u": "https://www.youtube.com/watch?v=fcOTx06qYtQ",
+    "d": "2026-11-19",
+    "t": "Der Vater der KI: Was KI bald kann, wird keiner glauben! DAS passiert nach AGI (Jürgen Schmidhuber)",
+    "u": "https://www.youtube.com/watch?v=dvcxM2aHKGY",
     "s": "yt",
-    "o": "Hermetiq"
+    "o": "Everlast AI"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -700,6 +700,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-19",
+    "t": "Gemini and the path to AGI with Koray Kavukcuoglu",
+    "u": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+    "s": "yt",
+    "o": "Google DeepMind"
+   },
+   {
     "d": "2026-09-01",
     "t": "Koray Kavukcuoglu on frontier models, coding agents, and building AGI",
     "u": "https://www.youtube.com/watch?v=Rrr2gdbvNFU",
@@ -712,13 +719,6 @@
     "u": "https://www.youtube.com/watch?v=dIPdY541vus",
     "s": "yt",
     "o": "Alex Kantrowitz"
-   },
-   {
-    "d": "不明",
-    "t": "Koray Kavukcuoglu: 「This Is How We Are Going to Build AGI」",
-    "u": "https://www.youtube.com/watch?v=fXtna7UrL44",
-    "s": "yt",
-    "o": "Google for Developers"
    }
   ],
   "note": "本人名義のDeepMind公式ブログ記事は直近で確認できず。",
@@ -5051,25 +5051,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-20",
+    "t": "Fei-Fei Li’s $8B World Model",
+    "u": "https://www.youtube.com/watch?v=hORDMRY_bZ0",
+    "s": "yt",
+    "o": "Welch Labs"
+   },
+   {
+    "d": "2026-11-19",
+    "t": "AMD被做空暴跌！蘇姿丰（Lisa Su）也有中國問題？Hunterbrook報告說了什麼？李飛飛（Fei-Fei Li）是王牌還是變數？#鵬觀天下 11.19.2026",
+    "u": "https://www.youtube.com/watch?v=mU4INzNq12k",
+    "s": "yt",
+    "o": "鵬觀天下 秦鵬"
+   },
+   {
     "d": "2026-11-16",
     "t": "Building AI That Understands the World | Fei-Fei Li, World Labs",
     "u": "https://www.youtube.com/watch?v=kGVO7u8vGHo",
     "s": "yt",
     "o": "Emerson Collective"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li",
-    "u": "https://www.youtube.com/watch?v=ooGKNwJWdb8",
-    "s": "yt",
-    "o": "Stanford HAI"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "ImageNet: How Fei-Fei Li Made the Visual World Familiar to Machines",
-    "u": "https://www.youtube.com/watch?v=PBifqc-WWIc",
-    "s": "yt",
-    "o": "Fifteen Hours"
    }
   ],
   "note": "Substackと X の両方で発信。",
@@ -6497,25 +6497,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-20",
+    "t": "David Ha – Opening: From World Models to Real-World AI | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=26KYmdtHbGw",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
+    "d": "2026-11-20",
+    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=gmYcrQpOluQ",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
     "d": "2026-11-03",
     "t": "God of Pastor David has done it as he’s wife put to birth. Baby Girl . Oh glory to our God",
     "u": "https://www.youtube.com/watch?v=nWzWJ59dOGI",
     "s": "yt",
     "o": "pastor David "
-   },
-   {
-    "d": "2026-10-24",
-    "t": "David Has 7 Days to Choose – A CEO Career or His Family?",
-    "u": "https://www.youtube.com/watch?v=PNFlUqYFgNE",
-    "s": "yt",
-    "o": "David Triệu "
-   },
-   {
-    "d": "2026-10-06",
-    "t": "Kody is gone; JANELLE \"explains\" to Meri; DAVID has a bad edit. S21 Ep.1 Review (PART ONE)",
-    "u": "https://www.youtube.com/watch?v=jrAder5LeH0",
-    "s": "yt",
-    "o": "Senior Perspective on Sister Wives"
    }
   ],
   "note": "本人ブログの最新は2022-10で対象期間外（参考として記載）。X(@hardmaru)は取得不可。",
