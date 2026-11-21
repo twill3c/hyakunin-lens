@@ -4019,6 +4019,12 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-11-21",
+    "t": "How to build a knowledge factory for AI agents",
+    "u": "https://www.langchain.com/blog/knowledge-factory",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-20",
     "t": "LangChain Raises $300M Series C at $3B Valuation",
     "u": "https://www.langchain.com/blog/series-c",
@@ -4028,12 +4034,6 @@
     "d": "2026-11-20",
     "t": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "u": "https://www.langchain.com/blog/langsmith-tool-gateway",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-20",
-    "t": "Why agent governance starts with observability",
-    "u": "https://www.langchain.com/blog/agent-governance-observability",
     "s": "blog"
    }
   ],
@@ -4531,8 +4531,8 @@
    },
    {
     "d": "2026-11-20",
-    "t": "Token fraud is here and it’s BAD (YouTube)",
-    "u": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "t": "llm-gemini 0.38.1",
+    "u": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
     "s": "blog"
    }
   ],
