@@ -1,6 +1,6 @@
 {
  "bucket": 1,
- "ok": 41,
+ "ok": 40,
  "attempted": 50,
  "people": [
   {
@@ -41,7 +41,7 @@
   {
    "n": "Ilya Sutskever",
    "ok": true,
-   "count": 19
+   "count": 16
   },
   {
    "n": "Jakub Pachocki",
@@ -51,7 +51,7 @@
   {
    "n": "Mustafa Suleyman",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "n": "Ashish Vaswani",
@@ -70,8 +70,8 @@
   },
   {
    "n": "Oriol Vinyals",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "count": 0
   },
   {
    "n": "Liang Wenfeng 梁文锋",
@@ -91,7 +91,7 @@
   {
    "n": "John Yang",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "n": "Noah Shinn",
@@ -151,12 +151,12 @@
   {
    "n": "Harrison Chase",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "n": "João Moura",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "n": "Toran Bruce Richards",
@@ -166,7 +166,7 @@
   {
    "n": "Thomas Wolf",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "n": "Magnus Müller",
@@ -201,7 +201,7 @@
   {
    "n": "Chelsea Finn",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "n": "Jim Fan 范麟熙",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 12
+   "count": 15
   },
   {
    "n": "Sara Hooker",
@@ -241,7 +241,7 @@
   {
    "n": "David Ha",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "n": "岡野原大輔",
@@ -254,5 +254,5 @@
    "count": 6
   }
  ],
- "generated_at": "2026-11-21T00:45:22Z"
+ "generated_at": "2026-11-21T23:45:45Z"
 }
