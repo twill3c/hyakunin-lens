@@ -4020,6 +4020,12 @@
   "own": [
    {
     "d": "2026-11-20",
+    "t": "LangChain Raises $300M Series C at $3B Valuation",
+    "u": "https://www.langchain.com/blog/series-c",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-20",
     "t": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "u": "https://www.langchain.com/blog/langsmith-tool-gateway",
     "s": "blog"
@@ -4028,12 +4034,6 @@
     "d": "2026-11-20",
     "t": "Why agent governance starts with observability",
     "u": "https://www.langchain.com/blog/agent-governance-observability",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-19",
-    "t": "LangChain Raises $300M Series C at $3B Valuation",
-    "u": "https://www.langchain.com/blog/series-c",
     "s": "blog"
    }
   ],
@@ -5754,6 +5754,12 @@
   "own": [
    {
     "d": "2026-11-20",
+    "t": "Get your year-end tasks done with new Connected Apps.",
+    "u": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-20",
     "t": "How Watch Duty is using Gemini to get wildfire alerts out faster",
     "u": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
     "s": "blog"
@@ -5762,12 +5768,6 @@
     "d": "2026-11-19",
     "t": "ICYMI: Transfer your history from other AI apps into Gemini.",
     "u": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-19",
-    "t": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
     "s": "blog"
    }
   ],
@@ -6379,6 +6379,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-11-24",
+    "t": "Introducing the Sakana AI Applied Research Lab",
+    "u": "https://sakana.ai/applied-research-lab/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-20",
     "t": "Introducing Sakana AI’s Security Research Group",
     "u": "https://sakana.ai/security-research-group/",
@@ -6388,12 +6394,6 @@
     "d": "2026-11-17",
     "t": "JFinBench: 最新の金融資格試験を用いた日本語金融ベンチマークの公開",
     "u": "https://sakana.ai/jfinbench/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "マイケル・ロジャース米退役海軍大将、トム・モラン元CIA支局長がSakana AIのシニアアドバイザーに就任",
-    "u": "https://sakana.ai/michael-tom/",
     "s": "blog"
    }
   ],
