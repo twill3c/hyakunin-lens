@@ -268,25 +268,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "Jürgen Schmidhuber – Keynote | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=wgD6EJmRpWg",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
+    "d": "2026-11-22",
+    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=oG8Fvcv2g3o",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
     "d": "2026-11-20",
     "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
     "u": "https://www.youtube.com/watch?v=gmYcrQpOluQ",
     "s": "yt",
     "o": "Sakana AI"
-   },
-   {
-    "d": "2026-11-20",
-    "t": "Jürgen Schmidhuber – Keynote | Sakana AI Symposium 2026",
-    "u": "https://www.youtube.com/watch?v=b-ZjVTEg7pA",
-    "s": "yt",
-    "o": "Sakana AI"
-   },
-   {
-    "d": "2026-11-19",
-    "t": "Der Vater der KI: Was KI bald kann, wird keiner glauben! DAS passiert nach AGI (Jürgen Schmidhuber)",
-    "u": "https://www.youtube.com/watch?v=dvcxM2aHKGY",
-    "s": "yt",
-    "o": "Everlast AI"
    }
   ],
   "note": "本人サイトのAI Blogは2021年以降更新確認できず。",
@@ -2139,6 +2139,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "Parlons de l’épisode entre Jensen Huang et Arthur Mensch",
+    "u": "https://www.youtube.com/watch?v=nI2Kw2oTJ14",
+    "s": "yt",
+    "o": "Hugo de Paganis France"
+   },
+   {
     "d": "2026-10-09",
     "t": "\"Notre nouveau modèle va sécuriser l'Etat\" Arthur Mensch  CEO de Mistral",
     "u": "https://www.youtube.com/watch?v=2OisPqIXCqc",
@@ -2151,13 +2158,6 @@
     "u": "https://www.youtube.com/watch?v=Md0eOak0-W8",
     "s": "yt",
     "o": "Max Planck Institute for Intelligent Systems"
-   },
-   {
-    "d": "2026-09-05",
-    "t": "Analyse Arthur Mensch",
-    "u": "https://www.youtube.com/watch?v=n1JqRDeXcew",
-    "s": "yt",
-    "o": "Gautier Bonnemaison"
    }
   ],
   "note": "LinkedInはフェッチ不可。投稿の存在のみ確認、本文・日付は未確認。",
@@ -5721,25 +5721,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "Highly accurate protein structure prediction with AlphaFold — John Jumper et al.",
+    "u": "https://www.youtube.com/watch?v=sEwM7La7IQI",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
+    "d": "2026-11-22",
+    "t": "Building chemical and biological intuition into protein structure prediction (John Jumper)",
+    "u": "https://www.youtube.com/watch?v=B6unIKx41Sc",
+    "s": "yt",
+    "o": "Thien Nguyen"
+   },
+   {
     "d": "2026-11-17",
     "t": "20 Räume [CTHULHU7] 🚪Ermittlerbau: Jean John Jumper & Lawrence Lars Bishop | Dan's Würfelgeschichten",
     "u": "https://www.youtube.com/watch?v=9tfRW3vMNao",
     "s": "yt",
     "o": "Dan's Würfelgeschichten"
-   },
-   {
-    "d": "2026-11-05",
-    "t": "How AI Cracked the Code of Life, Molecular Medicine, and Human Biology with John Jumper - StarTalk",
-    "u": "https://www.youtube.com/watch?v=P31hSUPF3-M",
-    "s": "yt",
-    "o": "Funny Science StarTaIk"
-   },
-   {
-    "d": "2026-07-02",
-    "t": "Working at the Edge of Knowledge With John Jumper",
-    "u": "https://www.youtube.com/watch?v=TAGrlrKhD_w",
-    "s": "yt",
-    "o": "Albert and Mary Lasker Foundation"
    }
   ],
   "note": "報道（2026-06）と整合するが投稿ページ上の日付は未確認。",
@@ -5949,6 +5949,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "HT Summit | Can Humans Control Superintelligence? Stuart Russell Sounds Alarm On AI Risks",
+    "u": "https://www.youtube.com/watch?v=7GIKQE5FmJ8",
+    "s": "yt",
+    "o": "NDTV"
+   },
+   {
     "d": "2026-11-16",
     "t": "Christ Has Already Returned!  (Read The Parousia, by James Stuart Russell)",
     "u": "https://www.youtube.com/watch?v=fO_p29AA9UQ",
@@ -5961,13 +5968,6 @@
     "u": "https://www.youtube.com/watch?v=L_CjopFfFs0",
     "s": "yt",
     "o": "Hindustan Times"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "Could AI Destroy the World? A Debate with Stuart Russell and Jürgen Schmidhuber | Counterpoint",
-    "u": "https://www.youtube.com/watch?v=9IwOFRyilfo",
-    "s": "yt",
-    "o": "Foreign Policy"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
@@ -6497,25 +6497,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "David Ha – Opening: From World Models to Real-World AI | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=AkP2WuhmATk",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
+    "d": "2026-11-22",
+    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
+    "u": "https://www.youtube.com/watch?v=oG8Fvcv2g3o",
+    "s": "yt",
+    "o": "Sakana AI"
+   },
+   {
     "d": "2026-11-20",
     "t": "David Ha – Opening: From World Models to Real-World AI | Sakana AI Symposium 2026",
     "u": "https://www.youtube.com/watch?v=26KYmdtHbGw",
     "s": "yt",
     "o": "Sakana AI"
-   },
-   {
-    "d": "2026-11-20",
-    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
-    "u": "https://www.youtube.com/watch?v=gmYcrQpOluQ",
-    "s": "yt",
-    "o": "Sakana AI"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "God of Pastor David has done it as he’s wife put to birth. Baby Girl . Oh glory to our God",
-    "u": "https://www.youtube.com/watch?v=nWzWJ59dOGI",
-    "s": "yt",
-    "o": "pastor David "
    }
   ],
   "note": "本人ブログの最新は2022-10で対象期間外（参考として記載）。X(@hardmaru)は取得不可。",

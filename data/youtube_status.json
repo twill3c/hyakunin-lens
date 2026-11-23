@@ -1,12 +1,12 @@
 {
  "bucket": 1,
- "ok": 40,
+ "ok": 41,
  "attempted": 50,
  "people": [
   {
    "n": "Yoshua Bengio",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "n": "Jürgen Schmidhuber",
@@ -36,12 +36,12 @@
   {
    "n": "Jared Kaplan",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "n": "Ilya Sutskever",
    "ok": true,
-   "count": 16
+   "count": 18
   },
   {
    "n": "Jakub Pachocki",
@@ -51,7 +51,7 @@
   {
    "n": "Mustafa Suleyman",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "n": "Ashish Vaswani",
@@ -70,18 +70,18 @@
   },
   {
    "n": "Oriol Vinyals",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 2
   },
   {
    "n": "Liang Wenfeng 梁文锋",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "n": "Arthur Mensch",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "n": "Shunyu Yao 姚順雨",
@@ -91,7 +91,7 @@
   {
    "n": "John Yang",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "n": "Noah Shinn",
@@ -151,12 +151,12 @@
   {
    "n": "Harrison Chase",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "n": "João Moura",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "n": "Toran Bruce Richards",
@@ -186,7 +186,7 @@
   {
    "n": "Fei-Fei Li 李飛飛",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "n": "Jitendra Malik",
@@ -211,7 +211,7 @@
   {
    "n": "John Jumper",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "n": "Regina Barzilay",
@@ -221,7 +221,7 @@
   {
    "n": "Stuart Russell",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "n": "Sara Hooker",
@@ -241,7 +241,7 @@
   {
    "n": "David Ha",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "n": "岡野原大輔",
@@ -254,5 +254,5 @@
    "count": 6
   }
  ],
- "generated_at": "2026-11-21T23:45:45Z"
+ "generated_at": "2026-11-23T00:13:31Z"
 }
