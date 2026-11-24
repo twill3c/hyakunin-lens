@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-24",
+    "t": "datasette-charts 0.2a0",
+    "u": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-24",
+    "t": "datasette-agent 0.7a1",
+    "u": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-23",
     "t": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
     "u": "https://simonwillison.net/2026/Nov/23/glm-54/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-23",
-    "t": "Ladybird's first alpha release",
-    "u": "https://simonwillison.net/2026/Nov/23/ladybird/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-23",
-    "t": "datasette-charts 0.1a0",
-    "u": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
     "s": "blog"
    }
   ],
