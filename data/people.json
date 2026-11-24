@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-24",
+    "t": "GPT 6.2 Astra Solves a Historical Mystery",
+    "u": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-24",
     "t": "datasette-charts 0.2a0",
     "u": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-11-24",
     "t": "datasette-agent 0.7a1",
     "u": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-23",
-    "t": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "u": "https://simonwillison.net/2026/Nov/23/glm-54/",
     "s": "blog"
    }
   ],
@@ -5753,21 +5753,21 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
-    "d": "2026-11-23",
-    "t": "See what 6 builders are making with Gemini 4 Hydrogen",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+    "d": "2026-11-24",
+    "t": "How Gemini is changing the game for Golden State's organization and fans.",
+    "u": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "s": "blog"
    },
    {
-    "d": "2026-11-23",
-    "t": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
-    "u": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+    "d": "2026-11-24",
+    "t": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
     "s": "blog"
    },
    {
-    "d": "2026-11-23",
-    "t": "A more tailored Google Search that’s uniquely yours",
-    "u": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "d": "2026-11-24",
+    "t": "We’re expanding our London home in King's Cross.",
+    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
     "s": "blog"
    }
   ],
