@@ -118,6 +118,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-23",
+    "t": "Sam Altman, Dario Amodei & Yoshua Bengio Warn UN Security Council of Catastrophic AI Risks",
+    "u": "https://www.youtube.com/watch?v=5R7FTecLbo0",
+    "s": "yt",
+    "o": "ET Now World"
+   },
+   {
     "d": "2026-11-13",
     "t": "Yoshua Bengio & Cristina Criddle on Correcting the Current AI Trajectory | The Curve 2026",
     "u": "https://www.youtube.com/watch?v=XYoHOsn-jV0",
@@ -130,13 +137,6 @@
     "u": "https://www.youtube.com/watch?v=12GgmiUO4yE",
     "s": "yt",
     "o": "Faculté des arts et des sciences - UdeM"
-   },
-   {
-    "d": "2026-11-07",
-    "t": "A Critical Pathway to Safe-by-Design AI -  A Lecture by Prof. Yoshua Bengio at TU Berlin",
-    "u": "https://www.youtube.com/watch?v=2-jQLttcWnM",
-    "s": "yt",
-    "o": "TUBerlinTV"
    }
   ],
   "note": "本人ブログを直接確認。2025年6月以降の新規投稿なし。",
@@ -268,6 +268,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "„Vater der KI\", KI-Forscher - DER DEUTSCHE JÜRGEN SCHMIDHUBER",
+    "u": "https://www.youtube.com/watch?v=GmHOzIcCDEI",
+    "s": "yt",
+    "o": "Fit mit Kopf Charly"
+   },
+   {
     "d": "2026-11-22",
     "t": "Jürgen Schmidhuber – Keynote | Sakana AI Symposium 2026",
     "u": "https://www.youtube.com/watch?v=wgD6EJmRpWg",
@@ -278,13 +285,6 @@
     "d": "2026-11-22",
     "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
     "u": "https://www.youtube.com/watch?v=oG8Fvcv2g3o",
-    "s": "yt",
-    "o": "Sakana AI"
-   },
-   {
-    "d": "2026-11-20",
-    "t": "David Ha × Jürgen Schmidhuber – Fireside Chat | Sakana AI Symposium 2026",
-    "u": "https://www.youtube.com/watch?v=gmYcrQpOluQ",
     "s": "yt",
     "o": "Sakana AI"
    }
@@ -2139,7 +2139,7 @@
   ],
   "yt": [
    {
-    "d": "2026-11-22",
+    "d": "2026-11-23",
     "t": "Parlons de l’épisode entre Jensen Huang et Arthur Mensch",
     "u": "https://www.youtube.com/watch?v=nI2Kw2oTJ14",
     "s": "yt",
@@ -2426,6 +2426,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "What Data Do AI Agents Need? | Stanford CS329Z Lecture 10 with John Yang",
+    "u": "https://www.youtube.com/watch?v=HbgZFwWj4vY",
+    "s": "yt",
+    "o": "Stanford Online"
+   },
+   {
     "d": "2026-10-12",
     "t": "HarvestLA 2026 1011 [  Life lesson relearned  ]  John Yang",
     "u": "https://www.youtube.com/watch?v=zQNdvli-7nw",
@@ -2438,13 +2445,6 @@
     "u": "https://www.youtube.com/watch?v=5KPV50rnXAg",
     "s": "yt",
     "o": "PNWpoolthing"
-   },
-   {
-    "d": "2026-07-21",
-    "t": "🚨 Bouche Sèche au Réveil ? Ce Symptôme Peut Révéler une Maladie Grave | Dr John Yang",
-    "u": "https://www.youtube.com/watch?v=-f2c_NL04IA",
-    "s": "yt",
-    "o": "Vivre Plus Longtemps"
    }
   ],
   "note": "個人サイトのブログ一覧で日付を確認。",
@@ -2685,6 +2685,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-01",
+    "t": "سوره الکهف(کامل) بدون تلاوت قرآن کریم ترجمه گویا عمر خطاب احمدزی  Omar Khattab Ahmadzai ",
+    "u": "https://www.youtube.com/watch?v=n2P74bvjcYw",
+    "s": "yt",
+    "o": "Sabr tv 🫀"
+   },
+   {
     "d": "2026-05-20",
     "t": "سوره الحج||سوره الأنبیاء ||ترجمه فارسی دری||عمر خطاب احمدزی Omar Khattab Ahmadzai || Surah Al-Hajj ",
     "u": "https://www.youtube.com/watch?v=XMKskfVFcpk",
@@ -2697,13 +2704,6 @@
     "u": "https://www.youtube.com/watch?v=Z2TmdcylyEc",
     "s": "yt",
     "o": "Cmpnd"
-   },
-   {
-    "d": "不明",
-    "t": "DSPy and ColBERT with Omar Khattab! - Weaviate Podcast #85",
-    "u": "https://www.youtube.com/watch?v=CDung1LnLbY",
-    "s": "yt",
-    "o": "Weaviate"
    }
   ],
   "note": "本人ブログのリポジトリには2ファイルのみ。日付は年月粒度。",
@@ -5297,6 +5297,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-23",
+    "t": "Denoising Diffusion Probabilistic Models — Jonathan Ho, Ajay Jain, and Pieter Abbeel",
+    "u": "https://www.youtube.com/watch?v=PSPWb-2mm6M",
+    "s": "yt",
+    "o": "Neural Casts"
+   },
+   {
     "d": "2026-08-04",
     "t": "Pieter Abbeel: Deep Reinforcement Learning",
     "u": "https://www.youtube.com/watch?v=ZDXLafceWnU",
@@ -5309,13 +5316,6 @@
     "u": "https://www.youtube.com/watch?v=hYA1-8bOfDo",
     "s": "yt",
     "o": "MindVoice Production"
-   },
-   {
-    "d": "不明",
-    "t": "Reinforcement Learning for Industrial AI - #476",
-    "u": "https://www.youtube.com/watch?v=ILOYNXUYUxA",
-    "s": "yt",
-    "o": "The TWIML AI Podcast"
    }
   ],
   "note": "本人名義のブログ/Substackは見つからず（The Robot Brainsはポッドキャストのみ）。",
@@ -5949,25 +5949,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "Superintelligent AI: Why Stuart Russell Wants Urgent Government Action",
+    "u": "https://www.youtube.com/watch?v=XNd5xDVYLCQ",
+    "s": "yt",
+    "o": "NDTV"
+   },
+   {
+    "d": "2026-11-23",
+    "t": "Stuart Russell On Opportunities & Dangers Of AI, Road To AGI, Cyber & Bioweapon Threats | HTLS 2026",
+    "u": "https://www.youtube.com/watch?v=DYxfUkG44MI",
+    "s": "yt",
+    "o": "Hindustan Times"
+   },
+   {
     "d": "2026-11-22",
     "t": "HT Summit | Can Humans Control Superintelligence? Stuart Russell Sounds Alarm On AI Risks",
     "u": "https://www.youtube.com/watch?v=7GIKQE5FmJ8",
     "s": "yt",
     "o": "NDTV"
-   },
-   {
-    "d": "2026-11-16",
-    "t": "Christ Has Already Returned!  (Read The Parousia, by James Stuart Russell)",
-    "u": "https://www.youtube.com/watch?v=fO_p29AA9UQ",
-    "s": "yt",
-    "o": "Clayville Assembly (Official)"
-   },
-   {
-    "d": "2026-11-14",
-    "t": "Stuart Russell On AI Safety, Impact On Humanity And What US, China & India Should Do | HTLS 2026",
-    "u": "https://www.youtube.com/watch?v=L_CjopFfFs0",
-    "s": "yt",
-    "o": "Hindustan Times"
    }
   ],
   "note": "個人サイトは講演動画中心で最新は2023年。CHAIのニュース欄にも本人著者記事なし。X の同名アカウントは別人。0件。",
