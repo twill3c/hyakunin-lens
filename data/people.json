@@ -3477,12 +3477,6 @@
   "bio": "Clineの作者。VS Code上で動く自律エージェントを完全オープンソースで開発し、MCPの活用でも先行した。数百万インストール規模に成長させながら、オープンソースの持続可能性という論点を公の場で提起している。",
   "own": [
    {
-    "d": "2026-11-19",
-    "t": "Cline-Bench: Faithful and Fair Evaluation of Agents on Real User Requests",
-    "u": "https://cline.ghost.io/cline-bench-faithful-and-fair-evaluation-of-agents-on-real-user-requests/",
-    "s": "blog"
-   },
-   {
     "d": "2026-10-27",
     "t": "11,840 TPS on a single GPU",
     "u": "https://cline.ghost.io/11-840-tps-on-a-single-gpu/",
@@ -3492,6 +3486,12 @@
     "d": "2026-10-27",
     "t": "Building Faster AI Agents with Jev Decision Models and Cline",
     "u": "https://cline.ghost.io/jev-decision-models-ai-agents-cline/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-15",
+    "t": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
+    "u": "https://cline.ghost.io/nvidia-nemotron-3-5-super-vl-cline-agent-harness/",
     "s": "blog"
    }
   ],
@@ -4019,21 +4019,21 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
+    "d": "2026-11-25",
+    "t": "The Agent Lake",
+    "u": "https://www.langchain.com/blog/the-agent-lake",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "How We Achieved ISO 42001 with LangSmith",
+    "u": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-23",
     "t": "How to build a knowledge factory for AI agents",
     "u": "https://www.langchain.com/blog/knowledge-factory",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-23",
-    "t": "LangChain Raises $300M Series C at $3B Valuation",
-    "u": "https://www.langchain.com/blog/series-c",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-20",
-    "t": "LangSmith Tool Gateway: Secure, governed tool use for agents",
-    "u": "https://www.langchain.com/blog/langsmith-tool-gateway",
     "s": "blog"
    }
   ],
@@ -4519,6 +4519,12 @@
   "own": [
    {
     "d": "2026-11-24",
+    "t": "Three LLM inflection points in twelve months",
+    "u": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-24",
     "t": "GPT 6.2 Astra Solves a Historical Mystery",
     "u": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
     "s": "blog"
@@ -4527,12 +4533,6 @@
     "d": "2026-11-24",
     "t": "datasette-charts 0.2a0",
     "u": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-24",
-    "t": "datasette-agent 0.7a1",
-    "u": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
     "s": "blog"
    }
   ],
@@ -5754,20 +5754,20 @@
   "own": [
    {
     "d": "2026-11-24",
+    "t": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-24",
     "t": "How Gemini is changing the game for Golden State's organization and fans.",
     "u": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "s": "blog"
    },
    {
     "d": "2026-11-24",
-    "t": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-24",
-    "t": "We’re expanding our London home in King's Cross.",
-    "u": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+    "t": "See what 5 builders are making with Gemini 4 Neon",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
     "s": "blog"
    }
   ],
@@ -6379,6 +6379,12 @@
   "bio": "Transformer論文の共著者の一人で、現在は東京を拠点にSakana AIを共同創業。「Transformerにはもううんざりだ」と公言し、進化的手法や連続思考機械など次のアーキテクチャを探している。日本を拠点に選んだ数少ないトップ研究者。",
   "own": [
    {
+    "d": "2026-11-25",
+    "t": "Sakana Namazu Small",
+    "u": "https://sakana.ai/namazu-small/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-24",
     "t": "Introducing the Sakana AI Applied Research Lab",
     "u": "https://sakana.ai/applied-research-lab/",
@@ -6388,12 +6394,6 @@
     "d": "2026-11-20",
     "t": "Introducing Sakana AI’s Security Research Group",
     "u": "https://sakana.ai/security-research-group/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "JFinBench: 最新の金融資格試験を用いた日本語金融ベンチマークの公開",
-    "u": "https://sakana.ai/jfinbench/",
     "s": "blog"
    }
   ],
