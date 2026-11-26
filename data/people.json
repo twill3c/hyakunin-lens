@@ -4019,7 +4019,7 @@
   "bio": "LangChainを作り、LLMアプリ開発の裾野を一気に広げた。抽象化への批判も受けてきたが、LangGraphでの再設計や評価基盤LangSmithで応え続けている。エージェント構築の勘所を言語化する発信量は業界随一。",
   "own": [
    {
-    "d": "2026-11-25",
+    "d": "2026-11-26",
     "t": "The Agent Lake",
     "u": "https://www.langchain.com/blog/the-agent-lake",
     "s": "blog"
@@ -4519,20 +4519,20 @@
   "own": [
    {
     "d": "2026-11-26",
+    "t": "Quoting Jack Despain Zhou",
+    "u": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-26",
     "t": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
     "u": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
     "s": "blog"
    },
    {
-    "d": "2026-11-25",
-    "t": "Quoting Scott Aaronson",
-    "u": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-25",
-    "t": "datasette-charts 0.3a0",
-    "u": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+    "d": "2026-11-26",
+    "t": "The New York Times warns photographers not to update Photoshop over AI features",
+    "u": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
     "s": "blog"
    }
   ],
@@ -5753,6 +5753,12 @@
   "bio": "Google DeepMindの科学部門を統括し、AlphaFold、AlphaTensor、GNoME、AlphaEvolveなど「AIで科学を解く」プロジェクト群を横断的に率いる。研究成果を実際の産業・数学教育へ橋渡しする役割も担っている。",
   "own": [
    {
+    "d": "2026-11-26",
+    "t": "15 years of investing in Colombia’s talent and future",
+    "u": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-24",
     "t": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
     "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
@@ -5762,12 +5768,6 @@
     "d": "2026-11-24",
     "t": "How Gemini is changing the game for Golden State's organization and fans.",
     "u": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-24",
-    "t": "See what 5 builders are making with Gemini 4 Neon",
-    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
     "s": "blog"
    }
   ],
