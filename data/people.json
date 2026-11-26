@@ -43,25 +43,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "The “Godfather of AI” on the Risks That Worry Him Most | Geoffrey Hinton | TED",
+    "u": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+    "s": "yt",
+    "o": "TED"
+   },
+   {
+    "d": "2026-11-24",
+    "t": "The Most Productive Hour You’ll Spend on AI, Its Dangers, and Potential Solutions | Geoffrey Hinton",
+    "u": "https://www.youtube.com/watch?v=KPELRl6y7vY",
+    "s": "yt",
+    "o": "Sinead Bovell"
+   },
+   {
     "d": "2026-11-20",
     "t": "Are we Creating Alien Beings? - Geoffrey Hinton",
     "u": "https://www.youtube.com/watch?v=JVuSYB9iqwo",
     "s": "yt",
     "o": "CUPS - Cambridge University Physics Society"
-   },
-   {
-    "d": "2026-11-14",
-    "t": "Geoffrey Hinton | Full Episode 11.13.26 | Firing Line with Margaret Hoover | PBS",
-    "u": "https://www.youtube.com/watch?v=-NTpJs_coXo",
-    "s": "yt",
-    "o": "Firing Line with Margaret Hoover | PBS"
-   },
-   {
-    "d": "2026-11-11",
-    "t": "\"This Is The Worst AI You Will Ever See.\" (Geoffrey Hinton's Final Warning)",
-    "u": "https://www.youtube.com/watch?v=S6SpKXD_WIo",
-    "s": "yt",
-    "o": "AI Abyss"
    }
   ],
   "note": "個人ブログなし。X投稿のみ。",
@@ -337,6 +337,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-25",
+    "t": "Kevin Coyne: From a troubled youth to building a global business | Shift Happens with Richard Sutton",
+    "u": "https://www.youtube.com/watch?v=IzKNiCQJEOU",
+    "s": "yt",
+    "o": "Shift Happens Podcast with Richard Sutton"
+   },
+   {
     "d": "2026-11-11",
     "t": "Indie Creator Spotlight - Richard Sutton | Comic Book Corner (Video Version)",
     "u": "https://www.youtube.com/watch?v=-Zvudr-7x94",
@@ -347,13 +354,6 @@
     "d": "2026-10-12",
     "t": "The Giant Intruder of Sin - Richard Sutton  - 10/11/2026",
     "u": "https://www.youtube.com/watch?v=LhMgK_epf5c",
-    "s": "yt",
-    "o": "Linder Road Church of Christ"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Sunday Evening Service  Richard Sutton - 10/11/2026",
-    "u": "https://www.youtube.com/watch?v=4X2K8a71zCM",
     "s": "yt",
     "o": "Linder Road Church of Christ"
    }
@@ -925,6 +925,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-23",
+    "t": "Sam Altman, Dario Amodei & Yoshua Bengio Warn UN Security Council of Catastrophic AI Risks",
+    "u": "https://www.youtube.com/watch?v=5R7FTecLbo0",
+    "s": "yt",
+    "o": "ET Now World"
+   },
+   {
     "d": "2026-11-20",
     "t": "🔴ANTHROPIC'S WALL STREET DEBUT LIVE: ANTHROPIC MEGA IPO Listing | Dario Amodei | N18G",
     "u": "https://www.youtube.com/watch?v=tZsHG1H_1bk",
@@ -937,13 +944,6 @@
     "u": "https://www.youtube.com/watch?v=jjmSkAkShjA",
     "s": "yt",
     "o": "Forbes Breaking News"
-   },
-   {
-    "d": "2026-11-18",
-    "t": "Dario Amodei WARNS: You Have No Idea What's Coming In 18 Months",
-    "u": "https://www.youtube.com/watch?v=9RFrkPyPysQ",
-    "s": "yt",
-    "o": "Library Of Wealth"
    }
   ],
   "note": "エッセイの日付はページ上で月単位表記。",
@@ -1330,6 +1330,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "Faith in the Stiller of Waters | Pastor Mark Chen | Exo 13:17–14:31",
+    "u": "https://www.youtube.com/watch?v=6rOo7DC4QBU",
+    "s": "yt",
+    "o": "Covenant Grace Church, Penang"
+   },
+   {
     "d": "2026-10-10",
     "t": "Strengthening the Faith of a Servant | Exodus 4:1-31 | Pastor Mark Chen",
     "u": "https://www.youtube.com/watch?v=4VPMGBUCSLw",
@@ -1342,13 +1349,6 @@
     "u": "https://www.youtube.com/watch?v=gXi2fPgsGJE",
     "s": "yt",
     "o": "Covenant Grace Church, Penang"
-   },
-   {
-    "d": "2026-09-25",
-    "t": "Mark Chen (陳皓圓): Quantum Reinforcement Learning (QRL) with QNNs | SQAI 2026",
-    "u": "https://www.youtube.com/watch?v=HYliOkXBtVg",
-    "s": "yt",
-    "o": "臺大量子應用社 NTU Quantum Club"
    }
   ],
   "note": "",
@@ -2760,6 +2760,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "How enterprises are really using AI agents | Matei Zaharia, Co-founder & CTO, Databricks",
+    "u": "https://www.youtube.com/watch?v=OvApv7RN8HQ",
+    "s": "yt",
+    "o": "Foundation Capital"
+   },
+   {
     "d": "2026-08-12",
     "t": "1st Spark: Big Data Scala, Matei Zaharia, Apache Spark",
     "u": "https://www.youtube.com/watch?v=ui7_Ot5OuKk",
@@ -2770,13 +2777,6 @@
     "d": "2026-08-11",
     "t": "1st Spark: Alexy Khrabrov opens the very first Apache Spark meetup in the world with Matei Zaharia",
     "u": "https://www.youtube.com/watch?v=gIq568JcnMs",
-    "s": "yt",
-    "o": "FunctionalTV"
-   },
-   {
-    "d": "2026-08-11",
-    "t": "1st Spark: Matei Zaharia gives the first talk about Apache Spark, hosted by Alexy Khrabrov",
-    "u": "https://www.youtube.com/watch?v=i2mrAdCGpfc",
     "s": "yt",
     "o": "FunctionalTV"
    }
@@ -2910,6 +2910,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-22",
+    "t": "Claude Code: 7 Tips From Its Creator (Boris Cherny)",
+    "u": "https://www.youtube.com/watch?v=zjIj6XP8RGM",
+    "s": "yt",
+    "o": "Ron Meijer"
+   },
+   {
     "d": "2026-10-06",
     "t": "Boris Cherny on Anthropic & Claude Code | Computer History Museum",
     "u": "https://www.youtube.com/watch?v=6AemxX9k0eU",
@@ -2920,13 +2927,6 @@
     "d": "2026-09-26",
     "t": "Anthropic's Boris Cherny, Creator of Claude Code Talks About AI's Past, Present, and Future",
     "u": "https://www.youtube.com/watch?v=djDt8J2_YVs",
-    "s": "yt",
-    "o": "Computer History Museum"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "In Conversation with Boris Cherny, Creator of Claude Code",
-    "u": "https://www.youtube.com/watch?v=9wr9HLraTbc",
     "s": "yt",
     "o": "Computer History Museum"
    }
@@ -3588,6 +3588,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-25",
+    "t": "Beyond Vibe Coding: 2-Minute Recap + Full Conversation | Amjad Masad",
+    "u": "https://www.youtube.com/watch?v=RBjlzTT6O6g",
+    "s": "yt",
+    "o": "First Principles & Strategy"
+   },
+   {
     "d": "2026-11-20",
     "t": "Amjad Masad On AI, Replit and the Rise of Kazakhstan",
     "u": "https://www.youtube.com/watch?v=7m1ncnoFre4",
@@ -3600,13 +3607,6 @@
     "u": "https://www.youtube.com/watch?v=UmAVl6wW1HY",
     "s": "yt",
     "o": "WeAreDevelopers"
-   },
-   {
-    "d": "2026-11-18",
-    "t": "From near-collapse to $9 billion: Replit’s Amjad Masad on riding the AI boom | Summit 2026",
-    "u": "https://www.youtube.com/watch?v=KTgRt6VQN9g",
-    "s": "yt",
-    "o": "Masters of Scale"
    }
   ],
   "note": "個人ブログ最新は2025-10-24。X日付は未確認。",
@@ -3732,6 +3732,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-24",
+    "t": "AI Expert: You’re Using AI Wrong (Here’s Where the REAL Money Is) | Guillermo Rauch",
+    "u": "https://www.youtube.com/watch?v=qO_dA52Z5e0",
+    "s": "yt",
+    "o": "BigDeal by Codie Sanchez "
+   },
+   {
     "d": "2026-11-18",
     "t": "Vercel CEO Guillermo Rauch on Building the Agentic Web",
     "u": "https://www.youtube.com/watch?v=jrO_w-paZRA",
@@ -3744,13 +3751,6 @@
     "u": "https://www.youtube.com/watch?v=CvVFPRupKl0",
     "s": "yt",
     "o": "Charles Cormier - Founder Wisdom Podcast"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "HUMAN VERIFIED 003: Guillermo Rauch (CEO of Vercel) on 6 kids, vacationing on Mars + Agents",
-    "u": "https://www.youtube.com/watch?v=Pd1zm71HXsU",
-    "s": "yt",
-    "o": "Humanagains"
    }
   ],
   "note": "個人サイト最新は2025-10-17。X日付は未確認。",
@@ -6292,15 +6292,15 @@
   "yt": [
    {
     "d": "2026-11-24",
-    "t": "“Bounty: Diverse hard tasks for LLM agents” by Beth Barnes, Megan Kinniment",
-    "u": "https://www.youtube.com/watch?v=OR9n3XNz614",
+    "t": "“The Rogue Replication Threat Model” by Josh Clymer, Hjalmar Wijk, Beth Barnes",
+    "u": "https://www.youtube.com/watch?v=EWyNK7TW-RY",
     "s": "yt",
     "o": "METR Narrations"
    },
    {
     "d": "2026-11-24",
-    "t": "“The Rogue Replication Threat Model” by Josh Clymer, Hjalmar Wijk, Beth Barnes",
-    "u": "https://www.youtube.com/watch?v=EWyNK7TW-RY",
+    "t": "“Bounty: Diverse hard tasks for LLM agents” by Beth Barnes, Megan Kinniment",
+    "u": "https://www.youtube.com/watch?v=OR9n3XNz614",
     "s": "yt",
     "o": "METR Narrations"
    },
