@@ -4518,21 +4518,21 @@
   "bio": "Djangoの共同作者で、現在はLLMを実際に使い倒した記録を毎日のように書き続けている。プロンプトインジェクションの危険性を早くから警告し、エージェントのセキュリティ議論を実務レベルに引き下げた。実装者にとって最も参照される一次情報源の一つ。",
   "own": [
    {
+    "d": "2026-11-27",
+    "t": "datasette-charts 0.4a0",
+    "u": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "datasette-mcp 0.4",
+    "u": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-26",
     "t": "Quoting Jack Despain Zhou",
     "u": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-26",
-    "t": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-    "u": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-26",
-    "t": "The New York Times warns photographers not to update Photoshop over AI features",
-    "u": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
     "s": "blog"
    }
   ],
