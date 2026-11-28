@@ -193,25 +193,25 @@
   ],
   "yt": [
    {
+    "d": "2026-11-26",
+    "t": "Yann LeCun et Mark Zuckerberg - LE CODE QUE TOUT LE MONDE PEUT LIRE Livre 6 - Partie 01",
+    "u": "https://www.youtube.com/watch?v=HsYEBnxYy5Y",
+    "s": "yt",
+    "o": "Ministry of Spark"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "Yann LeCun et Mark Zuckerberg - LE CODE QUE TOUT LE MONDE PEUT LIRE Livre 6 - Partie 02",
+    "u": "https://www.youtube.com/watch?v=C0WZtp6z9dA",
+    "s": "yt",
+    "o": "Ministry of Spark"
+   },
+   {
     "d": "2026-11-23",
     "t": "Yann LeCun's JEPA Just Hit the Limit of Offline AI (Here's What Comes Next)",
     "u": "https://www.youtube.com/watch?v=oaIgPi4OLcU",
     "s": "yt",
     "o": "Turing Post TV"
-   },
-   {
-    "d": "2026-11-19",
-    "t": "Yann LeCun, Co-Founder of AMI Labs [AI Founders Masterclass 2026 Session 5]",
-    "u": "https://www.youtube.com/watch?v=WRc1nOEPcsk",
-    "s": "yt",
-    "o": "Radical Ventures"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "AI Memorized the Internet. That's Not Intelligence. | Yann LeCun",
-    "u": "https://www.youtube.com/watch?v=HjKRaty1dU4",
-    "s": "yt",
-    "o": "Futurology"
    }
   ],
   "note": "AMI Labs公式ブログの本人記事は確認できず。",
@@ -625,6 +625,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-23",
+    "t": "IA General . Demis Hassabis (Ex CEO de Google DeepMind) en Cambridge.",
+    "u": "https://www.youtube.com/watch?v=EKf_xuf3oXw",
+    "s": "yt",
+    "o": "pablock"
+   },
+   {
     "d": "2026-11-10",
     "t": "Demis Hassabis",
     "u": "https://www.youtube.com/watch?v=H37gnM43rhA",
@@ -637,13 +644,6 @@
     "u": "https://www.youtube.com/watch?v=WgeapIERD6k",
     "s": "yt",
     "o": "Sony AK"
-   },
-   {
-    "d": "2026-11-05",
-    "t": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
-    "u": "https://www.youtube.com/watch?v=x7Z_1miRWB8",
-    "s": "yt",
-    "o": "Masters of Scale"
    }
   ],
   "note": "",
@@ -4561,6 +4561,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-26",
+    "t": "Simon Willison -- Three Moments in a Year When AI Coding Got Much Better",
+    "u": "https://www.youtube.com/watch?v=-tbA8dlZocA",
+    "s": "yt",
+    "o": "AI Papers Podcast Daily"
+   },
+   {
     "d": "2026-11-18",
     "t": "Simon Willison: AI Agents Made Me More Productive. So Why Am I Working Harder?",
     "u": "https://www.youtube.com/watch?v=9C8JZTmpbE4",
@@ -4573,13 +4580,6 @@
     "u": "https://www.youtube.com/watch?v=oUChGZiTOq8",
     "s": "yt",
     "o": "아프니까 개발자다"
-   },
-   {
-    "d": "2026-08-14",
-    "t": "How AI is changing software development with Simon Willison | Talking Postgres Ep42",
-    "u": "https://www.youtube.com/watch?v=IrHaLMO96jg",
-    "s": "yt",
-    "o": "Citus Data"
    }
   ],
   "note": "ほぼ毎日更新。今回の100名で最も発信頻度が高い。",
